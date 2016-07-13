@@ -489,6 +489,8 @@
 
 [![pernicioso_circulo_carnicas](images/pernicioso_circulo_carnicas.png)](http://www.genbetadev.com/modelos-de-negocio/el-pernicioso-circulo-vicioso-de-las-carnicas-los-que-pagan-los-clientes)
 
+![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)
+
 [![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
 
 <div class="container">
@@ -506,8 +508,12 @@
 
 [![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
 
+![The-Wolf-of-Wall-Street-was-legal](images/The-Wolf-of-Wall-Street-was-legal.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El monstruo en que se han convertido en España las consultoras / cárnicas. Buen análisis <a href="https://twitter.com/david_bonilla">@david_bonilla</a> ! <a href="https://t.co/6SXccLJtb8">https://t.co/6SXccLJtb8</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/729589515606732800">9 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![The-Wolf-of-Wall-Street_get_job_mcdonals](images/The-Wolf-of-Wall-Street_get_job_mcdonals.png)
 
 ![find_products_for_your_customers](images/find_products_for_your_customers.jpg)
 

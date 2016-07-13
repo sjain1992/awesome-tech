@@ -10,6 +10,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/t0PL7Idxeb">https://t.co/t0PL7Idxeb</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747690426023415808">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![Glengarry-Glen-Ross_youre_weak](images/Glengarry-Glen-Ross_youre_weak.gif)
+
 # Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
 - [Addicted to success](http://addicted2success.com)

@@ -5,6 +5,8 @@
 
 <!-- /MarkdownTOC -->
 
+![The-Philadelphia-Story-hello-friends-enemies](images/The-Philadelphia-Story-hello-friends-enemies.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">^^ <a href="https://t.co/wHyUrJlqVS">pic.twitter.com/wHyUrJlqVS</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/706102689416011776">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;I choose rich every fucking time!&quot; <a href="https://t.co/qkq5JHGwMW">https://t.co/qkq5JHGwMW</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/654310927949541376">14 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -16,6 +18,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+![meryl_streep_bullshit](images/meryl_streep_bullshit.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNrG5lD2zmQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -120,6 +124,8 @@
 </div>
 <br>
 
+![kill_bill_got_everything_else_to_say](images/kill_bill_got_everything_else_to_say.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BGX4nMrnxg0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -156,6 +162,8 @@
 </div>
 <br/>
 
+![killbill_except_you_sofie](images/killbill_except_you_sofie.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KCsELZYYRo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -179,6 +187,8 @@
 </div>
 <br/>
 
+![Robin-Hood-Men-in-Tights_bad_news_good_way](images/Robin-Hood-Men-in-Tights_bad_news_good_way.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDVkxsaLews?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -188,6 +198,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RgMhJh5fXbw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![trading_places_nightmare](images/trading_places_nightmare.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6E2z-1Mi6Zo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -199,10 +211,14 @@
 </div>
 <br/>
 
+![trading_places_shoot_them](images/trading_places_shoot_them.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ua1LmjULtg4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![trading_places_why_not](images/trading_places_why_not.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SajyRLLWzy0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

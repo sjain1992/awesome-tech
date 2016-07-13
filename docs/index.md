@@ -187,9 +187,13 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 ![marla](images/marla.gif)
 
+![moneyball_adapt_or_die](images/moneyball_adapt_or_die.gif)
+
 [![dilbert_consultant_cloud](images/dilbert_consultant_cloud.png)](http://dilbert.com/strip/2011-01-07)
 
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
+
+![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9d500RXYCcA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -205,6 +209,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
@@ -231,6 +237,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -242,12 +250,16 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y60wDzZt8yg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
+
+![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)
 
 [![handicaps_sistema_economico_espanol](images/handicaps_sistema_economico_espanol.png)](http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html)
 

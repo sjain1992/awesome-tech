@@ -8,6 +8,8 @@
 
 <!-- /MarkdownTOC -->
 
+![Boiler-Room-happiness](images/Boiler-Room-happiness.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -54,6 +56,8 @@
 
 ![align_with_people_who_fit_your_destiny](images/align_with_people_who_fit_your_destiny.jpg)
 
+![The-Wolf-of-Wall-Street_turned_billonaire](images/The-Wolf-of-Wall-Street_turned_billonaire.gif)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rQKis2Cfpeo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -71,6 +75,8 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mas candidatos que oferta en empleo TIC <a href="https://twitter.com/ticjob">@ticjob</a><a href="https://t.co/W4Rus6i0bd">https://t.co/W4Rus6i0bd</a></p>&mdash; ComputerWorld España (@ComputerworldES) <a href="https://twitter.com/ComputerworldES/status/751432003006832640">8 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Bruce_leo_dicaprio](images/Bruce_leo_dicaprio.gif)
 
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
@@ -195,6 +201,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+![Glengarry-Glen-Ross_when_you_die_regret](images/Glengarry-Glen-Ross_when_you_die_regret.gif)
 
 <div class="container">
 <iframe src='//players.brightcove.net/1352575774/dd8fb2f1-e284-4dfb-99b1-bc0b1171a8ca_default/index.html?videoId=4842094814001' allowfullscreen frameborder=0 class="video"></iframe>

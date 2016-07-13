@@ -4,6 +4,8 @@
 
 <!-- /MarkdownTOC -->
 
+![Glengarry-Glen-Ross_bmw_thats_my_name](images/Glengarry-Glen-Ross_bmw_thats_my_name.gif)
+
 # Leadership Styles Around the World
 - [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 - [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)

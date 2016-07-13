@@ -37,6 +37,8 @@
 
 [![history_of_cloud](images/history_of_cloud.png)](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
 
+![Robin-Hood-Men-in-Tights-not-supposed-to-lose](images/Robin-Hood-Men-in-Tights-not-supposed-to-lose.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why did the Cloud happen? In part because Moore&#39;s Law made computers much cheaper than developers. <a href="https://t.co/Cu1EEdWgKT">https://t.co/Cu1EEdWgKT</a> <a href="https://twitter.com/hashtag/2MA?src=hash">#2MA</a></p>&mdash; Andrew McAfee (@amcafee) <a href="https://twitter.com/amcafee/status/750769291549609985">6 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
