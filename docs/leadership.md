@@ -57,6 +57,11 @@
 
 [![forbes_your_boss_lies](images/forbes_your_boss_lies.png)](http://www.forbes.com/sites/dailymuse/2014/10/01/what-to-do-when-your-boss-lies/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3sI-Gm0l60?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 [![david_marquet_2500_years_old_idea](images/david_marquet_2500_years_old_idea.png)](https://www.linkedin.com/pulse/use-2500-year-old-idea-build-great-culture-l-david-marquet)
