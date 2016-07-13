@@ -361,6 +361,7 @@
 	- [blog.jobsbcn.com](http://blog.jobsbcn.com)
 		- [On IT recruiters](http://blog.jobsbcn.com/index.php/2015/12/29/on-it-recruiters/)
 		- [Stock Options in Startups – A scam or something worth a shot?](http://blog.jobsbcn.com/index.php/2016/01/13/stock-options-startups-scam-something-worth-shot/)
+- [jobfluent.com 🌟🌟🌟](http://www.jobfluent.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba.com startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
@@ -370,6 +371,8 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 - [The rise of LinkedIn fraud 🌟](http://www.csoonline.com/article/3036072/social-networking/the-rise-of-linkedin-fraud.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We are happy to announce that JobsBCN is merging with <a href="https://twitter.com/JobFluent">@JobFluent</a> seeking european expansion. <a href="https://t.co/cdqaVyRcCb">https://t.co/cdqaVyRcCb</a> <a href="https://t.co/bMAwApJMhC">pic.twitter.com/bMAwApJMhC</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/753164497142046720">13 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![bi_happiest_countries](images/bi_happiest_countries.png)](http://www.businessinsider.com/new-world-happiness-report-2016)
 

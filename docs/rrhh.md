@@ -42,6 +42,7 @@
 - [¿Qué es un job hopper y por qué es tan valorado por las empresas? 🌟🌟](http://blog.infoempleo.com/a/que-es-un-job-hopper-y-por-que-es-tan-valorado-por-las-empresas/)
 - [blog.binternational.net: Los españoles apuestan por la movilidad internacional 🌟](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 - [Soy programador y tengo 50 años 🌟🌟](http://m.xataka.com/aplicaciones/soy-programador-y-tengo-50-anos)
+- [Las 10 mejores frases de ‘El lobo de Wall Street’ aplicadas al mundo empresarial](http://blog.nubelo.com/las-mejores-frases-lobo-wall-street-aplicadas-mundo-empresarial/)
 
 [![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
 

@@ -54,6 +54,8 @@
 
 [![dzone_refcard_azure_cloud](images/dzone_refcard_azure_cloud.png)](https://dzone.com/refcardz/cloud-computing-windows-azure)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Kubernetes Autoscaling is no doubt going to save A LOT of money around different companies <a href="https://t.co/giXSg254Fl">https://t.co/giXSg254Fl</a> <a href="https://twitter.com/hashtag/kubernetes?src=hash">#kubernetes</a> <a href="https://twitter.com/hashtag/winning?src=hash">#winning</a></p>&mdash; Kevin Simper (@kevinsimper) <a href="https://twitter.com/kevinsimper/status/753002602653184000">12 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)
@@ -316,6 +318,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hS2h-e-EJfA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VxaTfjeijt">https://t.co/VxaTfjeijt</a>? <a href="https://t.co/HU9IYpBxRa">pic.twitter.com/HU9IYpBxRa</a></p>&mdash; Mike G Chambers (@mikegchambers) <a href="https://twitter.com/mikegchambers/status/753275729035616258">13 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Google Cloud
 - [googlecloudplatform.blogspot.com](http://googlecloudplatform.blogspot.com)

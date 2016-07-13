@@ -203,6 +203,7 @@
 - [ZDNet: Red Hat Enterprise Linux 6.8 has landed 🌟](http://www.zdnet.com/article/red-hat-enterprise-linux-6-8-has-landed/)
 - [eweek.com: Red Hat Enterprise Linux 7.2 Adds Security, DR Features 🌟🌟🌟](http://www.eweek.com/enterprise-apps/red-hat-enterprise-linux-7.2-adds-security-dr-features.html)
 - [forbes.com: Red Hat Wants To Repeat The Magic of Linux With Containers 🌟🌟🌟](http://www.forbes.com/sites/janakirammsv/2016/07/05/red-hat-wants-to-repeat-the-magic-of-linux-with-containers/)
+- [New RHEL 7.1 Features Ease Business and IT Adoption 🌟🌟🌟](https://www.globalknowledge.com/us-en/resources/resource-library/white-papers/new-rhel-71-features-ease-business-and-it-adoption/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How To Install EPEL Repo on a CentOS and RHEL 7.x: <a href="https://t.co/FOuvWafDjj">https://t.co/FOuvWafDjj</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a></p>&mdash; Brian Reynolds (@breynoldz) <a href="https://twitter.com/breynoldz/status/709488307823058945">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

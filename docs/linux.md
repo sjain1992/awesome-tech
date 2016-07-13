@@ -427,6 +427,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/X0AftEPdJR">https://t.co/X0AftEPdJR</a> <a href="https://t.co/dI97HTZMsQ">https://t.co/dI97HTZMsQ</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/748140962250108928">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Another case: All the main distors moved to systemd to get rid of old rc scripts and yet we use this? Why? ¯\_(ツ)_/¯ <a href="https://t.co/WYBsgsmOf8">pic.twitter.com/WYBsgsmOf8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753271323791503361">13 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Reduce gif file size from CLI:<br><br>convert input.gif -fuzz 5% -layers Optimize out.gif <br><br>Adjust 5% value to get better result. <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753282734148100096">13 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 
@@ -653,7 +658,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To see bridge info on <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a>:<br>brctl show<br><br>On <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> use:<br>ifconfig bridge0 | grep member<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/DyjxjoSm6Q">pic.twitter.com/DyjxjoSm6Q</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/749923194245525504">4 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How To Setup Bonded (bond0) and Bridged (br0) Networking On Ubuntu Linux Server <a href="https://t.co/fOS0qFYIj1">https://t.co/fOS0qFYIj1</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/w9VUbR0yhy">pic.twitter.com/w9VUbR0yhy</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753264687353991168">13 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[Updated] Ubuntu Linux Add Static IPv6 Address Network Configuration <a href="https://t.co/wGS2Fj6kOQ">https://t.co/wGS2Fj6kOQ</a><a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Rfy8IvmxwN">pic.twitter.com/Rfy8IvmxwN</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/750392448975679488">5 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ping - ipv4<br>ping6 - ipv6<br>iptables - ipv4<br>ip6tables - Why? Why not name it as iptables6 too? Who makes such bad decisions?</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753267593721450496">13 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">

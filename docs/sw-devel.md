@@ -78,6 +78,8 @@
 
 [![bextlan_twitter](images/bextlan_twitter.png)](https://twitter.com/bextlan)
 
+![10_reasons_to_date_programmer](images/10_reasons_to_date_programmer.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">And so it begins <a href="https://twitter.com/RedHatSummit">@RedHatSummit</a>! Microsoft .net core supported on rhel and <a href="https://twitter.com/openshift">@openshift</a> via <a href="https://twitter.com/TechCrunch">@TechCrunch</a> ! <a href="https://t.co/Icr0Rsy0aM">https://t.co/Icr0Rsy0aM</a></p>&mdash; Ashesh Badani (@asheshbadani) <a href="https://twitter.com/asheshbadani/status/747484022343929857">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
