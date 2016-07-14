@@ -55,7 +55,7 @@
 
 <center>
 
-|[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)|[![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)|[![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)|
+|[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)|[![BoomerangeEmployees](images/BoomerangeEmployees.png)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)|[![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)|
 |:---:|:---:|:---:|
 
 </center>
