@@ -288,7 +288,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 [![barry-lyndon-1975](images/barry-lyndon-1975.jpg)](https://www.youtube.com/watch?v=XjPSGuJskxM)
 
-![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)
+[![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)](https://www.youtube.com/watch?v=0n02lrQ_5Vo)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qN-HQlfF5o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
