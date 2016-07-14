@@ -19,8 +19,6 @@
 </div>
 <br>
 
-![meryl_streep_bullshit](images/meryl_streep_bullshit.gif)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNrG5lD2zmQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
