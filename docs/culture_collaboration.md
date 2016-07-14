@@ -131,6 +131,8 @@
 
 ![dilbert_disdain](images/dilbert_disdain.gif)
 
+![gladiator_if_we_work_together](images/gladiator_if_we_work_together.jpg)
+
 ![professional_title_does_not_define_you](images/professional_title_does_not_define_you.png)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Empleado obediente, empleado feliz? <a href="https://t.co/cmLa4B1NFO">https://t.co/cmLa4B1NFO</a> vía <a href="https://twitter.com/balcon40">@balcon40</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/751524871688052736">8 de julio de 2016</a></blockquote>

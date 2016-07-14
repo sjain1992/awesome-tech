@@ -1,3 +1,11 @@
+<!-- MarkdownTOC -->
+
+- [Motivational videos](#motivational-videos)
+
+<!-- /MarkdownTOC -->
+
+[![gladiator_what_we_do_in_life](images/gladiator_what_we_do_in_life.gif)](https://www.youtube.com/watch?v=owK1qxDselE)
+
 # Motivational videos
 
 <div class="container">

@@ -256,6 +256,8 @@
 - [Management by intimidation will just not work](http://gulfnews.com/business/analysis/management-by-intimidation-will-just-not-work-1.1312175) Those who work within a culture that is intimidating will never give of their best
 - [The Best Antidote for Intimidation is to Intimidate the Intimidator](http://bobmaconbusiness.com/?p=4961)
 
+[![gladiator_are_you_not_entertained](images/gladiator_are_you_not_entertained.gif)](https://www.youtube.com/watch?v=owK1qxDselE)
+
 [![dilbert_rehired_as_ceo](images/dilbert_rehired_as_ceo.png)](http://dilbert.com/strip/2014-11-21)
 
 <div class="container">
