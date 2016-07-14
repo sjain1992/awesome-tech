@@ -100,6 +100,11 @@
 
 [![paradigmadigital_blog_aws](images/paradigmadigital_blog_aws.png)](https://www.paradigmadigital.com/dev/devops-microservicios-autoescalado-desarrollo-apps-las-claves-del-exito-amazon/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/thiAjdh_TvQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
