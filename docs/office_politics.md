@@ -53,11 +53,12 @@
 
 [![dilbert_office_relocation](images/dilbert_office_relocation.png)](http://dilbert.com/strip/2011-02-18)
 
-[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)
+<center>
 
-[![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)
+|[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)|[![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)|[![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)|
+|:---:|:---:|:---:|
 
-[![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
+</center>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BewPEptZehw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
