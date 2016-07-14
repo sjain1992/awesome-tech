@@ -75,6 +75,8 @@
 
 [![el riesgo de estar fichado](images/el_riesgo_de_estar_fichado.png)](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2015/11/30/565c96beca47418a6f8b45ab.html)
 
+![The-Wolf-of-Wall-Street-was-legal](images/The-Wolf-of-Wall-Street-was-legal.gif)
+
 [![lo de las listas negras](images/lo_de_las_listas_negras.png)](http://laboro-spain.blogspot.com.es/2011/01/subofertas-de-subempleo-con-subsalario.html)
 
 <p align="center">

@@ -237,7 +237,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)
+|![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)|![lions_for_lambs_better_to_have_tried_2](images/lions_for_lambs_better_to_have_tried_2.gif)|![lions_for_lambs_better_to_have_tried_3](images/lions_for_lambs_better_to_have_tried_3.gif)|![lions_for_lambs_better_to_have_tried_4](images/lions_for_lambs_better_to_have_tried_4.gif)|
+|:---:|:---:|:---:|:---:|
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -249,8 +250,6 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y60wDzZt8yg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -274,6 +273,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp79HDViQ9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qN-HQlfF5o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

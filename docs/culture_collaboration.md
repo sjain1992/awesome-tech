@@ -91,6 +91,8 @@
 
 [![accenture_care_of_people_at_work_family](images/accenture_care_of_people_at_work_family.png)](https://www.accenture.com/us-en/company-diversity-workforce)
 
+![wall_street_get_a_dog](images/wall_street_get_a_dog.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Maria Sharapova receives two-year suspension from tennis for failed drug test <a href="https://t.co/JVWuQMc9jp">https://t.co/JVWuQMc9jp</a> <a href="https://t.co/ccfi4kmjXl">pic.twitter.com/ccfi4kmjXl</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/740560273895985152">8 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -143,6 +145,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hSoK6TTGrYXjje" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/how-to-be-happy-at-work-10-simple-tips-that-work" title="How to Be Happy at Work - 10 Simple Tips That Work" target="_blank">How to Be Happy at Work - 10 Simple Tips That Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
 </div>
 <br/>
+
+![tyler-durden-fight-club-rule](images/tyler-durden-fight-club-rule.jpg)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IQkukxYFL4fH6l" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/difference-betweenbossvsleader" title="13 Personality Traits Of A Horrible Employee" target="_blank">13 Personality Traits Of A Horrible Employee</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>

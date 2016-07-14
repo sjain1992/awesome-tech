@@ -23,6 +23,8 @@
 
 [![dilbert_needs_training](images/dilbert_needs_training.gif)](http://dilbert.com/strip/2010-04-02)
 
+![lions_for_lambs_youre_adult](images/lions_for_lambs_youre_adult.gif)
+
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
