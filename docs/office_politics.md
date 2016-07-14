@@ -65,11 +65,13 @@
 </div>
 <br>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">STLtoday: Why more employees are going back to their old jobs <a href="http://t.co/cl1sYHcB7Y">http://t.co/cl1sYHcB7Y</a></p>&mdash; St. Louis News (@stlnews) <a href="https://twitter.com/stlnews/status/638781914564927489">1 de septiembre de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why more employees are going back to their old jobs <a href="http://t.co/dqLO0RuNQe">http://t.co/dqLO0RuNQe</a></p>&mdash; Livemint (@livemint) <a href="https://twitter.com/livemint/status/638926384967122944">2 de septiembre de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+|<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">STLtoday: Why more employees are going back to their old jobs <a href="http://t.co/cl1sYHcB7Y">http://t.co/cl1sYHcB7Y</a></p>&mdash; St. Louis News (@stlnews) <a href="https://twitter.com/stlnews/status/638781914564927489">1 de septiembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>|<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why more employees are going back to their old jobs <a href="http://t.co/dqLO0RuNQe">http://t.co/dqLO0RuNQe</a></p>&mdash; Livemint (@livemint) <a href="https://twitter.com/livemint/status/638926384967122944">2 de septiembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>|
+|:---:|:---:|
+
+</center>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDphVJS9Aos?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
