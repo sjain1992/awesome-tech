@@ -62,6 +62,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Estonia, el país tecnológicamente más avanzado del mundo. Cualquier trámite administrativo puede hacerse en 5 min. <a href="https://t.co/uCjBiQZTGS">https://t.co/uCjBiQZTGS</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/752232240164274176">10 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nO4Oj3ybxDM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

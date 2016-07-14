@@ -142,6 +142,8 @@
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
+[![bi_why_are_you_leaving_your_current_job](images/bi_why_are_you_leaving_your_current_job.png)](http://www.businessinsider.com/hiring-managers-ask-why-you-are-leaving-job-2016-7)
+
 [![bi_interview_question_about_money_is_trap](images/bi_interview_question_about_money_is_trap.png)](http://www.businessinsider.com/never-directly-answer-a-salary-question-2016-6)
 
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)

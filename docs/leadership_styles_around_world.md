@@ -6,6 +6,9 @@
 
 ![Glengarry-Glen-Ross_bmw_thats_my_name](images/Glengarry-Glen-Ross_bmw_thats_my_name.gif)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Stanley Kubrick’s Barry Lyndon: ‘It puts a spell on people’ <a href="https://t.co/JiWohzkb98">https://t.co/JiWohzkb98</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/753648926910210053">14 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Leadership Styles Around the World
 - [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 - [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)
@@ -87,6 +90,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How all the biggest tech companies are organized, by <a href="https://twitter.com/hashtag/ManuCornet?src=hash">#ManuCornet</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> <a href="https://twitter.com/hashtag/Tech?src=hash">#Tech</a> <a href="https://twitter.com/hashtag/happyfriday?src=hash">#happyfriday</a> ;) <a href="https://t.co/L7D9XOYduE">pic.twitter.com/L7D9XOYduE</a></p>&mdash; Global Knowledge ESP (@GK_Spain) <a href="https://twitter.com/GK_Spain/status/746291104883015681">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARKtsemA_qI?list=PLnHwGAahn_WIWTmzCZPMBb6DHpdws9DRs" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![leadership_styles](images/leadership_styles.png)](http://leadership.org.au/resources/leadership-models-tools/)
 

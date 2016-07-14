@@ -26,6 +26,16 @@
 
 [![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/woO1Cs6c-oo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/D6ouyeycWk8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 # Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
@@ -46,11 +56,6 @@
 [![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)
 
 [![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/D6ouyeycWk8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
 
 [![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
 

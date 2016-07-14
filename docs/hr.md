@@ -266,7 +266,12 @@
 - [24 signs nobody trusts you at work](http://www.businessinsider.com/signs-your-coworkers-dont-trust-you-2016-5)
 - [How to deal with 7 terrible work situations 🌟🌟](http://www.businessinsider.com/how-to-deal-with-7-terrible-work-situations-2016-6)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![marla_two_sides](images/marla_two_sides.gif)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/M09sPPgswr">https://t.co/M09sPPgswr</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753648466170175488">14 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/dq8PmIrUlF">https://t.co/dq8PmIrUlF</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/753009147730329601">12 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
