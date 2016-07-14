@@ -154,7 +154,7 @@
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XjPSGuJskxM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjPSGuJskxM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
