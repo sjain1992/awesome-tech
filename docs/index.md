@@ -251,6 +251,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/JHgpqUGw0T">https://t.co/JHgpqUGw0T</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753692481762492416">14 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/nMDlDBiFic">https://t.co/nMDlDBiFic</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750796644346654720">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/E3DKzC8bIT">https://t.co/E3DKzC8bIT</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750797072845209604">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -270,6 +273,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 [![handicaps_sistema_economico_espanol](images/handicaps_sistema_economico_espanol.png)](http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html)
 
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
+
+![trading_places_brokers](images/trading_places_brokers.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
