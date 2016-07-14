@@ -238,7 +238,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)|![lions_for_lambs_better_to_have_tried_2](images/lions_for_lambs_better_to_have_tried_2.gif)|
-:---:|:---:|
+|:---:|:---:|
+
 |![lions_for_lambs_better_to_have_tried_3](images/lions_for_lambs_better_to_have_tried_3.gif)|![lions_for_lambs_better_to_have_tried_4](images/lions_for_lambs_better_to_have_tried_4.gif)|
 |:---:|:---:|
 
