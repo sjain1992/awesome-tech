@@ -237,13 +237,11 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p align="center">
 |![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)|![lions_for_lambs_better_to_have_tried_2](images/lions_for_lambs_better_to_have_tried_2.gif)|
 |:---:|:---:|
 
 |![lions_for_lambs_better_to_have_tried_3](images/lions_for_lambs_better_to_have_tried_3.gif)|![lions_for_lambs_better_to_have_tried_4](images/lions_for_lambs_better_to_have_tried_4.gif)|
 |:---:|:---:|
-</p>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
