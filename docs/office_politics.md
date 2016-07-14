@@ -216,14 +216,15 @@
 </div>
 <br/>
 
-![trading_places_shoot_them](images/trading_places_shoot_them.gif)
+<center>
+|![trading_places_shoot_them](images/trading_places_shoot_them.gif)|![trading_places_why_not](images/trading_places_why_not.gif)|
+|:---:|:---:|
+</center>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ua1LmjULtg4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-![trading_places_why_not](images/trading_places_why_not.gif)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SajyRLLWzy0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
