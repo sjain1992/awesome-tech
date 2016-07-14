@@ -274,7 +274,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
 
-![trading_places_brokers](images/trading_places_brokers.gif)
+[![trading_places_brokers](images/trading_places_brokers.gif)](https://www.youtube.com/watch?v=ZjDbJQKDXCY)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -286,7 +286,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </div>
 <br/>
 
-![barry-lyndon-1975](images/barry-lyndon-1975.jpg)
+[![barry-lyndon-1975](images/barry-lyndon-1975.jpg)](https://www.youtube.com/watch?v=XjPSGuJskxM)
 
 ![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)
 
