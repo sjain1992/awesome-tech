@@ -222,8 +222,10 @@
 <br/>
 
 <center>
+
 |![trading_places_shoot_them](images/trading_places_shoot_them.gif)|![trading_places_why_not](images/trading_places_why_not.gif)|
 |:---:|:---:|
+
 </center>
 
 <div class="container">
