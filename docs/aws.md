@@ -14,6 +14,7 @@
     - [AWS re:Invent 2015](#aws-reinvent-2015)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
     - [AWS tips. AWS Performance. Handling AWS Failures and Outages](#aws-tips-aws-performance-handling-aws-failures-and-outages)
+    - [AWS Clients](#aws-clients)
     - [AWS New Features](#aws-new-features)
     - [AWS Management Console](#aws-management-console)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
@@ -104,6 +105,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/thiAjdh_TvQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We hope you had a great time during <a href="https://twitter.com/hashtag/AWSSummit?src=hash">#AWSSummit</a>! Decks (<a href="https://t.co/DyRrZFP8eW">https://t.co/DyRrZFP8eW</a>) &amp; videos (<a href="https://t.co/N6YDXzBoOL">https://t.co/N6YDXzBoOL</a>) will be posted shortly!</p>&mdash; AWS Summits (@AWSSummits) <a href="https://twitter.com/AWSSummits/status/753408684349231104">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
@@ -208,6 +211,14 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+## AWS Clients
+- [Trainline.com dumps Oracle and Microsoft, gulps AWS Kool-Aid 🌟🌟🌟](http://www.theregister.co.uk/2016/07/13/trainline_dumps_oracle_microsoft_goes_full_aws_cto_interview/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HvuOyGYWk7s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -321,6 +332,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46PRLMW8otg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xt8QA2HccNI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
