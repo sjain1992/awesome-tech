@@ -88,6 +88,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 	- [Python](python.md)
 	- [Static Site Generators 🌟🌟](staticsitegen.md)
 11. [QA and Testing 🌟🌟🌟](qa.md)
+    - [Application Security Testing 🌟](app_sec_testing.md)
     - [Testing Tools 🌟🌟](qa_tools.md)
     - [Performance Testing Tools. JMeter, Webpagetest, Taurus, Gatling](webperftesting.md)
 	- [Scalability and Reliability 🌟](scalability.md)
