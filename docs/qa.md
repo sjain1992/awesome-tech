@@ -233,6 +233,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/33MLQiQZv9LIS0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ravikumarpurbey/web-application-security-testing-61783057" title="Web Application Security testing" target="_blank">Web Application Security testing</a> </strong> de <strong><a href="//www.slideshare.net/ravikumarpurbey" target="_blank">Ravi kumar Purbey</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kVy7vEplIZykO5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/capgemini/improve-the-security-of-your-application-portfolio-in-a-few-days-with-ondemand-testing-services" title="Improve the Security of Your Application Portfolio in a Few Days with On-Demand Testing Services" target="_blank">Improve the Security of Your Application Portfolio in a Few Days with On-Demand Testing Services</a> </strong> from <strong><a href="//www.slideshare.net/capgemini" target="_blank">Capgemini</a></strong> </div>
+</div>
+<br/>
+
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 - [New Breed of Testers with DevOps](https://www.capgemini.com/blog/capping-it-off/2015/08/new-breed-of-testers-with-devops)
