@@ -149,6 +149,7 @@
 - [5 Ways To Determine Corporate Culture 🌟🌟](http://www.careerealism.com/corporate-culture-determine/)
 - [Forbes: 25 Things Managers Do That Drive Their Employees Crazy 🌟🌟](http://www.forbes.com/sites/lizryan/2016/07/10/25-things-managers-do-that-drive-their-employees-crazy/)
 - [People Hate Micromanagers. Here Are 3 Tips to Not Being One](https://learning.linkedin.com/blog/learning-tips/people-hate-micromanagers--here-are-3-tips-to-not-being-one)
+- [Reasons Why The Other Guy (Or Gal) Got The Promotion](http://www.careerealism.com/promotion-other-guy-reasons/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
