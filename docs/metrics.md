@@ -31,6 +31,8 @@
 
 [![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
 
+[![Dzone_2016_performance_monitoring_guide](images/Dzone_2016_performance_monitoring_guide.png)](http://www.nastel.com/dzone-guide-to-performance-and-monitoring.html)
+
 [![dzone_latest_performance_refcards](images/dzone_latest_performance_refcards.png)](https://dzone.com/articles/latest-performance-refcardz)
 
 # Backend Server Monitoring and Alarm System
