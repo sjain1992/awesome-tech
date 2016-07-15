@@ -224,6 +224,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </div>
 <br/>
 
+![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qSSrTx1vjE?list=RD3qSSrTx1vjE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
