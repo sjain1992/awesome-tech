@@ -9,6 +9,7 @@
         - [Onion Model Testing](#onion-model-testing)
     - [TMAP](#tmap)
     - [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
+        - [Application Security Testing](#application-security-testing)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [Testing Tools](#testing-tools)
 
@@ -211,6 +212,24 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ROd-uXV3Ho?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+### Application Security Testing
+- [The Complete Web Application Security Testing Checklist ](http://www.slideshare.net/Cigital/the-complete-web-application-security-testing-checklist)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tj59CTXgXjHyct" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/deepusnath/web-application-security-testing-22603397" title="Web application security &amp; Testing" target="_blank">Web application security &amp; Testing</a> </strong> de <strong><a href="//www.slideshare.net/deepusnath" target="_blank">Deepu S Nath</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/J8EXfvA9BUYS9g" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/BjrnKimminich/web-application-security-21684264" title="Web Application Security" target="_blank">Web Application Security</a> </strong> de <strong><a href="//es.slideshare.net/BjrnKimminich" target="_blank">Björn Kimminich</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/a5tVJVwAGfYbh1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alankan1/100216-tpn-security-testing" title="Get Ready for Web Application Security Testing" target="_blank">Get Ready for Web Application Security Testing</a> </strong> from <strong><a href="//www.slideshare.net/alankan1" target="_blank">Alan Kan</a></strong> </div>
 </div>
 <br/>
 
