@@ -126,6 +126,10 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet) | [![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia) |[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup) |  [![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)  | [![javiergarzas](images/javiergarzas.jpg)](https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg)|  [![chemaalonso](images/chemaalonso.jpg)](https://www.youtube.com/c/malignoalonso)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![bolsamania_videos](images/bolsamania_videos.jpg)](https://www.youtube.com/user/bolsamaniaTV)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bolsatv](images/bolsatv.jpg)](https://www.youtube.com/channel/UC379hLqrhnGa0_pPeyc4ySg)|[![empty_youtube_channel](images/empty_youtube_channel.jpg)]()|
+[![empty_youtube_channel](images/empty_youtube_channel.jpg)]()|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![BI_Social_Profile](images/BI_Social_Profile.jpg)](https://www.youtube.com/user/businessinsider) |[![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)|[![entrepreneur_logo](images/entrepreneur_logo.jpg)](https://www.youtube.com/c/entrepreneur) | [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)| [![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld) |[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
