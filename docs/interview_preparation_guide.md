@@ -142,6 +142,8 @@
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
+[![11_Things_Top_Recruiters_Should_Tell_Candidates](images/11_Things_Top_Recruiters_Should_Tell_Candidates.png)](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2015/11-things-top-recruiters-should-tell-candidates)
+
 [![bi_why_are_you_leaving_your_current_job](images/bi_why_are_you_leaving_your_current_job.png)](http://www.businessinsider.com/hiring-managers-ask-why-you-are-leaving-job-2016-7)
 
 [![bi_interview_question_about_money_is_trap](images/bi_interview_question_about_money_is_trap.png)](http://www.businessinsider.com/never-directly-answer-a-salary-question-2016-6)
