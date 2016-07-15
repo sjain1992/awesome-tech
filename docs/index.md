@@ -156,6 +156,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 | [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|[![gartner_videos](images/gartner_videos.jpg)](https://www.youtube.com/user/Gartnervideo)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![skynews_live](images/skynews_live.jpg)](https://www.youtube.com/user/skynews)|[![france24_live](images/france24_live.jpg)](https://www.youtube.com/user/france24english)|[![reuters_live](images/reuters_live.jpg)](https://www.youtube.com/user/ReutersVideo)|[![euronews_videos](images/euronews_videos.jpg)](https://www.youtube.com/user/Euronews)|[![cnn_videos](images/cnn_videos.jpg)](https://www.youtube.com/user/CNN)|[![rt_live](images/rt_live.jpg)](https://www.youtube.com/user/RussiaToday)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![oasis_videos](images/oasis_videos.jpg)](https://www.youtube.com/oasis)|[![u2_videos](images/u2_videos.jpg)](https://www.youtube.com/user/U2VEVO)|[![mikeoldfield_videos](images/mikeoldfield_videos.jpg)](https://www.youtube.com/user/MikeOldfieldVEVO)|[![amywinehouse_videos](images/amywinehouse_videos.jpg)](https://www.youtube.com/user/AmyWinehouseVEVO)|[![adele_videos](images/adele_videos.jpg)](https://www.youtube.com/adele)|[![theverve_videos](images/theverve_videos.jpg)](https://www.youtube.com/channel/UCt2KxZpY5D__kapeQ8cauQw)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
