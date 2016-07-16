@@ -228,6 +228,11 @@
 - [Asociación española de profesionales en Holanda](http://profesionalesholanda.org)
 - [volvemos.org 🌟🌟🌟](http://www.volvemos.org)
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gwKEdFoUB0o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
 [!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">MLK 🙌 <a href="https://t.co/cmBvC6EMVi">pic.twitter.com/cmBvC6EMVi</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/703653452447096832">27 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
