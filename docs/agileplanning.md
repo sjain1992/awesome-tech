@@ -210,3 +210,8 @@
 - [Continuous Integration Tools](jenkins-git.md)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/68YcOcz8MM">pic.twitter.com/68YcOcz8MM</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/739101900856037376">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuvDToxhZO0?list=RDuuvDToxhZO0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
