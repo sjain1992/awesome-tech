@@ -10,6 +10,11 @@
     - [Continuous Integration Tools](#continuous-integration-tools)
 
 <!-- /MarkdownTOC -->
+<center>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7Nb42z8Qyb7M_uh_S2AImA/131735580276" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://my-twisted-code.tumblr.com/post/131735580276">http://my-twisted-code.tumblr.com/post/131735580276</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
+
+[![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
 
 # Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
@@ -38,8 +43,6 @@
 [![dzone_refcard_agile_adoption_decreasing_time_to_market](images/dzone_refcard_agile_adoption_decreasing_time_to_market.png)](https://dzone.com/refcardz/agile-adoption-decreasing-time)
 
 [![dzone_refcard_agile_adoption_reducing_cost](images/dzone_refcard_agile_adoption_reducing_cost.png)](https://dzone.com/refcardz/agile-adoption-reducing-cost)
-
-[![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
 
 ## Javier Garzas 
 - [slideshare: 233 grados de TI 🌟🌟🌟](http://www.slideshare.net/233gradosdeTI)
@@ -100,7 +103,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/ZnRN31hRt3">pic.twitter.com/ZnRN31hRt3</a></p>&mdash; Rainbow DashOps (@mattstratton) <a href="https://twitter.com/mattstratton/status/740233864887566336">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xrf0i_XPmm5oWp5icmI4JA/131683232219" data-did="1bd906eabfc838fb9ba4388bc874a3ed11cc2e63"><a href="http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile">http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Estimates <a href="https://t.co/w1XL7sM1P3">https://t.co/w1XL7sM1P3</a> <a href="https://twitter.com/hashtag/ProjectManagement?src=hash">#ProjectManagement</a> <a href="https://twitter.com/hashtag/webcomic?src=hash">#webcomic</a> <a href="https://twitter.com/hashtag/TimeEstimates?src=hash">#TimeEstimates</a> <a href="https://t.co/1vSpPvgN0R">pic.twitter.com/1vSpPvgN0R</a></p>&mdash; Don&#39;t Hit Save (@donthitsave) <a href="https://twitter.com/donthitsave/status/705854945103364097">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -151,8 +156,6 @@
 </div>
 <br/>
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7Nb42z8Qyb7M_uh_S2AImA/131735580276" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://my-twisted-code.tumblr.com/post/131735580276">http://my-twisted-code.tumblr.com/post/131735580276</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/5734B86up4wKLs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/projectcareer/top-14-project-management-interview-questions-and-answers-33073123" title="175 project management interview questions and answers pdf" target="_blank">175 project management interview questions and answers pdf</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/projectcareer">projectcareer</a></strong> </div>
 </div>
@@ -167,8 +170,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/I0egS4zlPJ1w78" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chuparkoff/introduction-to-jira-38474943" title="Introduction to JIRA &amp; Agile Project Management" target="_blank">Introduction to JIRA &amp; Agile Project Management</a> </strong> from <strong><a href="//www.slideshare.net/chuparkoff" target="_blank">Dan Chuparkoff</a></strong> </div>
 </div>
 <br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/68YcOcz8MM">pic.twitter.com/68YcOcz8MM</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/739101900856037376">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Who&#39;s in charge of Product Backlog <a href="https://twitter.com/hashtag/management?src=hash">#management</a>? What are some other challenges &amp;responsibilities of a <a href="https://twitter.com/hashtag/ProductOwner?src=hash">#ProductOwner</a>? <a href="https://t.co/VMLNWloQWq">https://t.co/VMLNWloQWq</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/748151086721142784">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -207,3 +208,5 @@
 
 ## Continuous Integration Tools
 - [Continuous Integration Tools](jenkins-git.md)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/68YcOcz8MM">pic.twitter.com/68YcOcz8MM</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/739101900856037376">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
