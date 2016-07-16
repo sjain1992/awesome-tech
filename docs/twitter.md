@@ -120,7 +120,9 @@
 - [forbes.tumblr.com 🌟](http://forbes.tumblr.com)
 - [reuters.tumblr.com 🌟](http://reuters.tumblr.com)
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 # Scoop.it
 - [Web Design News](http://www.scoop.it/t/web-design-news-by-css-matter)
@@ -326,7 +328,9 @@
 - [twitter.com/Cryptodata 🌟🌟](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso 🌟🌟🌟](https://twitter.com/chemaalonso)
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 ### Firewalls on Twitter
 - [twitter.com/dellsecurity 🌟🌟🌟](https://twitter.com/dellsecurity)
@@ -523,7 +527,9 @@
 - [twitter.com/teoliphant](https://twitter.com/teoliphant)
 - [twitter.com/jakevdp](https://twitter.com/jakevdp)
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/r4chZNokCQpBzkEZyNCRhA/127561563032" data-did="2be9c52dead28134d3e6915d8c6f9be58aa475ef"><a href="http://devopsfacts.com/post/127561563032/when-a-non-tech-person-estimate-our-tasks">http://devopsfacts.com/post/127561563032/when-a-non-tech-person-estimate-our-tasks</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)

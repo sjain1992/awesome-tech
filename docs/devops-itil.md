@@ -376,9 +376,13 @@ Preferred Qualifications:
 
 [![is your company ready for devops](images/is_your_company_ready_for_devops.jpg)](http://www.commitstrip.com/en/2015/02/02/is-your-company-ready-for-devops/)
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/_3Ic5v_IdVriNnkhHt35DA/121071300360" data-did="5265549b6f8c7e29b38dd1ec0ae5bbfa09577eea"><a href="http://devopstips.tumblr.com/post/121071300360/programming-isnt-manual-labor-but-it-still-sucks">http://devopstips.tumblr.com/post/121071300360/programming-isnt-manual-labor-but-it-still-sucks</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xDkuiVdNEGDOxRYqLpY3lA/136666346908" data-did="c39122a2d7c639452367c5efd23db417645d9da8"><a href="http://devops-testing.tumblr.com/post/136666346908/software-testing-the-devops-strategy">http://devops-testing.tumblr.com/post/136666346908/software-testing-the-devops-strategy</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iTZyudLLJSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

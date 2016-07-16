@@ -304,7 +304,9 @@
 
 [![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/0CJaV7EFsfJ6tCW3UPTRRQ/119849601579" data-did="c741abb104a46eb2eb4c75ec471b62b6e3640bb9"><a href="http://tech.crowdfireapp.com/post/119849601579/hello-docker">http://tech.crowdfireapp.com/post/119849601579/hello-docker</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to host a coder dinner-party<br> <a href="https://t.co/m0ydFQMNnA">https://t.co/m0ydFQMNnA</a> <a href="https://t.co/hhV5NBpHHB">pic.twitter.com/hhV5NBpHHB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/746407865485766657">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

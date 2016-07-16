@@ -361,4 +361,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moving to the <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> model and network automation. Read the blog: <a href="https://t.co/A63B0o7tY8">https://t.co/A63B0o7tY8</a> <a href="https://twitter.com/mscohen">@mscohen</a> <a href="https://twitter.com/shanecorban">@shanecorban</a> <a href="https://t.co/Vk15AMDcOT">pic.twitter.com/Vk15AMDcOT</a></p>&mdash; Cisco Cloud (@CiscoCloud) <a href="https://twitter.com/CiscoCloud/status/700354479498117120">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/jjKfzzzhxu5DrcjAf25xLg/138976713666" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://yourreactiongifs.tumblr.com/post/138976713666">http://yourreactiongifs.tumblr.com/post/138976713666</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
