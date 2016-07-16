@@ -93,7 +93,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [Testing Tools 🌟🌟](qa_tools.md)
     - [Performance Testing Tools. JMeter, Webpagetest, Taurus, Gatling](webperftesting.md)
 	- [Scalability and Reliability 🌟](scalability.md)
-	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)
+	- [Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git](jenkins-git.md)
 12. [Data Science and Big Data](data-science.md)
 	- [SQL and Databases](databases.md)
 	- [NoSQL and NewSQL. MongoDB 🌟](nosql.md)
