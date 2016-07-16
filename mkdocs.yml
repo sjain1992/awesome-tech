@@ -54,7 +54,7 @@ pages:
 - Security Toolkits and Policies. Penetration Testing: pen_testing.md
 - SQL Injection: sql_injection.md
 - DevOps and ITIL: devops-itil.md
-- Agile planning: Scrum, Kanban, Lean, Project Management, CI CD: agileplanning.md
+- Agile planning, CI/CD, Project Management, Scrum, Kanban, Lean: agileplanning.md
 - Metrics with APM, Backend Server Monitoring and Alarm System. Grafana, Zabbix: metrics.md
 - Elasticsearch, Graylog, Syslog ng: elasticsearch.md
 - Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git: jenkins-git.md

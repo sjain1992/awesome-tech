@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
+- [Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean](#agile-planning-cicd-project-management-scrum-kanban-lean)
     - [Javier Garzas](#javier-garzas)
     - [Project Management](#project-management)
     - [Product Owner](#product-owner)
@@ -11,7 +11,7 @@
 
 <!-- /MarkdownTOC -->
 
-# Agile planning: Scrum, Kanban, Lean
+# Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟🌟🌟](http://www.scrumguides.org/)
 - [Why estimates never work 🌟🌟🌟](http://www.brandonsavage.net/why-estimates-never-work/)
