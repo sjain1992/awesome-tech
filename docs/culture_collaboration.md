@@ -301,6 +301,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The professions with the most psychopaths <a href="https://t.co/ad1mA17cuR">https://t.co/ad1mA17cuR</a> <a href="https://t.co/BuJdG1JIOZ">pic.twitter.com/BuJdG1JIOZ</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/754221544084115458">16 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G6v6rdSYyaA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
