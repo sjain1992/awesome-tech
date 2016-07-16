@@ -321,7 +321,9 @@
 >  It is easy enough to poke at products and determine if they suit the needs of your level of automation. A good example is that only about half of the products on the market make any attempt at RAID configuration as part of server provisioning. But if operators have to sit and configure RAID before an automated installation, then it’s not really fully automated, is it?
 > And of course I recommend that you consider automation. Partially because my employer plays in the space, but moreso because there are far more impactful things operations could be doing than sitting and watching an OS install, or typing in IP addresses, masks, and gateways.
 
+<center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134927085230" data-did="bb1e1b59231f5382026568844e915c19da08f253"><a href="http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet">http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 ## Agile planning: Scrum, Kanban, Lean, Project Management, CI/CD
 - [Agile planning: Scrum, Kanban, Lean, Project Management, CI/CD](agileplanning.md)
