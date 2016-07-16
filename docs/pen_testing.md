@@ -66,6 +66,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Useful Commands for Kali Linux<a href="https://t.co/und49sOMTK">https://t.co/und49sOMTK</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/terminal?src=hash">#terminal</a> <a href="https://t.co/NDafHnld30">pic.twitter.com/NDafHnld30</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752163546306347009">10 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/lZlqr2PFJIo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

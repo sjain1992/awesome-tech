@@ -654,6 +654,8 @@
 - [fedoramagazine.org: Build a network bridge with Fedora](https://fedoramagazine.org/build-network-bridge-fedora/)
 - [dig: How To Find My Public IP Address From Command Line On a Linux](http://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nmap Command For Network Administrator<a href="https://t.co/6yFJIt1iNd">https://t.co/6yFJIt1iNd</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/Nmap?src=hash">#Nmap</a> <a href="https://twitter.com/hashtag/Network?src=hash">#Network</a> <a href="https://t.co/YFvHyC9fqs">pic.twitter.com/YFvHyC9fqs</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752591167435472896">11 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use dig to find your own public IP from OSX/Linux/Unix/Win10<br><br>dig +short myip\.opendns.com <a href="https://twitter.com/Resolver1">@resolver1</a>.opendns.com<a href="https://t.co/9dX7mLlk5i">https://t.co/9dX7mLlk5i</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745242343918317568">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

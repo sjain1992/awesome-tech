@@ -27,6 +27,7 @@
 - [Susan Cain 🌟](https://twitter.com/susancain)
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [twitter.com/Ldavidmarquet](https://twitter.com/Ldavidmarquet)
+- [twitter.com/TonyRobbins](https://twitter.com/TonyRobbins)
 - [twitter.com/Autorrealizarte](https://twitter.com/Autorrealizarte)
 
 <div class="container">
@@ -80,6 +81,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMEqLzWrMIo?list=PL9F0Fb36EYxszkB-LnSVpquu7j3Gqo3ux" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+[![Tony-Robbins-Quote-For-Life-Inspiration](images/Tony-Robbins-Quote-For-Life-Inspiration.jpg)](Tony-Robbins-Quote-For-Life-Inspiration.jpg)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUHMZf3qwsQ?rel=0" frameborder="0" allowfullscreen class="videos"></iframe>
 </div>
 <br>
 
