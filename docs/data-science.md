@@ -305,18 +305,24 @@
 - [pentaho.com/marketplace](http://www.pentaho.com/marketplace)
 
 <center>
+
 |[![Mastering-Apache-Spark](images/Mastering-Apache-Spark.png)](http://www.wowebook.org/mastering-apache-spark.html)|[![Learning Spark](images/Learning-Spark.png)](http://www.wowebook.org/learning-spark-lightning-fast-big-data-analysis.html)|
 |:---:|:---:|
+
 </center>
 
 <center>
+
 |[![Big Data Analystics with Spark](images/Big-Data-Analytics-with-Spark.png)](http://www.wowebook.org/big-data-analytics-with-spark-a-practitioners-guide-to-using-spark-for-large-scale-data-analysis.html)|[![Python Data Analytics](images/Python-Data-Analytics.png)](http://www.wowebook.org/python-data-analytics.html)|
 |:---:|:---:|
+
 </center>
 
 <center>
+
 |[![Learning IPython](images/Learning-IPython-for-Interactive-Computing-and-Data-Visualization.png)](http://www.wowebook.org/learning-ipython-for-interactive-computing-and-data-visualization.html)|[![Python for Data Analysis](images/Python-for-Data-Analysis.jpg)](http://www.wowebook.org/python-for-data-analysis.html)|
 |:---:|:---:|
+
 </center>
 
 <div class="container">
