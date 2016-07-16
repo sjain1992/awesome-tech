@@ -74,6 +74,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 	- [Security Toolkits and Policies. Penetration Testing](pen_testing.md)
 	- [SQL injection 🌟](sql_injection.md)
 8. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
+    - [Agile planning: Scrum, Kanban, Lean, Project Management, CI/CD 🌟🌟](agileplanning.md)
 	- [Metrics with APM, Backend Server Monitoring and Alarm System. Grafana, Graphite, Influxdb, Zabbix 🌟](metrics.md)
 	- [Elasticsearch, Graylog, Syslog ng](elasticsearch.md)
 	- [Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git](jenkins-git.md)
@@ -117,7 +118,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 18. [Economy](economy.md)
     - [Economy Videos](economy-videos.md)
     - [Economics Films](economics_films.md)
-    - [Live News 🌟](live-news.md)
+    - [Live News](live-news.md)
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
