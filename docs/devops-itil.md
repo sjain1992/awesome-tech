@@ -60,6 +60,9 @@
 
 [![dzone_refcard_alm](images/dzone_refcard_alm.png)](https://dzone.com/refcardz/getting-started-application)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Chef CTO urges action to prevent DevOps staff burnout <a href="https://t.co/HjZhuzDfIi">https://t.co/HjZhuzDfIi</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/YEzshkPOPa">pic.twitter.com/YEzshkPOPa</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/754408207120871424">16 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_unwarranted_optimism](images/dilbert_unwarranted_optimism.jpg)](http://dilbert.com/strip/2008-11-09)
 
 # DevOps
@@ -115,6 +118,8 @@
 [![key_devops_practices](images/key_devops_practices.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
 [![principles_of_devops](images/principles_of_devops.png)](https://www.linkedin.com/pulse/principles-devops-establishing-sustaining-high-bowler)
+
+[![improve_pipeline](images/improve_pipeline.jpg)](https://infocus.emc.com/bart_driscoll/28273)
 
 [![dzone_periodic_table_devops_tools_v2](images/dzone_periodic_table_devops_tools_v2.png)](https://dzone.com/articles/the-periodic-table-of-devops-tools-v2-is-here-1)
 

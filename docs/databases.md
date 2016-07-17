@@ -241,6 +241,9 @@
 - [twitter.com/MySQL](https://twitter.com/MySQL)
 - [twitter.com/ScriptingMySQL](https://twitter.com/ScriptingMySQL)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out part 2 of the blog series to learn how to develop using <a href="https://twitter.com/hashtag/MySQL?src=hash">#MySQL</a> Document Store <a href="https://t.co/56R5zZDcGJ">https://t.co/56R5zZDcGJ</a> <a href="https://t.co/uSYOXXtBB8">pic.twitter.com/uSYOXXtBB8</a></p>&mdash; MySQL (@MySQL) <a href="https://twitter.com/MySQL/status/753729424466464768">14 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### MySQL Blogs
 - [MySQL Server Team 🌟](http://mysqlserverteam.com/)
 - [InsideMySQL.com](http://insidemysql.com)
