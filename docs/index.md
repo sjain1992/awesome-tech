@@ -134,6 +134,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![gartner_videos](images/gartner_videos.jpg)](https://www.youtube.com/user/Gartnervideo)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![forbes_videos](images/forbes_videos.jpg)](https://www.youtube.com/user/forbes)|[![bloomberg_videos.jpg](images/bloomberg_videos.jpg)](https://www.youtube.com/user/Bloomberg)|[![wsj_videos.jpg](images/wsj_videos.jpg)](https://www.youtube.com/user/WSJDigitalNetwork)|![empty_youtube_channel.jpg](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+[![linkedin_videos](images/linkedin_videos.jpg)](https://www.youtube.com/user/LinkedIn)|[![linkedin_help_videos](images/linkedin_help_videos.jpg)](https://www.youtube.com/user/linkedinhelp)|[![linkedin_talent_solutions](images/linkedin_talent_solutions.jpg)](https://www.youtube.com/user/LITalentSolutions)|[![lynda_videos](images/lynda_videos.jpg)](https://www.youtube.com/user/lyndapodcast)|[![udemy_videos](images/udemy_videos.jpg)](https://www.youtube.com/user/udemy)|[![guru99_videos](images/guru99_videos.jpg)](https://www.youtube.com/user/guru99com)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![BI_Social_Profile](images/BI_Social_Profile.jpg)](https://www.youtube.com/user/businessinsider) |[![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)|[![entrepreneur_logo](images/entrepreneur_logo.jpg)](https://www.youtube.com/c/entrepreneur) | [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)| [![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld) |[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
