@@ -120,6 +120,8 @@
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 - [March 2016. infoworld.com - 21 hot programming trends -- and 21 going cold 🌟🌟🌟](http://www.infoworld.com/article/3039935/application-development/21-hot-programming-trends-and-21-going-cold.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> <a href="https://twitter.com/hashtag/languages?src=hash">#languages</a> <a href="https://t.co/1EuoEmeXdM">pic.twitter.com/1EuoEmeXdM</a></p>&mdash; Ϟ ℂlaudio Ϟ (@_vecna) <a href="https://twitter.com/_vecna/status/753871301517930497">15 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 interview questions for software engineers <a href="https://t.co/42I39xHgw4">https://t.co/42I39xHgw4</a> <a href="https://t.co/CqRb6ZJiTY">pic.twitter.com/CqRb6ZJiTY</a></p>&mdash; Glassdoor (@Glassdoor) <a href="https://twitter.com/Glassdoor/status/748641956478128129">30 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
