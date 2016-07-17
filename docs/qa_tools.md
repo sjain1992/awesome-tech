@@ -3,6 +3,7 @@
 - [Testing Tools](#testing-tools)
     - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
     - [Gerrit Code Review](#gerrit-code-review)
+    - [DevQA tools. Groovy, Spock, Geb](#devqa-tools-groovy-spock-geb)
     - [JUnit](#junit)
     - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
     - [Mockito Mocking Framework](#mockito-mocking-framework)
@@ -70,6 +71,13 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4dl9cPIshTpj2L" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-is-getting-native-with-rpm-deb-and-docker" title="Gerrit is Getting Native with RPM, Deb and Docker" target="_blank">Gerrit is Getting Native with RPM, Deb and Docker</a> </strong> from <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
 </div>
 <br>
+
+## DevQA tools. Groovy, Spock, Geb
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4zxJ9BiRx4Iyja" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alvarosanchezmariscal/devqa-greach2014" title="DevQA: make your testers happier with Groovy, Spock and Geb (Greach 2014)" target="_blank">DevQA: make your testers happier with Groovy, Spock and Geb (Greach 2014)</a> </strong> de <strong><a href="//www.slideshare.net/alvarosanchezmariscal" target="_blank">Alvaro Sanchez-Mariscal</a></strong> </div>
+</div>
+<br/>
 
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)

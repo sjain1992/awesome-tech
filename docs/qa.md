@@ -9,6 +9,7 @@
         - [Onion Model Testing](#onion-model-testing)
     - [TMAP](#tmap)
     - [Application Security Testing](#application-security-testing)
+    - [Infrastructure Testing Dev QA Ops](#infrastructure-testing-dev-qa-ops)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [Testing Tools](#testing-tools)
 
@@ -73,6 +74,8 @@
 <br/>
 
 [![dzone_refcard_design_quality_sw](images/dzone_refcard_design_quality_sw.png)](https://dzone.com/refcardz/designing-quality-software)
+
+[![devqa_logo](images/devqa_logo.jpg)](http://www.slideshare.net/alvarosanchezmariscal/devqa-greach2014)
 
 [![dilbert_qa3](images/dilbert_qa3.gif)](http://dilbert.com/strip/2016-02-21)
 
@@ -210,6 +213,13 @@
 
 ## Application Security Testing
 - [Application Security Testing](app_sec_testing.md)
+
+## Infrastructure Testing Dev QA Ops
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/cmU0g355T8Nslj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/YahyaPoonawala/from-qa-to-devqa" title="From QA To Dev-QA-Ops" target="_blank">From QA To Dev-QA-Ops</a> </strong> de <strong><a href="//es.slideshare.net/YahyaPoonawala" target="_blank">Yahya Poonawala</a></strong> </div>
+</div>
+<br/>
 
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
