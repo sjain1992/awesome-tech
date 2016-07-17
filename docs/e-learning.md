@@ -98,6 +98,7 @@
 - [Zabbix Network Monitoring Essentials](https://www.udemy.com/zabbix-network-monitoring-essentials/)
 - [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
+- [Lynda.com: Troubleshooting Your Network with Wireshark](https://www.lynda.com/Wireshark-tutorials/Troubleshooting-Your-Network-Wireshark/366447-2.html) 
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
     - [Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
 	- [Certified WhiteHat Hacker Level 1 (CWHH Level 1) (Free)](https://www.udemy.com/certified-whitehat-hacker-level-1/)

@@ -6,6 +6,7 @@
 	- [Network Forensics Tools](#network-forensics-tools)
 		- [WireEdit](#wireedit)
 		- [Wireshark](#wireshark)
+			- [Wireshark online learning](#wireshark-online-learning)
 			- [Laura Chappell](#laura-chappell)
 			- [Sharkfest](#sharkfest)
 			- [Wireshark Slides](#wireshark-slides)
@@ -103,6 +104,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KtIsj2KHBVw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+#### Wireshark online learning
+- [Udemy.com: Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
+- [Lynda.com: Troubleshooting Your Network with Wireshark](https://www.lynda.com/Wireshark-tutorials/Troubleshooting-Your-Network-Wireshark/366447-2.html) 
 
 #### Laura Chappell
 - [Laura Chappell's Top Videos](https://www.youtube.com/user/thebitgirl/videos)
