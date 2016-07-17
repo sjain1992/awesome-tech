@@ -141,6 +141,9 @@
 - [4 Cluster Management Tools to Compare 🌟🌟🌟](https://dzone.com/articles/4-cluster-management-tools-to-compare)
 - [Docker Meets Continuous Deployment](https://dzone.com/articles/docker-meets-continuous-deployment)
 - [Monitoring Docker Containers – docker stats, cAdvisor, Universal Control Plane 🌟🌟](https://blog.codeship.com/monitoring-docker-containers/)
+- [Red Hat Whitepaper: MODERNIZING APPLICATION DELIVERY WITH CONTAINER PLATFORMS](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
+
+[![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
 [![java_containerization_dzone_refcard](images/java_containerization_dzone_refcard.png)](https://dzone.com/refcardz/java-containerization)
 
