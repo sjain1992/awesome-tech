@@ -205,6 +205,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hear how technical foundation for <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> was laid down in the late 90s | <a href="https://twitter.com/LondonFintech">@LondonFintech</a>  <a href="https://t.co/5qwxRJDlo3">https://t.co/5qwxRJDlo3</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Xignite (@xignite) <a href="https://twitter.com/xignite/status/743575220204732416">16 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to use <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> for enterprise <a href="https://twitter.com/hashtag/architecture?src=hash">#architecture</a> <a href="https://t.co/1k5hOWJWZ3">https://t.co/1k5hOWJWZ3</a> via <a href="https://twitter.com/mattbiehl">@mattbiehl</a> <a href="https://t.co/8uYV40Rf70">pic.twitter.com/8uYV40Rf70</a></p>&mdash; Amancio Bouza (@AmancioBouza) <a href="https://twitter.com/AmancioBouza/status/754605340491182080">17 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### API Blueprint, defining the emerging API design space
 - [API Blueprint 🌟🌟](https://apiblueprint.org)
 
