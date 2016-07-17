@@ -46,6 +46,11 @@
 
 [![bi_oracle_threatened_by_microsoft_amazon](images/bi_oracle_threatened_by_microsoft_amazon.png)](http://www.businessinsider.com/larry-ellison-on-microsoft-amazon-offers-2016-3)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FR4QIeZaPeM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
 - [SQL Is Not Dead and How to Make It Part of Your Toolbox 🌟🌟](https://dzone.com/articles/sql-is-not-dead-and-how-to-make-it-part-of-your-to)
