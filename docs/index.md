@@ -59,6 +59,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 		- [Red Hat Virtualization 🌟🌟](redhatvirt.md)
 		- [Red Hat OpenStack](redhat_openstack.md)
 		- [Red Hat Cluster](redhatcluster.md)
+        - [Red Hat JBoss (WildFly) 🌟🌟](jboss.md)    - 
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
 	- [Linux Commands Tweets](linux-commands-tweets.md)
 5. [Microsoft](microsoft.md)
@@ -143,7 +144,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![techcrunch_logo](images/techcrunch_logo.jpg)](https://www.youtube.com/c/techcrunch)| [![thenextweb2](images/tnw_small.png)](https://www.youtube.com/user/thenextweb) | [![dzone_youtube](images/dzone_youtube.jpg)](https://www.youtube.com/c/dzone) |[![gotoconferences](images/gotoconferences.jpg)](https://www.youtube.com/user/GotoConferences) |[![oreilly](images/oreilly.jpg)](https://www.youtube.com/oreilly)|[![silicon_angle_the_cube](images/thecube.png)](https://www.youtube.com/user/siliconangle)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) |  [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) | [![acloudguru_videos](images/acloudguru_videos.jpg)](https://www.youtube.com/channel/UCHboa3uSSlBj8Pihw4io6Yg) | [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)| [![rackspace_videos](images/rackspace_videos.jpg)](https://www.youtube.com/rackspace)|
+|[![rackspace_slideshare](images/rackspace_slideshare.jpg)](http://www.slideshare.net/rackspace)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) | [![acloudguru_videos](images/acloudguru_videos.jpg)](https://www.youtube.com/channel/UCHboa3uSSlBj8Pihw4io6Yg) | [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)| [![rackspace_videos](images/rackspace_videos.jpg)](https://www.youtube.com/rackspace)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/c/dockerio)|[![github_videos](images/github_videos.jpg)](https://www.youtube.com/c/github)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
@@ -165,6 +166,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![oracle_fusion_apps_videos](images/oracle_fusion_apps_videos.jpg)](https://www.youtube.com/user/FADeveloperRelations)|[![adf_essentials_videos](images/adf_essentials_videos.jpg)](https://www.youtube.com/user/ADFInsiderEssentials)|[![oracle_adf_java_video](images/oracle_adf_java_video.jpg)](https://www.youtube.com/channel/UCX7PJW3a2qvEoBgBlm8jE_g)|[![packt_video](images/packt_video.jpg)](https://www.youtube.com/user/packt1000)|[![code_org_video](images/code_org_video.jpg)](https://www.youtube.com/user/CodeOrg)|[![codecademy_video](images/codecademy_video.jpg)](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![redhat_enterprise_video](images/redhat_enterprise_video.jpg)](https://www.youtube.com/user/rhenterpriselinux)|[![redhat_virt_video](images/redhat_virt_video.jpg)](https://www.youtube.com/user/redhatvirtualization)|[![redhat_cloud_video](images/redhat_cloud_video.jpg)](https://www.youtube.com/user/RedHatCloud)|[![redhat_storage_video](images/redhat_storage_video.jpg)](https://www.youtube.com/user/redhatstorage)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![learn_code_video](images/learn_code_video.jpg)](https://www.youtube.com/user/learncodeacademy)|[![devtips_video](images/devtips_video.jpg)](https://www.youtube.com/user/DevTipsForDesigners)|[![codecourse_video](images/codecourse_video.jpg)](https://www.youtube.com/user/phpacademy)|[![codedamn_video](images/codedamn_video.jpg)](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)|[![thenewboston_video](images/thenewboston_video.jpg)](https://www.youtube.com/user/thenewboston)|[![programming_language_video](images/programming_language_video.jpg)](https://www.youtube.com/user/ProgrammingKnowledge)|
@@ -203,7 +207,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![dell_slides](images/dell_slides.jpg)](http://www.slideshare.net/dell)|[![hp_enterprise_slides](images/hp_enterprise_slides.jpg)](http://www.slideshare.net/HPESoftwareSolutions)|[![sap_slides](images/sap_slides.jpg)](http://www.slideshare.net/SAP)|[![salesforce_slides](images/salesforce_slides.jpg)](http://www.slideshare.net/salesforce)|[![ibm_slides](images/ibm_slides.jpg)](http://www.slideshare.net/ibm)|[![oracle_slides](images/oracle_slides.jpg)](http://www.slideshare.net/oracle)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)|[![owasp_delphi_slides](images/owasp_delphi_slides.jpg)](http://www.slideshare.net/OWASPdelhi)|[![capgemini_slideshare](images/capgemini_slideshare.jpg)](http://www.slideshare.net/capgemini)|[![atlassian_videos](images/atlassian_videos.jpg)](http://www.slideshare.net/GoAtlassian)|[![agile_bcn_slides](images/agile_bcn_slides.jpg)](http://es.slideshare.net/agilebcn)|[![rackspace_slideshare](images/rackspace_slideshare.jpg)](http://www.slideshare.net/rackspace)|
+|[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)|[![owasp_delphi_slides](images/owasp_delphi_slides.jpg)](http://www.slideshare.net/OWASPdelhi)|[![capgemini_slideshare](images/capgemini_slideshare.jpg)](http://www.slideshare.net/capgemini)|[![atlassian_videos](images/atlassian_videos.jpg)](http://www.slideshare.net/GoAtlassian)|[![agile_bcn_slides](images/agile_bcn_slides.jpg)](http://es.slideshare.net/agilebcn)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
