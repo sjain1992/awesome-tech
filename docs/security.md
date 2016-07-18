@@ -51,6 +51,7 @@
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
 		- [DDos](#ddos)
 		- [Shadow IT security risks](#shadow-it-security-risks)
+		- [httpoxy. July 2016](#httpoxy-july-2016)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 		- [DDos and Project Shield. February 2016](#ddos-and-project-shield-february-2016)
@@ -531,6 +532,15 @@
 - [Shadow IT: The Challenge of Efficiency vs Security](https://blogs.absolute.com/blog/shadow-it-the-challenge-of-efficiency-vs-security/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Shadow IT is a real risk for <a href="https://twitter.com/hashtag/ITsecurity?src=hash">#ITsecurity</a>. And if you don’t think it’s happening in your organization, you’re wrong. <a href="https://t.co/CfUa5AabP7">https://t.co/CfUa5AabP7</a></p>&mdash; SAP Labs LA (@saplabsla) <a href="https://twitter.com/saplabsla/status/705727995605032960">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### httpoxy. July 2016
+- [httpoxy.org](https://httpoxy.org/)
+- [redhat: HTTPoxy - CGI "HTTP_PROXY" variable name clash](https://access.redhat.com/security/vulnerabilities/httpoxy)
+- [nginx: Mitigating the HTTPoxy Vulnerability with NGINX](https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/)
+- [nixCraft: How to fix Httpoxy a CGI PHP/Nginx/Apache/Go application vulnerability on Linux or Unix](http://www.cyberciti.biz/faq/fix-httpproxy-cgi-application-vulnerability-for-linux-unix-apache-nginx-python-php/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/httpoxy?src=hash">#httpoxy</a>: A CGI application vulnerability for PHP, Go, Python and others.<a href="https://t.co/A7kb7ryIGi">https://t.co/A7kb7ryIGi</a></p>&mdash; httpoxy (@httpoxy) <a href="https://twitter.com/httpoxy/status/755039908641681409">18 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Top security initiatives for 2016

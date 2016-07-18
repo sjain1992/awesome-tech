@@ -808,6 +808,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most of you probably  know but if you don&#39;t know fire up a terminal &amp; type the following to starts the Vim tutor:<br><br>vimtutor<a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/748155457542336512">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Surprising reasons to use a syntax-coloring editor <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a>  <a href="https://t.co/2YlporMF6V">https://t.co/2YlporMF6V</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755053469573062656">18 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 - [Black Hats - GNU/Emacs](http://www.blackhats.es)
