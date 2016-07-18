@@ -183,6 +183,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![hak5_video](images/hak5_video.jpg)](https://www.youtube.com/user/Hak5Darren)|[![packet_bomb_video](images/packet_bomb_video.jpg)](https://www.youtube.com/channel/UC6lijopn1t2ETukUSLDDqMA)|[![tech_firm_video](images/tech_firm_video.jpg)](https://www.youtube.com/user/thetechfirm)|[![sharkfest_video](images/sharkfest_video.jpg)](https://www.youtube.com/user/SharkFest2015)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![the_school_of_life_video](images/the_school_of_life_video.jpg)](https://www.youtube.com/user/schooloflifechannel)|[![ted_ed_video](images/ted_ed_video.jpg)](https://www.youtube.com/user/TEDEducation)|[![ted_talks_video](images/ted_talks_video.jpg)](https://www.youtube.com/user/TEDtalksDirector)|[![tedx_video](images/tedx_video.jpg)](https://www.youtube.com/user/TEDxTalks)|[![ted_espanol_video](images/ted_espanol_video.jpg)](https://www.youtube.com/channel/UCshVTOdmZLdLj8LTV1j_0uw)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek)|[![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet)|[![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain)|[![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|[![tony_robbins](images/tony_robbins.jpg)](https://www.youtube.com/user/TonyRobbinsLive)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
