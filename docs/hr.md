@@ -8,7 +8,7 @@
     - [Work environment issues](#work-environment-issues)
     - [Game theory](#game-theory)
     - [Code of conduct](#code-of-conduct)
-    - [Employee Poaching & Non-Compete Agreements](#employee-poaching--non-compete-agreements)
+    - [Employee Poaching & Non Compete Agreements](#employee-poaching--non-compete-agreements)
     - [Job hunting](#job-hunting)
         - [Job Description](#job-description)
         - [Networking](#networking)
@@ -402,7 +402,7 @@
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
 
-## Employee Poaching & Non-Compete Agreements
+## Employee Poaching & Non Compete Agreements
 - [High-Tech Employee Antitrust Litigation](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
 - [Apple, Google, others settle antipoaching lawsuit for $415 million](http://www.cnet.com/news/apple-google-others-settle-anti-poaching-lawsuit-for-415-million/)
 - [Apple, Google reach new deal to end U.S. lawsuit over poaching](http://www.reuters.com/article/us-apple-google-settlement-idUSKBN0KN02Z20150114)

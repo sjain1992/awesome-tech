@@ -496,6 +496,8 @@
 
 ![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)
 
+[![demanda_apple_google_intel_por_pactar](images/demanda_apple_google_intel_por_pactar.png)](http://www.elperiodico.com/es/noticias/economia/apple-google-intel-adobe-pagaran-372-millones-euros-por-pactar-que-robarian-empleados-4480311)
+
 [![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
 
 <div class="container">

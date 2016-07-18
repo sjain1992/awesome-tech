@@ -326,6 +326,8 @@
 
 ![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)
 
+[![demanda_apple_google_intel_por_pactar](images/demanda_apple_google_intel_por_pactar.png)](http://www.elperiodico.com/es/noticias/economia/apple-google-intel-adobe-pagaran-372-millones-euros-por-pactar-que-robarian-empleados-4480311)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uzt6vlpdZWM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
