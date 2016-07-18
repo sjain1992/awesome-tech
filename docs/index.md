@@ -161,6 +161,15 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![ca_tech_videos](images/ca_tech_videos.jpg)](https://www.youtube.com/c/catechnologies)|[![modis_videos](images/modis_videos.jpg)](https://www.youtube.com/c/modis)|[![bi_excel_videos](images/bi_excel_videos.jpg)](https://www.youtube.com/c/excel)|[![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode)|[![akamai_videos](images/akamai_videos.jpg)](https://www.youtube.com/c/akamai)|[![wowza_videos](images/wowza_videos.jpg)](https://www.youtube.com/user/wowzamedia)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![c2b2_videos](images/c2b2_videos.jpg)](https://www.youtube.com/user/C2B2Consulting)|[![svrtech_videos](images/svrtech_videos.jpg)](https://www.youtube.com/user/svrtechnologies)|[![was_videos](images/was_videos.jpg)](https://www.youtube.com/channel/UCjOtFEHSAXN-1MBLW_sMASw)|[![ibm_support_tv](images/ibm_support_tv.jpg)](https://www.youtube.com/user/WebSphereEducation)|[![ibm_messaging](images/ibm_messaging.jpg)](https://www.youtube.com/user/IBMmessagingMedia)|[![ibm_integration_video](images/ibm_integration_video.jpg)](https://www.youtube.com/user/IBMintegrationMedia)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![oracle_fusion_apps_videos](images/oracle_fusion_apps_videos.jpg)](https://www.youtube.com/user/FADeveloperRelations)|[![adf_essentials_videos](images/adf_essentials_videos.jpg)](https://www.youtube.com/user/ADFInsiderEssentials)|![oracle_adf_java_video](images/https://www.youtube.com/channel/UCX7PJW3a2qvEoBgBlm8jE_g)|[![packt_video](images/packt_video.jpg)](https://www.youtube.com/user/packt1000)|[![code_org_video](images/code_org_video.jpg)](https://www.youtube.com/user/CodeOrg)|[![codecademy_video](images/codecademy_video.jpg)](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![learn_code_video](images/learn_code_video.jpg)](https://www.youtube.com/user/learncodeacademy)|[![devtips_video](images/devtips_video.jpg)](https://www.youtube.com/user/DevTipsForDesigners)|[![codecourse_video](images/codecourse_video.jpg)](https://www.youtube.com/user/phpacademy)|[![codedamn_video](images/codedamn_video.jpg)](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)|[![thenewboston_video](images/thenewboston_video.jpg)](https://www.youtube.com/user/thenewboston)|[![programming_language_video](images/programming_language_video.jpg)](https://www.youtube.com/user/ProgrammingKnowledge)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 | [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|[![tony_robbins](images/tony_robbins.jpg)](https://www.youtube.com/user/TonyRobbinsLive)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 

@@ -471,7 +471,7 @@
 - [Testing persistence with Arquillian on TomEE: Excellent step by step introduction tutorial on persistence unit testing](http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/)
 
 <div class="container">
-<iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/V-klCvWDnT4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DWLEc-agTNw?list=PLTgRMOcmRb3MTB9ekXD8q29QXjv_9i-9r" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
