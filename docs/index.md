@@ -273,6 +273,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 
+[![cartman_gets_hit_by_bus](images/cartman_gets_hit_by_bus.png)](https://www.youtube.com/watch?time_continue=34&v=G6v6rdSYyaA)
+
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
 
 <div class="container">

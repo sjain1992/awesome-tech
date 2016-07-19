@@ -44,7 +44,7 @@
 
 [![key_to_hiring](images/key_to_hiring.png)](https://www.linkedin.com/pulse/key-hiring-being-hired-james-citrin)
 
-![491full-paths-of-glory-screenshot](images/491full-paths-of-glory-screenshot.jpg)
+![491full-paths-of-glory-screenshot](images/491full-paths-of-glory-screenshot.gif)
 
 [![dilbert_mental_connection_performance_salary](images/dilbert_mental_connection_performance_salary.gif)](http://dilbert.com/strip/1994-11-23)
 
