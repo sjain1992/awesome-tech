@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [JBoss \(WildFly\)](#jboss-wildfly)
+- [Red Hat JBoss, WildFly](#red-hat-jboss-wildfly)
     - [JBoss Blogs](#jboss-blogs)
     - [JBoss on Twitter](#jboss-on-twitter)
     - [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
@@ -12,7 +12,7 @@
 
 <!-- /MarkdownTOC -->
 
-# JBoss (WildFly)
+# Red Hat JBoss, WildFly
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
 - [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
