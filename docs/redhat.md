@@ -184,6 +184,9 @@
 
 [![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Do you remember using boot floppies to install Linux? <a href="https://t.co/rO7YW5TslV">pic.twitter.com/rO7YW5TslV</a></p>&mdash; Ruarí Ødegaard (@ruari) <a href="https://twitter.com/ruari/status/755105868199424000">18 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Red Hat Docs
 - [tecmint: Red Hat Enterprise Linux (RHEL) 7.1 Released – A Quick Review and Installation Instructions](http://www.tecmint.com/redhat-enterprise-linux-7-1-installation/)
 - [RHEL 7.2 Release Notes](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.2_Release_Notes/index.html)
