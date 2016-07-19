@@ -117,6 +117,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 16. [Desktop Tools and Presentations](desktop-tools.md)
 17. [E-Learning 🌟🌟🌟](e-learning.md)
 18. [Economy](economy.md)
+    - [Economy Miscellaneous](economy_miscellaneous.md)
     - [Economy Videos](economy-videos.md)
     - [Economics Films](economics_films.md)
     - [Live News](live-news.md)
