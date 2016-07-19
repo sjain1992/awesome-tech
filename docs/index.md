@@ -92,7 +92,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 11. [QA and Testing 🌟🌟🌟](qa.md)
     - [Application Security Testing. OWASP Open Web Application Security Project 🌟](app_sec_testing.md)
     - [Testing Tools 🌟🌟](qa_tools.md)
-    - [Testing Tools, Page 2](qa_tools2.md)
+    - [Testing Tools, Page 2 🌟🌟](qa_tools2.md)
     - [Performance Testing Tools. JMeter, Webpagetest, Taurus, Gatling](webperftesting.md)
 	- [Scalability and Reliability 🌟](scalability.md)
 	- [Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git](jenkins-git.md)
