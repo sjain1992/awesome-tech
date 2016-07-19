@@ -18,6 +18,7 @@
 [![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
 
 # Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean
+- [agilemethodology.org](http://agilemethodology.org/)
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟🌟🌟](http://www.scrumguides.org/)
 - [Why estimates never work 🌟🌟🌟](http://www.brandonsavage.net/why-estimates-never-work/)
@@ -50,10 +51,15 @@
 </div>
 <br>
 
+[![agile_quora_img](images/agile_quora_img.gif)](https://www.quora.com/What-are-the-pros-and-cons-of-the-waterfall-and-agile-scrum-project-management-approach)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9TycLR0TqFA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![agile](images/agile.jpg)](https://www.xandermar.com/our-process/agile-methodology)
+
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3t8twm3aUk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
