@@ -87,6 +87,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do millennials change jobs so frequently? The reasons make a lot of sense: <a href="https://t.co/UWptuL3uuC">https://t.co/UWptuL3uuC</a> <a href="https://t.co/nsSdChLWu9">pic.twitter.com/nsSdChLWu9</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/746780000859336708">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![491full-paths-of-glory-screenshot](images/491full-paths-of-glory-screenshot.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most common complaint about meetings is actually pretty easy to fix: <a href="https://t.co/2LZudhYPrg">https://t.co/2LZudhYPrg</a> <a href="https://t.co/sh4tpgigC2">pic.twitter.com/sh4tpgigC2</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/747419462928842752">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
