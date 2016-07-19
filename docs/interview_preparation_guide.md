@@ -139,6 +139,7 @@
 - [5 Things Every Employer Wants To Hear In An Interview 🌟](http://www.careerealism.com/every-employer-wants-hear-interview/)
 - [How To Get Out Of Your Unemployment Funk 🌟🌟](http://www.careerealism.com/unemployment-funk/) Looking for a job is not an easy task, especially when you’ve been out of a job for more than six months. You don’t know what day it is, you don’t have to wake up early (at least not for work), and you’ve developed a not-so-friendly relationship with your computer.
 - [10 Hilarious Signs You Should Not Take That Job (Infographic) 🌟🌟🌟🌟](https://www.entrepreneur.com/article/269906)
+- [careerhmo.com: 6 Types Of Illegal Interview Questions To Watch Out For](http://careerhmo.com/types-illegal-interview-questions/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
@@ -224,6 +225,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2scRlcKRw4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The script for a perfect job interview: <a href="https://t.co/ufmCIu3owU">https://t.co/ufmCIu3owU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708785138499493893">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

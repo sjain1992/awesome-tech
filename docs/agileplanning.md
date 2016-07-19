@@ -2,6 +2,7 @@
 
 - [Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean](#agile-planning-cicd-project-management-scrum-kanban-lean)
     - [Javier Garzas](#javier-garzas)
+    - [Metodologias ágiles. Scrum en 10 minutos](#metodologias-ágiles-scrum-en-10-minutos)
     - [Project Management](#project-management)
     - [Product Owner](#product-owner)
     - [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
@@ -44,6 +45,21 @@
 
 [![dzone_refcard_agile_adoption_reducing_cost](images/dzone_refcard_agile_adoption_reducing_cost.png)](https://dzone.com/refcardz/agile-adoption-reducing-cost)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf8Gi2RLKWQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TycLR0TqFA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3t8twm3aUk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Javier Garzas 
 - [slideshare: 233 grados de TI 🌟🌟🌟](http://www.slideshare.net/233gradosdeTI)
 - [Javier Garzás: Agilidad 🌟🌟🌟🌟🌟](https://www.youtube.com/watch?v=oShXAC26rcs)
@@ -73,6 +89,18 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o90o6Oassec?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Metodologias ágiles. Scrum en 10 minutos
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9MYRrQEOGI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/PlLHc60egiQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 

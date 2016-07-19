@@ -87,6 +87,8 @@
 
 [![handbook_servers_checklist](images/handbook_servers_checklist.png)](https://www.upguard.com/handbooks/server-checklist)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">For every 10x developer, there is an Op, somewhere, who is sick of their shit.</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/739819176169111552">6 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Sysadmin Forums
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)

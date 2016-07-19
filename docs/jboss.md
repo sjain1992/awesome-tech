@@ -158,6 +158,11 @@
 ## JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4PQTDwMqE4iYw9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TedJones1/red-hat-middleware-solutions-for-sap-systems" title="Red Hat Middleware Solutions for SAP Systems" target="_blank">Red Hat Middleware Solutions for SAP Systems</a> </strong> from <strong><a href="//www.slideshare.net/TedJones1" target="_blank">Ted Jones</a></strong> </div>
+</div>
+<br>
+
 ## JBoss Data Grid
 - [JBoss Data Grid description. ](http://www.jboss.org/products/datagrid/overview/)JBoss Data Grid is an in-memory, distributed, NoSQL data store that helps boost application performance and improve scalability and development flexibility.
 - [JBossDataGrid named leader in in-memory data grids](https://www.redhat.com/en/resources/jboss-data-grid-named-leader-forrester-research)

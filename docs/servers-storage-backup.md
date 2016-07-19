@@ -222,6 +222,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Self-documenting code&quot; <a href="https://t.co/qKKpL0I8CU">pic.twitter.com/qKKpL0I8CU</a></p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/755046687073198081">18 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
 - [RHEL7 doc: LVM Administrator Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Logical_Volume_Manager_Administration/index.html)
@@ -316,6 +319,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/zzGQ5Fzlht">https://t.co/zzGQ5Fzlht</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/2L8OG2mGHv">pic.twitter.com/2L8OG2mGHv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709861013093359616">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Backups need to be offsite, offline, and incremental&quot; <a href="https://t.co/V3tJZM28Ot">https://t.co/V3tJZM28Ot</a> <a href="https://twitter.com/hashtag/ansible?src=hash">#ansible</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a></p>&mdash; François Baligant (@fbaligant) <a href="https://twitter.com/fbaligant/status/720004702839140352">12 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Long story short, I won the argument about database replication not being the same as backups.</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/748545362638434308">30 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Distribution:  06/04 SystemRescueCd 4.7.3 <a href="https://t.co/t3h6qG8isd">https://t.co/t3h6qG8isd</a></p>&mdash; DistroWatch (@DistroWatch) <a href="https://twitter.com/DistroWatch/status/739425030153641985">5 de junio de 2016</a></blockquote>

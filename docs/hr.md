@@ -407,6 +407,9 @@
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My manager says I don&#39;t work well with people whose intelligence I don&#39;t respect.<br><br>&quot;that wouldn&#39;t be a problem if you didn&#39;t hire idiots&quot;</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/742804341640200192">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Employee Poaching & Non Compete Agreements
 - [High-Tech Employee Antitrust Litigation](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
 - [Apple, Google, others settle antipoaching lawsuit for $415 million](http://www.cnet.com/news/apple-google-others-settle-anti-poaching-lawsuit-for-415-million/)
@@ -428,6 +431,7 @@
 - [A hedge fund HR boss says too many young people are making this error and destroying their chances at a job](http://www.businessinsider.com/point-72-mike-butler-resume-errors-2016-2) More and more young candidates for hedge fund positions aren't being completely honest on their résumés.
 - [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent)
 - [5 Things You Should Be Doing If You’re Unemployed](http://www.careerealism.com/things-should-doing-unemployed/)
+- [Finding The Silver Lining After Losing A Job](http://careerhmo.com/losing-job-silver-lining/)
 
 [![recruitment-cvs-resumes-interviewer](images/recruitment-cvs-resumes-interviewer.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
 
@@ -464,6 +468,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UrRjXyUIuDI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most of these require effort not talent. Still good list though for any one working in IT :) <a href="https://t.co/5fvzFl94V2">pic.twitter.com/5fvzFl94V2</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710541752847839232">17 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

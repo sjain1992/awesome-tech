@@ -524,6 +524,8 @@
 
 ![find_products_for_your_customers](images/find_products_for_your_customers.jpg)
 
+[![sales_statistics](images/sales_statistics.jpg)](http://www.bctrainingsolutions.com/)
+
 [![industria_tecnologica_bienestar_laboral](images/industria_tecnologica_bienestar_laboral.png)](http://www.ticbeat.com/empresa-b2b/la-industria-tecnologica-la-que-mas-bienestar-laboral-ofrece-a-sus-empleados/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">IT professionals are feeling less job stress, survey suggests <a href="https://t.co/KIvgL6q7NW">https://t.co/KIvgL6q7NW</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/joemckendrick">@joemckendrick</a> <a href="https://t.co/XIcGnvAgqn">pic.twitter.com/XIcGnvAgqn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/737674957841440768">31 de mayo de 2016</a></blockquote>

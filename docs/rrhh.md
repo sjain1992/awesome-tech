@@ -33,6 +33,9 @@
 
 [![dilbert_do_you_have_vacations](images/dilbert_do_you_have_vacations.png)](http://dilbert.com/strip/2016-06-17)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">10 asesinos de la motivación laboral. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://twitter.com/hashtag/rrhh?src=hash">#rrhh</a> <a href="https://twitter.com/hashtag/FelizLunes?src=hash">#FelizLunes</a> <a href="https://t.co/fQCjlhN86b">pic.twitter.com/fQCjlhN86b</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/754904261293637632">18 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Orientacion laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
     - [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)
