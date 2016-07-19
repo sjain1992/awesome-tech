@@ -59,7 +59,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 		- [Red Hat Virtualization 🌟🌟](redhatvirt.md)
 		- [Red Hat OpenStack](redhat_openstack.md)
 		- [Red Hat Cluster](redhatcluster.md)
-        - [Red Hat JBoss (WildFly) 🌟🌟](jboss.md)    - 
+        - [Red Hat JBoss (WildFly) 🌟🌟](jboss.md) 
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
 	- [Linux Commands Tweets](linux-commands-tweets.md)
 5. [Microsoft](microsoft.md)
