@@ -8,7 +8,7 @@
 
 <br/>
 <p align="center">
-Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Contract & Permanent (no freelance) </p>
+Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) </p>
 <p align="center">
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
 </p>
