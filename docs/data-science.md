@@ -45,6 +45,8 @@
 
 [![modern_data_scientist](images/modern_data_scientist.png)](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
 
+[![idc_iot_taxonomy_map](images/idc_iot_taxonomy_map.png)](http://www.idc.com/downloads/IoT_Taxonomy_Map_V2_Nov2014.pdf)
+
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
