@@ -2,6 +2,7 @@
 
 - [Interview Preparation Guide](#interview-preparation-guide)
     - [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
+    - [Brutally honest job description](#brutally-honest-job-description)
     - [Applicant Tracking System](#applicant-tracking-system)
     - [Salary Negotiation](#salary-negotiation)
         - [Technical Resume](#technical-resume)
@@ -315,6 +316,10 @@
 - [Five More Reasons You May Still Be Unemployed](Five More Reasons You May Still Be Unemployed)
 
 [![18_reasons_still_unemployed](images/18_reasons_still_unemployed.png)](http://www.careerealism.com/reasons-unemployed/)
+
+## Brutally honest job description
+
+![brutally_honest_job_desc](images/brutally_honest_job_desc.png)
 
 ## Applicant Tracking System
 - [Applicant tracking system](https://en.wikipedia.org/wiki/Applicant_tracking_system)

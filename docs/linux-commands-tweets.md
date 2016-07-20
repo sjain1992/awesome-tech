@@ -183,3 +183,4 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">powertop # Will show you the top power consuming processes on your Linux laptop.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/746418623900590085">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+

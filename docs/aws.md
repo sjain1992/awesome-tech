@@ -511,6 +511,7 @@
 - [npmjs.com: Lambda load test](https://www.npmjs.com/package/lambda-load-test)
 - [AWS Lambda Limits](http://docs.aws.amazon.com/lambda/latest/dg/limits.html)
 - [blog.powerupcloud.com: AWS inventory details in CSV using lambda 🌟](http://blog.powerupcloud.com/2016/02/07/aws-inventory-details-in-csv-using-lambda)
+- [How do I stop and start EC2 instances at regular intervals using AWS Lambda? (Video) 🌟🌟🌟](https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-cloudwatch/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/awslambda?src=hash">#awslambda</a> ups code storage limit from 1.5GB to 75GB for everyone. Create all the Lambda functions you need! <a href="https://t.co/NMduXKMPUn">https://t.co/NMduXKMPUn</a></p>&mdash; Tim Wagner (@timallenwagner) <a href="https://twitter.com/timallenwagner/status/701963091639029760">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
