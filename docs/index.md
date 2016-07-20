@@ -252,6 +252,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </div>
 <br/>
 
+![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
