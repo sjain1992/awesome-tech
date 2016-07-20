@@ -476,13 +476,8 @@
 </div>
 <br/>
 
-[![Mastering CentOS 7](images/Mastering-CentOS-7-Linux-Server.png)](http://www.wowebook.org/mastering-centos-7-linux-server.html)
-
-[![CentOS 7 Linux Server Cookbook](images/CentOS-7-Linux-Server-Cookbook-2nd-Edition.png)](http://www.wowebook.org/centos-7-linux-server-cookbook-second-edition.html)
-
-[![CentOS High Performance](images/CentOS-High-Performance.png)](http://www.wowebook.org/centos-high-performance.html)
-
-[![Troubleshooting CentOS](images/Troubleshooting-CentOS.png)](http://www.wowebook.org/troubleshooting-centos.html)
+|[![Mastering CentOS 7](images/Mastering-CentOS-7-Linux-Server.png)](http://www.wowebook.org/mastering-centos-7-linux-server.html)|[![CentOS 7 Linux Server Cookbook](images/CentOS-7-Linux-Server-Cookbook-2nd-Edition.png)](http://www.wowebook.org/centos-7-linux-server-cookbook-second-edition.html)|[![CentOS High Performance](images/CentOS-High-Performance.png)](http://www.wowebook.org/centos-high-performance.html)|[![Troubleshooting CentOS](images/Troubleshooting-CentOS.png)](http://www.wowebook.org/troubleshooting-centos.html)|
+|:---:|:---:|:---:|:---:|
 
 [![redhat_nasdaq](images/redhat_nasdaq.png)](https://www.tradingview.com/chart/?symbol=RHT)
 
