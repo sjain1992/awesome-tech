@@ -13,8 +13,8 @@ Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | Re
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
 </p>
 
-|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <p align="center">
 Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
