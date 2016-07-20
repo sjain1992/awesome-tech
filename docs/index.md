@@ -13,6 +13,9 @@ Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | Re
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
 </p>
 
+|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 <p align="center">
 Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
 </p>
@@ -128,7 +131,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 | [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet) | [![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia) |[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup) |  [![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)  | [![javiergarzas](images/javiergarzas.jpg)](https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg)|  [![chemaalonso](images/chemaalonso.jpg)](https://www.youtube.com/c/malignoalonso)|
+|[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet) | [![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia) |[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup) |  [![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)  | [![javiergarzas](images/javiergarzas.jpg)](https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg)| [![chemaalonso](images/chemaalonso.jpg)](https://www.youtube.com/c/malignoalonso)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![bolsamania_videos](images/bolsamania_videos.jpg)](https://www.youtube.com/user/bolsamaniaTV)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![the_economist_videos](images/the_economist_videos.jpg)](https://www.youtube.com/user/EconomistMagazine)|[![bolsatv](images/bolsatv.jpg)](https://www.youtube.com/channel/UC379hLqrhnGa0_pPeyc4ySg)|[![maxkeiser_espanol](images/maxkeiser_espanol.jpg)](https://actualidad.rt.com/programas/keiser_report)|
