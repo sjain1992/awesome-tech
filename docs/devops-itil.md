@@ -287,6 +287,7 @@
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
 - [DevOps Debates: The Benefits of Tool Standardization 🌟](http://devops.com/2016/01/20/devops-debates-benefits-tool-standardization/)
 - [51 Best DevOps Tools for #DevOps Engineers 🌟](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/)
+- [11 Programming Languages For DevOps Success 🌟🌟](http://www.informationweek.com/devops/11-programming-languages-for-devops-success/d/d-id/1326274) DevOps uses languages for software development and languages for deployment automation. If you want to be successful with either side of DevOps, these languages will help.
 
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
