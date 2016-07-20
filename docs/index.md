@@ -13,7 +13,7 @@ Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | Re
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
 </p>
 
-|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
+|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 <p align="center">
