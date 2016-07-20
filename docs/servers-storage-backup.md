@@ -6,6 +6,7 @@
 	- [HP](#hp)
 	- [FlexPod Datacenter](#flexpod-datacenter)
 	- [VxRail VMware Hyper Converged Infrastructure HCI](#vxrail-vmware-hyper-converged-infrastructure-hci)
+	- [Cisco HyperFlex Systems](#cisco-hyperflex-systems)
 	- [Lenovo Servers](#lenovo-servers)
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
@@ -133,6 +134,14 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDgSTlPLs00?list=PLeI0J3mFLYgwk2G0wkTCXpygnXuvBlVE6" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Cisco HyperFlex Systems
+- [Cisco Hyperconverged Infrastructure](http://www.cisco.com/c/en/us/products/hyperconverged-infrastructure/index.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gd2KHjZs_2g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
