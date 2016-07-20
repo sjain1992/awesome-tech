@@ -66,6 +66,8 @@
 </div>
 <br>
 
+[![dilbert_sabotage_profits](images/dilbert_sabotage_profits.gif)](http://dilbert.com/strip/2000-02-20)
+
 ## Javier Garzas 
 - [slideshare: 233 grados de TI 🌟🌟🌟](http://www.slideshare.net/233gradosdeTI)
 - [Javier Garzás: Agilidad 🌟🌟🌟🌟🌟](https://www.youtube.com/watch?v=oShXAC26rcs)

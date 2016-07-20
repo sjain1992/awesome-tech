@@ -264,6 +264,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </div>
 <br/>
 
+[![dilbert_the_new_vp](images/dilbert_the_new_vp.gif)](http://dilbert.com/strip/2010-03-26)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7HF1Sfos3v4?list=PL_h5o0KnrCrgB0Xo19U6orpWOv9yxK-c7" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -318,6 +320,11 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |:---:|:---:|
 
 </center>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/DfGs2Y5WJ14?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

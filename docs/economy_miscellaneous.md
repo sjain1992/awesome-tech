@@ -7,6 +7,8 @@
 
 <!-- /MarkdownTOC -->
 
+![modern-times](images/modern-times.jpg)
+
 # Economy. Miscellaneous
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
