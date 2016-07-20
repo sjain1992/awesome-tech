@@ -138,7 +138,7 @@
 <br>
 
 ## Cisco HyperFlex Systems
-- [Cisco Hyperconverged Infrastructure](http://www.cisco.com/c/en/us/products/hyperconverged-infrastructure/index.html)
+- [Cisco Hyperconverged Infrastructure](http://www.cisco.com/go/hyperflex)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gd2KHjZs_2g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
