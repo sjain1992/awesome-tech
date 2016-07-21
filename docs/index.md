@@ -5,15 +5,16 @@
 <div id="player"></div>
 </div>
 <iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
-
 <center>
+
 Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) 
-</center>
 
+</center>
 <center>
-Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
-</center>
 
+Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
+
+</center>
 <center>
 
 |[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|
@@ -26,11 +27,11 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 |:---:|:---:|:---:|:---:|
 
 </center>
-
 <center>
-Wifi N or AC recommended. [Disable Tracking Protection in Firefox!](https://support.mozilla.org/en-US/kb/tracking-protection-pbm), use [Firefox's Disconnect.me basic protection list!](http://www.ghacks.net/2015/09/20/firefox-43-tracking-protection-with-blocklist-selection/), and disable browser's antivirus plugin in order to render the embedded tweets
-</center>
 
+Wifi N or AC recommended. [Disable Tracking Protection in Firefox!](https://support.mozilla.org/en-US/kb/tracking-protection-pbm), use [Firefox's Disconnect.me basic protection list!](http://www.ghacks.net/2015/09/20/firefox-43-tracking-protection-with-blocklist-selection/), and disable browser's antivirus plugin in order to render the embedded tweets
+
+</center>
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
