@@ -250,6 +250,7 @@
 
 ## WiFi Products
 - [twitter.com/wifisafespain](https://twitter.com/wifisafespain)
+- [The Best Wi-Fi Routers: No More Dead Zones](http://www.wsj.com/articles/these-routers-fix-wi-fi-dead-zones-but-theyll-cost-you-1469038426)
 
 [![wifisafe](images/wifisafe-marca.jpg)](https://www.wifisafe.com/)
 

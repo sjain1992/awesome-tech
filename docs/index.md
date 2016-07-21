@@ -7,7 +7,7 @@
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 <center>
 
-Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) 
+Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
 
 </center>
 <center>
