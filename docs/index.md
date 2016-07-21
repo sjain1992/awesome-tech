@@ -27,7 +27,7 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 </center>
 
 <p align="center">
-Wifi N or AC recommended. Disable Tracking Protection in Firefox and antivirus plugin in Chrome in order to render the embedded tweets</strike>
+Wifi N or AC recommended. Disable Tracking Protection in Firefox and antivirus plugin in order to render the embedded tweets</strike>
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
