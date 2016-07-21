@@ -174,6 +174,9 @@
 
 [![3_job_search_secrets](images/3_job_search_secrets.png)](http://www.careerealism.com/job-search-secrets-employers-wish/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Looking for a new job can be a burden o n your budget. Here&#39;s how much Americans spend: <a href="https://t.co/uWlPmNqHdl">https://t.co/uWlPmNqHdl</a> <a href="https://t.co/GORxRUxddO">pic.twitter.com/GORxRUxddO</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/756096391848525824">21 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![interview_questions_been_laid_off](images/interview_questions_been_laid_off.png)](http://www.careerealism.com/interview-questions-been-laid-off/)
 
 [![answer_interview_question_after_being_fired](images/answer_interview_question_after_being_fired.png)](http://www.careerealism.com/interview-questions-answer-been-fired/)

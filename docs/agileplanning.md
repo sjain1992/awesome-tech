@@ -31,6 +31,7 @@
 - [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
 - [opensource.com - Scrum is dead: breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
 - [DZone refcard: Scrum 🌟🌟](https://dzone.com/refcardz/scrum)
+- [DZone: 12 Mistakes in Agile Manifesto 🌟🌟](https://dzone.com/articles/twelve-mistakes-in-agile-manifesto) Most software teams misunderstand the 12 agile principles. Here is a summary of what's going on and an interpretation of each principle.
 
 [![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)
 

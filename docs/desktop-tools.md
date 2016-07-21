@@ -93,6 +93,7 @@
 - [Lynda.com Excel Tips](http://www.lynda.com/Excel-tutorials/Excel-Tips/363001-2.html)
 - [businessinsider.com: 11 basic Excel tricks that will change your life](http://www.businessinsider.com/basic-excel-tricks-2015-3)
 - [Five Microsoft Excel Tips You'll Actually Use](https://learning.linkedin.com/blog/tech-tips/five-microsoft-excel-tips-you-ll-actually-use)
+- [businessinsider.com: This Excel trick will save you time and impress your boss](http://www.businessinsider.com/create-dynamic-named-ranges-excel-data-charts-update-automatically-2016-7)
 
 ![bill gates](images/bill_gates.jpg)
 
