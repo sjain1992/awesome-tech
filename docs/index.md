@@ -318,8 +318,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
-
-[![cartman_gets_hit_by_bus](images/cartman_gets_hit_by_bus.png)](https://www.youtube.com/watch?v=G6v6rdSYyaA)
+<!--
+[![cartman_gets_hit_by_bus](images/cartman_gets_hit_by_bus.png)](https://www.youtube.com/watch?v=G6v6rdSYyaA) -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6v6rdSYyaA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
 
@@ -370,6 +374,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+![margin_call_meeting](images/margin_call_meeting.gif)
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
 ![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)
@@ -385,6 +391,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+![dating_quote](images/dating_quote.gif)
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I got into this career because I liked computers.<br><br>Things have changed.</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/740265265028464640">7 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
