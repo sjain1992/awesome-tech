@@ -159,11 +159,6 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5saN0sbo4cgTE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Examure4/aws-certified-solutions-architect-exam-questions-answers" title="AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers" target="_blank">AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers</a> </strong> from <strong><a href="//www.slideshare.net/Examure4" target="_blank">Examure4</a></strong> </div>
-</div>
-<br/>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS cloud computing ops, data centers, 1.3 million servers creating efficiency flywheel <a href="https://t.co/KRjIzt85GS">https://t.co/KRjIzt85GS</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/740238430219603969">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
