@@ -28,6 +28,8 @@
 
 ![Data Scientist vs Big-data Engineer](images/datascientist_bigdata_positions.jpg)
 
+![margin_call_rocket_scientist](images/margin_call_rocket_scientist.gif)
+
 ![margin_call_smartguy](images/margin_call_smartguy.gif)
 
 <div class="container">

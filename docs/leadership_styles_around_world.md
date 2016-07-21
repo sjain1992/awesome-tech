@@ -14,6 +14,8 @@
 </div>
 <br/>
 
+![margin_call_boss](images/margin_call_boss.gif)
+
 # Leadership Styles Around the World
 - [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 - [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)
