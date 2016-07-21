@@ -92,6 +92,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s time to choose: Are you investing in <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> or not? <a href="https://t.co/UbXXpstbKX">https://t.co/UbXXpstbKX</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/747656523766173696">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![zdnet_opensource_default_business_model](images/zdnet_opensource_default_business_model.png)](http://www.zdnet.com/article/has-open-source-become-the-new-default-business-model-for-enterprise-software/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NxUyTA81epg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
