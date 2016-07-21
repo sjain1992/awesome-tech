@@ -338,11 +338,6 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </center>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/DfGs2Y5WJ14?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

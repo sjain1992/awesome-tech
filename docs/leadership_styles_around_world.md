@@ -9,6 +9,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Stanley Kubrick’s Barry Lyndon: ‘It puts a spell on people’ <a href="https://t.co/JiWohzkb98">https://t.co/JiWohzkb98</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/753648926910210053">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/DfGs2Y5WJ14?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Leadership Styles Around the World
 - [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 - [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)
