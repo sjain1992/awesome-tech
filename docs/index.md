@@ -6,12 +6,13 @@
 </div>
 <iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
 
-<br/>
-<p align="center">
-Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) </p>
-<p align="center">
+<center>
+Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) 
+</center>
+
+<center>
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
-</p>
+</center>
 
 <center>
 
@@ -26,9 +27,9 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 
 </center>
 
-<p align="center">
-Wifi N or AC recommended. Disable Tracking Protection in Firefox and antivirus plugin in order to render the embedded tweets</strike>
-</p>
+<center>
+Wifi N or AC recommended. [Disable Tracking Protection in Firefox!](https://support.mozilla.org/en-US/kb/tracking-protection-pbm) and browser's antivirus plugin in order to render the embedded tweets
+</center>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
