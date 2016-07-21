@@ -159,6 +159,7 @@
 ## RAID disks
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
+- [commandlinefu.com: Get the serial numbers from HP RAID](http://www.commandlinefu.com/commands/view/17608/get-the-serial-numbers-from-hp-raid)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/132158475779" data-did="25c4bf4e9f55ff90f914ea4649ba4b984b59e7b0"><a href="http://securityreactions.tumblr.com/post/132158475779/noticing-a-zmapmasscan-hit-your-command-and">http://securityreactions.tumblr.com/post/132158475779/noticing-a-zmapmasscan-hit-your-command-and</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

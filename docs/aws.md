@@ -30,6 +30,7 @@
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
+    - [Docker for AWS](#docker-for-aws)
     - [AWS CLI](#aws-cli)
     - [AWS VPC](#aws-vpc)
     - [AWS SQS. Amazon Simple Queue Service](#aws-sqs-amazon-simple-queue-service)
@@ -485,6 +486,9 @@
 - [Docker Datacenter on the AWS Cloud: Quick Start Reference Deployment 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/06/docker-datacenter-on-the-aws-cloud-quick-start-reference-deployment/)
 
 [![docker_datacenter_on_aws](images/docker_datacenter_on_aws.png)](https://aws.amazon.com/es/about-aws/whats-new/2016/06/docker-datacenter-on-the-aws-cloud-quick-start-reference-deployment/)
+
+## Docker for AWS
+- [DZone: Getting Started With Docker for AWS and Scaling Nodes](https://dzone.com/articles/getting-started-with-docker-for-aws-and-scaling-no) This blog will explain how to get started with Docker for AWS and deploy a multi-host Swarm cluster on Amazon.
 
 ## AWS CLI
 - [Amazon CLI Documentation](https://aws.amazon.com/cli)

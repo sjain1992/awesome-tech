@@ -17,6 +17,8 @@
 [![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)
 
 # Performance Testing. Traffic injectors/generators
+- [DZone: Top 10 Web Performance Killers](https://dzone.com/articles/top-10-web-performance-killers) Sam Holt talks about the Top 10 Web Performance Killers, including uncompressed static assets and not leveraging HTML features.
+
 ## JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)

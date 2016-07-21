@@ -184,3 +184,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">powertop # Will show you the top power consuming processes on your Linux laptop.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/746418623900590085">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/nGxU65TSIe">https://t.co/nGxU65TSIe</a> - Get the serial numbers from HP RAID (operat0r)</p>&mdash; CommandLineFu (@commandlinefu) <a href="https://twitter.com/commandlinefu/status/755820233311432705">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sudo grep 1.2.3.4 /var/log/httpd/access_log{.2,.1,} # Where log directory is not world readable, brace expansion helps when a wildcard can&#39;t</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/755797174437502976">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

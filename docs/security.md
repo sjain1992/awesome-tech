@@ -325,6 +325,7 @@
 - [Single sign-on improvements in Fedora 24 🌟](https://fedoramagazine.org/single-sign-on-improvements-fedora-24/)
 - [Visionary Trends of Identity Access Management (IAM) Security](https://www.peerlyst.com/posts/visionary-trends-of-identity-access-management-iam-security-george-moraetes)
 - [DZone: 11 Steps to Secure Your Servers Part 3 & 4: Login and Securing Passwords 🌟](https://dzone.com/articles/11-steps-to-secure-your-servers-4-securing-passwor) Parts 3 and 4 of a series of posts on server security from Inversoft's 2016 Guide to User Data Security.
+- [Managing passwords in Linux with KeePassX](https://opensource.com/business/16/5/keepassx)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Identity Manager: Part 1 – Overview and Getting started <a href="https://t.co/b6HOQO4dVU">https://t.co/b6HOQO4dVU</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/726033502903267328">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

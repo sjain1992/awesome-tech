@@ -17,6 +17,7 @@
 - [blog.performancevision.com - NETWORK PERFORMANCE: LINKS BETWEEN LATENCY, THROUGHPUT AND PACKET LOSS 🌟🌟🌟](http://blog.performancevision.com/links-between-latency-throughput-and-packet-loss)
 - [blog.performancevision.com - DNS: KEY TO NETWORK AND APPLICATION PERFORMANCE](http://blog.performancevision.com/dns-key-to-network-and-application-performance)
 - [blog.performancevision.com - HOW TO MEASURE NETWORK PERFORMANCE THROUGH PASSIVE TRAFFIC ANALYSIS](http://blog.performancevision.com/how-to-measure-network-performance-through-passive-traffic-analysis)
+- [Datapath.io: What is Network Congestion?](http://blog.datapath.io/what-is-network-congestion)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8AgMu6Wr5g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

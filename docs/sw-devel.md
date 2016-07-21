@@ -201,6 +201,9 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface 🌟🌟🌟🌟](http://devdocs.io)
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
+- [IBM API Harmony](https://apiharmony-open.mybluemix.net/) Find your perfect API by searching for Languages like Javascript or Ruby
+
+[![ibm_api_harmony](images/ibm_api_harmony.png)](https://apiharmony-open.mybluemix.net/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ICYMI?src=hash">#ICYMI</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> signed a definitive agreement to acquire 3scale: <a href="https://t.co/FNEoLPH5DZ">https://t.co/FNEoLPH5DZ</a> <a href="https://twitter.com/3scale">@3scale</a> <a href="https://t.co/IcXOir7dhC">pic.twitter.com/IcXOir7dhC</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/745934140869054468">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

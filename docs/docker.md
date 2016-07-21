@@ -59,6 +59,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Creating local <a href="https://twitter.com/hashtag/DockerSwarm?src=hash">#DockerSwarm</a> cluster running in VMs on <a href="https://twitter.com/hashtag/Boot2Docker?src=hash">#Boot2Docker</a> <a href="https://t.co/f7x2D4vkrn">https://t.co/f7x2D4vkrn</a> <a href="https://twitter.com/docker_saigon">@docker_saigon</a> <a href="https://twitter.com/hashtag/SwarmWeek?src=hash">#SwarmWeek</a> <a href="https://t.co/OrGNVxHSm5">pic.twitter.com/OrGNVxHSm5</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/710529394712956928">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">An overview of <a href="https://twitter.com/hashtag/microservices?src=hash">#microservices</a> and why they help companies succeed: <a href="https://t.co/Q07Be2qyam">https://t.co/Q07Be2qyam</a> via <a href="https://twitter.com/chuhnk">@chuhnk</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/754222791449116672">16 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Docker references
 - [gettopical.com: Docker Latest News](http://gettopical.com/docker)
 - [Docker Hub](https://hub.docker.com)
