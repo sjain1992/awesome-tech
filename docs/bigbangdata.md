@@ -4,6 +4,8 @@
 
 <!-- /MarkdownTOC -->
 
+![margin_call_its_just_number](images/margin_call_its_just_number.gif)
+
 # Big Bang Data
 - [bigbangdata.cccb.org](http://bigbangdata.cccb.org)
 - [Fundación Telefónica: Exposición Big Bang Data](https://espacio.fundaciontelefonica.com/evento/big-bang-data/)

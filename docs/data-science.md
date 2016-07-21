@@ -28,12 +28,16 @@
 
 ![Data Scientist vs Big-data Engineer](images/datascientist_bigdata_positions.jpg)
 
+![margin_call_smartguy](images/margin_call_smartguy.gif)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bpZyCP8TXChqaM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mjft01/big-data-landscape-2016" title="Big Data Landscape 2016 " target="_blank">Big Data Landscape 2016 </a> </strong> from <strong><a href="//www.slideshare.net/mjft01" target="_blank">Matt Turck</a></strong> </div>
 </div>
 <br/>
 
 [![data_scientist_for_free](images/data_scientist_for_free.png)](http://www.businessinsider.com/databricks-ceo-offering-free-big-data-training-2016-3)
+
+![margin_call_its_just_number](images/margin_call_its_just_number.gif)
 
 ![big_data_landscape](images/big_data_landscape.png)
 

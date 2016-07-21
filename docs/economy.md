@@ -27,6 +27,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fragmento de la última entrevista a Carl Sagan <a href="https://t.co/cJIoOcXpAO">https://t.co/cJIoOcXpAO</a></p>&mdash; Albert Montserrat (@tenormontserrat) <a href="https://twitter.com/tenormontserrat/status/704633194830831616">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![margin_call_smartguy_sees_financial_crisis](images/margin_call_smartguy_sees_financial_crisis.gif)
+
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing

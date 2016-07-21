@@ -377,7 +377,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+![margin_call_rocket_scientist](images/margin_call_rocket_scientist.gif)
+
 ![margin_call_meeting](images/margin_call_meeting.gif)
+
+![margin_call_boss](images/margin_call_boss.gif)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
