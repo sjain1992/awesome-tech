@@ -138,6 +138,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
+<center>
+
 | [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -245,6 +247,8 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 |[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)|[![owasp_delphi_slides](images/owasp_delphi_slides.jpg)](http://www.slideshare.net/OWASPdelhi)|[![capgemini_slideshare](images/capgemini_slideshare.jpg)](http://www.slideshare.net/capgemini)|[![atlassian_videos](images/atlassian_videos.jpg)](http://www.slideshare.net/GoAtlassian)|[![agile_bcn_slides](images/agile_bcn_slides.jpg)](http://es.slideshare.net/agilebcn)|[![rackspace_slideshare](images/rackspace_slideshare.jpg)](http://www.slideshare.net/rackspace)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
+</center>
 
 [![dilbert_youtube_tutorials](images/dilbert_youtube_tutorials.jpg)](http://dilbert.com/strip/2016-07-17)
 
