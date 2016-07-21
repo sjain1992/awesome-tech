@@ -4,6 +4,7 @@
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
 </div>
+[![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 <center>
 
 Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web | Contract & Permanent (no freelance) 
@@ -31,8 +32,6 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://support.mozilla.org/en-US/kb/tracking-protection-pbm), use [Firefox's Disconnect.me basic protection list](http://www.ghacks.net/2015/09/20/firefox-43-tracking-protection-with-blocklist-selection/), and disable browser's antivirus plugin in order to render the embedded tweets
 
 </center>
-[![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
-
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 
