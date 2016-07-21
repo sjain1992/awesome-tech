@@ -227,6 +227,12 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![oasis_videos](images/oasis_videos.jpg)](https://www.youtube.com/oasis)|[![u2_videos](images/u2_videos.jpg)](https://www.youtube.com/user/U2VEVO)|[![mikeoldfield_videos](images/mikeoldfield_videos.jpg)](https://www.youtube.com/user/MikeOldfieldVEVO)|[![amywinehouse_videos](images/amywinehouse_videos.jpg)](https://www.youtube.com/user/AmyWinehouseVEVO)|[![adele_videos](images/adele_videos.jpg)](https://www.youtube.com/adele)|[![theverve_videos](images/theverve_videos.jpg)](https://www.youtube.com/channel/UCt2KxZpY5D__kapeQ8cauQw)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+</center>
+
+[![dilbert_youtube_tutorials](images/dilbert_youtube_tutorials.jpg)](http://dilbert.com/strip/2016-07-17)
+
+<center>
+
 |[![puppet_slides](images/puppet_slides.png)](http://www.slideshare.net/PuppetLabs)| [![chef_slides](images/chef_slides.png)](http://www.slideshare.net/opscode)| [![flux7_slides](images/flux7_slides.jpg)](http://www.slideshare.net/Flux7Labs)| [![mongodb_slides](images/mongodb_slides.jpg)](http://www.slideshare.net/mongodb)| [![postgres_slides](images/postgres_slides.jpg)](http://www.slideshare.net/PGExperts)| [![nginx_slides](images/nginx_videos.jpg)](http://www.slideshare.net/Nginx)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -249,8 +255,6 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
-
-[![dilbert_youtube_tutorials](images/dilbert_youtube_tutorials.jpg)](http://dilbert.com/strip/2016-07-17)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
