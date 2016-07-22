@@ -127,7 +127,10 @@
 
 [![ING_testing_ciclo_desarrollo_sw](images/ING_testing_ciclo_desarrollo_sw.png)](http://www.slideshare.net/educar_bressano/testing-ing-gabriela-muoz)
 
-<div style="width:765px"> <strong style="display:block;margin:12px 0 4px"><a href="http://slideplayer.com/slide/1493816/" title="Ivan Marsic Rutgers University LECTURE 8: Software Testing." target="_blank">Ivan Marsic Rutgers University LECTURE 8: Software Testing.</a></strong><iframe src="http://player.slideplayer.com/5/1493816/" width="765" height="623" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe><div style="padding:5px 0 12px"></div></div>
+<div class="container">
+<div style="width:765px"> <strong style="display:block;margin:12px 0 4px"><a href="http://slideplayer.com/slide/1493816/" title="Ivan Marsic Rutgers University LECTURE 8: Software Testing." target="_blank">Ivan Marsic Rutgers University LECTURE 8: Software Testing.</a></strong><iframe src="http://player.slideplayer.com/5/1493816/" width="765" height="623" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen class="video"></iframe><div style="padding:5px 0 12px"></div></div>
+</div>
+<br/>
 
 [![logical_organization_of_testing](images/logical_organization_of_testing.jpg)](http://slideplayer.com/slide/1493816/)
 
