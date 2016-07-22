@@ -60,6 +60,7 @@
 - [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)
 - [Kali Linux, Rolling Edition Released – 2016.1](https://www.kali.org/releases/kali-linux-rolling-edition-2016-1/)
 - [Udemy.com: Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
+- [hackercool.com: WordPress version detection with Metasploit](http://hackercool.com/2016/07/wordpress-version-detection-with-metasploit/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>

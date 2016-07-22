@@ -158,6 +158,7 @@
 - [sonatype.org](http://www.sonatype.org)
 - [Nexus Repository Manager 🌟](http://www.sonatype.org/nexus/)
 - [Using Jenkins with Nexus Repository Manager (Videos) 🌟](http://www.sonatype.org/nexus/2015/12/03/using-jenkins-with-nexus-repository-manager-4-videos/)
+- [From Sonatype: Puppet-eering the Nexus Repository](https://puppet.com/blog/sonatype-puppet-eering-the-nexus-repository)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lKIQaX7qQ0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

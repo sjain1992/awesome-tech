@@ -156,6 +156,7 @@
 - [hacking-etico.com](http://hacking-etico.com)
 - [Hack In The Box Security Conference 🌟](https://www.youtube.com/user/hitbsecconf)
 - [infosecurity-magazine.com 🌟🌟](http://www.infosecurity-magazine.com/)
+- [hackercool.com 🌟🌟](http://hackercool.com/latest-hacks/)
 
 [![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
 
@@ -548,6 +549,7 @@
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)
+- [hackercool.com: WordPress version detection with Metasploit](http://hackercool.com/2016/07/wordpress-version-detection-with-metasploit/)
 
 ### Container security. Who’s fixing containers? February 2016
 - [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
