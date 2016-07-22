@@ -155,6 +155,9 @@
 
 ![reason_leaving_last_job](images/reason_leaving_last_job.png) 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Millennials?src=hash">#Millennials</a> at work: <a href="https://twitter.com/hashtag/Tech?src=hash">#Tech</a> is more important than free lunch and ping pong <a href="https://t.co/JWw0UHZFru">https://t.co/JWw0UHZFru</a> <a href="https://twitter.com/hashtag/BYOD?src=hash">#BYOD</a> <a href="https://t.co/kjnL4W83bl">pic.twitter.com/kjnL4W83bl</a></p>&mdash; Evan Kirstel (@evankirstel) <a href="https://twitter.com/evankirstel/status/756051389269340161">21 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![what_developers_hate_about_job_search](images/what_developers_hate_about_job_search.png)](http://business.stackoverflow.com/blog/what-todays-developers-hate-about-the-job-search)
 
 [![recruitment_dont_send_email](images/recruitment_dont_send_email.png)](https://www.linkedin.com/pulse/stop-dont-send-email-james-caan-cbe)
@@ -189,6 +192,9 @@
 ![business-commerce-interview](images/business-commerce-interview.jpg)
 
 [![bi_interview_question_facebook](images/bi_interview_question_facebook.png)](http://www.businessinsider.com/the-tricky-interview-question-facebook-uses-to-weed-out-selfish-candidates-2016-6)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Remember him? Our intern. It turns out he was lying about his computer skills especially Linux skills. Heh! <a href="https://t.co/vktywQZ5HI">pic.twitter.com/vktywQZ5HI</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755709459695927296">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![question_facebook_uses_to_measure_teamwok](images/question_facebook_uses_to_measure_teamwok.png)](http://www.businessinsider.com/the-tricky-interview-question-facebook-uses-to-weed-out-selfish-candidates-2016-6)
 
