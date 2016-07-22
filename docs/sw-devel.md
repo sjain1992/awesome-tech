@@ -191,6 +191,8 @@
 
 ![system testing](images/system_testing_cartoon.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">how to be a wizard programmer <a href="https://t.co/7xyfhswK6s">pic.twitter.com/7xyfhswK6s</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/755020037979856896">18 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Software Architecture Patterns
 - [Architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [EDA - Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
