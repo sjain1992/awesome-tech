@@ -276,6 +276,7 @@
 - [24 signs nobody trusts you at work](http://www.businessinsider.com/signs-your-coworkers-dont-trust-you-2016-5)
 - [How to deal with 7 terrible work situations 🌟🌟](http://www.businessinsider.com/how-to-deal-with-7-terrible-work-situations-2016-6)
 - [Why Smart Women Still Get Sexually Harassed](http://www.inc.com/jt-odonnell/why-smart-women-still-get-sexually-harassed.html) In cases like Gretchen Carlson's, here's why the phrase "there's safety in numbers" matters.
+- [Culture Shock—Without Ever Leaving Your Home Country](http://www.careerealism.com/culture-shock-home-country/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
