@@ -107,6 +107,9 @@
 	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
 - [SCAP (Security Content Automation Protocol)](http://scap.nist.gov/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The European Commission to audit Apache HTTP Server &amp; <a href="https://twitter.com/KeePass">@KeePass</a>  <a href="https://t.co/IINqtuQSwV">https://t.co/IINqtuQSwV</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Kg2EJdGyEg">pic.twitter.com/Kg2EJdGyEg</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755992919316627457">21 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## OWASP Open Web Application Security Project 
 - [owasp.org 🌟🌟](https://www.owasp.org) The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software. 
 - [OWASP Testing Project](https://www.owasp.org/index.php/OWASP_Testing_Project)

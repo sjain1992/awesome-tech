@@ -37,6 +37,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cutting costs could be costing you money <a href="https://t.co/xldpR0lDY2">https://t.co/xldpR0lDY2</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/hashtag/ITWOB?src=hash">#ITWOB</a> <a href="https://t.co/FTDRrZUIAh">pic.twitter.com/FTDRrZUIAh</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/700579406947946496">febrero 19, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDa-OUj9A5I?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/bbva">@BBVA</a> signs strategic collaboration with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> to accelerate its global transformation: <a href="https://t.co/Px2AI3qERZ">https://t.co/Px2AI3qERZ</a> <a href="https://t.co/8gAVauJ5N4">pic.twitter.com/8gAVauJ5N4</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/736529457494659072">28 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

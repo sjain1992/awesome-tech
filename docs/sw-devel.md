@@ -452,6 +452,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 ways <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> changes the rules of app development from <a href="https://twitter.com/VentureBeat">@VentureBeat</a> and <a href="https://twitter.com/NodeSource">@NodeSource</a>: <a href="https://t.co/kn1BiVoqwF">https://t.co/kn1BiVoqwF</a></p>&mdash; Node.js (@nodejs) <a href="https://twitter.com/nodejs/status/746417648725012480">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to use a different version of python during NPM install? <a href="https://twitter.com/hashtag/python?src=hash">#python</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/centos?src=hash">#centos</a> <a href="https://twitter.com/hashtag/npm?src=hash">#npm</a> <a href="https://t.co/jxKUPLPm0I">https://t.co/jxKUPLPm0I</a></p>&mdash; PythonQnA (@PythonQnA) <a href="https://twitter.com/PythonQnA/status/756340244321038336">22 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A moment of nostalgia...<br> <a href="https://t.co/Sgt0OsCZ4S">https://t.co/Sgt0OsCZ4S</a> <a href="https://t.co/nEEsV4kCmI">pic.twitter.com/nEEsV4kCmI</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/730111283400478720">10 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Frontend Blogs

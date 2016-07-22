@@ -174,6 +174,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Visit our YouTube Channel and SUBSCRIBE, It&#39;s free!<a href="https://t.co/9kACbmd4vg">https://t.co/9kACbmd4vg</a><a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/sysadminshowto?src=hash">#sysadminshowto</a> <a href="https://twitter.com/hashtag/cbt?src=hash">#cbt</a></p>&mdash; SysAdmíns Howto (@SysAdmHowto) <a href="https://twitter.com/SysAdmHowto/status/743950692788895748">17 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux Command To Put Your Linux Laptop In Hibernate/Suspend Mode:<br><br>systemctl suspend<br><br>More <a href="https://t.co/eR6YLkI7a5">https://t.co/eR6YLkI7a5</a> <a href="https://t.co/IZUbWs5lAN">pic.twitter.com/IZUbWs5lAN</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755837171928399872">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
 - [opensource.com](https://opensource.com/)

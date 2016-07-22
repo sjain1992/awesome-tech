@@ -189,3 +189,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sudo grep 1.2.3.4 /var/log/httpd/access_log{.2,.1,} # Where log directory is not world readable, brace expansion helps when a wildcard can&#39;t</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/755797174437502976">20 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find /var/www -perm -o+w -a -not -type l -ls # Find files and directories under /var/www that are world writable. Exclude symbolic links.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/755860087147724800">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
