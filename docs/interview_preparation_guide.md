@@ -141,6 +141,7 @@
 - [How To Get Out Of Your Unemployment Funk 🌟🌟](http://www.careerealism.com/unemployment-funk/) Looking for a job is not an easy task, especially when you’ve been out of a job for more than six months. You don’t know what day it is, you don’t have to wake up early (at least not for work), and you’ve developed a not-so-friendly relationship with your computer.
 - [10 Hilarious Signs You Should Not Take That Job (Infographic) 🌟🌟🌟🌟](https://www.entrepreneur.com/article/269906)
 - [careerhmo.com: 6 Types Of Illegal Interview Questions To Watch Out For](http://careerhmo.com/types-illegal-interview-questions/)
+- [Need To Cancel Your Job Interview? Don't Do This...](https://www.linkedin.com/pulse/need-cancel-your-job-interview-dont-do-j-t-o-donnell)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
