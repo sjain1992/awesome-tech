@@ -25,6 +25,7 @@
 - [Barcelona Activa 🌟](http://www.barcelonactiva.cat/barcelonactiva)
 	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
+- [Barcelona Tech City](http://www.ecommercetechbcn.com)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [BCN CONECTA](https://twitter.com/bcnconecta)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
@@ -35,6 +36,7 @@ para universitarios y titulados júnior
 - [telecos.cat](http://www.telecos.cat)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
+- [Barcelona se postula como uno de los ‘hubs’ tecnológicos más potentes de Europa](http://cincodias.com/cincodias/2016/07/21/tecnologia/1469129064_806611.html)
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.museugrifols.com)
 
