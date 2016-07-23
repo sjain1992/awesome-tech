@@ -86,6 +86,8 @@
 - [9 Warning Signs Your Employee is Quitting](http://www.mjms.net/blog/9-warning-signs-your-employee-is-quitting/)
 - [10 Things Companies Do That Kill Employee Motivation 🌟](https://learning.linkedin.com/blog/engaging-your-workforce/10-things-companies-do-that-kill-employee-motivation)
 
+[![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
+
 [![truth_employee_attitude_probs](images/truth_employee_attitude_probs.png)](http://www.forbes.com/sites/lizryan/2016/06/22/the-truth-about-employees-with-attitude-problems)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do millennials change jobs so frequently? The reasons make a lot of sense: <a href="https://t.co/UWptuL3uuC">https://t.co/UWptuL3uuC</a> <a href="https://t.co/nsSdChLWu9">pic.twitter.com/nsSdChLWu9</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/746780000859336708">25 de junio de 2016</a></blockquote>
@@ -285,12 +287,16 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/M09sPPgswr">https://t.co/M09sPPgswr</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753648466170175488">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_spreading_rumors_about_you](images/dilbert_spreading_rumors_about_you.gif)](http://dilbert.com/strip/2016-07-13)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/dq8PmIrUlF">https://t.co/dq8PmIrUlF</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/753009147730329601">12 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
 [![bi_8things_companies_do](images/bi_8things_companies_do.png)](http://www.businessinsider.com/things-your-boss-can-legally-do-2016-3)
+
+[![dilbert_comparing_their_careers_to_others](images/dilbert_comparing_their_careers_to_others.gif)](http://dilbert.com/strip/2016-07-12)
 
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
 
