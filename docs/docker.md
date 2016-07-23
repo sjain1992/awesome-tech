@@ -62,6 +62,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">An overview of <a href="https://twitter.com/hashtag/microservices?src=hash">#microservices</a> and why they help companies succeed: <a href="https://t.co/Q07Be2qyam">https://t.co/Q07Be2qyam</a> via <a href="https://twitter.com/chuhnk">@chuhnk</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/754222791449116672">16 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RedHat has an awesome take on container image signing. Binary signature files that are decoupled from the registry. <a href="https://t.co/cs3HzYXMem">https://t.co/cs3HzYXMem</a></p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/756529017575075844">22 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Docker references
 - [gettopical.com: Docker Latest News](http://gettopical.com/docker)
 - [Docker Hub](https://hub.docker.com)
@@ -145,6 +147,7 @@
 - [Docker Meets Continuous Deployment](https://dzone.com/articles/docker-meets-continuous-deployment)
 - [Monitoring Docker Containers – docker stats, cAdvisor, Universal Control Plane 🌟🌟](https://blog.codeship.com/monitoring-docker-containers/)
 - [Red Hat Whitepaper: MODERNIZING APPLICATION DELIVERY WITH CONTAINER PLATFORMS](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
+- [rhelblog.redhat.com: Container Image Signing 🌟🌟](http://rhelblog.redhat.com/2016/07/22/container-image-signing/)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 

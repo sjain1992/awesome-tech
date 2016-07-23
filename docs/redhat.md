@@ -444,6 +444,7 @@
 - [rhelblog.redhat.com: The Red Hat Ecosystem for Microservice and Container Development 🌟](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 - [rhelblog.redhat.com: Getting Started with the Red Hat Container Development Kit (CDK)](http://rhelblog.redhat.com/2016/02/25/getting-started-with-the-red-hat-container-development-kit-cdk/)
 - [Installing the Red Hat Container Development Kit (CDK) 2.0 release](http://www.schabell.org/2016/04/installing-redhat-cdk-2-0-release.html)
+- [rhelblog.redhat.com: Container Image Signing 🌟🌟](http://rhelblog.redhat.com/2016/07/22/container-image-signing/)
 
 [![red hat container ecosystem](images/container_ecosystem.png)](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 
@@ -475,6 +476,8 @@
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> CFO on <a href="https://twitter.com/CNBC">@CNBC</a>: Asia is our biggest growth driver <a href="https://t.co/rdgipyjYyl">https://t.co/rdgipyjYyl</a> <a href="https://twitter.com/Frank_Calderoni">@Frank_Calderoni</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/756588596304420865">22 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
