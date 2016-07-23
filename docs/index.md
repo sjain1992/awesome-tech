@@ -149,6 +149,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|
 |:---:|:---:|:---:|:---:|
 
+</center>
+<center>
+
 [![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|
 |:---:|:---:|:---:|:---:|
 
