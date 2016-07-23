@@ -53,6 +53,13 @@
 
 [![idc_iot_taxonomy_map](images/idc_iot_taxonomy_map.png)](http://www.idc.com/downloads/IoT_Taxonomy_Map_V2_Nov2014.pdf)
 
+<center>
+
+|[![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)|[![databricks_slides](images/databricks_slides.jpg)](http://www.slideshare.net/databricks)|[![spark_summit_slides](images/spark_summit_slides.jpg)](http://www.slideshare.net/SparkSummit)|[![anaconda_slides](images/anaconda_slides.jpg)](http://www.slideshare.net/continuumio)|[![tableau_slides](images/tableau_slides.jpg)](http://www.slideshare.net/TableauSoftware)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</center>
+
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)

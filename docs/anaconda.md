@@ -8,6 +8,8 @@
 
 [![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 
+[![anaconda_slides](images/anaconda_slides.jpg)](http://www.slideshare.net/continuumio)
+
 # Anaconda Analytics
 - [docs.continuum.io](http://docs.continuum.io/anaconda/index)
 - [Python: The Next Big Thing in Big Data 🌟](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
