@@ -56,8 +56,10 @@
 </div>
 <br/>
 
+<center>
 |[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|
 |:---:|:---:|
+</center>
 
 # Networking
 ## Next Generation Firewalls (NGFW)
