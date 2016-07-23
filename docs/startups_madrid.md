@@ -14,10 +14,14 @@
 
 [![simo](images/simo.jpg)](http://www.ifema.es/simoeducacion_01/)
 
+|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|
+|:---:|:---:|:---:|
+
+| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|
+|:---:|:---:|:---:|:---:|:---:|
+
 # IT Television
 - [IT Television](https://www.youtube.com/c/ittelevisiones)
-
-[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1XEvm3pFuek?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

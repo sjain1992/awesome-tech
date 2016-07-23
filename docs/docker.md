@@ -38,6 +38,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Containers Aren’t Replacing Linux, They’re Augmenting It <a href="https://t.co/p3UDzRz48x">https://t.co/p3UDzRz48x</a></p>&mdash; Benjamin Wootton (@benjaminwootton) <a href="https://twitter.com/benjaminwootton/status/748385048844439552">30 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)
+
 ## Docker
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)

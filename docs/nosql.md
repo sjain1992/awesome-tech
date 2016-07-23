@@ -14,6 +14,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible can provide the glue that can make it easier to deploy your containers into any environment. <a href="https://t.co/bCtSNifR0z">https://t.co/bCtSNifR0z</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/737661278945218560">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+|[![mongodb_videos](images/mongodb_videos.jpg)](https://www.youtube.com/user/MongoDB) |[![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| 
+|:---:|:---:|:---:|
+
 # NoSQL and NewSQL
 ## NoSQL
 - [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)

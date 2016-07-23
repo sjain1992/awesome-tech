@@ -15,6 +15,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nginx: 413 Request Entity Too Large Error and Solution <a href="https://t.co/vtqbr8nUNQ">https://t.co/vtqbr8nUNQ</a> <a href="https://twitter.com/hashtag/nginx?src=hash">#nginx</a> <a href="https://twitter.com/hashtag/howto?src=hash">#howto</a> <a href="https://twitter.com/hashtag/tip?src=hash">#tip</a></p>&mdash; Ain Tohvri (@tekkie) <a href="https://twitter.com/tekkie/status/748177081826222080">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)
+
 # Nginx
 - [Wikipedia Nginx](https://en.wikipedia.org/wiki/Nginx)
 - [nginx.org](http://nginx.org/)

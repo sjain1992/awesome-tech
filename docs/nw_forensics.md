@@ -24,6 +24,9 @@
 
 [![do not use wireshark](images/dont_use_wireshark.png)](https://twitter.com/packetbomb)
 
+|[![hak5_video](images/hak5_video.jpg)](https://www.youtube.com/user/Hak5Darren)|[![packet_bomb_video](images/packet_bomb_video.jpg)](https://www.youtube.com/channel/UC6lijopn1t2ETukUSLDDqMA)|[![tech_firm_video](images/tech_firm_video.jpg)](https://www.youtube.com/user/thetechfirm)|[![sharkfest_video](images/sharkfest_video.jpg)](https://www.youtube.com/user/SharkFest2015)|[![laura_chappell_video](images/laura_chappell_video.jpg)](https://www.youtube.com/channel/UCPOqFa77z1Gfwbe5JZaFaig)|[![laura_chappell_video2](images/laura_chappell_video2.jpg)](https://www.youtube.com/user/thebitgirl)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 # Network Forensics
 ## Network Forensics Blogs
 - [wireshark.org](http://wireshark.org/)

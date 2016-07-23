@@ -14,7 +14,8 @@
 
 [![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
 
-[![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)
+|[![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|
+|:---:|:---:|
 
 # Performance Testing. Traffic injectors/generators
 - [DZone: Top 10 Web Performance Killers](https://dzone.com/articles/top-10-web-performance-killers) Sam Holt talks about the Top 10 Web Performance Killers, including uncompressed static assets and not leveraging HTML features.

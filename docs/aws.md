@@ -110,6 +110,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We hope you had a great time during <a href="https://twitter.com/hashtag/AWSSummit?src=hash">#AWSSummit</a>! Decks (<a href="https://t.co/DyRrZFP8eW">https://t.co/DyRrZFP8eW</a>) &amp; videos (<a href="https://t.co/N6YDXzBoOL">https://t.co/N6YDXzBoOL</a>) will be posted shortly!</p>&mdash; AWS Summits (@AWSSummits) <a href="https://twitter.com/AWSSummits/status/753408684349231104">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![aws_webinars_video](images/aws_webinars_video.jpg)](https://www.youtube.com/user/AWSwebinars)|[![aws_tutorial_series_video](images/aws_tutorial_series_video.jpg)](https://www.youtube.com/user/awstutorialseries)|[![linux_academy_video](images/linux_academy_video.jpg)](https://www.youtube.com/user/pineheadtv)|[![cloud_academy_video](images/cloud_academy_video.jpg)](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
