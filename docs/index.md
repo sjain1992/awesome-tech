@@ -154,8 +154,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|
-|:---:|:---:|:---:|:---:|
+|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|[![ibm_espana_video](images/ibm_espana_video.jpg)](https://www.youtube.com/user/IBMEspana)|
+|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 
@@ -200,7 +200,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![redis_videos](images/redis_videos.jpg)](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)|[![varnish_video](images/varnish_video.jpg)](https://www.youtube.com/channel/UCfW50IdBJMZwoYIeTvKdflQ)|[![akamai_videos](images/akamai_videos.jpg)](https://www.youtube.com/c/akamai)|[![wowza_videos](images/wowza_videos.jpg)](https://www.youtube.com/user/wowzamedia)|[![linuxformation_video](images/linuxformation_video.jpg)](https://www.youtube.com/channel/UC8o7QfG3WAbsf33PRk4X3Nw)|[![saltstack_video](images/saltstack_video.jpg)](https://www.youtube.com/user/SaltStack)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) |[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|[![ibm_espana_video](images/ibm_espana_video.jpg)](https://www.youtube.com/user/IBMEspana)|
+|[![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) |[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![emc_videos](images/emc_videos.jpg)](https://www.youtube.com/c/emc)|[![netapp_videos](images/netapp_videos.jpg)](https://www.youtube.com/c/netapp)|[![synology_videos](images/synology_videos.jpg)](https://www.youtube.com/user/synologyinc)|[![naseros_video](images/naseros_video.jpg)](https://www.youtube.com/user/naseros)|[![qnap_video](images/qnap_video.jpg)](https://www.youtube.com/user/qnapsys)|[![qloudea_video](images/qloudea_video.jpg)](https://www.youtube.com/user/qloudea)|
