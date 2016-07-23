@@ -1,6 +1,7 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
+- [Continuous Learning](#continuous-learning)
 - [E-Learning](#e-learning)
 	- [Professional Certification](#professional-certification)
 	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
@@ -27,6 +28,9 @@
 
 |[![linkedin_videos](images/linkedin_videos.jpg)](https://www.youtube.com/user/LinkedIn)|[![linkedin_help_videos](images/linkedin_help_videos.jpg)](https://www.youtube.com/user/linkedinhelp)|[![linkedin_talent_solutions](images/linkedin_talent_solutions.jpg)](https://www.youtube.com/user/LITalentSolutions)|[![lynda_videos](images/lynda_videos.jpg)](https://www.youtube.com/user/lyndapodcast)|[![udemy_videos](images/udemy_videos.jpg)](https://www.youtube.com/user/udemy)|[![guru99_videos](images/guru99_videos.jpg)](https://www.youtube.com/user/guru99com)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
+# Continuous Learning
+- [End of Term, and the power of compound interest](https://blog.acolyer.org/2016/07/22/end-of-term-and-the-power-of-compound-interest/)
 
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)

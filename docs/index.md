@@ -311,6 +311,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![dilbert_consultant_cloud](images/dilbert_consultant_cloud.png)](http://dilbert.com/strip/2011-01-07)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Esa gente que no para de usar anglicismos. ESA GENTE.<br>Con <a href="https://twitter.com/AntonLofer">@AntonLofer</a> <a href="https://twitter.com/Jamesetes">@Jamesetes</a> <a href="https://twitter.com/jorgeverdu_">@jorgeverdu_</a>  <a href="https://twitter.com/alvaro_moro">@alvaro_moro</a> <a href="https://t.co/wR4BnmERn7">pic.twitter.com/wR4BnmERn7</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/756790878451228672">23 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
 
 ![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)
