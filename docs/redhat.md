@@ -298,6 +298,7 @@
 - [blog.openshift.com: From zero to container deployment hero with OpenShift 3 🌟🌟](https://blog.openshift.com/openshift-3-walkthrough/)
 - [blog.openshift.com: Using OpenShift 3 on your local environment 🌟](https://blog.openshift.com/using-openshift-3-on-your-local-environment/)
 - [planet.jboss.org: How to install OpenShift as your private PaaS](http://planet.jboss.org/post/how_to_install_openshift_as_your_private_paas)
+- [thevarguy.com: Red Hat Shoots to Solve Container Storage with Gluster and OpenShift 🌟🌟](http://thevarguy.com/open-source-application-software-companies/red-hat-shoots-solve-container-storage-gluster-and-opensh)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/7O0VDdOlfO">https://t.co/7O0VDdOlfO</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/751143822109868032">7 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

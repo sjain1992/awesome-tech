@@ -7,6 +7,7 @@
     - [JUnit](#junit)
     - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
     - [Mockito Mocking Framework](#mockito-mocking-framework)
+    - [Nock HTTP mocking and expectations library for Node.js](#nock-http-mocking-and-expectations-library-for-nodejs)
     - [Spock Testing Framework](#spock-testing-framework)
     - [Selenium](#selenium)
         - [Selenium training](#selenium-training)
@@ -106,6 +107,10 @@
 [![dzone_mockito](images/dzone_mockito.png)](https://dzone.com/refcardz/mockito)
 
 [![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
+
+## Nock HTTP mocking and expectations library for Node.js
+- [Nock](https://github.com/node-nock/nock)
+- [Mocking External HTTP Requests in Node Tests with Nock](https://semaphoreci.com/community/tutorials/mocking-external-http-requests-in-node-tests-with-nock)
 
 ## Spock Testing Framework
 - [DZone: A first look at the Spock testing framework](https://dzone.com/articles/first-look-spock-testing)
