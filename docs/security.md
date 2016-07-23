@@ -100,6 +100,8 @@
 | [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom)|[![secure_ninja_tv](images/secure_ninja_tv.jpg)](https://www.youtube.com/user/Secureninja)|[![network_security_video](images/network_security_video.jpg)](https://www.youtube.com/channel/UCb3RspaWNxC3Yyuqve5f59w)|[![kali_linux_video](images/kali_linux_video.jpg)](https://www.youtube.com/user/kalinuxx)|
 |:---:|:---:|:---:|:---:|
 
+[![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
+
 </center>
 
 # Security
@@ -170,8 +172,6 @@
 - [Hack In The Box Security Conference 🌟](https://www.youtube.com/user/hitbsecconf)
 - [infosecurity-magazine.com 🌟🌟](http://www.infosecurity-magazine.com/)
 - [hackercool.com 🌟🌟](http://hackercool.com/latest-hacks/)
-
-[![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
 
 [![hack_in_the_security_conference](images/hack_in_the_security_conference.png)](https://www.youtube.com/user/hitbsecconf)
 

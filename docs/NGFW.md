@@ -14,7 +14,12 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 <br>
 
-[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom) 
+<center>
+
+|[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs)|[![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) |[![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom)| 
+|:---:|:---:|:---:|
+
+</center>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You had one job and you nailed it 😎 👍🏻<a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/SysAdmin?src=hash">#SysAdmin</a> <a href="https://t.co/w30Bpmvoja">pic.twitter.com/w30Bpmvoja</a></p>&mdash; unixstickers (@unixstickers) <a href="https://twitter.com/unixstickers/status/755817900842377216">20 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

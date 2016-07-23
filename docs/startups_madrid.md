@@ -15,13 +15,17 @@
 [![simo](images/simo.jpg)](http://www.ifema.es/simoeducacion_01/)
 
 <center>
+
 |[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|
 |:---:|:---:|:---:|
+
 </center>
 
 <center>
+
 | [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|
 |:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # IT Television

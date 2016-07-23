@@ -35,8 +35,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>, <a href="https://twitter.com/hashtag/Codenvy?src=hash">#Codenvy</a> &amp; <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> adopt common protocol for programming language integration into <a href="https://twitter.com/code">@code</a> &amp; <a href="https://twitter.com/eclipse_che">@eclipse_che</a> <a href="https://t.co/ab3ijMVNbd">https://t.co/ab3ijMVNbd</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/747627583848615937">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
+
 |[![github_videos](images/github_videos.jpg)](https://www.youtube.com/c/github)|[![gitlab_video](images/gitlab_video.jpg)](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|
 |:---:|:---:|:---:|
+
+</center>
 
 # Continuous Integration Tools
 ## CI Jenkins

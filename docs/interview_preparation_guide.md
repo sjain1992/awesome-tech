@@ -472,6 +472,7 @@
 - [20 CV fixes you can make in less than 20 minutes](http://uk.hudson.com/job-seekers/career-advice/20-cv-fixes-you-can-do-in-20-minutes)
 - [4 Tips To Updating The Old Resume 🌟](http://www.careerealism.com/updating-old-resume-tips/)
 - [How Long Should A Resume Be? 🌟🌟🌟](http://www.careerealism.com/how-long-resume-be/)
+- [The 8 Biggest Mistakes on Resumes, and How to Correct Them](https://www.entrepreneur.com/article/246590)
 
 [![BI_30things_remove_from_resume](images/BI_30things_remove_from_resume.png)](http://www.businessinsider.com/dont-put-these-things-on-your-resume-2015-3-31)
 

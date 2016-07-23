@@ -16,8 +16,10 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center>
+
 |[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![nginx_slides](images/nginx_videos.jpg)](http://www.slideshare.net/Nginx)|
 |:---:|:---:|
+
 </center>
 
 # Nginx
