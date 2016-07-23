@@ -140,8 +140,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-| [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|[![telefonica_video_a_click_tic](images/telefonica_video_a_click_tic.jpg)](https://www.youtube.com/user/TelefonicaGGClientes)|
+| [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|
 |:---:|:---:|:---:|:---:|
+
+</center>
+<center>
 
 |[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|
 |:---:|:---:|:---:|:---:|
@@ -203,7 +206,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![mongodb_videos](images/mongodb_videos.jpg)](https://www.youtube.com/user/MongoDB) |[![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![oracle_videos](images/oracle_videos.jpg)](https://www.youtube.com/c/oracle)|[![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![ca_tech_videos](images/ca_tech_videos.jpg)](https://www.youtube.com/c/catechnologies)|[![modis_videos](images/modis_videos.jpg)](https://www.youtube.com/c/modis)|[![bi_excel_videos](images/bi_excel_videos.jpg)](https://www.youtube.com/c/excel)|[![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|[![nextday_video](images/nextday_video.jpg)](https://www.youtube.com/user/NextDayVideo)|
+|[![ca_tech_videos](images/ca_tech_videos.jpg)](https://www.youtube.com/c/catechnologies)|[![modis_videos](images/modis_videos.jpg)](https://www.youtube.com/c/modis)|[![bi_excel_videos](images/bi_excel_videos.jpg)](https://www.youtube.com/c/excel)|[![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode)|[![telefonica_video_a_click_tic](images/telefonica_video_a_click_tic.jpg)](https://www.youtube.com/user/TelefonicaGGClientes)|[![nextday_video](images/nextday_video.jpg)](https://www.youtube.com/user/NextDayVideo)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![c2b2_videos](images/c2b2_videos.jpg)](https://www.youtube.com/user/C2B2Consulting)|[![svrtech_videos](images/svrtech_videos.jpg)](https://www.youtube.com/user/svrtechnologies)|[![was_videos](images/was_videos.jpg)](https://www.youtube.com/channel/UCjOtFEHSAXN-1MBLW_sMASw)|[![ibm_support_tv](images/ibm_support_tv.jpg)](https://www.youtube.com/user/WebSphereEducation)|[![ibm_messaging](images/ibm_messaging.jpg)](https://www.youtube.com/user/IBMmessagingMedia)|[![ibm_integration_video](images/ibm_integration_video.jpg)](https://www.youtube.com/user/IBMintegrationMedia)|
