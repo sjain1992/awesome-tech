@@ -16,8 +16,10 @@
 
 [![mwc_gsma](images/mwc_gsma.png)](https://www.mobileworldcongress.com/)
 
-|[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet)|
-|:---:|:---:|:---:|:---:|:---:|
+<center>
+|[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|
+|:---:|:---:|:---:|:---:|
+</center>
 
 # Barcelona Tech, Startups and Innovation
 - [Grupo Intercom](http://www.grupointercom.com/)
