@@ -28,8 +28,12 @@
 
 [![dzone_integration_zone](images/dzone_integration_zone.png)](https://dzone.com/enterprise-integration-training-tools-news)
 
+<center>
+
 |[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|
 |:---:|:---:|:---:|:---:|:---:|
+
+</center>
 
 # Configuration Management and Orchestration
 ## Microservices
