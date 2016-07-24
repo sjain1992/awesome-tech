@@ -10,6 +10,8 @@
 ![voltaire money](images/voltaire_money.jpg)
 
 # Economy Videos
+- [La Noche Temática: Cuando explotan las burbujas](http://www.rtve.es/alacarta/videos/la-noche-tematica/noche-tematica-cuando-explotan-burbujas/3227420/)
+- [La Noche Temática: Trading de alta frecuencia](http://www.rtve.es/alacarta/videos/la-noche-tematica/noche-tematica-trading-alta-frecuencia/3227478/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ya55Q-WdIrQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -88,6 +90,16 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb_-wfmJnHA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

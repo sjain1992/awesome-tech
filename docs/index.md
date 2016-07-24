@@ -154,6 +154,13 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
+|[![minsait_video](images/minsait_video.jpg)](https://www.youtube.com/channel/UCdz8akghznOoBVd2KhFW4Qw)|[![iecisa_video](images/iecisa_video.jpg)](https://www.youtube.com/user/IECISAoficial)|[![ing_video](images/ing_video.jpg)](https://www.youtube.com/user/ing)|[![ing_es_video](images/ing_es_video.jpg)](https://www.youtube.com/user/ingdirectespana)|
+|:---:|:---:|:---:|:---:|
+
+</center>
+
+<center>
+
 |[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|[![ibm_espana_video](images/ibm_espana_video.jpg)](https://www.youtube.com/user/IBMEspana)|
 |:---:|:---:|:---:|:---:|:---:|
 

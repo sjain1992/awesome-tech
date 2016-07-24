@@ -75,6 +75,8 @@
 </div>
 <br/>
 
+![dont_pick_a_job_pick_a_boss](images/dont_pick_a_job_pick_a_boss.png)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/nR0Ldi2Dac0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -84,6 +86,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-2u22cpYic?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![employees_stay_when](images/employees_stay_when.png)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_GRq-QD8_W8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
