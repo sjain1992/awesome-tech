@@ -12,6 +12,7 @@
     - [Robot Framework](#robot-framework)
     - [A/B Testing](#ab-testing)
     - [Assertible](#assertible)
+    - [coverage.py](#coveragepy)
     - [Selenium](#selenium)
         - [Selenium training](#selenium-training)
             - [Selenium training via Udemy](#selenium-training-via-udemy)
@@ -136,6 +137,9 @@
 - [assertible.com](https://assertible.com/)
 
 <blockquote class="reddit-card" data-card-created="1469381412"><a href="https://www.reddit.com/r/webdev/comments/4ud1ph/automated_testing_with_authentication_and_apis/?ref=share&ref_source=embed">Automated testing with authentication and APIs</a> from <a href="http://www.reddit.com/r/webdev">webdev</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+
+## coverage.py
+- [blog.pythonlibrary.org: An Intro to coverage.py](http://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py/)
 
 ## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
