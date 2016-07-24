@@ -11,6 +11,9 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is so funny and sad too <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> VIA <a href="https://twitter.com/Spiceworks">@Spiceworks</a> <a href="https://t.co/CdZyInq0ko">pic.twitter.com/CdZyInq0ko</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/757158568747413505">24 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Miscellaneous
 ## IT Blogs and Forums
 - [medium.com 🌟🌟](https://medium.com)

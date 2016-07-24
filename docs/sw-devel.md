@@ -172,6 +172,7 @@
 - [rachbelaid.com](http://rachbelaid.com/)
 - [Code and comments: Practical and theoretical aspects of software development](https://wilsonericn.wordpress.com)
 - [medium.freecodecamp.com 🌟🌟🌟](https://medium.freecodecamp.com)
+- [reddit.com/r/webdev 🌟🌟🌟](https://www.reddit.com/r/webdev/)
 
 [![free code camp](images/free_code_camp.png)](https://medium.freecodecamp.com)
 

@@ -389,6 +389,7 @@ Preferred Qualifications:
 - [Operations is Dead, but Please Don’t Replace it with DevOps](http://diversity.net.nz/operations-is-dead-but-please-dont-replace-it-with-devops/2013/05/15/)
 - [ITSM vs. DevOps – Agility vs. Control – is this really battle royale?](http://www.vigilantguy.com/itsm-vs-devops-agility-vs-control-is-this-really-battle-royale/)
 - [ABCs of ITIL®](http://www.globalknowledge.com/training/whitepaperdetail.asp?pageid=502&wpid=1428)
+- [Managing the cloud with ITIL 🌟🌟](https://www.linkedin.com/pulse/managing-cloud-itil-roland-roth)
 
 [![vandalismo car2go](images/car2go.jpg)](http://www.elmundo.es/madrid/2016/01/09/569179e6268e3e25218b462a.html)
 

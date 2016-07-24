@@ -9,6 +9,9 @@
     - [Mockito Mocking Framework](#mockito-mocking-framework)
     - [Nock HTTP mocking and expectations library for Node.js](#nock-http-mocking-and-expectations-library-for-nodejs)
     - [Spock Testing Framework](#spock-testing-framework)
+    - [Robot Framework](#robot-framework)
+    - [A/B Testing](#ab-testing)
+    - [Assertible](#assertible)
     - [Selenium](#selenium)
         - [Selenium training](#selenium-training)
             - [Selenium training via Udemy](#selenium-training-via-udemy)
@@ -121,6 +124,18 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HByidnePxa4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Robot Framework
+- [robotframework.org](http://robotframework.org/) Generic test automation framework for acceptance testing and ATDD
+
+## A/B Testing
+- [Wikipedia: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
+- [Disaster-Proof A/B Testing: Ensuring a Consistent Experience](https://dzone.com/articles/disaster-proof-ab-testing-ensuring-a-consistent-ex) When setting up an A/B testing framework, pay special attention to how users are assigned to different arms of a test (and which metrics you track). If you aren’t careful, you’ll give the same user a different experience each time they go through a tested flow.
+
+## Assertible
+- [assertible.com](https://assertible.com/)
+
+<blockquote class="reddit-card" data-card-created="1469381412"><a href="https://www.reddit.com/r/webdev/comments/4ud1ph/automated_testing_with_authentication_and_apis/?ref=share&ref_source=embed">Automated testing with authentication and APIs</a> from <a href="http://www.reddit.com/r/webdev">webdev</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
