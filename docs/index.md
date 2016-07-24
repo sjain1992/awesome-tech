@@ -154,7 +154,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![ing_es_video](images/ing_es_video.jpg)](https://www.youtube.com/user/ingdirectespana)|
+|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|
 |:---:|:---:|:---:|:---:|
 
 </center>
@@ -186,7 +186,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![bolsamania_videos](images/bolsamania_videos.jpg)](https://www.youtube.com/user/bolsamaniaTV)|[![bolsatv](images/bolsatv.jpg)](https://www.youtube.com/channel/UC379hLqrhnGa0_pPeyc4ySg)|[![the_economist_videos](images/the_economist_videos.jpg)](https://www.youtube.com/user/EconomistMagazine)|[![ing_video](images/ing_video.jpg)](https://www.youtube.com/user/ing)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![maxkeiser_espanol](images/maxkeiser_espanol.jpg)](https://actualidad.rt.com/programas/keiser_report)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![gartner_videos](images/gartner_videos.jpg)](https://www.youtube.com/user/Gartnervideo)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![forbes_videos](images/forbes_videos.jpg)](https://www.youtube.com/user/forbes)|[![bloomberg_videos.jpg](images/bloomberg_videos.jpg)](https://www.youtube.com/user/Bloomberg)|[![wsj_videos.jpg](images/wsj_videos.jpg)](https://www.youtube.com/user/WSJDigitalNetwork)|[![maxkeiser](images/maxkeiser.png)](http://www.maxkeiser.com/)|
+|[![gartner_videos](images/gartner_videos.jpg)](https://www.youtube.com/user/Gartnervideo)|[![radiate_video](images/radiate_video.jpg)](https://www.youtube.com/channel/UCYPiPtFllAItrtS914MPS_g)|[![forbes_videos](images/forbes_videos.jpg)](https://www.youtube.com/user/forbes)|[![bloomberg_videos.jpg](images/bloomberg_videos.jpg)](https://www.youtube.com/user/Bloomberg)|[![wsj_videos.jpg](images/wsj_videos.jpg)](https://www.youtube.com/user/WSJDigitalNetwork)|[![maxkeiser](images/maxkeiser.png)](http://www.maxkeiser.com/)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![BI_Social_Profile](images/BI_Social_Profile.jpg)](https://www.youtube.com/user/businessinsider) |[![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)|[![entrepreneur_logo](images/entrepreneur_logo.jpg)](https://www.youtube.com/c/entrepreneur) | [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)| [![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld) |[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)|
