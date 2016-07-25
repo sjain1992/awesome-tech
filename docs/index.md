@@ -47,6 +47,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <a href="http://paper.li/tag/azure">The #azure Daily</a>
 </p>
 
+![dr_evil_why_make_trillions](images/dr_evil_why_make_trillions.gif)
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
@@ -396,8 +398,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-![dr_evil_why_make_trillions](images/dr_evil_why_make_trillions.gif)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
