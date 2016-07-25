@@ -31,6 +31,11 @@
 [![margin call](images/margincall.jpg)](http://thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQ_zhHUu8NE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
