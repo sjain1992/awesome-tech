@@ -102,6 +102,7 @@
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
 - [IT Workers Share the Most Idiotic Things Non-Techies Have Told Them](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
+- [entrepreneur.com: How to Deal With a Difficult Customer-Service Conversation](https://www.entrepreneur.com/article/247512)
 
 [![why indeed](images/why_indeed.png)](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
