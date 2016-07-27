@@ -160,6 +160,7 @@
 
 ## Wordpress
 - [stosu.com](https://stosu.com) Free How-To Tutorials for WordPress and Windows Users
+- [How to install WordPress on a CentOS 7/RHEL 7 server](http://bach-online.de/2016/07/25/how-to-install-wordpress-on-a-centos-7-rhel-7-server/)
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java

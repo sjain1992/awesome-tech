@@ -30,7 +30,7 @@
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com 🌟](http://middlewaresnippets.blogspot.com)
 - [developerblog.redhat.com - JBoss  🌟](http://developerblog.redhat.com/tag/jboss/)
-- [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
+- [schabell.org - Eric D. Schabell's blog 🌟🌟🌟](http://www.schabell.org)
 - [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
 
 ## JBoss on Twitter

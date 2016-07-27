@@ -43,6 +43,7 @@
 	- Application code should be in version control
 	- Database schema should be in version control
 	- Everything you do should be in version control
+	- [5 reasons system administrators should use revision control](https://opensource.com/life/16/7/systems-administrators-should-use-revision-control)
 - [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)

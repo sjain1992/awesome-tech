@@ -313,6 +313,7 @@
 	- [MySQL for Visual Studio 1.2.6 has been released](http://insidemysql.com/mysql-for-visual-studio-1-2-6-has-been-released/)
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
+- [Why Uber Engineering Switched from Postgres to MySQL 🌟](https://eng.uber.com/mysql-migration/)
 
 ### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)
