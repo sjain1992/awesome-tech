@@ -227,6 +227,8 @@
 </div>
 <br>
 
+![boehringer_youare_not_your_resume](images/boehringer_youare_not_your_resume.png)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9W4h9NqPhI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
