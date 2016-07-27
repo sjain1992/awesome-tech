@@ -280,6 +280,7 @@
 - [Why Smart Women Still Get Sexually Harassed](http://www.inc.com/jt-odonnell/why-smart-women-still-get-sexually-harassed.html) In cases like Gretchen Carlson's, here's why the phrase "there's safety in numbers" matters.
 - [Culture Shock—Without Ever Leaving Your Home Country](http://www.careerealism.com/culture-shock-home-country/)
 - [economist.com: Sysadmin job related stress can makes us stronger? New research shows that even severe stress can have an upside](http://www.economist.com/news/international/21702463-new-research-shows-even-severe-stress-can-have-upside-what-makes-us-stronger)
+- [How to Excel When You Have Toxic Co-workers](https://www.entrepreneur.com/article/278677)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
