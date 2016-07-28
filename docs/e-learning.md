@@ -5,6 +5,7 @@
 - [E-Learning](#e-learning)
 	- [Professional Certification](#professional-certification)
 	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+	- [Packtpub Mapt](#packtpub-mapt)
 	- [Free e-learning](#free-e-learning)
 	- [Download Free Legal eBooks](#download-free-legal-ebooks)
 	- [Alternatives](#alternatives)
@@ -151,6 +152,14 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
+
+## Packtpub Mapt
+- [packtpub.com/mapt](https://www.packtpub.com/mapt)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rljqYnpuQyg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
