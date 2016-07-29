@@ -38,7 +38,7 @@
 |[![oracle_fusion_apps_videos](images/oracle_fusion_apps_videos.jpg)](https://www.youtube.com/user/FADeveloperRelations)|[![adf_essentials_videos](images/adf_essentials_videos.jpg)](https://www.youtube.com/user/ADFInsiderEssentials)|[![oracle_adf_java_video](images/oracle_adf_java_video.jpg)](https://www.youtube.com/channel/UCX7PJW3a2qvEoBgBlm8jE_g)|[![oracle_learning_library_video](images/oracle_learning_library_video.jpg)](https://www.youtube.com/user/OracleLearning)|[![c2b2_videos](images/c2b2_videos.jpg)](https://www.youtube.com/user/C2B2Consulting)|
 |:---:|:---:|:---:|:---:|:---:|
 
-[![code_org_video](images/code_org_video.jpg)](https://www.youtube.com/user/CodeOrg)|[![codecademy_video](images/codecademy_video.jpg)](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)|[![liferay_video](images/liferay_video.jpg)](https://www.youtube.com/user/liferayinc)|
+|[![code_org_video](images/code_org_video.jpg)](https://www.youtube.com/user/CodeOrg)|[![codecademy_video](images/codecademy_video.jpg)](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)|[![liferay_video](images/liferay_video.jpg)](https://www.youtube.com/user/liferayinc)|
 |:---:|:---:|:---:|
 
 </center>
