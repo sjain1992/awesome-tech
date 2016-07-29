@@ -453,6 +453,7 @@
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 - [5 reasons system administrators should use revision control 🌟🌟🌟](https://opensource.com/life/16/7/systems-administrators-should-use-revision-control)
+- [5 tools to support distributed sysadmin teams](https://opensource.com/life/16/7/5-remote-sysadmin-tools)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The smallest things like missing ; in Unix/Linux config file can cause greatest pain. But u can chk for syntax error <a href="https://t.co/HgYfKs7VcQ">https://t.co/HgYfKs7VcQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703553266160766977">27 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

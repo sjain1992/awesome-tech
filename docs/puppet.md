@@ -36,6 +36,7 @@
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
 - [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
+- [Linux Journal: Managing Linux Using Puppet 🌟](http://www.linuxjournal.com/content/managing-linux-using-puppet)
 
 <blockquote class="reddit-card" data-card-created="1467912191"><a href="https://www.reddit.com/r/Puppet/comments/4rbbm5/puppet_4_user_base/?ref=share&ref_source=embed">Puppet 4 user base</a> from <a href="http://www.reddit.com/r/Puppet">Puppet</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>

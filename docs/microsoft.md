@@ -47,6 +47,7 @@
 - [ChatOps on Windows with Hubot and PowerShell](https://hodgkins.io/chatops-on-windows-with-hubot-and-powershell/)
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 - [zdnet: Why Microsoft's vulnerability severity ratings are obsolete 🌟](http://www.zdnet.com/article/microsofts-vulnerability-severity-ratings-are-obsolete/) The distinction between 'critical' and 'important' has become meaningless. It makes no sense to treat them differently. Patch Tuesday needs a patch.
+- [WinBeta.org 🌟🌟](http://www.winbeta.org/) Your source for Windows 10 and Microsoft news
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

@@ -192,3 +192,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find /var/www -perm -o+w -a -not -type l -ls # Find files and directories under /var/www that are world writable. Exclude symbolic links.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/755860087147724800">20 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find . -name \*.[ch] -exec grep -sl &quot;PATTERN&quot; {} \; # Search for PATTERN in .c and .h file. Thx <a href="https://twitter.com/suresh_kanzaria">@suresh_kanzaria</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/758691272697708545">28 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

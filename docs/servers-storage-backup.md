@@ -193,6 +193,7 @@
 - [opensource.com: 5 open source web app alternatives to Google Drive 🌟](https://opensource.com/life/15/12/5-open-source-web-apps-self-hosted)
 - [nixCraft: 7 Awesome Open Source Cloud Storage Software For Your Privacy and Security 🌟](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [learnitguide.net: Disk Management in Linux - Understand the Basic Concepts](http://www.learnitguide.net/2016/05/disk-management-in-linux-basic-concepts.html)
+- [QNAP_nas now makes FreeBSD based enterprise NAS+ZFS 🌟🌟🌟](https://www.qnap.com/i/en/product/model.php?II=218)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s time to give your data the flash it demands &amp; from the provider you trust. <a href="https://twitter.com/hashtag/YourDataDemandsMore?src=hash">#YourDataDemandsMore</a><a href="https://t.co/rGQiDGPh5k">https://t.co/rGQiDGPh5k</a></p>&mdash; NetApp (@NetApp) <a href="https://twitter.com/NetApp/status/748154380805824512">29 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -234,6 +235,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Self-documenting code&quot; <a href="https://t.co/qKKpL0I8CU">pic.twitter.com/qKKpL0I8CU</a></p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/755046687073198081">18 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow. <a href="https://twitter.com/QNAP_nas">@QNAP_nas</a> now makes <a href="https://twitter.com/freebsd">@FreeBSD</a> based enterprise NAS+ZFS<br> <a href="https://t.co/SiO7z0c3NH">https://t.co/SiO7z0c3NH</a><br><br>Does any1 know what version of FreeBSD it&#39;s based on?</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/758230019772600320">27 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)

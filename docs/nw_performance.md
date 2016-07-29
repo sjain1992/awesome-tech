@@ -19,6 +19,7 @@
 - [blog.performancevision.com - DNS: KEY TO NETWORK AND APPLICATION PERFORMANCE](http://blog.performancevision.com/dns-key-to-network-and-application-performance)
 - [blog.performancevision.com - HOW TO MEASURE NETWORK PERFORMANCE THROUGH PASSIVE TRAFFIC ANALYSIS](http://blog.performancevision.com/how-to-measure-network-performance-through-passive-traffic-analysis)
 - [Datapath.io: What is Network Congestion?](http://blog.datapath.io/what-is-network-congestion)
+- [blog.performancevision.com - 6 REASONS TO TAKE A NEW APPROACH TO PACKET CAPTURE 🌟🌟🌟](http://blog.performancevision.com/the-6-reasons-packet-capture-will-not-work-anymore)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

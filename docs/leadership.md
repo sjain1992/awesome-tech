@@ -86,6 +86,9 @@
 
 [![Tony-Robbins-Quote-For-Life-Inspiration](images/Tony-Robbins-Quote-For-Life-Inspiration.jpg)](Tony-Robbins-Quote-For-Life-Inspiration.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/TonyRobbins">@TonyRobbins</a> tells us the keys to making a relationship last and how focusing on ourselves can destroy everything<a href="https://t.co/RED5C1s7rt">https://t.co/RED5C1s7rt</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/758702030579826688">28 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUHMZf3qwsQ?rel=0" frameborder="0" allowfullscreen class="videos"></iframe>
 </div>
