@@ -30,6 +30,8 @@
 <!-- /MarkdownTOC -->
 [![dilbert](images/dilbert.jpg)](http://dilbert.com/)
 
+<center>
+
 |[![c2b2_videos](images/c2b2_videos.jpg)](https://www.youtube.com/user/C2B2Consulting)|[![svrtech_videos](images/svrtech_videos.jpg)](https://www.youtube.com/user/svrtechnologies)|[![was_videos](images/was_videos.jpg)](https://www.youtube.com/channel/UCjOtFEHSAXN-1MBLW_sMASw)|[![ibm_support_tv](images/ibm_support_tv.jpg)](https://www.youtube.com/user/WebSphereEducation)|[![ibm_messaging](images/ibm_messaging.jpg)](https://www.youtube.com/user/IBMmessagingMedia)|[![ibm_integration_video](images/ibm_integration_video.jpg)](https://www.youtube.com/user/IBMintegrationMedia)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -38,6 +40,8 @@
 
 [![code_org_video](images/code_org_video.jpg)](https://www.youtube.com/user/CodeOrg)|[![codecademy_video](images/codecademy_video.jpg)](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)|[![liferay_video](images/liferay_video.jpg)](https://www.youtube.com/user/liferayinc)|
 |:---:|:---:|:---:|
+
+</center>
 
 # WebApp
 ## HTTP/2
