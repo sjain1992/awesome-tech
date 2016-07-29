@@ -258,6 +258,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/SkyNews">@SkyNews</a> saves time and effort with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Satellite: <a href="https://t.co/jk0dTuGYOP">https://t.co/jk0dTuGYOP</a> <a href="https://t.co/f1UTcyFkI8">pic.twitter.com/f1UTcyFkI8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/758676823039471617">28 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![redhat_satellite_comptel](images/redhat_satellite_comptel.jpg)](https://www.redhat.com/en/about/press-releases/red-hat-satellite-62-introduces-new-features-help-users-increase-efficiency-across-premise-cloud-and-container-based-environments)
+
 ## Project Atomic
 - [projectatomic.io 🌟](http://www.projectatomic.io) Create and Run Applications in Linux Containers 
 - [New CentOS Atomic Host Images Available for Download](http://www.projectatomic.io/blog/2016/03/new-centos-atomic-host-images-available-for-download/)
