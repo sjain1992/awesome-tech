@@ -39,6 +39,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las cinco mayores empresas del mundo en liquidez son tecnológicas. Apple, Microsoft, Google, Cisco y Oracle poseen $ 504.000 millones</p>&mdash; Jose Grasso (@josegrasso) <a href="https://twitter.com/josegrasso/status/734086431048601600">21 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![yahoo_refuses_to_buy_google](images/yahoo_refuses_to_buy_google.png)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apple is the biggest tech company in the world:<br><br>Revenue: $233B<br>Profit: $53B<br>Assets: $239B<a href="https://t.co/HYlCWplDzA">https://t.co/HYlCWplDzA</a> <a href="https://t.co/dilWX58dcL">pic.twitter.com/dilWX58dcL</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/741487878451175425">11 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
