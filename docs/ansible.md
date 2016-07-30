@@ -81,6 +81,8 @@
 - [SSH Agent Forwarding Configuration with Ansible and Tower 🌟](https://www.datapipe.com/blog/2016/03/01/ssh-agent-forwarding-configuration-with-ansible-and-tower/)
 - [Ansible automation glue 🌟🌟🌟](https://www.ansible.com/blog/ansible-automation-glue) Mark Phillips put together a great demo video (18 minutes) which covers aspects of how powerful and flexible Ansible is as a tool - from machine provisioning to configuration management to code deployment to interacting with various APIs - all in the pursuit of gluing together many components.
 - [Open Source Alternative to Ansible Tower 🌟](https://github.com/ansible-semaphore/semaphore)
+- [THE OPEN TOWER PROJECT ansible.com/open-tower 🌟🌟🌟](https://www.ansible.com/open-tower)
+- [Ansible automation heralds move beyond DevOps niche 🌟](http://searchitoperations.techtarget.com/news/450299478/Ansible-automation-heralds-move-beyond-DevOps-niche)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

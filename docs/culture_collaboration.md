@@ -99,6 +99,8 @@
 </div>
 <br/>
 
+![modis_take_interest_in_coworker](images/modis_take_interest_in_coworker.png)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dirigir mediante el ‘ordeno y mando’ ya no es rentable ➡ <a href="https://t.co/j1AsBqR0wJ">https://t.co/j1AsBqR0wJ</a> <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/Liderazgo?src=hash">#Liderazgo</a> <a href="https://t.co/icL3QBREfQ">pic.twitter.com/icL3QBREfQ</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/739140034016731136">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![accenture_care_of_people_at_work_family](images/accenture_care_of_people_at_work_family.png)](https://www.accenture.com/us-en/company-diversity-workforce)
