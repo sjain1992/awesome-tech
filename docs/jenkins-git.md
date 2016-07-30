@@ -77,6 +77,8 @@
 
 [![dzone_refcard_jenkins_on_paas](images/dzone_refcard_jenkins_on_paas.png)](https://dzone.com/refcardz/jenkins-paas)
 
+[![refcard_jenkins_workflow](images/refcard_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Get started with brand new Jenkins 2.0 with Docker <a href="https://t.co/qju4n52Rg3">https://t.co/qju4n52Rg3</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/par4rc034h">pic.twitter.com/par4rc034h</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/717508097833435136">6 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

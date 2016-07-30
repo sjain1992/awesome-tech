@@ -137,6 +137,8 @@
 
 [![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
 
+[![java_caching](images/java_caching.png)](https://dzone.com/refcardz/java-caching)
+
 #### Garbage Collection and Heap Offloading
 - [Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.](http://ehcache.org/)
 - [Jillegal OffHeap Module](https://github.com/serkan-ozal/jillegal)

@@ -15,6 +15,8 @@
 
 [![nczonline CDN diagram](images/nczonline_cdn2.png)](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 
+[![java_caching](images/java_caching.png)](https://dzone.com/refcardz/java-caching)
+
 # Caching
 - [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
 - [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
