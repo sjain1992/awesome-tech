@@ -30,6 +30,13 @@
 
 [![dzone_refcard_real_user_monitoring](images/dzone_refcard_real_user_monitoring.png)](https://dzone.com/refcardz/getting-started-with-real-user-monitoring)
 
+<center>
+
+|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|[![jmeter_video](images/jmeter_video.jpg)](https://www.youtube.com/user/JMeterTutorial)|[![testing_world_video](images/testing_world_video.jpg)](https://www.youtube.com/channel/UCsdoSHH5bucBf_wwtvWJfnQ)|[![testing_forum_video](images/testing_forum_video.jpg)](https://www.youtube.com/user/tarun3kumar)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
+|:---:|:---:|:---:|:---:|:---:|
+
+</center>
+
 # Testing Tools
 ## Google New website Testing tool for Small Businesses
 - [testmysite.thinkwithgoogle.com 🌟🌟🌟](https://testmysite.thinkwithgoogle.com/)
@@ -146,6 +153,7 @@
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
 - [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
+- [seleniumtests.com](http://www.seleniumtests.com/)
 
 [![dzone_refcard_selenium](images/dzone_refcard_selenium.png)](https://dzone.com/refcardz/getting-started-selenium)
 

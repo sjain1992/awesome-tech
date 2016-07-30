@@ -16,8 +16,8 @@
 
 <center>
 
-|[![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|
-|:---:|:---:|
+|[![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|[![jmeter_video](images/jmeter_video.jpg)](https://www.youtube.com/user/JMeterTutorial)|[![testing_world_video](images/testing_world_video.jpg)](https://www.youtube.com/channel/UCsdoSHH5bucBf_wwtvWJfnQ)|[![testing_forum_video](images/testing_forum_video.jpg)](https://www.youtube.com/user/tarun3kumar)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 

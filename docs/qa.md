@@ -20,7 +20,12 @@
 
 [![state_testing_report_2016](images/state_testing_report_2016.png)](http://qablog.practitest.com/state-of-testing/)
 
-[![istqb_slides](images/istqb_slides.jpg)](http://www.slideshare.net/ISTQBORG)
+<center>
+
+|[![istqb_slides](images/istqb_slides.jpg)](http://www.slideshare.net/ISTQBORG)|[![istqb_video](images/istqb_video.jpg)](https://www.youtube.com/user/ISTQBORG)|
+|:---:|:---:|
+
+</center>
 
 [![staging_servers_dead](images/staging_servers_dead.png)](https://dzone.com/articles/staging-servers-are-dead)
 
