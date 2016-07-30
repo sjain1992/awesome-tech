@@ -26,8 +26,6 @@
 
 [![jenkins_is_the_hub_CD_Devops](images/jenkins_is_the_hub_CD_Devops.png)](http://www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016)
 
-[![CD_jenkins_workflow](images/CD_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
-
 [![jenkins_bootcamp_udemy](images/jenkins_bootcamp_udemy.png)](https://www.udemy.com/jenkins-continuous-integration-bootcamp/)
 
 [![devops_library_jenkins_certification](images/devops_library_jenkins_certification.png)](https://www.devopslibrary.com/Jenkins)
@@ -77,7 +75,7 @@
 
 [![dzone_refcard_jenkins_on_paas](images/dzone_refcard_jenkins_on_paas.png)](https://dzone.com/refcardz/jenkins-paas)
 
-[![refcard_jenkins_workflow](images/refcard_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
+[![CD_jenkins_workflow](images/CD_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
