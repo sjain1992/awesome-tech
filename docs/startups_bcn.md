@@ -32,8 +32,9 @@
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
 - [Barcelona Activa 🌟](http://www.barcelonactiva.cat/barcelonactiva)
 	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
-    - [twitter.com/bcn_empresa](https://twitter.com/bcn_empresa) 
+    - [twitter.com/barcelonactiva](https://twitter.com/barcelonactiva)
     - [empresa.barcelonactiva.cat](http://empresa.barcelonactiva.cat/)
+        - [twitter.com/bcn_empresa](https://twitter.com/bcn_empresa) 
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [Barcelona Tech City - ecommercetechbcn.com](http://www.ecommercetechbcn.com)
     - [barcelonatechcity.com 🌟](http://www.barcelonatechcity.com/)
@@ -42,6 +43,7 @@
     - [twitter.com/StartupGrindBCN](https://twitter.com/StartupGrindBCN)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [BCN CONECTA](https://twitter.com/bcnconecta)
+- [BCN TIC - twitter.com/BCN_TIC](https://twitter.com/BCN_TIC) Twitter TIC de l'Ajuntament de Barcelona. La tecnologia al servei de les persones.
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 para universitarios y titulados júnior
