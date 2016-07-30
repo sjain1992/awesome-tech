@@ -17,8 +17,14 @@
 
 [![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
 
+<center>
+
 |[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|[![agile_training_video](images/agile_training_video.jpg)](https://www.youtube.com/user/AgileTrainingVideos)|
 |:---:|:---:|
+
+</center>
+
+[![dilbert_agile](images/dilbert_agile.gif)](http://dilbert.com/strip/2016-07-30)
 
 # Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean
 - [agilemethodology.org](http://agilemethodology.org/)

@@ -151,6 +151,7 @@
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 - [pdf download: How customers are using the power of integration to drive competitive edge with JBossFuse](http://www.redhat.com/en/resources/power-integration) Organizations in manufacturing, healthcare, transportation, construction, and media are connecting their enterprises with Red Hat® JBoss®Fuse. With standard, proven integration patterns and more than 150 ready-to-use connectors, Red Hat JBoss Fuse lets organizations integrate applications, services, processes, and data to gain competitive advantage, reduce time-to-market, and lower total cost of ownership.
 - [API Management with JBoss Fuse on Openshift and 3scale on Amazon Web Services – Part 1 🌟](http://developers.redhat.com/blog/2016/03/02/api-management-with-jboss-fuse-on-openshift-and-3scale-on-amazon-web-services-part-1)
+- [developers.redhat.com: Considerations for Implementing JBoss Fuse in your Enterprise](http://developers.redhat.com/blog/2016/07/29/considerations-for-implementing-jboss-fuse-in-your-enterprise/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How customers are using the power of integration to drive competitive edge with <a href="https://twitter.com/hashtag/JBossFuse?src=hash">#JBossFuse</a> <a href="https://t.co/iSr4PuOwiA">https://t.co/iSr4PuOwiA</a> <a href="https://t.co/7LuWVdG5rw">pic.twitter.com/7LuWVdG5rw</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/702806604920573953">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -170,6 +171,7 @@
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
+- [Red Hat Unveils JBoss Data Grid 7 for Real-Time Analytics](http://solutionsreview.com/data-management/red-hat-unveils-jboss-data-grid-7-for-real-time-analytics/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OXL4EAS8RXw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

@@ -194,3 +194,5 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find . -name \*.[ch] -exec grep -sl &quot;PATTERN&quot; {} \; # Search for PATTERN in .c and .h file. Thx <a href="https://twitter.com/suresh_kanzaria">@suresh_kanzaria</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/758691272697708545">28 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">youtube-dl -q -o- _gp51lt9kdA|mplayer -wid $(xwininfo -int -name &quot;Desktop&quot;|grep &quot;Desktop&quot;|awk &#39;{print $4}&#39;) -cache 5000 - # Video background</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/759209756041052160">30 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

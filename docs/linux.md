@@ -763,6 +763,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How <a href="https://twitter.com/netflix">@Netflix</a> gives all its engineers SSH access<a href="https://t.co/EC3FAtuWUk">https://t.co/EC3FAtuWUk</a><a href="https://twitter.com/hashtag/OpenSSH?src=hash">#OpenSSH</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Goodreads?src=hash">#Goodreads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/757820828092239872">26 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/54505525" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
 - [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)

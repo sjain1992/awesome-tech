@@ -260,6 +260,8 @@
 
 [![redhat_satellite_comptel](images/redhat_satellite_comptel.jpg)](https://www.redhat.com/en/about/press-releases/red-hat-satellite-62-introduces-new-features-help-users-increase-efficiency-across-premise-cloud-and-container-based-environments)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn more about <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Satellite 6.2 in this <a href="https://twitter.com/hashtag/video?src=hash">#video</a>: Importing Existing Hosts via the Bootstrap Script <a href="https://t.co/pRztMmUMyy">https://t.co/pRztMmUMyy</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/759099424660295680">29 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Project Atomic
 - [projectatomic.io 🌟](http://www.projectatomic.io) Create and Run Applications in Linux Containers 
 - [New CentOS Atomic Host Images Available for Download](http://www.projectatomic.io/blog/2016/03/new-centos-atomic-host-images-available-for-download/)

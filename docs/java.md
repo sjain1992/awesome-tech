@@ -47,6 +47,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">11 JPA and Hibernate query hints every developer should know<a href="https://t.co/IXq6npiU9j">https://t.co/IXq6npiU9j</a><br><br>E.g. to set eager/lazy loading at runtime.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/744818166379884545">20 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/O8COQGR8bD">pic.twitter.com/O8COQGR8bD</a></p>&mdash; Phil Webb (@phillip_webb) <a href="https://twitter.com/phillip_webb/status/758824415547109376">29 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Java Blogs
 - [Java Magazine by and for the Java community](http://oraclejavamagazine-digital.com)
 - [vladmihalcea.com](http://vladmihalcea.com) 

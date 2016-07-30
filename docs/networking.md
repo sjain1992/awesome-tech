@@ -268,6 +268,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ht" dir="ltr">Lmao. <a href="https://t.co/wKsRGwma9K">pic.twitter.com/wKsRGwma9K</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/759077177140752385">29 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
