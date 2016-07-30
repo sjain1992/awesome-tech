@@ -24,6 +24,7 @@
     - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
     - [Rush](#rush)
     - [The Constant Gardener](#the-constant-gardener)
+    - [Blue Jasmine](#blue-jasmine)
     - [Modern Times](#modern-times)
     - [La vida de nadie](#la-vida-de-nadie)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
@@ -265,6 +266,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1l1lzzfpWFU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Blue Jasmine
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FER3C394aI8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

@@ -515,6 +515,8 @@
 
 [![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
 
+[![kombook](images/kombook.png)](http://www.kombook.com)
+
 ![The-Wolf-of-Wall-Street-was-legal](images/The-Wolf-of-Wall-Street-was-legal.gif)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El monstruo en que se han convertido en España las consultoras / cárnicas. Buen análisis <a href="https://twitter.com/david_bonilla">@david_bonilla</a> ! <a href="https://t.co/6SXccLJtb8">https://t.co/6SXccLJtb8</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/729589515606732800">9 de mayo de 2016</a></blockquote>

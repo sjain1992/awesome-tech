@@ -142,6 +142,7 @@
 - [10 Hilarious Signs You Should Not Take That Job (Infographic) 🌟🌟🌟🌟](https://www.entrepreneur.com/article/269906)
 - [careerhmo.com: 6 Types Of Illegal Interview Questions To Watch Out For](http://careerhmo.com/types-illegal-interview-questions/)
 - [Need To Cancel Your Job Interview? Don't Do This...](https://www.linkedin.com/pulse/need-cancel-your-job-interview-dont-do-j-t-o-donnell)
+- [Using The ‘See Who’s Viewed You’ LinkedIn Feature](http://www.careerealism.com/linkedin-see-whos-viewed/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
