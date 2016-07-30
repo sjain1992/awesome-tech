@@ -47,6 +47,7 @@
     - [AWS S3](#aws-s3)
     - [Amazon EFS Elastic File System](#amazon-efs-elastic-file-system)
     - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
+    - [AWS Diagrams](#aws-diagrams)
     - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
     - [AWS NoSQL DynamoDB](#aws-nosql-dynamodb)
@@ -630,8 +631,6 @@
 
 [![chaos_monkey](images/chaos_monkey.png)](http://techblog.netflix.com/2014/09/introducing-chaos-engineering.html)
 
-[![hava_aws_diagrams](images/hava_aws_diagrams.png)](https://www.hava.io/)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -641,6 +640,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PY6SThtenVc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## AWS Diagrams
+- [cloudcraft.co](https://cloudcraft.co/)
+- [hava.io](https://www.hava.io/)
+
+[![hava_aws_diagrams](images/hava_aws_diagrams.png)](https://www.hava.io/)
 
 ## AWS Config Rules
 - [AWS Config Rules now available in 4 new regions: US West (Oregon), EU (Ireland), EU (Frankfurt) and Asia Pacific (Tokyo)](https://aws.amazon.com/es/about-aws/whats-new/2016/04/aws-config-rules-now-available-in-4-new-regions-us-west-oregon-eu-ireland-eu-frankfurt-and-asia-pacific-tokyo/)
