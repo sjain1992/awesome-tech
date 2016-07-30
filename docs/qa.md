@@ -118,6 +118,7 @@
 - [DZone: What Is Regression Testing? 🌟](https://dzone.com/articles/what-is-regression-testing) Regression testing is a type of functional testing that checks for issues that are introduced by new additions or updates to the codebase. This post deep dives into exactly what it consists of and when you should be doing it.
 - [DZone: Developing a Regression Testing Strategy](https://dzone.com/articles/developing-a-regression-testing-strategy) Software doesn’t work in isolation. The tendrils of one feature reach out and touch other features. Sometimes in surprising ways. Regression testing is how these surprises are sometimes discovered.
 - [softwaretestingnews.co.uk 🌟🌟🌟](http://www.softwaretestingnews.co.uk/)
+- [DZone: Is Complexity Killing Your Code Quality?](https://dzone.com/articles/is-complexity-killing-your-code-quality) Complexity leads to bugs, and bugs lead to unemployment. Is your code getting too complex?
 
 [![dzone_refcard_refactoring_patterns](images/dzone_refcard_refactoring_patterns.png)](https://dzone.com/refcardz/refactoring-patterns)
 
