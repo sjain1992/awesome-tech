@@ -64,6 +64,7 @@
 - [Kali Linux, Rolling Edition Released – 2016.1](https://www.kali.org/releases/kali-linux-rolling-edition-2016-1/)
 - [Udemy.com: Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
 - [hackercool.com: WordPress version detection with Metasploit](http://hackercool.com/2016/07/wordpress-version-detection-with-metasploit/)
+- [How to Crack WPA/WPA2 Password With Reaver Using Kali Linux 2.0 ](http://www.hackzzon.com/2016/07/how-to-crack-wpawpa2-password-with.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>

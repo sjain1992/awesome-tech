@@ -310,6 +310,8 @@
 
 [![9signs_your_coworker_psychopath](images/9signs_your_coworker_psychopath.png)](http://www.businessinsider.com/signs-youre-working-with-a-psychopath-2016-3)
 
+[![13_signs_your_coworker_psychopath](images/13_signs_your_coworker_psychopath.png)](http://www.businessinsider.com/more-signs-you-are-working-with-a-psychopath-2016-7)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HyJxZ8LXPcI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
