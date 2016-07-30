@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Interview Preparation Guide](#interview-preparation-guide)
+    - [Linkedin](#linkedin)
     - [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
     - [Brutally honest job description](#brutally-honest-job-description)
     - [Applicant Tracking System](#applicant-tracking-system)
@@ -321,6 +322,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQwanxQmFnc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Linkedin
+- [How to Write the Perfect LinkedIn Connection Request](https://medium.com/marketing-and-entrepreneurship/how-to-write-the-perfect-linkedin-connection-request-ecfa384f1265#.mwzvmk2z4)
+
+[![add_you_to_my_professional_network_on_linkedin](images/add_you_to_my_professional_network_on_linkedin.png)](https://medium.com/marketing-and-entrepreneurship/how-to-write-the-perfect-linkedin-connection-request-ecfa384f1265#.mwzvmk2z4)
 
 ## Reasons You are Still Unemployed
 - [careerealism.com: 18 Good Reasons You’re Still Unemployed](http://www.careerealism.com/reasons-unemployed/)
