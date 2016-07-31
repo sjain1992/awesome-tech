@@ -325,6 +325,7 @@
 
 ## Linkedin
 - [How to Write the Perfect LinkedIn Connection Request](https://medium.com/marketing-and-entrepreneurship/how-to-write-the-perfect-linkedin-connection-request-ecfa384f1265#.mwzvmk2z4)
+- [¿Qué es un LION en LinkedIn y por qué son útiles?](http://dovidena.es/lion-linkedin/)
 
 [![add_you_to_my_professional_network_on_linkedin](images/add_you_to_my_professional_network_on_linkedin.png)](https://medium.com/marketing-and-entrepreneurship/how-to-write-the-perfect-linkedin-connection-request-ecfa384f1265#.mwzvmk2z4)
 

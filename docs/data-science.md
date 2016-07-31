@@ -37,6 +37,10 @@
 </div>
 <br/>
 
+<p align="center">
+<a href="http://mattturck.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png">Big Data Landscape 2016 (version 3.0)</a>
+</p>
+
 [![data_scientist_for_free](images/data_scientist_for_free.png)](http://www.businessinsider.com/databricks-ceo-offering-free-big-data-training-2016-3)
 
 ![margin_call_its_just_number](images/margin_call_its_just_number.gif)
