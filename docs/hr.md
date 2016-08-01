@@ -162,6 +162,7 @@
 - [People Hate Micromanagers. Here Are 3 Tips to Not Being One](https://learning.linkedin.com/blog/learning-tips/people-hate-micromanagers--here-are-3-tips-to-not-being-one)
 - [Reasons Why The Other Guy (Or Gal) Got The Promotion](http://www.careerealism.com/promotion-other-guy-reasons/)
 - [Learn When to Delegate and When to Micromanage](https://www.entrepreneur.com/article/279300)
+- [How Seagull Managers Make Everyone Miserable](http://www.huffingtonpost.com/dr-travis-bradberry/how-seagull-managers-make_b_10665052.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
