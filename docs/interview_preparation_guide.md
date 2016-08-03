@@ -144,6 +144,7 @@
 - [careerhmo.com: 6 Types Of Illegal Interview Questions To Watch Out For](http://careerhmo.com/types-illegal-interview-questions/)
 - [Need To Cancel Your Job Interview? Don't Do This...](https://www.linkedin.com/pulse/need-cancel-your-job-interview-dont-do-j-t-o-donnell)
 - [Using The ‘See Who’s Viewed You’ LinkedIn Feature](http://www.careerealism.com/linkedin-see-whos-viewed/)
+- [If You Can’t Pass THIS Test, You Won’t Get Job Interviews 🌟🌟](http://www.careerealism.com/job-interviews-pass-test/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

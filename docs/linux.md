@@ -326,11 +326,14 @@
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility](http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/)
 - [tecmint.com: How to Find and Kill Running Processes in Linux](http://www.tecmint.com/find-and-kill-running-processes-pid-in-linux/)
+- [Linux how long a process has been running? 🌟](http://www.cyberciti.biz/faq/how-to-check-how-long-a-process-has-been-running/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Whatportis, a command to search port names and numbers <a href="https://t.co/WUxc1iha5v">https://t.co/WUxc1iha5v</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/DHgqwupDCn">pic.twitter.com/DHgqwupDCn</a></p>&mdash; Nicolas Crocfer (@ncrocfer) <a href="https://twitter.com/ncrocfer/status/692129299047026688">26 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Find and Kill Running Processes in <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/5ALOrcHjgy">https://t.co/5ALOrcHjgy</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/cCMh2W46lw">pic.twitter.com/cCMh2W46lw</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739336698044108805">5 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux how long a process has been running?<br><br>ps -p PID -o pid,cmd,etime<br><br>More info <a href="https://t.co/Jj3hcFzUl0">https://t.co/Jj3hcFzUl0</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/PhHGhk1TFI">pic.twitter.com/PhHGhk1TFI</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760104491827892224">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux System Calls
 - [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
@@ -430,6 +433,7 @@
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - [Howto display error message instantly when command fails](http://www.cyberciti.biz/tips/shell-displaying-error-messages.html)
 - [Unix/Linux: Remove duplicate lines from a text file using awk or perl](http://www.cyberciti.biz/faq/how-to-remove-delete-duplicate-lines-from-textfile-on-unix-linux/)
+- [GNU parallel is a shell tool for executing jobs in parallel using one or more computers 🌟🌟](http://www.gnu.org/software/parallel/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -448,6 +452,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Another case: All the main distors moved to systemd to get rid of old rc scripts and yet we use this? Why? ¯\_(ツ)_/¯ <a href="https://t.co/WYBsgsmOf8">pic.twitter.com/WYBsgsmOf8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753271323791503361">13 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Reduce gif file size from CLI:<br><br>convert input.gif -fuzz 5% -layers Optimize out.gif <br><br>Adjust 5% value to get better result. <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753282734148100096">13 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GNU parallel is a shell tool for executing jobs in parallel using one or more computers. <a href="https://t.co/VLTnmPkjMG">https://t.co/VLTnmPkjMG</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/760153229749518337">1 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Tips
@@ -767,6 +774,10 @@
 <iframe src="https://player.vimeo.com/video/54505525" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">If you get &quot;WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!&quot;, delete offending ssh key:<br><br>ssh-keygen -R server<br><br>More <a href="https://t.co/Aq4dnIMjsx">https://t.co/Aq4dnIMjsx</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760055132608356352">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> No need to edit &quot;$HOME/.ssh/known_hosts&quot; using a text editor. Pass the -f to ssh-keygen option if the key file is different.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760056104311066624">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

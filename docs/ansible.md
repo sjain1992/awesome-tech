@@ -83,6 +83,7 @@
 - [Open Source Alternative to Ansible Tower 🌟](https://github.com/ansible-semaphore/semaphore)
 - [THE OPEN TOWER PROJECT ansible.com/open-tower 🌟🌟🌟](https://www.ansible.com/open-tower)
 - [Ansible automation heralds move beyond DevOps niche 🌟](http://searchitoperations.techtarget.com/news/450299478/Ansible-automation-heralds-move-beyond-DevOps-niche)
+- [blog.rackspace.com - How to Deploy With Ansible: An Accessible Explanation 🌟🌟](http://blog.rackspace.com/how-to-deploy-ansible-accessible-explanation/)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

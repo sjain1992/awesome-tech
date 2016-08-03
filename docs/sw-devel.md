@@ -205,6 +205,7 @@
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
 - [IBM API Harmony](https://apiharmony-open.mybluemix.net/) Find your perfect API by searching for Languages like Javascript or Ruby
+- [DZone: Future of FinTech Depends on APIs 🌟](https://dzone.com/articles/future-of-fintech-depends-on-apis-1) It's easy to forget how interconnected our money is becoming with the world around us. See how APIs are playing an essential role in the modern economy.
 
 [![ibm_api_harmony](images/ibm_api_harmony.png)](https://apiharmony-open.mybluemix.net/)
 

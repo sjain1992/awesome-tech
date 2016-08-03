@@ -163,6 +163,7 @@
 - [Reasons Why The Other Guy (Or Gal) Got The Promotion](http://www.careerealism.com/promotion-other-guy-reasons/)
 - [Learn When to Delegate and When to Micromanage](https://www.entrepreneur.com/article/279300)
 - [How Seagull Managers Make Everyone Miserable](http://www.huffingtonpost.com/dr-travis-bradberry/how-seagull-managers-make_b_10665052.html)
+- [Here's who you should sit next to at work if you want to be more productive](http://www.businessinsider.com/who-to-sit-next-to-at-work-to-be-more-productive-2016-8)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -220,6 +220,7 @@
 - [destinoreinounido.com 🌟](http://destinoreinounido.com)
 - [aventurasenbritishlandia.com](https://aventurasenbritishlandia.com)
 - [comosobrevivirenlondres.com 🌟](http://comosobrevivirenlondres.com)
+- [gonzaventuras.com](http://gonzaventuras.com/) 
 - ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
 - [London, I love you, but you’re bringing me down 🌟](http://matadornetwork.com/notebook/london-love-youre-bringing/)
 - [cityam.com - London house prices: UK capital is most expensive place in the world for a company to employ staff, as real estate recovery shifts from east to west 🌟](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)

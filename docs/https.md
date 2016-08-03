@@ -28,6 +28,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The end of an expensive era<br> <a href="https://t.co/f56arooZHF">https://t.co/f56arooZHF</a> <a href="https://t.co/FxilUJZBxF">pic.twitter.com/FxilUJZBxF</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/742420985165549568">13 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security (SSL) Has a Performance Tax | <a href="https://twitter.com/DevOpsSummit">@DevOpsSummit</a> <a href="https://twitter.com/Catchpoint">@Catchpoint</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://twitter.com/hashtag/ContinuousTesting?src=hash">#ContinuousTesting</a> <a href="https://t.co/lEw8P2tZ8e">https://t.co/lEw8P2tZ8e</a> <a href="https://t.co/OA2KEJJfhM">pic.twitter.com/OA2KEJJfhM</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/759764694785634307">31 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## HSTS
 - [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 

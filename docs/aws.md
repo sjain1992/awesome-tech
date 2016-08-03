@@ -135,6 +135,9 @@
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Five ways Brexit is accelerating AWS and public <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> adoption <a href="https://t.co/DgmLk6gFHk">https://t.co/DgmLk6gFHk</a> via <a href="https://twitter.com/cloud_comp_news">@cloud_comp_news</a> <a href="https://t.co/vweIzq4eIx">pic.twitter.com/vweIzq4eIx</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/760112907828944896">1 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## AWS Stacks
 - [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/)
 
@@ -150,6 +153,7 @@
 - [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
 - [awscerts.slack.com](https://awscerts.slack.com)
 - [Amazon AWS Certification Preparation Tips 🌟🌟🌟](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
+- [A curated list of AWS resources to prepare for the AWS Certifications 🌟🌟](https://gist.github.com/leonardofed)
 
 [![aws_certificates](images/aws_certificates.png)](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
 

@@ -161,6 +161,9 @@
 
 [![state_testing_report_formal_training](images/state_testing_report_formal_training.png)](http://qablog.practitest.com/state-of-testing/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Testers don&#39;t break the code, they break your illusions about the code. Lightning talk by <a href="https://twitter.com/maaretp">@maaretp</a> <a href="https://twitter.com/hashtag/Agile2016?src=hash">#Agile2016</a> <a href="https://t.co/CoZz0biFIg">pic.twitter.com/CoZz0biFIg</a></p>&mdash; Gene Gotimer (@CoverosGene) <a href="https://twitter.com/CoverosGene/status/758328352054927361">27 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Mapas Mentales para Software Testing
 - [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)
 
