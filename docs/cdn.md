@@ -8,7 +8,12 @@
 
 [![nczonline CDN diagram](images/nczonline_cdn2.png)](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 
-[![akamai_slides](images/akamai_videos.jpg)](http://www.slideshare.net/AkamaiTechnologies)
+<center>
+
+|[![akamai_slides](images/akamai_videos.jpg)](http://www.slideshare.net/AkamaiTechnologies)|[![akamai_videos](images/akamai_videos.jpg)](https://www.youtube.com/c/akamai)|
+|:---:|:---:|
+
+</center>
 
 # CDN Content Delivery Network
 - [Wikipedia: CDN Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
