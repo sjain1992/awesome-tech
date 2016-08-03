@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Economy Videos](#economy-videos)
+- [Napoleon](#napoleon)
 - [Economics](#economics)
     - [IT Leaders](#it-leaders)
     - [Capitalism and Socialism](#capitalism-and-socialism)
@@ -105,15 +106,8 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXeZXTOBZgU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AwLiWhWdFGU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+# Napoleon
+- [Economics. Napoleon](napoleon.md)
 
 # Economics
 ## IT Leaders
