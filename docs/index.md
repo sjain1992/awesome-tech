@@ -362,7 +362,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-![cape_fear](images/cape_fear.gif)
+[![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 <!--
