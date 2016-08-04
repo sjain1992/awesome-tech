@@ -79,6 +79,7 @@
 	- [FLOSS Weekly 296, Bro](https://twit.tv/shows/floss-weekly/episodes/296)
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
+- [Tecmint: linux-dash: Monitors “Linux Server Performance” Remotely Using Web Browser](http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9a1kop6u7RqfqS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully" title="Stop using Nagios (so it can die peacefully)" target="_blank">Stop using Nagios (so it can die peacefully)</a> </strong> from <strong><a href="//www.slideshare.net/superdupersheep" target="_blank">Andy Sykes</a></strong> </div>
@@ -90,6 +91,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a>-dash: Monitors “Linux Server Performance” Remotely Using Web Browser<a href="https://t.co/D4fX6xRLCB">https://t.co/D4fX6xRLCB</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/3qu4eAp2oq">pic.twitter.com/3qu4eAp2oq</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/760705760703766529">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Icinga
 - [icinga.org](https://www.icinga.org/)
 
@@ -100,6 +104,7 @@
 
 ### Grafana
 - [Grafana](http://grafana.org/) Beautiful metric & analytic dashboards
+- [Windows Metric Dashboards with InfluxDB and Grafana](https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/i8c50agp40TXm1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/torkelo/fall-in-love-with-graphs-and-metrics-using-grafana" title="Fall in Love with Graphs and Metrics using Grafana" target="_blank">Fall in Love with Graphs and Metrics using Grafana</a> </strong> from <strong><a href="//www.slideshare.net/torkelo" target="_blank">torkelo</a></strong> </div>
@@ -116,6 +121,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Beautiful Metric Dashboards from <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> performance counters using <a href="https://twitter.com/InfluxDB">@InfluxDB</a> and <a href="https://twitter.com/grafana">@grafana</a>. <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://twitter.com/hashtag/visualization?src=hash">#visualization</a> <a href="https://t.co/fUiOMjqY5h">https://t.co/fUiOMjqY5h</a></p>&mdash; Matthew Hodgkins (@matthodge) <a href="https://twitter.com/matthodge/status/714921336074866688">29 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Zabbix
 - [Infrastructure Monitoring with Zabbix, Nagios, or other? 🌟](http://www.itworld.com/article/2922424/data-center/infrastructure-monitoring-with-zabbix-nagios-or-other.html)
 - [Zabbix Documentation 3.2](https://www.zabbix.com/documentation/3.2/)
@@ -126,6 +134,8 @@
 - [Reddit: First beta of Zabbix 3.0](https://www.reddit.com/r/sysadmin/comments/41v20r/first_beta_of_zabbix_30/)
 - [Zabbix Share: New & updated Zabbix templates for Checkpoint, Cisco and Palo Alto devices. Monitoring of Microsoft WSUS & more](https://share.zabbix.com)
 - [500+ Zabbix community projects: Zabbix templates, scripts, CLIs, integrations, APIs, ... 🌟🌟🌟](https://github.com/zabbix/zabbix-community-repos)
+- [Official Zabbix Dockerfiles 🌟🌟](https://github.com/zabbix/zabbix-docker)
+- [New version of @MySQL and @MariaDB performance monitor for @Zabbix. Major improvements in Zabbix 3.0 and @PHP 5.5](https://fromdual.com/fromdual-performance-monitor-for-mysql-and-mariadb-0.10.6-has-been-released)
 
 ### Prometheus
 - [prometheus.io](http://prometheus.io/) An open-source service monitoring system and time series database

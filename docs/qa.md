@@ -119,6 +119,7 @@
 - [DZone: Developing a Regression Testing Strategy](https://dzone.com/articles/developing-a-regression-testing-strategy) Software doesn’t work in isolation. The tendrils of one feature reach out and touch other features. Sometimes in surprising ways. Regression testing is how these surprises are sometimes discovered.
 - [softwaretestingnews.co.uk 🌟🌟🌟](http://www.softwaretestingnews.co.uk/)
 - [DZone: Is Complexity Killing Your Code Quality?](https://dzone.com/articles/is-complexity-killing-your-code-quality) Complexity leads to bugs, and bugs lead to unemployment. Is your code getting too complex?
+- [softwaretestingnews.co.uk: The downfall of good code](http://www.softwaretestingnews.co.uk/downfall-good-code/)
 
 [![dzone_refcard_refactoring_patterns](images/dzone_refcard_refactoring_patterns.png)](https://dzone.com/refcardz/refactoring-patterns)
 
@@ -158,6 +159,7 @@
 ## Blogs
 - [Testing & QA Management blog by PractiTest](http://qablog.practitest.com/)
     - [International 2016 State of Testing. What it means to be a tester worldwide 🌟🌟](http://qablog.practitest.com/state-of-testing/)
+- [softwaretestingnews.co.uk](http://www.softwaretestingnews.co.uk/)
 
 [![state_testing_report_formal_training](images/state_testing_report_formal_training.png)](http://qablog.practitest.com/state-of-testing/)
 

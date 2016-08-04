@@ -88,6 +88,7 @@
 - [iLearnSQL](http://www.ilearnsql.com)
 - [awesomesql.wordpress.com](https://awesomesql.wordpress.com)
 - [mundosql.es](http://www.mundosql.es)
+- [periscopedata.com/blog The High-Performance SQL Blog 🌟](https://www.periscopedata.com/blog)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/66458780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>

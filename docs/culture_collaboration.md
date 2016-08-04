@@ -60,6 +60,7 @@
 - [Takata recalls, another symptom of culture of fear](https://www.linkedin.com/pulse/takata-recalls-another-symptom-culture-fear-l-david-marquet)
 - [entrepreneur.com: Are Our Politicians Leading to the New 'Bully Boss?' 🌟](https://www.entrepreneur.com/article/276026)
 - [inc.com: How to Radically Change Your Company Culture (From a Founder Who Once Hated His)](http://www.inc.com/jeff-haden/how-to-radically-change-your-company-culture-from-a-founder-who-once-hated-his.html)
+- [Glassdoor.com: How to Deal With a Bad Boss 🌟](https://www.glassdoor.com/blog/manage-bad-boss/)
 
 [![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
 

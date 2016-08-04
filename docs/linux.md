@@ -434,6 +434,7 @@
 - [Howto display error message instantly when command fails](http://www.cyberciti.biz/tips/shell-displaying-error-messages.html)
 - [Unix/Linux: Remove duplicate lines from a text file using awk or perl](http://www.cyberciti.biz/faq/how-to-remove-delete-duplicate-lines-from-textfile-on-unix-linux/)
 - [GNU parallel is a shell tool for executing jobs in parallel using one or more computers 🌟🌟](http://www.gnu.org/software/parallel/)
+- [Better Bash Scripting in 15 Minutes 🌟🌟](http://robertmuth.blogspot.com.es/2012/08/better-bash-scripting-in-15-minutes.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -640,6 +641,7 @@
 - [How to Configure and Manage Network Connections Using ‘nmcli’ Tool 🌟](http://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/)
 - [Linux networking examples and tutorials for advanced users 🌟🌟🌟](https://github.com/knorrie/network-examples) Includes lab examples for lxc, bgp, vpn, & more
 - [CentOS/RHEL: Install vnStat Network Traffic Monitor To Keep a Log Of Daily Traffic 🌟🌟🌟](http://www.cyberciti.biz/faq/centos-redhat-fedora-linux-install-vnstat-bandwidth-monitor/)
+- [ngrep 🌟](http://ngrep.sourceforge.net/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -654,6 +656,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cmn5Gee1q8E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ngrep  - grep your network! <a href="https://t.co/LJCtQEaDAK">pic.twitter.com/LJCtQEaDAK</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/759758932181147648">31 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Networking CLI and settings
 - [Linux ip Command Examples](http://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/)
@@ -753,6 +758,9 @@
 - [nixCraft: {Updated} How To Setup SSH Keys on a Linux/Unix System 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
 - [DZone: SSH From the Ground Up 🌟🌟](https://dzone.com/articles/ssh-from-the-ground-up) We use SSH for so much today. The toolset it provides is powerful and useful, but even if you use it every day you probably don't know it as well as you should. Fix that with this primer.
 - [How Netflix gives all its engineers SSH access](https://www.oreilly.com/learning/how-netflix-gives-all-its-engineers-ssh-access)
+- [The Security and Compliance Implications of SSH User Keys 🌟🌟](The Security and Compliance Implications of SSH User Keys)
+- [sshfront: Programmable SSH frontend](https://github.com/gliderlabs/sshfront) A lightweight SSH server frontend where authentication and connections are controlled with command handlers / shell scripts.
+- [medium.com: Why aren’t we using SSH for everything? 🌟](https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc#.bvj32odfz)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -778,6 +786,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">If you get &quot;WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!&quot;, delete offending ssh key:<br><br>ssh-keygen -R server<br><br>More <a href="https://t.co/Aq4dnIMjsx">https://t.co/Aq4dnIMjsx</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760055132608356352">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> No need to edit &quot;$HOME/.ssh/known_hosts&quot; using a text editor. Pass the -f to ssh-keygen option if the key file is different.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760056104311066624">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why aren’t we using SSH for everything? <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/openbsd?src=hash">#openbsd</a> <a href="https://twitter.com/hashtag/openssh?src=hash">#openssh</a> sysadmin  <a href="https://t.co/CV6O16FVT8">https://t.co/CV6O16FVT8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760675945220939776">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Easily Correct a Typo of Previous Command Using Carat (^) Symbol<a href="https://t.co/SKirSzyaBC">https://t.co/SKirSzyaBC</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/3MWJYRwFKB">pic.twitter.com/3MWJYRwFKB</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/760719861827993600">3 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
@@ -831,6 +844,10 @@
 - [pfSense.org](https://www.pfsense.org/)
 - [PfSense wikipedia](https://en.wikipedia.org/wiki/PfSense)
 - [nixCraft: How to install htop on pfSense firewall](http://www.cyberciti.biz/faq/pfsense-install-htop-using-pkg-command/)
+- [nixCraft: How to configure pfSense as multi wan (DUAL WAN) load balance failover router](http://www.cyberciti.biz/faq/howto-configure-dual-wan-load-balance-failover-pfsense-router/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to configure <a href="https://twitter.com/pfsense">@pfSense</a> as multi wan/DUAL WAN load balance failover router<a href="https://t.co/o6cxmedLjm">https://t.co/o6cxmedLjm</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://t.co/2kJUyWK1FA">pic.twitter.com/2kJUyWK1FA</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760944292600827904">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Vim and Emacs
 ### Vim
@@ -850,6 +867,7 @@
 - [gvim - Replace Tab with Spaces in VIM](http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim)
 - [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- [vim-adventures.com 🌟🌟](http://vim-adventures.com/) Learning VIM while playing a game
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>

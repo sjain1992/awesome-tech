@@ -53,6 +53,7 @@
 		- [Shadow IT security risks](#shadow-it-security-risks)
 		- [httpoxy. July 2016](#httpoxy-july-2016)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
+		- [HEIST technique](#heist-technique)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 		- [DDos and Project Shield. February 2016](#ddos-and-project-shield-february-2016)
 		- [Disk Encryption](#disk-encryption)
@@ -274,6 +275,7 @@
 	- [nakedsecurity.sophos.com - Anatomy of an exploit: the Microsoft Word bug that just won’t die](https://nakedsecurity.sophos.com/2016/07/01/anatomy-of-an-exploit-the-microsoft-word-bug-that-just-wont-die/)
 - [Trendmicro: ¿Qué es el ransomware? 🌟🌟🌟](https://image-store.slidesharecdn.com/1d7d2982-9b05-49c2-b78c-0f71b9226dd5-original.jpeg)
 - [Malware hits millions of Android phones](http://www.bbc.com/news/technology-36744925)
+- [Cisco report says growing ransomware attacks are costing people and businesses millions 🌟](http://www.bizjournals.com/sanjose/news/2016/08/01/cisco-report-says-growing-ransomware-attacks-are.html)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
@@ -564,6 +566,9 @@
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)
 - [hackercool.com: WordPress version detection with Metasploit](http://hackercool.com/2016/07/wordpress-version-detection-with-metasploit/)
+
+### HEIST technique
+- [arstechnica.com: New attack steals SSNs, e-mail addresses, and more from HTTPS pages](http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/)
 
 ### Container security. Who’s fixing containers? February 2016
 - [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)

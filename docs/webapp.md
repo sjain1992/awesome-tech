@@ -168,6 +168,7 @@
 ## Wordpress
 - [stosu.com](https://stosu.com) Free How-To Tutorials for WordPress and Windows Users
 - [How to install WordPress on a CentOS 7/RHEL 7 server](http://bach-online.de/2016/07/25/how-to-install-wordpress-on-a-centos-7-rhel-7-server/)
+- [DZone: Customizing User Roles in WordPress](https://dzone.com/articles/explaining-user-roles-in-wordpress) There are five default user roles in WordPress with their own set of configurable capabilities. Let's look at what they are and how to customize them.
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java

@@ -14,6 +14,7 @@
 	- [Storage](#storage)
 		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
 			- [File Systems](#file-systems)
+				- [ZFS RAID](#zfs-raid)
 	- [Veritas Volume Manager VxVM and Cluster VCS](#veritas-volume-manager-vxvm-and-cluster-vcs)
 	- [Backup](#backup)
 
@@ -271,6 +272,13 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Linux directory structure](images/Linux-Directory-Structure.jpg)](http://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
+
+##### ZFS RAID
+- [How to install ZFS on Ubuntu Linux 16.04 LTS](http://www.cyberciti.biz/faq/how-to-install-zfs-on-ubuntu-linux-16-04-lts/)
+- [How to create RAID 10 – Striped Mirror Vdev ZPool On Ubuntu Linux](http://www.cyberciti.biz/faq/how-to-create-raid-10-striped-mirror-vdev-zpool-on-ubuntu-linux/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to create Striped Mirror Vdev ZPool (RAID 10) On Ubuntu Linux or Any Distro <a href="https://t.co/2nvePR3FwT">https://t.co/2nvePR3FwT</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/VDPl5TNsjV">pic.twitter.com/VDPl5TNsjV</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760880707212148741">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Veritas Volume Manager VxVM and Cluster VCS
 - [Learnitguide.net: Veritas Volume Manager (VxVM) - Online Resizing of Volumes](http://www.learnitguide.net/2016/04/veritas-volume-manager-online-resizing.html)

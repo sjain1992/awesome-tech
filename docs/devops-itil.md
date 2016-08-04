@@ -191,6 +191,7 @@
 - [Teaching the DevOps soft skills](http://www.devopsonline.co.uk/teaching-the-devops-soft-skills/)
 - [Agile Vs. DevOps: 10 Ways They're Different](http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121) DevOps and Agile are broad terms but they aren't synonyms. Here are the ways in which they're different -- and why those differences matter to your team.
 - [DevOps' three big myths solved 🌟](http://www.v3.co.uk/v3-uk/news/2464057/devops-three-big-myths-solved) Puppet product manager Ryan Coleman attempts to dispel the three big myths of DevOps
+- [DZone: Three Principles to Get DevOps Right](https://dzone.com/articles/three-principles-to-get-devops-right) Working on a DevOps deployment? Do it right the first time. Find out how here.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You’re doing <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> wrong <a href="https://t.co/TMEkxji4yV">https://t.co/TMEkxji4yV</a> via <a href="https://twitter.com/avitus">@avitus</a> <a href="https://twitter.com/TechCrunch">@TechCrunch</a></p>&mdash; NGINX, Inc. (@nginx) <a href="https://twitter.com/nginx/status/750800597889196032">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -214,6 +215,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4EY8dz4W3o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7ZcZfGBFcU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

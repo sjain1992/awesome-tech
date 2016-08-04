@@ -35,6 +35,7 @@
     - [AWS CLI](#aws-cli)
     - [AWS VPC](#aws-vpc)
     - [AWS SQS. Amazon Simple Queue Service](#aws-sqs-amazon-simple-queue-service)
+    - [AWS Application Discovery Service Update. Agentless Discovery for VMware](#aws-application-discovery-service-update-agentless-discovery-for-vmware)
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
@@ -510,6 +511,9 @@
 ## AWS SQS. Amazon Simple Queue Service
 - [Limits in Amazon SQS](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-limits.html)
 
+## AWS Application Discovery Service Update. Agentless Discovery for VMware 
+- [AWS Application Discovery Service Update – Agentless Discovery for VMware](https://aws.amazon.com/es/blogs/aws/aws-application-discovery-service-update-agentless-discovery-for-vmware/)
+
 ## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
 - [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
@@ -538,6 +542,9 @@
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is this whole <a href="https://twitter.com/hashtag/serverless?src=hash">#serverless</a> thing anyway? <a href="https://t.co/bKSvhyryuA">https://t.co/bKSvhyryuA</a></p>&mdash; Ryan Kroonenburg (@KroonenburgRyan) <a href="https://twitter.com/KroonenburgRyan/status/742748389494956032">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Interesting &amp; useful - Lambda-backed Linux Shell - <a href="https://t.co/4JsX6zrxiV">https://t.co/4JsX6zrxiV</a>  <a href="https://twitter.com/hashtag/AWS?src=hash">#AWS</a> <a href="https://t.co/qRXY1PzdTP">pic.twitter.com/qRXY1PzdTP</a></p>&mdash; Jeff Barr (@jeffbarr) <a href="https://twitter.com/jeffbarr/status/759491195793920000">30 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Cloud Formation

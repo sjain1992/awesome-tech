@@ -106,6 +106,7 @@
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 - [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 - [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
+- [Explaining Ed. The Standard Text Editor](https://gkbrk.com/2016/08/explaining-ed/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fLGKudBtkc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

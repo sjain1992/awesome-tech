@@ -28,8 +28,8 @@
     - [Common Windows Commands for Pentesters 🌟](https://pentestacademy.wordpress.com/2016/06/21/common-windows-commands-for-pentesters/)
 - [Security Onion](https://security-onion-solutions.github.io/security-onion/) Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Bro, OSSEC, Sguil, Squert, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 - [The Basics of Ethical Hacking and Penetration Testing](http://www.k4linux.com/2016/05/ethical-hacking-penetration-testing.html)
-- [Kali Linux Ebook : Download Web Penetration Testing](http://www.k4linux.com/2016/05/kali-linux-ebook-web-penetration-testing.html)
 - [Why Penetration Testing ?](http://www.k4linux.com/2016/06/why-penetration-testing-kali-linux-2-0.html)
+- [7 Penetration Testing Types 🌟🌟🌟](http://www.k4linux.com/2016/07/7-types-of-penetration-testing.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management <a href="https://t.co/kePD0NrxCL">https://t.co/kePD0NrxCL</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/746757211628572672">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -65,6 +65,9 @@
 - [Udemy.com: Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
 - [hackercool.com: WordPress version detection with Metasploit](http://hackercool.com/2016/07/wordpress-version-detection-with-metasploit/)
 - [How to Crack WPA/WPA2 Password With Reaver Using Kali Linux 2.0 ](http://www.hackzzon.com/2016/07/how-to-crack-wpawpa2-password-with.html)
+- [Kali Linux Ebook: Wireless Penetration Testing Beginner's Guide PDF 🌟🌟🌟](http://www.k4linux.com/2016/08/kali-linux-ebook-wireless-hack-pdf.html)
+- [Kali Linux Ebook : Download Web Penetration Testing 🌟🌟🌟](http://www.k4linux.com/2016/05/kali-linux-ebook-web-penetration-testing.html)
+- [The Hacker Playbook: Practical Guide To Penetration Testing PDF](http://www.k4linux.com/2016/07/the-hacker-playbook-penetration-testing-pdf.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>

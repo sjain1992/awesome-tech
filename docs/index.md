@@ -7,7 +7,9 @@
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 <center>
 
-Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
+Application Engineer | Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
+
+Interested in Infrastructure Automation, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics.
 
 </center>
 <center>
@@ -91,7 +93,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 	- [SQL injection 🌟](sql_injection.md)
 8. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
     - [Agile planning. CI/CD, Project Management, Scrum, Kanban, Lean 🌟🌟](agileplanning.md)
-	- [Metrics with APM, Backend Server Monitoring and Alarm System. Grafana, Graphite, Influxdb, Zabbix 🌟](metrics.md)
+	- [Metrics with APM, Backend Server Monitoring and Alarm System. Grafana, Graphite, InfluxDB, Zabbix 🌟](metrics.md)
 	- [Elasticsearch, Graylog, Syslog ng](elasticsearch.md)
 	- [Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git](jenkins-git.md)
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
@@ -364,6 +366,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
+
+![napoleon_quote_poder](images/napoleon_quote_poder.png)
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 <!--
