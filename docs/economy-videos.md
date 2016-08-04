@@ -11,6 +11,9 @@
 
 ![voltaire money](images/voltaire_money.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You&#39;re not having a bad day. See how young men were spending their Monday 100 years ago.<br>Cheer up. <a href="https://twitter.com/hashtag/MotivationMonday?src=hash">#MotivationMonday</a> <a href="https://t.co/fygbmvjg2p">pic.twitter.com/fygbmvjg2p</a></p>&mdash; John Schindler (@20committee) <a href="https://twitter.com/20committee/status/760087143960248320">1 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Economy Videos
 - [La Noche Temática: Cuando explotan las burbujas](http://www.rtve.es/alacarta/videos/la-noche-tematica/noche-tematica-cuando-explotan-burbujas/3227420/)
 - [La Noche Temática: Trading de alta frecuencia](http://www.rtve.es/alacarta/videos/la-noche-tematica/noche-tematica-trading-alta-frecuencia/3227478/)
@@ -113,6 +116,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RYflddGcaU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: The British Empire in 1921, at its territorial peak. <a href="https://t.co/7QNjO8TDvw">pic.twitter.com/7QNjO8TDvw</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/760928469966479360">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Napoleón
 - [Economics. Napoleon](napoleon.md)

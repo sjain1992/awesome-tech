@@ -5,6 +5,9 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">High-speed mobile <a href="https://twitter.com/hashtag/Internet?src=hash">#Internet</a> continues to grow in OECD area, penetration now above 90% <a href="https://t.co/uzplhwyegu">https://t.co/uzplhwyegu</a> <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a> <a href="https://t.co/9sX5phonY4">pic.twitter.com/9sX5phonY4</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/760424666230054913">2 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Mobile Core Network
 - [Core Network](https://en.wikipedia.org/wiki/Core_network)
 

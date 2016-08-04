@@ -101,6 +101,9 @@
     - [Taurus 🌟](http://gettaurus.org/) Automation-friendly framework for Continuous Testing. Taurus improves experience of JMeter, Selenium and others. 
     - [Gatling stress tool 🌟](http://gatling.io) 
     - [Locust 🌟](http://locust.io/)
+- [peerlyst.com: Using Avalanche Vs. TRex to Simulate CDN and Attack Traffic 🌟](https://www.peerlyst.com/posts/using-avalanche-vs-trex-to-simulate-cdn-and-attack-traffic-bianca-gorospe)
+    - [Using Avalanche vs. TRex to Simulate CDN and Attack Traffic 🌟](https://www.incapsula.com/blog/trex-traffic-generator-software.html)
+    - [Cisco's TRex (open source)](https://trex-tgn.cisco.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Para ser un buen <a href="https://twitter.com/hashtag/SysAdmin?src=hash">#SysAdmin</a> de red aprende a monitorear el rendimiento de servidores <a href="https://twitter.com/hashtag/Apache?src=hash">#Apache</a> <a href="https://t.co/YP6OBrI0Yn">https://t.co/YP6OBrI0Yn</a> <a href="https://t.co/iLFVlYIrHP">pic.twitter.com/iLFVlYIrHP</a></p>&mdash; Solvetic (@solvetic) <a href="https://twitter.com/solvetic/status/715657005881561088">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

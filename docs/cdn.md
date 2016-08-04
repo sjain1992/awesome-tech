@@ -33,6 +33,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El lado del mal - Los certificados digitales que usa Apple en su CDN son de peor calidad <a href="https://t.co/COwnZIJL9s">https://t.co/COwnZIJL9s</a> }:) <a href="https://t.co/4R7d7QiYG4">pic.twitter.com/4R7d7QiYG4</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/760682364179714048">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9lxBEJ1t6iXcYj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Murali007/content-delivery-network-31987008" title="Content Delivery Network" target="_blank">Content Delivery Network</a> </strong> from <strong><a href="//www.slideshare.net/Murali007" target="_blank">Murali007</a></strong> </div>
 </div>

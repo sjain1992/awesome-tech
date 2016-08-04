@@ -626,3 +626,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fk4BbF7B29w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div> 
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si Michael Jordan fallaba 3 tiros, el pabellón entero tendría zapatillas gratis.. Pero.. 😂: <a href="https://t.co/M8WNohinaX">pic.twitter.com/M8WNohinaX</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/760579219856424960">2 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

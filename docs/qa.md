@@ -14,6 +14,8 @@
     - [Testing Tools](#testing-tools)
 
 <!-- /MarkdownTOC -->
+![fruit_platter](images/fruit_platter.jpg)
+
 [![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
@@ -120,6 +122,7 @@
 - [softwaretestingnews.co.uk 🌟🌟🌟](http://www.softwaretestingnews.co.uk/)
 - [DZone: Is Complexity Killing Your Code Quality?](https://dzone.com/articles/is-complexity-killing-your-code-quality) Complexity leads to bugs, and bugs lead to unemployment. Is your code getting too complex?
 - [softwaretestingnews.co.uk: The downfall of good code](http://www.softwaretestingnews.co.uk/downfall-good-code/)
+- [DZone: Six Developer Phrases That QA Engineers Love to Hate](https://dzone.com/articles/6-developer-phrases-that-qa-engineers-love-to-hate) We have to verify that our code works, that's just a fact of life. Having spent my entire life on the developer side of the room I must say (if I'm going to be honest) that I have committed each and every one of these sins.
 
 [![dzone_refcard_refactoring_patterns](images/dzone_refcard_refactoring_patterns.png)](https://dzone.com/refcardz/refactoring-patterns)
 
