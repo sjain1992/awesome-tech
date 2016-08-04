@@ -162,6 +162,7 @@
 
 ## Evernote
 - [Calendars are simple yet powerful motivational tools. Save these templates to Evernote](https://blog.evernote.com/blog/2015/12/26/resolve-to-stay-on-track-in-the-new-year/)
+- [4 open source alternatives to Evernote](https://opensource.com/life/16/8/open-source-alternatives-evernote)
 
 ### Evernote on Twitter
 - [twitter.com/evernote](https://twitter.com/evernote)

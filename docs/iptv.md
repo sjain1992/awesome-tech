@@ -6,6 +6,7 @@
 
 # IPTV Internet Protocol Television
 - [IPTV wikipedia](https://en.wikipedia.org/wiki/IPTV)
+- [5 Ways Netflix is Changing Telecom Networks](https://www.linkedin.com/pulse/5-ways-netflix-changing-telecom-networks-avi-dorfman-1)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LE2DFs9x_4w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

@@ -262,6 +262,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn more about <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Satellite 6.2 in this <a href="https://twitter.com/hashtag/video?src=hash">#video</a>: Importing Existing Hosts via the Bootstrap Script <a href="https://t.co/pRztMmUMyy">https://t.co/pRztMmUMyy</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/759099424660295680">29 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/SkyNews">@SkyNews</a> saves time and effort with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Satellite: <a href="https://t.co/jk0dTuYzGn">https://t.co/jk0dTuYzGn</a> <a href="https://t.co/xwRp6fnQsM">pic.twitter.com/xwRp6fnQsM</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/760450835037904897">2 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Project Atomic
 - [projectatomic.io 🌟](http://www.projectatomic.io) Create and Run Applications in Linux Containers 
 - [New CentOS Atomic Host Images Available for Download](http://www.projectatomic.io/blog/2016/03/new-centos-atomic-host-images-available-for-download/)
