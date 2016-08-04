@@ -46,6 +46,7 @@
 - [blog.binternational.net: Los españoles apuestan por la movilidad internacional 🌟](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 - [Soy programador y tengo 50 años 🌟🌟](http://m.xataka.com/aplicaciones/soy-programador-y-tengo-50-anos)
 - [Las 10 mejores frases de ‘El lobo de Wall Street’ aplicadas al mundo empresarial](http://blog.nubelo.com/las-mejores-frases-lobo-wall-street-aplicadas-mundo-empresarial/)
+- [Quién a buen árbol se arrima, buena sombra le cobija: El dilema del networking](http://www.grupoblc.com/quien-a-buen-arbol-se-arrima-buena-sombra-le-cobija-el-dilema-del-networking/)
 
 [![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
 
