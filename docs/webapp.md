@@ -10,6 +10,7 @@
 		- [Elasticsearch](#elasticsearch)
 	- [Caching](#caching)
 	- [Apache and Tomcat](#apache-and-tomcat)
+		- [Using JMX to monitor an Application Server running on Docker](#using-jmx-to-monitor-an-application-server-running-on-docker)
 	- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
 	- [Nginx](#nginx)
 	- [F5 Load Balancer](#f5-load-balancer)
@@ -131,6 +132,7 @@
 - [scriptrock.com: 15 Ways To Secure Apache Tomcat 8](https://www.scriptrock.com/articles/15-ways-to-secure-apache-tomcat-8)
 - [middlewaresnippets.blogspot.com - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/05/working-with-apache-http-server.html)
 	- [middlewaresnippets.blogspot.com - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/09/working-some-more-with-apache-http.html)
+- [nixCraft: PHP-fpm Too Many Open Files 24 Error (set open file descriptor limit)](http://www.cyberciti.biz/faq/php-5-7-fpm-set-open-file-descriptor-limit-on-linux-unix/)
 
 [![How Apache Is Losing The Web To NGINX 2](images/nginx-w3techs-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
@@ -144,6 +146,12 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">25 Apache Interview Questions for Beginners and Intermediates <a href="https://t.co/6TdTK3j3wC">https://t.co/6TdTK3j3wC</a> … RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/YPbRItIRdH">pic.twitter.com/YPbRItIRdH</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/748452881087422464">30 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/RDFES9fHG6">https://t.co/RDFES9fHG6</a> - easily strace all your apache processes (gormux) <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a> <a href="https://twitter.com/hashtag/ps?src=hash">#ps</a> <a href="https://twitter.com/hashtag/strace?src=hash">#strace</a></p>&mdash; CommandLineFu (@commandlinefu) <a href="https://twitter.com/commandlinefu/status/761154707767238657">4 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Using JMX to monitor an Application Server running on Docker
+- [software.dell.com: Using JMX to monitor an Application Server running on Docker](https://software.dell.com/blog/en/using-jmx-to-monitor-an-application-server-running-on-docker)
+	- [youtube - JMX Monitoring for Java Application running on Docker (Apache Tomcat Example) ](https://www.youtube.com/watch?v=tVL3hkA149o)
 
 ## ModSecurity Web Application Level Firewall
 - [modsecurity.org](https://www.modsecurity.org/) ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the "Swiss Army Knife" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.

@@ -103,6 +103,9 @@
 
 [![dzone_refcard_python_data_mining](images/dzone_refcard_python_data_mining.png)](https://dzone.com/refcardz/data-mining-discovering-and)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How Olympic athletes use machine learning and data analysis to reach peak performance levels <a href="https://t.co/BXWxOVPTBM">https://t.co/BXWxOVPTBM</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/761321939595964416">4 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SQL and Databases
 - [SQL and Databases](databases.md)
 

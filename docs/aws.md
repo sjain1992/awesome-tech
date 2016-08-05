@@ -155,6 +155,7 @@
 - [awscerts.slack.com](https://awscerts.slack.com)
 - [Amazon AWS Certification Preparation Tips 🌟🌟🌟](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
 - [A curated list of AWS resources to prepare for the AWS Certifications 🌟🌟](https://gist.github.com/leonardofed)
+- [AWS Certified Solutions Architect Professional – Study Guide 🌟🌟](https://blue-clouds.com/category/study-guide/)
 
 [![aws_certificates](images/aws_certificates.png)](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
 
@@ -217,6 +218,7 @@
 - [DZone: A Guide to Performance Challenges With AWS EC2: Part 2](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-1) Using Amazon Web Services? Learn how to get your Elastic Compute Cloud instances to perform better than your competitors.
 - [DZone: A Guide to Performance Challenges With AWS EC2: Part 3](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-2) In the second part of his guide covering performance challenges in AWS EC2, Saba Anees covers instances and the right applications for your workloads.
 - [DZone: A Guide to Performance Challenges With AWS EC2: Part 4 🌟🌟🌟](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-3) In the final part of his series covering performance challenges with AWS EC2, Saba Anees goes over poor ELB performance and handling AWS failures and outages.
+- [blog.datapath.io: Dynamic Web Accelerator for AWS Hosted Applications 🌟](http://blog.datapath.io/dynamic-web-accelerator-for-aws-hosted-applications)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
@@ -497,6 +499,7 @@
 
 ## Docker for AWS
 - [DZone: Getting Started With Docker for AWS and Scaling Nodes](https://dzone.com/articles/getting-started-with-docker-for-aws-and-scaling-no) This blog will explain how to get started with Docker for AWS and deploy a multi-host Swarm cluster on Amazon.
+- [blog.couchbase.com: Getting Started with Docker for AWS and Scaling Nodes](http://blog.couchbase.com/2016/july/docker-for-aws-getting-started-scaling-nodes)
 
 ## AWS CLI
 - [Amazon CLI Documentation](https://aws.amazon.com/cli)

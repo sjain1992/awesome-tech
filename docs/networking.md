@@ -14,6 +14,7 @@
 	- [CDN Content delivery network](#cdn-content-delivery-network)
 	- [VoIP](#voip)
 	- [MPLS Multi Protocol Label Switching \(IP VPN\)](#mpls-multi-protocol-label-switching-ip-vpn)
+	- [BGP Border Gateway Protocol](#bgp-border-gateway-protocol)
 	- [Mobile Core Network](#mobile-core-network)
 	- [IMS IP Multimedia Subsystem](#ims-ip-multimedia-subsystem)
 	- [IPTV Internet Protocol Television](#iptv-internet-protocol-television)
@@ -139,6 +140,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-c5P2CvBTRg?list=PLk1Rzj8ppcXm7jv58Hrr6jv1t8A-OHVfA" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### OpenDaylight
 -  With the rise of cloud computing and the expansion of data centers, software-defined solutions, like this Linux-based platform, are gaining greater traction in the tech industry. OpenDaylight works to help drive network success, reduce business costs and provide employees with greater flexibility.
 - [opendaylight.org](https://www.opendaylight.org)
@@ -230,6 +236,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtmmbsQTSa8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## BGP Border Gateway Protocol 
+- [Using Border Gateway Protocol for Latency Optimization](http://blog.datapath.io/using-border-gateway-protocol-for-latency-optimization)
+- [How BGP Best Path Selection Works](http://blog.datapath.io/how-bgp-best-path-selection-works)
 
 ## Mobile Core Network
 - [Mobile Core Network](mobilecore.md)

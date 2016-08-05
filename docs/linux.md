@@ -266,6 +266,7 @@
 
 ### PHP 7
 - [nixCraft: How to install PHP 7 on Ubuntu Linux 14.04 LTS 🌟](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
+- [nixCraft: PHP-fpm Too Many Open Files 24 Error (set open file descriptor limit)](http://www.cyberciti.biz/faq/php-5-7-fpm-set-open-file-descriptor-limit-on-linux-unix/)
 
 ## Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
@@ -334,6 +335,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux how long a process has been running?<br><br>ps -p PID -o pid,cmd,etime<br><br>More info <a href="https://t.co/Jj3hcFzUl0">https://t.co/Jj3hcFzUl0</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/PhHGhk1TFI">pic.twitter.com/PhHGhk1TFI</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760104491827892224">1 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/RDFES9fHG6">https://t.co/RDFES9fHG6</a> - easily strace all your apache processes (gormux) <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a> <a href="https://twitter.com/hashtag/ps?src=hash">#ps</a> <a href="https://twitter.com/hashtag/strace?src=hash">#strace</a></p>&mdash; CommandLineFu (@commandlinefu) <a href="https://twitter.com/commandlinefu/status/761154707767238657">4 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux System Calls
 - [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
@@ -642,6 +645,7 @@
 - [Linux networking examples and tutorials for advanced users 🌟🌟🌟](https://github.com/knorrie/network-examples) Includes lab examples for lxc, bgp, vpn, & more
 - [CentOS/RHEL: Install vnStat Network Traffic Monitor To Keep a Log Of Daily Traffic 🌟🌟🌟](http://www.cyberciti.biz/faq/centos-redhat-fedora-linux-install-vnstat-bandwidth-monitor/)
 - [ngrep 🌟](http://ngrep.sourceforge.net/)
+- [nixCraft: Linux Force DHCP Client (dhclient) to Renew IP Address](http://www.cyberciti.biz/faq/howto-linux-renew-dhcp-client-ip-address/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

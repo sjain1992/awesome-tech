@@ -48,6 +48,9 @@
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 - [zdnet: Why Microsoft's vulnerability severity ratings are obsolete 🌟](http://www.zdnet.com/article/microsofts-vulnerability-severity-ratings-are-obsolete/) The distinction between 'critical' and 'important' has become meaningless. It makes no sense to treat them differently. Patch Tuesday needs a patch.
 - [WinBeta.org 🌟🌟](http://www.winbeta.org/) Your source for Windows 10 and Microsoft news
+- [Microsoft Application Lifecycle Management. Visual Studio SSH build task](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/30/ssh-build-task/)
+- [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)
+- [Éstas son las principales novedades de Windows 10 Anniversary Update](http://www.xataka.com/aplicaciones/estas-son-las-principales-novedades-de-windows-10-anniversary-update)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

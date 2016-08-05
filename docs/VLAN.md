@@ -11,6 +11,7 @@
 - [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN)
 - [Cisco Networking Academy's Introduction to VLANs](http://www.ciscopress.com/articles/article.asp?p=2181837)
 - [Fundamentals of 802.1Q VLAN Tagging](https://documentation.meraki.com/zGeneral_Administration/Tools_and_Troubleshooting/Fundamentals_of_802.1Q_VLAN_tagging)
+- [VLANs and Trunks whitepaper](https://www.globalknowledge.com/us-en/resources/resource-library/white-papers/vlans-and-trunks/) Everything You Ever Wanted to Know About VLANs & Trunks
 
 ## VLAN on reddit
 - [reddit: To VLAN or not to VLAN?](https://www.reddit.com/r/sysadmin/comments/22fwl9/to_vlan_or_not_to_vlan/)

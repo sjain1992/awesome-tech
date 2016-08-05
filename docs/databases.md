@@ -315,6 +315,7 @@
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
 - [Why Uber Engineering Switched from Postgres to MySQL 🌟](https://eng.uber.com/mysql-migration/)
+- [MySQL does not need SQL](https://dom.as/2016/08/03/mysql-does-not-need-sql/) 
 
 ### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)

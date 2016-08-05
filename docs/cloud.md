@@ -66,6 +66,7 @@
 - [hostgeni.net](http://www.hostgeni.net) Discover who is hosting any website 
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 - [Is It Down Righ Now? 🌟🌟](http://www.isitdownrightnow.com)
+- [tecmint: 8 Open Source/Commercial Billing Platforms for Hosting Providers](http://www.tecmint.com/open-source-commercial-billing-software-system-web-hosting/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LH5lj4sARI0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
