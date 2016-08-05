@@ -152,15 +152,15 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-|[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|
+|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|
 |:---:|:---:|:---:|:---:|
 
 </center>
 
 <center>
 
-|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|
-|:---:|:---:|:---:|:---:|
+|[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|[![gsma_video](images/gsma_video.jpg)](https://www.youtube.com/user/GSMAOnline)|
+|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 
