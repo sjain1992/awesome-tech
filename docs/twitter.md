@@ -103,6 +103,7 @@
 - [Moving Tech Forward](http://paper.li/MalcolmIsaacs/1443774212)
 - [Open Tech Daily](http://paper.li/JeffKaplan88/1306711421)
 - [TechAgil & TechNews](http://paper.li/PepeVazquezS/1320427818)
+- [SDN & NFV NEWS](http://paper.li/YAKBAKIT/1408541986)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)

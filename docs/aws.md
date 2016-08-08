@@ -14,6 +14,7 @@
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
+    - [AWS Case Studies](#aws-case-studies)
     - [AWS tips. AWS Performance. Handling AWS Failures and Outages](#aws-tips-aws-performance-handling-aws-failures-and-outages)
     - [AWS Clients](#aws-clients)
     - [AWS New Features](#aws-new-features)
@@ -208,6 +209,9 @@
 - [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
 - [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
+## AWS Case Studies
+- [Thomas Publishing Case Study](https://aws.amazon.com/solutions/case-studies/thomas-publishing/)  After moving to AWS, we were able to shut down our largest data center, eliminating hundreds of thousands of dollars in associated real estate, facility operations, and power and cooling costs.   
+
 ## AWS tips. AWS Performance. Handling AWS Failures and Outages
 - [AWS Tips I Wish I'd Known Before I Started (Feb 2014) 🌟🌟🌟](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) A collection of random tips for Amazon Web Services (AWS) that I wish I'd been told a few years ago, based on what I've learned by building and deploying various applications on AWS.
 - [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
@@ -219,6 +223,7 @@
 - [DZone: A Guide to Performance Challenges With AWS EC2: Part 3](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-2) In the second part of his guide covering performance challenges in AWS EC2, Saba Anees covers instances and the right applications for your workloads.
 - [DZone: A Guide to Performance Challenges With AWS EC2: Part 4 🌟🌟🌟](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-3) In the final part of his series covering performance challenges with AWS EC2, Saba Anees goes over poor ELB performance and handling AWS failures and outages.
 - [blog.datapath.io: Dynamic Web Accelerator for AWS Hosted Applications 🌟](http://blog.datapath.io/dynamic-web-accelerator-for-aws-hosted-applications)
+- [The Truth About Downtime in the Cloud](http://cloud.netapp.com/blog/prepare-for-the-day-of-all-cloud)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
@@ -510,6 +515,7 @@
 ## AWS VPC
 - [linuxjournal.com: AWS EC2 VPC CLI](http://www.linuxjournal.com/content/aws-ec2-vpc-cli)
 - [Build a Modular and Scalable Amazon VPC Architecture with New Quick Start 🌟🌟🌟](https://aws.amazon.com/about-aws/whats-new/2016/07/build-a-modular-and-scalable-amazon-vpc-architecture-with-new-quick-start) Build a modular virtual network architecture with Amazon VPC in 5 minutes with our new Quick Start
+- [Specifying the VPC for your Amazon RDS DB Instance](https://aws.amazon.com/about-aws/whats-new/2016/08/specifying-the-vpc-for-your-amazon-rds-db-instance/) You can now easily change the Amazon VPC used by your Amazon RDS DB instance!
 
 ## AWS SQS. Amazon Simple Queue Service
 - [Limits in Amazon SQS](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-limits.html)

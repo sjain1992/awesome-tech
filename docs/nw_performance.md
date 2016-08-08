@@ -21,6 +21,7 @@
 - [Datapath.io: What is Network Congestion?](http://blog.datapath.io/what-is-network-congestion)
 - [blog.performancevision.com - 6 REASONS TO TAKE A NEW APPROACH TO PACKET CAPTURE 🌟🌟🌟](http://blog.performancevision.com/the-6-reasons-packet-capture-will-not-work-anymore)
 - [AWS Network Performance Optimization Whitepaper 🌟](http://resources.datapath.io/whitepapers/aws-network-performance-optimization-whitepaper) Learn how to minimize Network latency, Packet loss, transit cost and Optimize Bandwidth from AWS to your end users.
+- [blog.performancevision.com: Key differences between packet capture and real time stream analysis](http://blog.performancevision.com/key-differences-between-packet-capture-and-real-time-stream-analysis)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

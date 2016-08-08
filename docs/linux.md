@@ -765,6 +765,7 @@
 - [The Security and Compliance Implications of SSH User Keys 🌟🌟](The Security and Compliance Implications of SSH User Keys)
 - [sshfront: Programmable SSH frontend](https://github.com/gliderlabs/sshfront) A lightweight SSH server frontend where authentication and connections are controlled with command handlers / shell scripts.
 - [medium.com: Why aren’t we using SSH for everything? 🌟](https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc#.bvj32odfz)
+- [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -807,6 +808,7 @@
 - [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
 - [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)
 - [Linux Iptables Delete postrouting Rule Command 🌟🌟](http://www.cyberciti.biz/faq/how-to-iptables-delete-postrouting-rule/)
+- [nixCraft - Linux iptables: Port Redirection Example](http://www.cyberciti.biz/faq/linux-port-redirection-with-iptables/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blocklist of all Facebook domains <br><br>-&gt; /etc/hosts file <a href="https://t.co/fh3G6c2Tqg">https://t.co/fh3G6c2Tqg</a><br><br>-&gt; iptables <a href="https://t.co/oH3r62qByF">https://t.co/oH3r62qByF</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736581390276272128">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

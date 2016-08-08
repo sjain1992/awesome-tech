@@ -28,6 +28,8 @@
 
 [![what_is_devops_aws](images/what_is_devops_aws.png)](http://aws.amazon.com/devops/what-is-devops/)
 
+[![todays_devops](images/todays_devops.jpg)](http://iot.sys-con.com/node/3841320)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, anyway? <a href="https://t.co/0tvL5uQjvx">https://t.co/0tvL5uQjvx</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/714001576554323968">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -191,8 +193,13 @@
 - [Teaching the DevOps soft skills](http://www.devopsonline.co.uk/teaching-the-devops-soft-skills/)
 - [Agile Vs. DevOps: 10 Ways They're Different](http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121) DevOps and Agile are broad terms but they aren't synonyms. Here are the ways in which they're different -- and why those differences matter to your team.
 - [DevOps' three big myths solved 🌟](http://www.v3.co.uk/v3-uk/news/2464057/devops-three-big-myths-solved) Puppet product manager Ryan Coleman attempts to dispel the three big myths of DevOps
+- [opensource.com: Busting 6 myths about DevOps 🌟🌟🌟](https://opensource.com/business/15/4/6-common-devops-myths) #DevOps is not only for startups and unicorns. 
 - [DZone: Three Principles to Get DevOps Right](https://dzone.com/articles/three-principles-to-get-devops-right) Working on a DevOps deployment? Do it right the first time. Find out how here.
 - [DZone: The Periodic Table of DevOps Tools v.2 is Here 🌟](https://dzone.com/articles/the-periodic-table-of-devops-tools-v2-is-here-1) The new periodic table of DevOps from Xebia Labs builds on it's popular predecessor by letting users dive deeper into each solution.
+- [Five Challenges for a Successful Enterprise DevOps Model 🌟🌟🌟](http://iot.sys-con.com/node/3841320)
+- [blog.xebialabs.com: 7 DevOps Videos You Have To Watch 🌟🌟](https://blog.xebialabs.com/2015/08/07/7-devops-videos-you-have-to-watch/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You’re doing <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> wrong <a href="https://t.co/TMEkxji4yV">https://t.co/TMEkxji4yV</a> via <a href="https://twitter.com/avitus">@avitus</a> <a href="https://twitter.com/TechCrunch">@TechCrunch</a></p>&mdash; NGINX, Inc. (@nginx) <a href="https://twitter.com/nginx/status/750800597889196032">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

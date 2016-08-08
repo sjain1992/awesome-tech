@@ -68,6 +68,7 @@
 - [Kali Linux Ebook: Wireless Penetration Testing Beginner's Guide PDF 🌟🌟🌟](http://www.k4linux.com/2016/08/kali-linux-ebook-wireless-hack-pdf.html)
 - [Kali Linux Ebook : Download Web Penetration Testing 🌟🌟🌟](http://www.k4linux.com/2016/05/kali-linux-ebook-web-penetration-testing.html)
 - [The Hacker Playbook: Practical Guide To Penetration Testing PDF](http://www.k4linux.com/2016/07/the-hacker-playbook-penetration-testing-pdf.html)
+- [DZone: Why You Should Attack Your Systems - Before "They" Do 🌟🌟🌟](https://dzone.com/articles/why-you-should-attack-your-systems-before-they-do-2) You will never be able to find all of the security vulnerabilities and weaknesses in your code. The only way to be secure is to design and build security in from the ground up.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>

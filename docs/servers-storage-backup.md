@@ -74,6 +74,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Dell">@Dell</a> and <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>: One of the 10 most important tech partnerships in 2016 according to <a href="https://twitter.com/CRN">@CRN</a> <a href="https://t.co/oPATSZL59u">https://t.co/oPATSZL59u</a> <a href="https://t.co/DhMf51UxwG">pic.twitter.com/DhMf51UxwG</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/761598975812272128">5 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## HP
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
@@ -328,6 +331,8 @@
 - [silicon.es: Tecnologías para manejar y asegurar la información](http://www.silicon.es/tecnologias-manejar-asegurar-informacion-2310166) La información que manejan las empresas se ha multiplicado en los últimos años. Tecnologías como Snapshots, Incremental Change Capture y live Copy ayuden a gestionar efizcamente la información.
 - [distrowatch.com: SystemRescueCd](http://distrowatch.com/table.php?distribution=systemrescue)
 - [Linux.com: Let Attic Deduplicate and Store your Backups 🌟🌟🌟](https://www.linux.com/learn/let-attic-deduplicate-and-store-your-backups)
+
+![system_restore_disk](images/system_restore_disk.jpg)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33326XobwYg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

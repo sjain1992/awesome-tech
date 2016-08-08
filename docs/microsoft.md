@@ -51,6 +51,8 @@
 - [Microsoft Application Lifecycle Management. Visual Studio SSH build task](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/30/ssh-build-task/)
 - [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)
 - [Éstas son las principales novedades de Windows 10 Anniversary Update](http://www.xataka.com/aplicaciones/estas-son-las-principales-novedades-de-windows-10-anniversary-update)
+- [Red Hat, Microsoft and Codenvy Push DevOps with New Language Protocol 🌟🌟🌟](http://thevarguy.com/open-source-application-software-companies/red-hat-microsoft-and-codenvy-push-devops-new-language-pr)
+- [How to stop Windows 10 from automatically installing downloaded updates?](http://www.idganswers.com/question/29517/how-to-stop-windows-10-from-automatically-installing-downloaded-updates)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

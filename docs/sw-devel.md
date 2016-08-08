@@ -296,6 +296,7 @@
 - [Visualizing HTTP requests with Node Application Metrics and IBM Health Center](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 	- [eclipse marketplace: IBM Monitoring and Diagnostic Tools - Health Center](http://marketplace.eclipse.org/content/ibm-monitoring-and-diagnostic-tools-health-center)
 - [IntelliJ IDEA 16 EAP Improves Debugger and Adds Git Worktree Support](https://dzone.com/articles/intellij-idea-16-eap-improves-debugger-and-adds-gi) A new patch brings several new features to IntelliJ, including the use of Groovy expressions when debugging a Java application and VC integration.
+- [Red Hat, Microsoft and Codenvy Push DevOps with New Language Protocol 🌟🌟🌟](http://thevarguy.com/open-source-application-software-companies/red-hat-microsoft-and-codenvy-push-devops-new-language-pr)
 
 [![dzone_refcard_intellijidea](images/dzone_refcard_intellijidea.png)](https://dzone.com/refcardz/intellij-idea)
 

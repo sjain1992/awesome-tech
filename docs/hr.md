@@ -135,7 +135,7 @@
 - [businessinsider.com: Researchers discovered a surprising trait shared by the worst bosses](http://www.businessinsider.com/study-finds-the-worst-bosses-are-unpredictable-2016-3)
 - [Daniel Goleman: How to Coach A Dictatorial Leader 🌟](https://www.linkedin.com/pulse/how-coach-dictatorial-leader-daniel-goleman)
 - [10 Things HR Doesn't Want You to Know (but I'll Tell You) 🌟🌟](http://www.inc.com/jt-odonnell/10-things-hr-doesn-t-want-you-to-know-but-i-ll-tell-you.html) HR and recruiting have some secrets you should know..
-- [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
+- [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
 - [20 things the most respected bosses never say](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
 - [businessinsider.com: 13 signs you're about to get a promotion at work 🌟](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
 - [forbes: 9 Things You Can Do When The Boss Takes Credit For Your Work](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
@@ -164,6 +164,7 @@
 - [Learn When to Delegate and When to Micromanage](https://www.entrepreneur.com/article/279300)
 - [How Seagull Managers Make Everyone Miserable](http://www.huffingtonpost.com/dr-travis-bradberry/how-seagull-managers-make_b_10665052.html)
 - [Here's who you should sit next to at work if you want to be more productive](http://www.businessinsider.com/who-to-sit-next-to-at-work-to-be-more-productive-2016-8)
+- [opensource.com: How to keep a meritocracy in check 🌟](https://opensource.com/open-organization/16/8/how-make-meritocracy-work)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

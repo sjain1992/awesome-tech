@@ -75,6 +75,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La vía tradicional hacia el desarrollo (la que también utilizó España)la del trabajo barato,se va a terminar: robots <a href="https://t.co/hVkH0AWsaO">https://t.co/hVkH0AWsaO</a></p>&mdash; Juan Ignacio Crespo (@JuanIgnacioCre1) <a href="https://twitter.com/JuanIgnacioCre1/status/745322210609475588">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![13_decisiones_afectan_tu_talento](images/13_decisiones_afectan_tu_talento.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 recomendaciones para mejorar la selección de personal en las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> ➡ <a href="https://t.co/GrBuh2140F">https://t.co/GrBuh2140F</a> <a href="https://twitter.com/hashtag/rrhh?src=hash">#rrhh</a> <a href="https://t.co/NZ10KH0bEX">pic.twitter.com/NZ10KH0bEX</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709771540083171329">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Nuestra vida sería más fácil si siguiéramos los consejos que damos a los demás <a href="https://t.co/bNiQCVfPiw">https://t.co/bNiQCVfPiw</a> <a href="https://twitter.com/InfoJobs">@InfoJobs</a> <a href="https://t.co/IQzGnicf3a">pic.twitter.com/IQzGnicf3a</a></p>&mdash; Alfonso Alcántara (@Yoriento) <a href="https://twitter.com/Yoriento/status/744444859130519552">19 de junio de 2016</a></blockquote>
@@ -112,6 +114,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dilbert_intern_salary](images/dilbert_intern_salary.gif)](http://dilbert.com/strip/1996-08-22)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los <a href="https://twitter.com/hashtag/RedSox?src=hash">#RedSox</a> le ofrecieron el mayor salario de la historia con incentivos descomunales, pero él dijo que no ¿Por qué? <a href="https://t.co/tB9IDkEUnj">https://t.co/tB9IDkEUnj</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/760771774669787136">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![como_ser_buen_companero](images/como_ser_buen_companero.png)](http://www.quiminet.com/articulos/consejos-para-ser-un-buen-companero-en-el-trabajo-como-ser-un-buen-companero-60813.htm)
 

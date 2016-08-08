@@ -273,6 +273,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Even the FBI, DNI and the CIA don’t implement STARTTLS on their email server, but The NSA, on the other hand, does 🤔 <a href="https://t.co/xSTsR0NATY">https://t.co/xSTsR0NATY</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/713581832625754112">26 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## DNS
+- [DNS: What Can Go Wrong and How You Can Fix It | @DevOpsSummit #APM #Agile #DevOps](http://java.sys-con.com/node/3884842) DNS enables users of all skill sets and technical knowledge levels to use this incredibly advanced resource on a daily basis
 
 [![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
 

@@ -168,6 +168,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top-down leadership is declining, and not just in creative industries like software: <a href="https://t.co/jIMAjTolry">https://t.co/jIMAjTolry</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/714236056217001984">27 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIK5lQ0ZCN8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Biggest challenges for new managers:<br><br>1. Balance<br>2. Managing peers<br>3. Motivating the team<a href="https://t.co/7v8ToLyPzm">https://t.co/7v8ToLyPzm</a> <a href="https://t.co/bbVaQQe7EF">pic.twitter.com/bbVaQQe7EF</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/740121125640884224">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

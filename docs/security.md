@@ -49,6 +49,7 @@
 		- [OpenSSH Security Advisory. March 2016](#openssh-security-advisory-march-2016)
 		- [SSH attempts](#ssh-attempts)
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
+		- [HTTP/2. August 2016](#http2-august-2016)
 		- [DDos](#ddos)
 		- [Shadow IT security risks](#shadow-it-security-risks)
 		- [httpoxy. July 2016](#httpoxy-july-2016)
@@ -177,6 +178,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">6 cybersecurity and emergency situations every IT depart should train for <a href="https://t.co/bXt7mDf9BA">https://t.co/bXt7mDf9BA</a> by <a href="https://twitter.com/patgrayjr">@patgrayjr</a> <a href="https://t.co/gvGygVZGVc">pic.twitter.com/gvGygVZGVc</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/747513603968864260">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When someone tells you that a firewall or Linux will solve all of their problems... <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://t.co/bhTi0dgLQu">pic.twitter.com/bhTi0dgLQu</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/761579195461840896">5 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Security articles
 - [Cybersecurity isn’t Rocket Science!](http://www.infosecurity-magazine.com/opinions/cybersecurity-isnt-rocket-science/)
 - [Citibank IT guy deliberately wiped routers, shut down 90% of firm’s networks across America](http://www.tripwire.com/state-of-security/featured/citibank-it-guy-deliberately-wiped-routers-shut-down-90-of-firms-networks-across-america/)
@@ -276,6 +280,7 @@
 - [Trendmicro: ¿Qué es el ransomware? 🌟🌟🌟](https://image-store.slidesharecdn.com/1d7d2982-9b05-49c2-b78c-0f71b9226dd5-original.jpeg)
 - [Malware hits millions of Android phones](http://www.bbc.com/news/technology-36744925)
 - [Cisco report says growing ransomware attacks are costing people and businesses millions 🌟](http://www.bizjournals.com/sanjose/news/2016/08/01/cisco-report-says-growing-ransomware-attacks-are.html)
+- [The rise of ransomware (in more than one way)](http://www.innovativecomp.com/blog/the-rise-of-ransomware-in-more-than-one-way)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
@@ -300,6 +305,11 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vA2rJOLbXpC0K1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SophosBenelux/anatomy-of-an-attack-sophos-day-belux-2014" title="Anatomy of an Attack - Sophos Day Belux 2014" target="_blank">Anatomy of an Attack - Sophos Day Belux 2014</a> </strong> from <strong><a href="//www.slideshare.net/SophosBenelux" target="_blank">Sophos Benelux</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWHezyAW85A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -461,6 +471,9 @@
 
 ### Windows Vulnerabilities
 - [Hot Potato – Windows Privilege Escalation - January 2016](http://foxglovesecurity.com/2016/01/16/hot-potato/)
+- [Stealing your Windows user credentials just with a website 🌟🌟](https://www.peerlyst.com/posts/stealing-your-windows-user-credentials-just-with-a-website-valery-marchuk)
+	- [zdnet: Windows flaw lets hackers steal your username and password (video) 🌟🌟](http://www.zdnet.com/video/windows-flaw-lets-hackers-steal-your-username-and-password)
+	- [zdnet: Microsoft won't fix Windows flaw that lets hackers steal your username and password](http://www.zdnet.com/article/windows-attack-can-steal-your-username-password-and-other-logins/) The flaw, which allows a malicious website to extract user passwords, is made worse if a user is logged in with a Microsoft account.
 
 ### Linux Vulnerabilities 
 - [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug - January 2015](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
@@ -541,6 +554,9 @@
 
 ### Bad Tunnel. June 2016
 - [nakedsecurity.sophos.com - BadTunnel: a vulnerability all Windows users need to patch](https://nakedsecurity.sophos.com/2016/06/16/badtunnel-a-vulnerability-all-windows-users-need-to-patch/)
+
+### HTTP/2. August 2016
+- [Severe vulnerabilities discovered in HTTP/2 protocol](http://www.zdnet.com/article/severe-vulnerabilities-discovered-in-http2-protocol/) Four high-profile bugs have been found in the protocol, potentially placing 85 million websites at risk.
 
 ### DDos
 - [En alza los ataques DDoS y los relacionados con aplicaciones web](http://cso.computerworld.es/defensa-perimetral/en-alza-los-ataques-ddos-y-los-relacionados-con-aplicaciones-web)

@@ -239,6 +239,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![linux_foundation_video](images/linux_foundation_video.jpg)](https://www.youtube.com/user/TheLinuxFoundation)|[![nixcraft_video](images/nixcraft_video.jpg)](https://www.youtube.com/user/nixcraftcom)|[![tecmint_video](images/tecmint_video.jpg)](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)|[![kernel-training-video](images/kernel-training-video.jpg)](https://www.youtube.com/user/KernelTraining)|[![sysadmin_howto_video](images/sysadmin_howto_video.jpg)](https://www.youtube.com/channel/UCQBNM7QWVrS_pZgzYdY7ruQ)|[![linux_cloud_tutorials_video](images/linux_cloud_tutorials_video.jpg)](https://www.youtube.com/channel/UCPc0nlna_WquFCL2X86KO8w)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -435,6 +438,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 ![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)
 
 [![handicaps_sistema_economico_espanol](images/handicaps_sistema_economico_espanol.png)](http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html)
+
+![recession_started_in_dec2007](images/recession_started_in_dec2007.png)
 
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
 

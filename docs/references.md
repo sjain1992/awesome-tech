@@ -51,6 +51,8 @@
 - [Google y el derecho al olvido en Europa: ya han eliminado más de 400.000 enlaces](http://www.xataka.com/legislacion-y-derechos/google-y-el-derecho-al-olvido-en-europa-ya-han-eliminado-mas-de-400-000-enlaces)
 - [Employer Unfairly Blacklisted An Employee. Here's What Happened... 🌟](https://www.linkedin.com/pulse/employer-unfairly-blacklisted-employee-heres-what-j-t-o-donnell)
 - [¿Qué es la reputacion online y cómo generar credibilidad con opiniones?](http://www.marketingenredes.com/reputacion_online/reputacion-online.html)
+- [Cómo conseguir los mejores candidatos referidos 🌟🌟](http://blog.talentclue.com/claves-para-tener-los-mejores-candidatos-referidos)
+- [The question a boss would really rather not hear](https://www.linkedin.com/pulse/question-boss-would-really-rather-hear-paul-downs)
 
 [![ivanka_trump_references](images/ivanka_trump_references.png)](http://www.businessinsider.com/ivanka-trump-explains-how-she-hires-2016-3)
 
@@ -106,6 +108,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OzVv4A3N30U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los <a href="https://twitter.com/hashtag/RedSox?src=hash">#RedSox</a> le ofrecieron el mayor salario de la historia con incentivos descomunales, pero él dijo que no ¿Por qué? <a href="https://t.co/tB9IDkEUnj">https://t.co/tB9IDkEUnj</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/760771774669787136">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvZOICCnmXs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

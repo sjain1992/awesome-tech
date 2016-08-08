@@ -73,6 +73,7 @@
 - [Why There Will Never Be Another RedHat: The Economics Of Open Source 🌟](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
 - [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
 - [First Timers Only](http://www.firsttimersonly.com/) Friendly Open Source projects should reserve specific issues for newbies.
+- [DZone: Become a Better Programmer by Mastering Google 🌟🌟🌟](https://dzone.com/articles/become-a-better-programmer-by-mastering-google)
 
 [![dzone_opensource_license](images/dzone_opensource_license.png)](https://dzone.com/articles/selecting-an-open-source-license-for-your-project)
 

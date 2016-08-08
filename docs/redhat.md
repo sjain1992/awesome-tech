@@ -357,6 +357,7 @@
 ## Red Hat Cloud Suite
 - [redhat.com/cloud-suite](http://redhat.com/cloud-suite)
 - [Red Hat Cloud Suite - Modernizing Development & Operations (video)](http://www.schabell.org/2016/05/rhcs-modernizing-development-and-operations-video.html)
+- [www.schabell.org: Red Hat Cloud Tools - Cloud Deployment Planner (video) ](http://www.schabell.org/2016/08/redhat-cloud-suite-cloud-deployment-planner-video.html) Take the video tour with @ericschabell of some tools that can help you plan, design and deploy #cloud infrastructure
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWNW6XookiQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
