@@ -7,9 +7,9 @@
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 <center>
 
-Application Engineer | Automation/DevOps CI/CD | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
+Application Engineer/Middleware SysAdmin | Automation/DevOps CI/CD | Solutions/Systems Architect | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
 
-Interested in Infrastructure Automation, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics.
+Interested in Infrastructure Automation, JBoss, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics.
 
 </center>
 <center>
