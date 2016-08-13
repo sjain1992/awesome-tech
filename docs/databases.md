@@ -273,7 +273,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### MySQL Cluster. MySQL Replication
-- [mysqlhighavailability.com](http://mysqlhighavailability.com)
+- [mysqlhighavailability.com 🌟🌟🌟](http://mysqlhighavailability.com)
 - [Download MySQL Cluster](http://dev.mysql.com/downloads/cluster/)
 - [MySQL Cluster 7.4 Release Notes](http://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/preface.html)
 - [MySQL Cluster 7.4.9 has been released](https://ossnews.net/s/ixbtfi/mysql_cluster_7_4_9_has_been_released)
@@ -282,6 +282,7 @@
 - [maquinasvirtuales.eu: Mysql Cluster Configuration](http://www.maquinasvirtuales.eu/mysql-cluster-configuration/)
 - [tecmint.com: How to Setup MySQL (Master-Slave) Replication in RHEL, CentOS, Fedora](http://www.tecmint.com/how-to-setup-mysql-master-slave-replication-in-rhel-centos-fedora/)
 - [10 Tips for Deciding Between Amazon RDS and MySQL (2012)](https://dzone.com/articles/10-tops-deciding-between)
+- [mysqlhighavailability.com - MySQL Group Replication: A Quick Start Guide 🌟🌟🌟](http://mysqlhighavailability.com/mysql-group-replication-a-quick-start-guide/)
 
 [![MySQL Cluster](images/MySQL_Cluster.png)](https://en.wikipedia.org/wiki/MySQL_Cluster)
 

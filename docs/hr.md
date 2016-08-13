@@ -32,8 +32,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> is the best place to work according to <a href="https://twitter.com/Glassdoor">@Glassdoor</a> <a href="https://twitter.com/TriangleBIZJrnl">@TriangleBIZJrnl</a> &amp; <a href="https://twitter.com/NCTA">@NCTA</a> read more in our Awards Roundup <a href="https://t.co/RnBwdH2B3m">https://t.co/RnBwdH2B3m</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/703296727374106624">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Once something is a passion, the motivation is there.&quot; ~ Michael Schumacher <a href="https://twitter.com/hashtag/quote?src=hash">#quote</a> <a href="https://twitter.com/hashtag/leadership?src=hash">#leadership</a> <a href="https://twitter.com/hashtag/inspiration?src=hash">#inspiration</a> <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/PSRLbjVqnt">pic.twitter.com/PSRLbjVqnt</a></p>&mdash; Tamara McCleary (@TamaraMcCleary) <a href="https://twitter.com/TamaraMcCleary/status/706243435376709632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [![are_hr_departments_worth_the_cost.png](images/are_hr_departments_worth_the_cost.png)](https://www.linkedin.com/pulse/hr-departments-worth-cost-nishant-bhajaria)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Businesses are embracing the idea of working in teams—but managing them is hard <a href="https://t.co/O9FDDRVDop">https://t.co/O9FDDRVDop</a> <a href="https://t.co/UG7BIMIzHw">pic.twitter.com/UG7BIMIzHw</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/710130155470102528">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -165,6 +163,7 @@
 - [How Seagull Managers Make Everyone Miserable](http://www.huffingtonpost.com/dr-travis-bradberry/how-seagull-managers-make_b_10665052.html)
 - [Here's who you should sit next to at work if you want to be more productive](http://www.businessinsider.com/who-to-sit-next-to-at-work-to-be-more-productive-2016-8)
 - [opensource.com: How to keep a meritocracy in check 🌟](https://opensource.com/open-organization/16/8/how-make-meritocracy-work)
+- [Management Style: When Is It Viewed as Abusive?](http://www.wsj.com/articles/management-style-when-is-it-viewed-as-abusive-1470752281) Some boorish bosses earn reputations as masterful leaders because they get results, new research says
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

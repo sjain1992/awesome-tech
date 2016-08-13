@@ -198,6 +198,7 @@
 - [DZone: The Periodic Table of DevOps Tools v.2 is Here 🌟](https://dzone.com/articles/the-periodic-table-of-devops-tools-v2-is-here-1) The new periodic table of DevOps from Xebia Labs builds on it's popular predecessor by letting users dive deeper into each solution.
 - [Five Challenges for a Successful Enterprise DevOps Model 🌟🌟🌟](http://iot.sys-con.com/node/3841320)
 - [blog.xebialabs.com: 7 DevOps Videos You Have To Watch 🌟🌟](https://blog.xebialabs.com/2015/08/07/7-devops-videos-you-have-to-watch/)
+- [opensource.com: Decoding DevOps, Docker, and Git 🌟🌟](https://opensource.com/business/16/4/linuxfest-northwest-interview-corey-quinn)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

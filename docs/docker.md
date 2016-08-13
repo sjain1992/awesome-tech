@@ -4,6 +4,7 @@
     - [Docker on Twitter](#docker-on-twitter)
     - [Docker references](#docker-references)
     - [Referencias Docker](#referencias-docker)
+    - [Continuous Integration using Docker. DevOps and Docker architectures](#continuous-integration-using-docker-devops-and-docker-architectures)
     - [Docker Networking](#docker-networking)
     - [Docker security](#docker-security)
     - [Docker Tools. Docker Machine. Docker Toolbox](#docker-tools-docker-machine-docker-toolbox)
@@ -150,6 +151,7 @@
 - [Monitoring Docker Containers – docker stats, cAdvisor, Universal Control Plane 🌟🌟](https://blog.codeship.com/monitoring-docker-containers/)
 - [Red Hat Whitepaper: MODERNIZING APPLICATION DELIVERY WITH CONTAINER PLATFORMS](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 - [rhelblog.redhat.com: Container Image Signing 🌟🌟](http://rhelblog.redhat.com/2016/07/22/container-image-signing/)
+- [wsargent/docker-cheat-sheet 🌟🌟🌟](https://github.com/wsargent/docker-cheat-sheet)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
@@ -157,7 +159,13 @@
 
 [![docker_cheat_sheet](images/docker_cheat_sheet.jpg)](http://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A printable quick reference guide to <a href="https://twitter.com/hashtag/Docker?src=hash">#Docker</a>: <a href="https://t.co/lmoIskLQS1">https://t.co/lmoIskLQS1</a> <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a> <a href="https://t.co/TLvfEdQSur">pic.twitter.com/TLvfEdQSur</a></p>&mdash; Microsoft Developer (@msdevUK) <a href="https://twitter.com/msdevUK/status/761565175778512896">5 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dzone_refcard_docker](images/dzone_refcard_docker.png)](https://dzone.com/refcardz/getting-started-with-docker-1)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Interesting study on Container Orchestrators, what are the most popular platforms? <a href="https://t.co/geWO2r55fk">https://t.co/geWO2r55fk</a> <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/zIyXbhOcvf">pic.twitter.com/zIyXbhOcvf</a></p>&mdash; Emmet O&#39;Grady (@EmmetOGrady) <a href="https://twitter.com/EmmetOGrady/status/762018158513364993">6 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
@@ -171,6 +179,14 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life and death of a container <a href="https://t.co/pO57bTkR0a">https://t.co/pO57bTkR0a</a>  by <a href="https://twitter.com/hashtag/dockercaptain?src=hash">#dockercaptain</a> <a href="https://twitter.com/LHerrera">@lherrera</a> <a href="https://t.co/9wXkRlZcuP">pic.twitter.com/9wXkRlZcuP</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/752955202345500673">12 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Continuous Integration using Docker. DevOps and Docker architectures
+- [21 DevOps and Docker Reference Architectures](http://wearables.sys-con.com/node/3890050)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ueDGyQSQmlKoKD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SonatypeCorp/devops-and-continuous-delivery-reference-architectures-for-docker" title="DevOps and Continuous Delivery reference architectures for Docker" target="_blank">DevOps and Continuous Delivery reference architectures for Docker</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/SonatypeCorp">Sonatype </a></strong> </div>
+</div>
+<br/>
 
 ### Docker Networking
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)

@@ -148,6 +148,7 @@
 - [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
 - [Clustering and session failover with WildFly9](http://blog.eisele.net/2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html)
 - [dzone: Using jBPM's RESTful API as a Black Box Workflow Server](https://dzone.com/articles/using-jbpms-restful-api-as-a-black-box-workflow-se) Here's how to properly employee JBoss jBPM for RESTful APIs.
+- [Red Hat’s JBoss BPM Suite: more than you might think](https://www.mwdadvisors.com/2016/04/20/red-hats-jboss-bpm-suite-might-think)
 
 ## JBoss Fuse - Enterprise Service Bus (ESB)
 - [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)

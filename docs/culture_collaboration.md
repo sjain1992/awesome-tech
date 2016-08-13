@@ -337,8 +337,10 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmXUtwSIzmM?start=167" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![pernicioso_circulo_carnicas](images/pernicioso_circulo_carnicas.png)](http://www.genbetadev.com/modelos-de-negocio/el-pernicioso-circulo-vicioso-de-las-carnicas-los-que-pagan-los-clientes)
 

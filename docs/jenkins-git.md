@@ -10,6 +10,7 @@
     - [Travis CI](#travis-ci)
         - [Travis on Twitter](#travis-on-twitter)
     - [CI Docker](#ci-docker)
+        - [Continuous Integration using Docker. DevOps and Docker architectures](#continuous-integration-using-docker-devops-and-docker-architectures)
     - [CI RPM build](#ci-rpm-build)
     - [CI Maven and Gradle](#ci-maven-and-gradle)
     - [Deploying PHP Applications](#deploying-php-applications)
@@ -238,6 +239,15 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMt98G4MOKg" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+### Continuous Integration using Docker. DevOps and Docker architectures
+- [21 DevOps and Docker Reference Architectures](http://wearables.sys-con.com/node/3890050)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ueDGyQSQmlKoKD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SonatypeCorp/devops-and-continuous-delivery-reference-architectures-for-docker" title="DevOps and Continuous Delivery reference architectures for Docker" target="_blank">DevOps and Continuous Delivery reference architectures for Docker</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/SonatypeCorp">Sonatype </a></strong> </div>
+</div>
+<br/>
+
 
 ## CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)

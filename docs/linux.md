@@ -438,6 +438,7 @@
 - [Unix/Linux: Remove duplicate lines from a text file using awk or perl](http://www.cyberciti.biz/faq/how-to-remove-delete-duplicate-lines-from-textfile-on-unix-linux/)
 - [GNU parallel is a shell tool for executing jobs in parallel using one or more computers 🌟🌟](http://www.gnu.org/software/parallel/)
 - [Better Bash Scripting in 15 Minutes 🌟🌟](http://robertmuth.blogspot.com.es/2012/08/better-bash-scripting-in-15-minutes.html)
+- [nixCraft: Python Execute Unix/Linux Command Examples 🌟🌟](http://www.cyberciti.biz/faq/python-execute-unix-linux-command-examples/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

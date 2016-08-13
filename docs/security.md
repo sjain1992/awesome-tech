@@ -281,6 +281,8 @@
 - [Malware hits millions of Android phones](http://www.bbc.com/news/technology-36744925)
 - [Cisco report says growing ransomware attacks are costing people and businesses millions 🌟](http://www.bizjournals.com/sanjose/news/2016/08/01/cisco-report-says-growing-ransomware-attacks-are.html)
 - [The rise of ransomware (in more than one way)](http://www.innovativecomp.com/blog/the-rise-of-ransomware-in-more-than-one-way)
+- [software.dell.com: The Top 6 Ways to Protect Your Organization from Malware](https://software.dell.com/blog/en/the-top-6-ways-to-protect-your-organization-from-malware)
+- [software.dell.com - Ransomware: The Cost of Doing Nothing](https://software.dell.com/blog/en/ransomware-the-cost-of-doing-nothing)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 

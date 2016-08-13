@@ -114,8 +114,10 @@
 - [Open Source MANO](http://osm.etsi.org) Open Source Mano is an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV.
 	- [Telefónica se une a otras 22 operadoras y proveedores de equipos para crear una comunidad global de Open Source Mano (OSM)](https://www.telefonica.com/es/web/sala-de-prensa/-/telefonica-se-une-a-otras-22-operadoras-y-proveedores-de-equipos-para-crear-una-comunidad-global-de-open-source-mano-osm-)
 - [2016 Survey Shows More and Diverse SDN Use Cases Being Deployed by Open SDN Power Users](https://www.opendaylight.org/news/blogs/2016/02/2016-survey-shows-more-and-diverse-sdn-use-cases-being-deployed-open-sdn-power)
-- [3 Trending Networking Skills Employers Look for in Open Source Pros 🌟🌟https://www.linux.com/news/3-trending-networking-skills-employers-look-open-source-pros)
+- [3 Trending Networking Skills Employers Look for in Open Source Pros 🌟🌟](https://www.linux.com/news/3-trending-networking-skills-employers-look-open-source-pros)
 - [Single vendors don't offer a complete software-defined environment](http://searchnetworking.techtarget.com/news/450300354/Single-vendors-dont-offer-a-complete-software-defined-environment)
+- [The telecoms industry and NFV – How the cloud is virtualising](http://www.vanillaplus.com/2016/08/04/20138-the-telecoms-industry-and-nfv-how-the-cloud-is-virtualising/)
+- [Automation is Paramount in Cloud/NFV (Infographic) 🌟🌟🌟](http://blog.dialogic.com/blog/automation-is-paramount-in-cloud/nfv-infographic)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great interview w/ <a href="https://twitter.com/darrelljs">@darrelljs</a> &amp; <a href="https://twitter.com/intel">@intel</a> John Healy discussing &quot;The Future of NFV&quot; <a href="https://twitter.com/TIA_Now">@TIA_Now</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/OpenTelco">@OpenTelco</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://t.co/NzB8p1Qur1">https://t.co/NzB8p1Qur1</a></p>&mdash; Annie Potvin (@anniep0206) <a href="https://twitter.com/anniep0206/status/702396797063454722">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -124,6 +126,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9_Zb2npybA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![att_nw_virtualization](images/att_nw_virtualization.jpg)](http://www.rcrwireless.com/20160712/fundamentals/domain-2-0-tag31-tag99)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HFQdbOY8Ams?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

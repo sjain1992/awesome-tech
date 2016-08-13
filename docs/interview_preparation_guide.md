@@ -145,6 +145,7 @@
 - [Need To Cancel Your Job Interview? Don't Do This...](https://www.linkedin.com/pulse/need-cancel-your-job-interview-dont-do-j-t-o-donnell)
 - [Using The ‘See Who’s Viewed You’ LinkedIn Feature](http://www.careerealism.com/linkedin-see-whos-viewed/)
 - [If You Can’t Pass THIS Test, You Won’t Get Job Interviews 🌟🌟](http://www.careerealism.com/job-interviews-pass-test/)
+- [3 Ways You’re Messing Up the Answer to, “Tell Me About a Conflict You’ve Faced at Work”](https://www.themuse.com/advice/3-ways-youre-messing-up-the-answer-to-tell-me-about-a-conflict-youve-faced-at-work)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

@@ -16,6 +16,9 @@
 <!-- /MarkdownTOC -->
 ![fruit_platter](images/fruit_platter.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Well done is better than well said&quot; -- Benjamin Franklin  <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/762588996039876609">8 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
@@ -156,6 +159,11 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uJ8rtaWxJvLZMP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GuillermoLemus/tipos-de-pruebas-de-software" title="Tipos de pruebas de software" target="_blank">Tipos de pruebas de software</a> </strong> from <strong><a href="//www.slideshare.net/GuillermoLemus" target="_blank">Guillermo Lemus</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dq5IYYqnnGQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 

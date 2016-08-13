@@ -66,6 +66,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">47 years ago today Neil, Mike &amp; I took a ride on a big rocket to the moon. <br>Liftoff on <a href="https://twitter.com/hashtag/Apollo11?src=hash">#Apollo11</a> <a href="https://t.co/FrvdmddkYo">pic.twitter.com/FrvdmddkYo</a></p>&mdash; Buzz Aldrin (@TheRealBuzz) <a href="https://twitter.com/TheRealBuzz/status/754352183836045316">16 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![russian_proverb](images/russian_proverb.jpg)
+
 # High quality tech resources and search engines
 - [The history of open source and a glimpse at its future. Open source changed startups, and then startups turned around and changed open source. Open source became the default, not an alternative 🌟🌟🌟🌟🌟](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
 	- [Choosing an open source license 🌟🌟🌟](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
@@ -462,6 +464,7 @@
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
 - [DevOps radio 🌟](https://www.cloudbees.com/resources/devops-radio) The newest podcast series covering all things related to software delivery
+- [Syscast Podcast 🌟](http://podcast.sysca.st/) Talking Linux, open source, web development and system administration (DevOps)
 
 ### Non IT related podcasts
 - [The Stitcher List. What the World is Listening to Now](http://www.stitcher.com/stitcher-list/)

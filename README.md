@@ -30,6 +30,7 @@ A curated list of awesome IT projects and resources collected since 2014. Inspir
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
+- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 :smiley:
 

@@ -13,6 +13,7 @@
     - [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
+    - [AWS Slides](#aws-slides)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
     - [AWS Case Studies](#aws-case-studies)
     - [AWS tips. AWS Performance. Handling AWS Failures and Outages](#aws-tips-aws-performance-handling-aws-failures-and-outages)
@@ -29,6 +30,7 @@
     - [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
     - [AWS OpsWorks](#aws-opsworks)
     - [AWS Networking](#aws-networking)
+    - [AWS Route 53](#aws-route-53)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -199,6 +201,10 @@
 - [Amazon Launches AWS Mobile Hub To Help Mobile Developers Build Back-End Processes](http://techcrunch.com/2015/10/08/amazon-launches-aws-mobile-hub-to-help-mobile-developers-build-back-end-processes/)
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
+
+## AWS Slides
+- [slideshare.net/AmazonWebServices](http://www.slideshare.net/AmazonWebServices)
+- [AWS 2016nysummit](http://www.slideshare.net/AmazonWebServices/tagged/2016nysummit)
 
 ## AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start
 - [AWS Architecture Blog](https://www.awsarchitectureblog.com)
@@ -412,6 +418,9 @@
 - [Elastic Network Adapter](https://aws.amazon.com/blogs/aws/elastic-network-adapter-high-performance-network-interface-for-amazon-ec2)
 
 [![aws_elastic_nw_interface](images/aws_elastic_nw_interface.png)](https://aws.amazon.com/blogs/aws/elastic-network-adapter-high-performance-network-interface-for-amazon-ec2)
+
+## AWS Route 53
+- [How do I transfer a domain to AWS from another registrar?](https://aws.amazon.com/premiumsupport/knowledge-center/transfer-domain-to-aws/)
 
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.

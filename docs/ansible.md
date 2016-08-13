@@ -5,7 +5,7 @@
     - [Ansible on Twitter](#ansible-on-twitter)
     - [Ansible Support and Forums](#ansible-support-and-forums)
     - [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
-    - [Ansible Videos and Slides](#ansible-videos-and-slides)
+    - [Ansible Videos, Slides and Podcasts](#ansible-videos-slides-and-podcasts)
     - [Apache via Ansible](#apache-via-ansible)
     - [WebLogic via Ansible](#weblogic-via-ansible)
     - [Drupal via Ansible](#drupal-via-ansible)
@@ -84,6 +84,7 @@
 - [THE OPEN TOWER PROJECT ansible.com/open-tower 🌟🌟🌟](https://www.ansible.com/open-tower)
 - [Ansible automation heralds move beyond DevOps niche 🌟](http://searchitoperations.techtarget.com/news/450299478/Ansible-automation-heralds-move-beyond-DevOps-niche)
 - [blog.rackspace.com - How to Deploy With Ansible: An Accessible Explanation 🌟🌟](http://blog.rackspace.com/how-to-deploy-ansible-accessible-explanation/)
+- [Playbook Debugger](http://docs.ansible.com/ansible/playbooks_debugger.html) In 2.1 we added a debug strategy. This strategy enables you to invoke a debugger when a task is failed, and check several info, such as the value of a variable. Also, it is possible to update module arguments in the debugger, and run the failed task again with new arguments to consider how you can fix an issue.
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 
@@ -145,10 +146,11 @@
 
 ![I volunteer](images/i_volunteer.gif)
 
-## Ansible Videos and Slides
+## Ansible Videos, Slides and Podcasts
 - [Youtube: Livestream von codecentric AG](https://www.youtube.com/watch?v=B7K1ETPyzoQ)
     - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
     - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
+- [Podcast - Ansible: config management & deploying code with James Cammarata from Red Hat 🌟🌟🌟](http://podcast.sysca.st/podcast/5-ansible-config-management-deploying-code-james-cammarata-red-hat/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fwGrKXzocg4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -276,6 +278,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iVWmbStE1MM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Podcast: <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a>: config management &amp; deploying code w/ James Cammarata of <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/dy1ln4aJcm">https://t.co/dy1ln4aJcm</a> <a href="https://twitter.com/hashtag/ITautomation?src=hash">#ITautomation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/764086535020879875">12 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)

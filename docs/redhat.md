@@ -189,7 +189,7 @@
 - [Red Hat Developers 🌟🌟](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
 - [opensourcerers.org](http://www.opensourcerers.org/)
-- [servicesblog.redhat.com](http://servicesblog.redhat.com)
+- [servicesblog.redhat.com 🌟🌟](http://servicesblog.redhat.com) Red Hat Services Speak. Insights and news on Red Hat training, certification and consulting
 
 [![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
 
@@ -402,6 +402,7 @@
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 - [developerblog.redhat.com Apps 101: An Absolute Beginner’s Guide to building a Mobile App](http://developerblog.redhat.com/2016/02/17/apps-101-an-absolute-beginners-guide-to-building-a-mobile-app/)
 - [developerblog.redhat.com Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
+- [servicesblog.redhat.com: A step-by-step tutorial for continuous integration with Jenkins for a Red Hat Mobile Native Android application: Part 1](http://servicesblog.redhat.com/2016/08/08/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-for-a-red-hat-mobile-native-android-application-part-1/)
 
 [![gartner_redhat_mobile_app_devel](images/gartner_redhat_mobile_app_devel.png)](https://www.gartner.com/doc/reprints?id=1-39K7VY4&ct=160616&st=sb?src=fridayfive5email)
 

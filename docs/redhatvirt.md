@@ -17,6 +17,7 @@
 <br/>
 
 # Red Hat Virtualization
+- [virtualizationreview.com 🌟🌟🌟](https://virtualizationreview.com)
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
 	- [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)](http://www.tecmint.com/install-and-configure-kvm-in-linux/)
@@ -34,6 +35,10 @@
 - [wikipedia: OVirt 🌟](https://en.wikipedia.org/wiki/OVirt)
 - [captainkvm.com: Next Generation Hypervisor – video](http://captainkvm.com/2016/07/next-generation-hypervisor-pt1/)
 - [captainkvm.com: Preview of Red Hat Virtualization Manager](http://captainkvm.com/2016/08/preview-red-hat-virtualization-manager/)
+- [Fundamental shifts in the virtualization market](https://www.redhat.com/en/about/blog/fundamental-shifts-virtualization-market) Red Hat's KVM-based enterprise virtualization solution has been named a "Visionary" in the 2016 Gartner Magic Quadrant for x86 Server Virtualization. Red Hat Enterprise Virtualization empowers customers to adopt the proper technologies and platforms to best modernize their datacenters.
+- [Maximizing your virtualization investment](https://www.redhat.com/en/about/blog/maximizing-your-virtualization-investment) virtual machine (VM) density is stalling out at about 10 VMs per server and between 30 to 50 percent server utilization. This leaves ample room for improved efficiencies and financial value.
+- [Red Hat’s view of where and how Containers and VMs should work together](http://kusnetzky.net/red-hats-view-containers-vms-work-together/)
+- [virtualizationreview.com - Virtualization: Much More Than Virtual Machines 🌟🌟🌟](https://virtualizationreview.com/articles/2016/01/04/virtualization-is-much-more-than-virtual-machines.aspx)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Congratulations: <a href="https://twitter.com/hashtag/oVirt?src=hash">#oVirt</a> 4.0 Final Release is now available! Release highlights and more info on the oVirt blog: <a href="https://t.co/vznUO0vkab">https://t.co/vznUO0vkab</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/746067115585736704">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -56,6 +61,9 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2lxJTdfVy8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Enterprise Virtualization named &quot;Visionary&quot; in <a href="https://twitter.com/Gartner_inc">@Gartner_Inc</a>&#39;s latest report <a href="https://t.co/Cr91SMachx">https://t.co/Cr91SMachx</a> <a href="https://twitter.com/hashtag/Virt?src=hash">#Virt</a> <a href="https://t.co/wWoDCdr0Cj">pic.twitter.com/wWoDCdr0Cj</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/763344638279385088">10 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IU9_I33UnG8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
