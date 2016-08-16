@@ -268,6 +268,7 @@
 ## Project Atomic
 - [projectatomic.io 🌟](http://www.projectatomic.io) Create and Run Applications in Linux Containers 
 - [New CentOS Atomic Host Images Available for Download](http://www.projectatomic.io/blog/2016/03/new-centos-atomic-host-images-available-for-download/)
+- [rhelblog.redhat.com: Announcing Red Hat Enterprise Linux Atomic Host 7.2.6](http://rhelblog.redhat.com/2016/08/10/announcing-red-hat-enterprise-linux-atomic-host-7-2-6/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New blog: New CentOS Atomic Host Images Available for Download <a href="https://t.co/4MZS7sc2sj">https://t.co/4MZS7sc2sj</a></p>&mdash; Project Atomic (@ProjectAtomic) <a href="https://twitter.com/ProjectAtomic/status/704678766023479296">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

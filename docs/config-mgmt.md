@@ -66,6 +66,7 @@
 - [DZone: Breaking Down the Monolith: Microservices vs. Self-Contained Systems](https://dzone.com/articles/breaking-down-a-monolithic-software-a-case-for-mic)
 - [DZone: Carving the Java EE Monolith Into Microservices](https://dzone.com/articles/carving-the-java-ee-monolith-into-microservices) This article looks at how to break up enterprise Java applications into microservices and how to separate concerns and build smaller usable modules.
 - [DZone: 4 Challenges You Need to Address With Microservices Adoption](https://dzone.com/articles/4-challenges-you-need-to-address-with-microservice) Transitioning to microservices creates significant challenges for organizations. This week, I’ll delve into some of the obstacles you might face and the ultimate benefits of your efforts.
+- [nginx.com: Microservices VS Service-Oriented Architecture. EXPLORE MICROSERVICES AND SOA IN THIS EXCLUSIVE O'REILLY REPORT](https://www.nginx.com/microservices-soa/)
 
 [![dzone_microservices_vs_soa](images/dzone_microservices_vs_soa.png)](https://dzone.com/articles/microservices-vs-soa-2)
 

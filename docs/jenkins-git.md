@@ -310,6 +310,10 @@
 - [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
 - [Easily Calculate Your Project Version With Git 🌟🌟](https://dzone.com/articles/easily-calculate-your-project-version-with-git) How a user created a project to automatically create version names with every Git commit using Maven and Gradle plugins.
 - [opensource.com: 3 graphical tools for Git](https://opensource.com/life/16/8/graphical-tools-git)
+- [opensource.com: Decoding DevOps, Docker, and Git 🌟🌟](https://opensource.com/business/16/4/linuxfest-northwest-interview-corey-quinn)
+    - [Githug - an interactive way to learn how to use git 🌟🌟](https://github.com/Gazler/githug)
+    - [Joey Hess's myrepos is great at simplifying the management and updating of large numbers of Git repos](https://myrepos.branchable.com/)
+- [opensouce.com: How to manage binary blobs with Git 🌟🌟](https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7) Git has extensions for handling binary blobs such as multimedia files, so today we will learn how to manage binary assets with Git.
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 

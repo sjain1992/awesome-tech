@@ -8,6 +8,7 @@
 	- [Database Performance](#database-performance)
 	- [Database Security](#database-security)
 	- [EssentialSQL. SQL Server](#essentialsql-sql-server)
+		- [Business Intelligence](#business-intelligence)
 	- [Use The Index, Luke](#use-the-index-luke)
 	- [Database Version Control](#database-version-control)
 	- [SQL replication](#sql-replication)
@@ -208,6 +209,9 @@
 [![dba-training-needs](images/dba-training-needs.png)](https://www.brentozar.com/archive/2011/06/ozar-hierarchy-database-needs/)
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
+
+### Business Intelligence
+- [essentialsql.com: BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson/)
 
 ## Use The Index, Luke
 - [Partial Indexes: Indexing Selected Rows](http://use-the-index-luke.com/sql/where-clause/partial-and-filtered-indexes)
@@ -468,6 +472,7 @@
 
 ### Oracle installation
 - [slideshare.net: Oracle11g on fedora14](http://www.slideshare.net/KhalidMatarAlbuflasah/oracle11g-on-fedora14-6564836)
+- [unixmen.com: How To Upgrade From Oracle 11g To Oracle 12c 🌟🌟](https://www.unixmen.com/upgrade-from-oracle-11g-to-oracle-12c/)
 
 ### Oracle ASM
 - [orasite.com: Instalar y configurar ASMLib en Red Hat - Oracle RAC - Orasite.com](http://www.orasite.com/oracle-rac/instalar-y-configurar-asmlib-en-red-hat)

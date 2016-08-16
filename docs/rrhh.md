@@ -24,6 +24,9 @@
 
 [![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/EB2qHbhQKT">https://t.co/EB2qHbhQKT</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/764771722109353984">14 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Recursos Humanos
 ## RRHH Blogs
 - [elblogderrhh.com](http://www.elblogderrhh.com/)

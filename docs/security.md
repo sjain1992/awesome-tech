@@ -53,6 +53,7 @@
 		- [DDos](#ddos)
 		- [Shadow IT security risks](#shadow-it-security-risks)
 		- [httpoxy. July 2016](#httpoxy-july-2016)
+		- [Flip Feng Shui SSH Cross VM Exploit. August 2016](#flip-feng-shui-ssh-cross-vm-exploit-august-2016)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [HEIST technique](#heist-technique)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
@@ -354,7 +355,8 @@
 - [Single sign-on improvements in Fedora 24 🌟](https://fedoramagazine.org/single-sign-on-improvements-fedora-24/)
 - [Visionary Trends of Identity Access Management (IAM) Security](https://www.peerlyst.com/posts/visionary-trends-of-identity-access-management-iam-security-george-moraetes)
 - [DZone: 11 Steps to Secure Your Servers Part 3 & 4: Login and Securing Passwords 🌟](https://dzone.com/articles/11-steps-to-secure-your-servers-4-securing-passwor) Parts 3 and 4 of a series of posts on server security from Inversoft's 2016 Guide to User Data Security.
-- [Managing passwords in Linux with KeePassX](https://opensource.com/business/16/5/keepassx)
+- [opensource.com: Managing passwords in Linux with KeePassX](https://opensource.com/business/16/5/keepassx)
+- [unixmen.com: Managing passwords in Linux with KeePassX](https://www.unixmen.com/managing-passwords-linux-keepassx/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Identity Manager: Part 1 – Overview and Getting started <a href="https://t.co/b6HOQO4dVU">https://t.co/b6HOQO4dVU</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/726033502903267328">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -578,6 +580,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/httpoxy?src=hash">#httpoxy</a>: A CGI application vulnerability for PHP, Go, Python and others.<a href="https://t.co/A7kb7ryIGi">https://t.co/A7kb7ryIGi</a></p>&mdash; httpoxy (@httpoxy) <a href="https://twitter.com/httpoxy/status/755039908641681409">18 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Flip Feng Shui SSH Cross VM Exploit. August 2016
+- [Flip Feng Shui](https://www.vusec.net/projects/flip-feng-shui/) 
+- [Paper - Flip Feng Shui: Hammering a Needle in the Software Stack](http://www.cs.vu.nl/~kaveh/pubs/pdf/ffs-usenixsec16.pdf) I belive all attacks are targeted at Linux based servers/VMs only. FreeBSD/OpenBSD etc are not affected. The paper talks about KVM. So if you are using Xen or something else you should be safe. Not sure about @CentOS, RHEL & co tho
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments

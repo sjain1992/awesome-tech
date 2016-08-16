@@ -493,6 +493,7 @@
 - [Secrets of the JavaScript Ninja – Debugging JavaScript](http://www.webcodegeeks.com/javascript/secrets-of-the-javascript-ninja-debugging-javascript/)
 - [aprendiendo-javascript.readthedocs.org](http://aprendiendo-javascript.readthedocs.org)
 - [DZone: Single Page Application Technologies With Angular 🌟🌟🌟](https://dzone.com/articles/single-page-application-technologies-with-angular) This article gives an overview of web development using Angular JS through Single Page Applications (SPA) technologies. It illustrates at a high level how to use AngularJS with technologies such as PHP, .Net, Ruby on Rails (ROR), and Java.
+- [My Top 20 Favorite Angular JS Developer Tools 🌟🌟](https://dzone.com/articles/my-top-20-favorite-angular-js-developer-tools) To ease the burden of developing with AngularJS, here are twenty of the latest tools for testing, front-end development, IDE editor, text editor, elite libraries, modules, extensions, code generator, Grid tools, and more.
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 

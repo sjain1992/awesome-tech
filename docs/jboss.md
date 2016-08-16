@@ -150,6 +150,11 @@
 - [dzone: Using jBPM's RESTful API as a Black Box Workflow Server](https://dzone.com/articles/using-jbpms-restful-api-as-a-black-box-workflow-se) Here's how to properly employee JBoss jBPM for RESTful APIs.
 - [Red Hat’s JBoss BPM Suite: more than you might think](https://www.mwdadvisors.com/2016/04/20/red-hats-jboss-bpm-suite-might-think)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzgtBvfE-Hw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## JBoss Fuse - Enterprise Service Bus (ESB)
 - [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)

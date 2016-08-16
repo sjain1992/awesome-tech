@@ -24,6 +24,7 @@
 - [Automating syslog configuration on NSX](https://brianragazzi.wordpress.com/2016/03/09/automating-syslog-configuration-on-nsx/)
 - [solutionexchange.vmware.com: vRealize Orchestrator Salt Plugin](https://solutionexchange.vmware.com/store/products/vrealize-orchestrator-salt-plugin#.V1dAOzvFoLU.linkedin) vRealize Orchestrator (vRO) Salt plugin enables SaltStack to work together with VMware products to achieve infrastructure configuration, application deployment, and lifecycle management. SaltStack is unique in offering an orchestration platform with native configuration management for automation of critical CloudOps, ITOps and DevOps tasks.
 - [Docker Performance on top of VMware vSphere](http://www.opvizor.com/blog/docker-performance-on-top-of-vmware-vsphere/)
+- [unixmen.com: Increase Disk Space And Memory In Linux VMware Virtual Machines](https://www.unixmen.com/increase-disk-space-and-memory-in-linux-vmware-virtual-machines/)
 
 ## Blogs
 - [blogs.vmware.com](http://blogs.vmware.com/)

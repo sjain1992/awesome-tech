@@ -11,7 +11,10 @@
 		- [Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others](#server-provisioning-and-automation-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Agile planning: Scrum, Kanban, Lean, Project Management, CI/CD](#agile-planning-scrum-kanban-lean-project-management-cicd)
 	- [Metrics](#metrics)
-	- [Example of DevOps Job description](#example-of-devops-job-description)
+	- [Examples of DevOps Job description](#examples-of-devops-job-description)
+		- [Example 1](#example-1)
+		- [Example 2](#example-2)
+		- [Example 3](#example-3)
 - [ITIL](#itil)
 	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
 	- [ITIL Tools](#itil-tools)
@@ -199,6 +202,8 @@
 - [Five Challenges for a Successful Enterprise DevOps Model 🌟🌟🌟](http://iot.sys-con.com/node/3841320)
 - [blog.xebialabs.com: 7 DevOps Videos You Have To Watch 🌟🌟](https://blog.xebialabs.com/2015/08/07/7-devops-videos-you-have-to-watch/)
 - [opensource.com: Decoding DevOps, Docker, and Git 🌟🌟](https://opensource.com/business/16/4/linuxfest-northwest-interview-corey-quinn)
+	- [Githug - an interactive way to learn how to use git 🌟🌟](https://github.com/Gazler/githug)
+	- [Joey Hess's myrepos is great at simplifying the management and updating of large numbers of Git repos](https://myrepos.branchable.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -362,8 +367,9 @@
 ## Metrics
 - [Metrics](metrics.md)
 
-## Example of DevOps Job description
+## Examples of DevOps Job description
 
+### Example 1
 You will be working closely with the product engineering teams to ensure products are secure, highly available and scalable. Your development and scripting skills will help you automate scaling and management of server resources and implement zero-downtime deployments. This position offers an outstanding opportunity for a unique individual who possesses a solid development and web services background. 
 
 Requirements: 
@@ -391,6 +397,71 @@ Preferred Qualifications:
 - Working knowledge of networking and security concepts 
 - Experience working with architecture or engineering disciplines 
 - Experience working with containers – Docker / Mesos 
+
+### Example 2
+DevOps Engineer, London, 3 to 6 Months Contract (Adroc007) London, England
+Salary:	GBP400 - GBP525 per day
+DevOps Engineer / Infrastructure Engineer / Linux / git / Puppet / Chef / Ansible / Salt / Jenkins / Bamboo / Kanban / Scrum
+
+I am presently recruiting for one of the UKs most respected medical research companies who are growing their operations rapidly in 2016/17. They are looking to hire three DevOps Engineers / Infrastructure Engineers immediately to be based in their HQ in London on an initial 3 to 6 month contract.
+
+Please find a brief description below: 
+
+Job Responsibilities, requirements and skills:
+
+Version control systems experience - A thorough understanding of git, as a minimum
+Configuration management expertise – commercial knowledge of at least one of: Puppet, Chef, Ansible and/or Salt
+Continuous Integration capability – solid knowledge of either Jenkins and/or Bamboo
+Exposure to Kanban and Scrum
+Expertise in one language as a minimum (Go, Python, Java)
+Experienced in a matrix team /multidisciplinary project working
+Ability to impart knowledge to others in the team and within the organisation
+Partner with colleagues to improve processes and performance
+Knowledge of scheduling systems – Nomad, SGE, LSF and Mesos (Desirable)
+ 
+Location: London
+Rate: £Negotiable
+Salary:	GBP400 - GBP525 per day
+Contract Length: 3 to 6 Months initial (Extensions)
+
+Please forward your updated CV for immediate consideration or refer a friend.
+
+### Example 3
+Big Data DevOps Engineer - London - Eligible for SC Clearance
+
+Square One are looking for a Big Data Devops Engineer to come on board for a 6 month contract based in London
+
+Role Definitions/Duties
+DevOps for Hadoop platform on major government programme.
+Help deliver and develop the continuous integration pipeline for the Hadoop stack.
+Help design and deliver the target cloud infrastructure for the Hadoop stack.
+Analysis, authoring of user stories and detailed design.
+Development of code, scripts, configuration and build automation.
+Provide specialist Hadoop and big data expertise.
+Engage with all members of the scrum team to ensure the technology meets the user needs.
+Prototype and prove concepts quickly.
+Identify and mitigate risks in development and technology
+
+Skills Required
+Skills Split - 70% DevOps, 30% Hadoop
+Excellent overall knowledge Dev Ops, continuous delivery and environment build on large development programmes.
+Excellent knowledge of cloud hosting and virtualised infrastructure.
+Demonstrable experience of infrastructure as code.
+Strong hands-on experience with virtualisation and cloud technologies, such as VMWare vCloud, AWS and others.
+Experience with low level environment design.
+Strong experience in infrastructure automation tools such as Blueprints, Puppet and Chef
+Deep understanding of Linux and/or Unix Operating Systems
+Experience administering one or more database products, including Hadoop/HDFS.
+Experience in using monitoring tools
+Good understanding of IT security
+Nice to have - Specific experience with automated deployment of the Hortonworks Hadoop distribution.
+
+Security
+SC clearable (can start with BPSS but must be clearable).
+
+This is a 6 month contract based in Central London paying excellent day rates starting ASAP.
+
+Big Data DevOps Engineer - London - Eligible for SC Clearance
 
 # ITIL
 ## Is DevOps replacing ITIL?

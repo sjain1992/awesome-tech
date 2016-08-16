@@ -30,6 +30,7 @@
 		- [Terminal Multiplexers](#terminal-multiplexers)
 	- [Linux Virtualization](#linux-virtualization)
 	- [FOSS Software](#foss-software)
+	- [Linux Kernel](#linux-kernel)
 	- [Linux Performance](#linux-performance)
 		- [htop](#htop)
 		- [Glances](#glances)
@@ -43,6 +44,7 @@
 		- [Rsync](#rsync)
 		- [iptables](#iptables)
 		- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
+		- [OPNsense Firewall](#opnsense-firewall)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 		- [pfSense firewall](#pfsense-firewall)
 	- [Vim and Emacs](#vim-and-emacs)
@@ -97,6 +99,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">For every 10x developer, there is an Op, somewhere, who is sick of their shit.</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/739819176169111552">6 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cleaning out the desk drawer. <a href="https://twitter.com/hashtag/SunMicrosystems?src=hash">#SunMicrosystems</a> I like to think I&#39;ve lived up to this <a href="https://twitter.com/scottmcnealy">@scottmcnealy</a> 10 gr8 yrs 96-06 <a href="https://t.co/efJFnuRTjJ">pic.twitter.com/efJFnuRTjJ</a></p>&mdash; Brett Murphy (@PowerMan4Evr) <a href="https://twitter.com/PowerMan4Evr/status/764572168072077312">13 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Sysadmin Forums
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
@@ -124,6 +129,7 @@
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
 - [Best Linux Distros For Newcomers](http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html)
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
+- [unixmen.com: Which Linux Distribution You Should Use](https://www.unixmen.com/linux-distribution-use/)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XMm0HsmOTFI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -363,6 +369,7 @@
 - [apt-get command cheat sheet for Debian Linux](http://www.cyberciti.biz/howto/question/linux/apt-get-cheat-sheet.php)
 - [Debian Linux apt-get package management cheat sheet](http://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html)
 - [nixCraft: How to use multiple connections to speed up apt-get/apt on Ubuntu Linux 16.04 LTS server](http://www.cyberciti.biz/faq/how-to-speed-up-apt-get-apt-command-ubuntu-linux/)
+- [unixmen.com: How to enable or disable repositories in CentOS](https://www.unixmen.com/enable-disable-repositories-centos/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/46877604" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -439,6 +446,11 @@
 - [GNU parallel is a shell tool for executing jobs in parallel using one or more computers 🌟🌟](http://www.gnu.org/software/parallel/)
 - [Better Bash Scripting in 15 Minutes 🌟🌟](http://robertmuth.blogspot.com.es/2012/08/better-bash-scripting-in-15-minutes.html)
 - [nixCraft: Python Execute Unix/Linux Command Examples 🌟🌟](http://www.cyberciti.biz/faq/python-execute-unix-linux-command-examples/)
+- [unixmen.com - Tips & Tricks: Find Largest File and Print the content of a file in reverse 🌟🌟](https://www.unixmen.com/find-largest-file-and-print-the-content-of-a-file-in-reverse/)
+- [DZone: Comparing the Difference Between Two Environments 🌟🌟🌟](https://dzone.com/articles/compare-difference-of-two-envs) Everyone's heard ''your app doesn't work on my machine,'' and there are tons of variables that can contribute to why something is broken. Here's a way to quickly find out what the differences are.
+- [nixCraft: How to see CPU temperature on CentOS 7 and RedHat Enterprise Linux 7](http://www.cyberciti.biz/faq/howto-view-cpu-temperature-on-rhel7-centos-linux-7/)
+- [nixCraft: How to see PCI devices info on CentOS 7 and RedHat Enterprise Linux 7](http://www.cyberciti.biz/faq/how-to-see-pci-devices-info-on-centos-7-and-redhat-enterprise-linux-7/)
+- [nixCraft: Shell script to update all lxd container hypervisor](https://bash.cyberciti.biz/virtualization/shell-script-to-update-all-lxd-container-hypervisor/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -522,6 +534,9 @@
 - [Buku: cmdline bookmark manager... your mini web!](https://github.com/jarun/Buku) Buku (formerly markit) is a cmdline bookmark management utility written in Python3 and SQLite3. buku exists because of my monumental dependency on historious. I wanted the same database on my local system. However, I couldn't find an equally flexible cmdline solution. Hence, Buku! 
 	- [historious: bookmarking you can love](http://historio.us/) historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! 
 - [GoogleApps  or Office365 replacement. Kolab + CloudSuite: It's collaborative all the way down](https://kolab.org/group-blog/2016/01/30/kolab-collabora/)
+
+## Linux Kernel
+- [unixmen.com: How to upgrade or update kernel of the CentOS to Latest stable Kernel](https://www.unixmen.com/upgrade-update-kernel-centos-latest-stable-kernel/)
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -647,6 +662,7 @@
 - [CentOS/RHEL: Install vnStat Network Traffic Monitor To Keep a Log Of Daily Traffic 🌟🌟🌟](http://www.cyberciti.biz/faq/centos-redhat-fedora-linux-install-vnstat-bandwidth-monitor/)
 - [ngrep 🌟](http://ngrep.sourceforge.net/)
 - [nixCraft: Linux Force DHCP Client (dhclient) to Renew IP Address](http://www.cyberciti.biz/faq/howto-linux-renew-dhcp-client-ip-address/)
+- [nixCraft: How to configure a static IP address on CentOS 7/RHEL 7](http://www.cyberciti.biz/faq/howto-setting-rhel7-centos-7-static-ip-configuration/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -822,6 +838,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AqNWLms7zvw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+### OPNsense Firewall
+- [opnsense.org](https://opnsense.org/)
+- [unixmen.com: How To Install OPNsense Firewall](https://www.unixmen.com/install-opnsense-firewall/)
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)

@@ -31,6 +31,7 @@
     - [AWS OpsWorks](#aws-opsworks)
     - [AWS Networking](#aws-networking)
     - [AWS Route 53](#aws-route-53)
+    - [AWS Application Load Balancer](#aws-application-load-balancer)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -421,6 +422,9 @@
 
 ## AWS Route 53
 - [How do I transfer a domain to AWS from another registrar?](https://aws.amazon.com/premiumsupport/knowledge-center/transfer-domain-to-aws/)
+
+## AWS Application Load Balancer
+- [Application Load Balancer 🌟🌟](https://aws.amazon.com/es/elasticloadbalancing/applicationloadbalancer/)
 
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.

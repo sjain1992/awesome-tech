@@ -287,6 +287,8 @@
 - [23 things you should never say to your coworkers](http://www.businessinsider.com/things-you-should-never-say-to-your-coworkers-2016-7)
 - [The way out of burnout. A psychoanalyst explains why for people feeling “burnt out”, simply trying to relax doesn’t always work](https://www.1843magazine.com/body-mind/the-daily/the-way-out-of-burnout)
 - [Glassdoor.com: How to Deal With a Bad Boss 🌟](https://www.glassdoor.com/blog/manage-bad-boss/)
+- [Glassdoor.com: Why Do People Quit Their Dream Job?](https://www.glassdoor.com/blog/why-do-people-quit-their-dream-job/)
+- [Glassdoor.com: How to Deal With a Micromanager](https://www.glassdoor.com/blog/how-to-deal-with-a-micromanager/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -309,6 +311,8 @@
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
 
 [![bi_7characteristics_laziest_employees](images/bi_7characteristics_laziest_employees.png)](http://www.businessinsider.com/common-characteristics-of-the-laziest-employees-2016-4)
+
+[![dilbert_stress_free_workmate](images/dilbert_stress_free_workmate.jpg)](http://dilbert.com/strip/2016-08-14)
 
 [![soft_skills](images/soft_skills.png)](https://www.linkedin.com/pulse/who-you-calling-soft-value-skills-tech-obsessed-economy-dennis-yang)
 

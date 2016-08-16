@@ -105,6 +105,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> expands <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> with broader container and <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> support: <a href="https://t.co/rec8HiPssm">https://t.co/rec8HiPssm</a> via <a href="https://twitter.com/eweek">@eWeek</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/740091077961613312">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">TCP vulnerabilty? Easy to mitigate with <a href="https://twitter.com/ansible">@ansible</a>:<br><br>- sysctl: name=net.ipv4.tcp_challenge_ack_limit value=999999999 sysctl_set=yes</p>&mdash; James (@thejimic) <a href="https://twitter.com/thejimic/status/764450960336834560">13 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Ansible Container
 - [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks 🌟🌟](https://github.com/ansible/ansible-container)
 - [ansible.com/ansible-container](https://www.ansible.com/ansible-container)
@@ -151,6 +154,7 @@
     - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
     - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
 - [Podcast - Ansible: config management & deploying code with James Cammarata from Red Hat 🌟🌟🌟](http://podcast.sysca.st/podcast/5-ansible-config-management-deploying-code-james-cammarata-red-hat/)
+- [Video: ANSIBLE ROLES FOR FUN AND PROFIT](https://www.ansible.com/ansible-roles-by-acquia) Learn how to architect, test, maintain and contribute dozens of roles for your Ansible-powered infrastructure. Jeff Geerling walks you through how he builds roles for flexible, but simple, infrastructure Playbooks used by thousands of developers and sysadmins.)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fwGrKXzocg4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

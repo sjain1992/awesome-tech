@@ -8,6 +8,8 @@
 
 ![no_whining](images/no_whining.jpg)
 
+![sun_qualities_leadership](images/sun_qualities_leadership.jpg)
+
 ![modis_employees_who_collaborate_with_coworkers](images/modis_employees_who_collaborate_with_coworkers.jpg)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jim, can any company become an open organization?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/hashtag/theCUBE?src=hash">#theCUBE</a> <a href="https://t.co/Kg5Qb4KXNM">pic.twitter.com/Kg5Qb4KXNM</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/747844822308794368">28 de junio de 2016</a></blockquote>
@@ -134,6 +136,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Fkhw8cP5i7Rgbf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/amirsaiftaz/11-habits-of-bad-boss-presentation" title="11 Habits Of Bad Boss" target="_blank">11 Habits Of Bad Boss</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/amirsaiftaz">Self Creation </a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Winners focus on winning, losers focus on winners&quot; <a href="https://t.co/0XIXjed3hA">pic.twitter.com/0XIXjed3hA</a></p>&mdash; Brett Ballard (@CoachBBallard) <a href="https://twitter.com/CoachBBallard/status/763200881944911872">10 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1Gx0ff7YjTyWca" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/12-characteristicsofhorribleboss" title="12 Characteristics of A Horrible Boss" target="_blank">12 Characteristics of A Horrible Boss</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>

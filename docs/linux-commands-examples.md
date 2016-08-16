@@ -405,6 +405,10 @@
 
 		dmidecode -s system-manufacturer
 
+- TCP vulnerability? Easy to mitigate with ansible:
+ 
+		- sysctl: name=net.ipv4.tcp_challenge_ack_limit value=999999999 sysctl_set=yes
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

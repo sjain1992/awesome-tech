@@ -28,6 +28,7 @@
 - [nginx.com](https://www.nginx.com/)
 - [nextplatform.com: How Apache Is Losing The Web To NGINX 🌟🌟](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 - [Using nghttp2 to work around nginx bugs 🌟🌟](https://blog.crashed.org/fixing-nginx-bugs-with-nghttp2/)
+- [unixmen.com - How To Install LEMP Stack On Fedora 23/24](https://www.unixmen.com/how-to-install-lemp-stack-on-fedora-23/)
 
 [![dzone_refcard_monitoring_nginx](images/dzone_refcard_monitoring_nginx.png)](https://dzone.com/refcardz/monitoring-nginx)
 
