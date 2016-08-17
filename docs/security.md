@@ -182,6 +182,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When someone tells you that a firewall or Linux will solve all of their problems... <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://t.co/bhTi0dgLQu">pic.twitter.com/bhTi0dgLQu</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/761579195461840896">5 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kF7nkpEPmZg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 #### Security articles
 - [Cybersecurity isn’t Rocket Science!](http://www.infosecurity-magazine.com/opinions/cybersecurity-isnt-rocket-science/)
 - [Citibank IT guy deliberately wiped routers, shut down 90% of firm’s networks across America](http://www.tripwire.com/state-of-security/featured/citibank-it-guy-deliberately-wiped-routers-shut-down-90-of-firms-networks-across-america/)

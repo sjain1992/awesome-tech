@@ -86,6 +86,7 @@
 - [Python gains the upper hand against Perl, PHP, and Ruby](http://www.infoworld.com/article/3029681/java/python-gains-the-upper-hand-against-perl-php-and-ruby.html)
 - [Python FAQ: Why should I use Python 3? 🌟](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 - [stackoverflow: Problems installing python3 on RHEL 🌟](http://stackoverflow.com/questions/8087184/problems-installing-python3-on-rhel)
+- [PEP 8 Cheatsheet 🌟🌟🌟](https://es.scribd.com/document/207247675/PEP-8-Cheatsheet-2009)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
@@ -93,7 +94,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8cvSLR0lWRnZyS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Moment_of_Revelation/pep-8-cheatsheet-2009-32888711" title="Pep 8 cheatsheet (2009)" target="_blank">Pep 8 cheatsheet (2009)</a> </strong> from <strong><a href="//www.slideshare.net/Moment_of_Revelation" target="_blank">Moment_of_Revelation</a></strong> </div>
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View PEP-8 Cheatsheet (2009) on Scribd" href="https://www.scribd.com/document/207247675/PEP-8-Cheatsheet-2009#from_embed"  style="text-decoration: underline;" >PEP-8 Cheatsheet (2009)</a> by <a title="View Veeraj Shenoy's profile on Scribd" href="https://www.scribd.com/user/247744721/Veeraj-Shenoy#from_embed"  style="text-decoration: underline;" >Veeraj Shenoy</a> on Scribd</p><iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/207247675/content?start_page=1&view_mode=scroll&access_key=key-10eg916shk5wa33gdrtb&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.2941176470588236" scrolling="no" id="doc_1222" width="100%" height="600" frameborder="0"></iframe>
 </div>
 <br/>
 

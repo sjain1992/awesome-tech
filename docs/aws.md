@@ -424,7 +424,13 @@
 - [How do I transfer a domain to AWS from another registrar?](https://aws.amazon.com/premiumsupport/knowledge-center/transfer-domain-to-aws/)
 
 ## AWS Application Load Balancer
-- [Application Load Balancer 🌟🌟](https://aws.amazon.com/es/elasticloadbalancing/applicationloadbalancer/)
+- [Application Load Balancer 🌟🌟](https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/)
+- [aws blogs - New – AWS Application Load Balancer](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4976_8JIWT4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.

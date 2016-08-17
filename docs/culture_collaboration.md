@@ -64,6 +64,7 @@
 - [inc.com: How to Radically Change Your Company Culture (From a Founder Who Once Hated His)](http://www.inc.com/jeff-haden/how-to-radically-change-your-company-culture-from-a-founder-who-once-hated-his.html)
 - [Glassdoor.com: How to Deal With a Bad Boss 🌟](https://www.glassdoor.com/blog/manage-bad-boss/)
 - [19 signs you're a horrible boss, even if it doesn't feel like it](http://www.businessinsider.com/signs-youre-a-horrible-boss-even-if-it-doesnt-feel-like-it-2016-8)
+- [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
 
 [![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
 
