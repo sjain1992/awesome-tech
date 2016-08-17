@@ -334,6 +334,11 @@
 
 [![add_you_to_my_professional_network_on_linkedin](images/add_you_to_my_professional_network_on_linkedin.png)](https://medium.com/marketing-and-entrepreneurship/how-to-write-the-perfect-linkedin-connection-request-ecfa384f1265#.mwzvmk2z4)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h01GcsTeHpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Reasons You are Still Unemployed
 - [careerealism.com: 18 Good Reasons You’re Still Unemployed](http://www.careerealism.com/reasons-unemployed/)
 - [5 Reasons YOU are STILL Unemployed](https://www.linkedin.com/pulse/5-reasons-you-still-unemployed-robynn-storey-phr)

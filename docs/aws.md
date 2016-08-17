@@ -9,6 +9,7 @@
     - [Awesome AWS](#awesome-aws)
     - [AWS Glossary](#aws-glossary)
     - [AWS on Twitter](#aws-on-twitter)
+    - [AWS Application Architecture](#aws-application-architecture)
     - [AWS Stacks](#aws-stacks)
     - [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
@@ -142,6 +143,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Five ways Brexit is accelerating AWS and public <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> adoption <a href="https://t.co/DgmLk6gFHk">https://t.co/DgmLk6gFHk</a> via <a href="https://twitter.com/cloud_comp_news">@cloud_comp_news</a> <a href="https://t.co/vweIzq4eIx">pic.twitter.com/vweIzq4eIx</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/760112907828944896">1 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## AWS Application Architecture
+- [AWS application-architecture 🌟🌟🌟](http://www.conceptdraw.com/examples/application-architecture)
+
+[![aws_concept_draw](images/aws_concept_draw.png)](http://www.conceptdraw.com/examples/application-architecture)
 
 ## AWS Stacks
 - [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/)
@@ -547,6 +553,7 @@
 - [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
 
 ## AWS Lambda
+- [martinfowler.com: Serverless Architectures 🌟🌟🌟](http://martinfowler.com/articles/serverless.html)
 - [you can use Python with AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 - [Build a Python Microservice with Amazon Web Services Lambda & API Gateway](http://www.giantflyingsaucer.com/blog/?p=5730)
 - [AWS Lambda, Echo, and the Future of Cloud Automation](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/) A fantastic blog article by Logicworks on Lambda, the coming move to serverless architecture and even the possibility of using Amazon's Echo to launch entire AWS environments by using just your voice

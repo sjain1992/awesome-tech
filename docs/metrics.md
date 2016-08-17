@@ -132,7 +132,7 @@
 - [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
 - [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 - [Reddit: First beta of Zabbix 3.0](https://www.reddit.com/r/sysadmin/comments/41v20r/first_beta_of_zabbix_30/)
-- [Zabbix Share: New & updated Zabbix templates for Checkpoint, Cisco and Palo Alto devices. Monitoring of Microsoft WSUS & more](https://share.zabbix.com)
+- [Zabbix Share: New & updated Zabbix templates for Checkpoint, Cisco and Palo Alto devices. Monitoring of Microsoft WSUS & more 🌟🌟🌟](https://share.zabbix.com) Share new templates! LLD of Cisco devices, monitoring of DELL hardware and SSL certificates, plus more at share.zabbix.com
 - [500+ Zabbix community projects: Zabbix templates, scripts, CLIs, integrations, APIs, ... 🌟🌟🌟](https://github.com/zabbix/zabbix-community-repos)
 - [Official Zabbix Dockerfiles 🌟🌟](https://github.com/zabbix/zabbix-docker)
 - [New version of @MySQL and @MariaDB performance monitor for @Zabbix. Major improvements in Zabbix 3.0 and @PHP 5.5](https://fromdual.com/fromdual-performance-monitor-for-mysql-and-mariadb-0.10.6-has-been-released)
