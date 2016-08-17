@@ -674,6 +674,7 @@
 - [Chaos Monkey 🌟🌟](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) The Netflix Chaos Monkey tool allows you to proactively launch attack code against your infrastructure to cause failures and give you the chance to fix potential problems before they occur on their own. 
 - [Udemy - AWS: How to Architect with a Design for Failure Approach](https://www.udemy.com/how-to-architect-with-a-design-for-failure-approach/)
 - [How to Restore Your Instance Data from a Backup using Snapshots on AWS EC2/EBS](https://www.cloudinsidr.com/content/how-to-restore-your-instance-data-from-a-backup-using-snapshots-on-aws-ec2ebs/)
+- [Backup and archive to AWS Storage Gateway VTL with Veeam Backup & Replication v9 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/08/backup-and-archive-to-aws-storage-gateway-vtl-with-veeam-backup-and-replication-v9/)
 
 [![chaos_monkey](images/chaos_monkey.png)](http://techblog.netflix.com/2014/09/introducing-chaos-engineering.html)
 

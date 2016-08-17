@@ -331,6 +331,7 @@
 - [silicon.es: Tecnologías para manejar y asegurar la información](http://www.silicon.es/tecnologias-manejar-asegurar-informacion-2310166) La información que manejan las empresas se ha multiplicado en los últimos años. Tecnologías como Snapshots, Incremental Change Capture y live Copy ayuden a gestionar efizcamente la información.
 - [distrowatch.com: SystemRescueCd](http://distrowatch.com/table.php?distribution=systemrescue)
 - [Linux.com: Let Attic Deduplicate and Store your Backups 🌟🌟🌟](https://www.linux.com/learn/let-attic-deduplicate-and-store-your-backups)
+- [Backup and archive to AWS Storage Gateway VTL with Veeam Backup & Replication v9 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/08/backup-and-archive-to-aws-storage-gateway-vtl-with-veeam-backup-and-replication-v9/)
 
 ![system_restore_disk](images/system_restore_disk.jpg)
 
