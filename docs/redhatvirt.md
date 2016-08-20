@@ -39,6 +39,7 @@
 - [Maximizing your virtualization investment](https://www.redhat.com/en/about/blog/maximizing-your-virtualization-investment) virtual machine (VM) density is stalling out at about 10 VMs per server and between 30 to 50 percent server utilization. This leaves ample room for improved efficiencies and financial value.
 - [Red Hat’s view of where and how Containers and VMs should work together](http://kusnetzky.net/red-hats-view-containers-vms-work-together/)
 - [virtualizationreview.com - Virtualization: Much More Than Virtual Machines 🌟🌟🌟](https://virtualizationreview.com/articles/2016/01/04/virtualization-is-much-more-than-virtual-machines.aspx)
+- [Containers debunked: DevOps, security and why containers will not replace virtual machines 🌟🌟](http://www.cbronline.com/news/enterprise-it/software/containers-debunked-devops-security-and-why-containers-will-not-replace-virtual-machines-4977492)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Congratulations: <a href="https://twitter.com/hashtag/oVirt?src=hash">#oVirt</a> 4.0 Final Release is now available! Release highlights and more info on the oVirt blog: <a href="https://t.co/vznUO0vkab">https://t.co/vznUO0vkab</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/746067115585736704">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

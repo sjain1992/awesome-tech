@@ -152,6 +152,7 @@
 - [Red Hat Whitepaper: MODERNIZING APPLICATION DELIVERY WITH CONTAINER PLATFORMS](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 - [rhelblog.redhat.com: Container Image Signing 🌟🌟](http://rhelblog.redhat.com/2016/07/22/container-image-signing/)
 - [wsargent/docker-cheat-sheet 🌟🌟🌟](https://github.com/wsargent/docker-cheat-sheet)
+- [Containers debunked: DevOps, security and why containers will not replace virtual machines 🌟🌟](http://www.cbronline.com/news/enterprise-it/software/containers-debunked-devops-security-and-why-containers-will-not-replace-virtual-machines-4977492)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
@@ -197,11 +198,6 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Dk9c8VYYykVABw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/robertreiz/docker-ansible-51576034" title="Infrastructure Deployment with Docker &amp; Ansible" target="_blank">Infrastructure Deployment with Docker &amp; Ansible</a> </strong> from <strong><a href="//www.slideshare.net/robertreiz" target="_blank">Robert Reiz</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/WVGRaApIwkU" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -319,17 +315,18 @@
 ## IBM Rational ClearCase 
 - [Deploying secure software configuration management](http://www.ibm.com/developerworks/rational/library/rational-deploy-secure-software-configuration-management-trs/index.html)
 
-[![Pro Docker](images/Pro-Docker.png)](http://www.wowebook.org/pro-docker.html)
+<center>
 
-[![Monitoring Docker](images/Monitoring-Docker.png)](http://www.wowebook.org/monitoring-docker.html)
+|[![Pro Docker](images/Pro-Docker.png)](http://www.wowebook.org/pro-docker.html)|[![Monitoring Docker](images/Monitoring-Docker.png)](http://www.wowebook.org/monitoring-docker.html)|[![Mastering Docker](images/Mastering-Docker.png)](http://www.wowebook.org/mastering-docker.html)|
+|:---:|:---:|:---:|
 
-[![Mastering Docker](images/Mastering-Docker.png)](http://www.wowebook.org/mastering-docker.html)
+</center>
+<center>
 
-[![Docker Cookbook](images/Docker-Cookbook-OReilly.png)](http://www.wowebook.org/docker-cookbook-oreilly-media.html)
+|[![Docker Cookbook](images/Docker-Cookbook-OReilly.png)](http://www.wowebook.org/docker-cookbook-oreilly-media.html)|[![Docker Cookbook packt](images/Docker-Cookbook.png)](http://www.wowebook.org/docker-cookbook-packt-publishing.html)|[![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)|
+|:---:|:---:|:---:|
 
-[![Docker Cookbook packt](images/Docker-Cookbook.png)](http://www.wowebook.org/docker-cookbook-packt-publishing.html)
-
-[![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
+</center>
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/0CJaV7EFsfJ6tCW3UPTRRQ/119849601579" data-did="c741abb104a46eb2eb4c75ec471b62b6e3640bb9"><a href="http://tech.crowdfireapp.com/post/119849601579/hello-docker">http://tech.crowdfireapp.com/post/119849601579/hello-docker</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

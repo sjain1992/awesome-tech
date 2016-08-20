@@ -125,6 +125,7 @@
 - [Why new companies have it way easier now than a decade ago 🌟](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
 - [Reddit CTO: Stick to Boring Tech when Building Your Startup 🌟🌟🌟🌟](http://thenewstack.io/reddit-cto-sxsw-stick-boring-tech-building-start/)
 - [3 Principles for Building a Company That Lasts](https://www.entrepreneur.com/article/276262)
+- [Linkedin: Why Startups Fail?](https://www.linkedin.com/pulse/why-startups-fail-amitt-virmani-lfno-)
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)

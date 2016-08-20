@@ -65,6 +65,7 @@
 - [Glassdoor.com: How to Deal With a Bad Boss 🌟](https://www.glassdoor.com/blog/manage-bad-boss/)
 - [19 signs you're a horrible boss, even if it doesn't feel like it](http://www.businessinsider.com/signs-youre-a-horrible-boss-even-if-it-doesnt-feel-like-it-2016-8)
 - [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
+- [entrepreneur.com: Unhealthy Culture? Now, What? 🌟](https://www.entrepreneur.com/article/253872)
 
 [![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
 
