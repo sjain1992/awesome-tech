@@ -11,9 +11,12 @@
 
 <!-- /MarkdownTOC -->
 
+<center>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 <br>
 
+</center>
 <center>
 
 |[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs)|[![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) |[![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom)| 
@@ -133,7 +136,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good piece from the Fortinet Blog on email hacking campaigns and the low costs and massive returns available &gt;&gt; <a href="https://t.co/t5o8sKGlh9">https://t.co/t5o8sKGlh9</a></p>&mdash; Sean Huggett (@seanhuggett) <a href="https://twitter.com/seanhuggett/status/694124366850887680">febrero 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/137299316242" data-did="01ae80a50a24446e87cce8bedfb90340b1b3e3b7"><a href="http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor">http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+</center>
 
 ## Sophos
 - [sophos.com](https://www.sophos.com)
