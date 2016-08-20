@@ -205,6 +205,7 @@
 	- [Githug - an interactive way to learn how to use git 🌟🌟](https://github.com/Gazler/githug)
 	- [Joey Hess's myrepos is great at simplifying the management and updating of large numbers of Git repos](https://myrepos.branchable.com/)
 - [devops.com: What DevOps Skills are Organizations Looking for?](http://devops.com/2016/08/16/devops-skills-organizations-looking/)
+- [DZone: 400+ Free Resources for DevOps and Sysadmins 🌟🌟🌟🌟](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins) A massive list of resources and technology for anything you could possibly need for your DevOps projects. Perfect culture not included.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

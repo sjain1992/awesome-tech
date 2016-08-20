@@ -181,6 +181,7 @@
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
 - [Red Hat Unveils JBoss Data Grid 7 for Real-Time Analytics](http://solutionsreview.com/data-management/red-hat-unveils-jboss-data-grid-7-for-real-time-analytics/)
+- [Red Hat JBoss Data Grid is Not Just for Caching Java Objects Anymore 🌟🌟🌟](http://thenewstack.io/red-hat-jboss-data-grid-not-just-storing-java-objects-anymore)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OXL4EAS8RXw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

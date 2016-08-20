@@ -36,6 +36,7 @@
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oh, the places you can go with Google Street View <a href="https://t.co/p1UP4dN6YY">https://t.co/p1UP4dN6YY</a> by <a href="https://twitter.com/annaescher">@annaescher</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/706177710926630912">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

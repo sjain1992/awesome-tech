@@ -211,6 +211,7 @@
 - [Introduction to PowerShell for Unix people](https://www.penflip.com/powershellorg/a-unix-persons-guide-to-powershell)
 - [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 - [Bash for Windows: Why it’s awesome and what it means for PowerShell 🌟🌟🌟](https://blogs.msdn.microsoft.com/powershell/2016/04/01/bash-for-windows-why-its-awesome-and-what-it-means-for-powershell)
+- [Microsoft Open-Sources PowerShell, Releases Linux Port](http://www.eweek.com/enterprise-apps/microsoft-open-sources-powershell-releases-linux-port.html)
 
 [![dzone_powershell_refcard](images/dzone_powershell_refcard.png)](https://dzone.com/refcardz/windows-powershell)
 

@@ -227,11 +227,6 @@
 - [MPLS vs. Metro-Ethernet](https://www.linkedin.com/pulse/mpls-vs-metro-ethernet-dave-calhoun)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H7KQcNRgGEk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5Ud1m9h0yc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -272,6 +267,7 @@
 ## WiFi Products
 - [twitter.com/wifisafespain](https://twitter.com/wifisafespain)
 - [The Best Wi-Fi Routers: No More Dead Zones](http://www.wsj.com/articles/these-routers-fix-wi-fi-dead-zones-but-theyll-cost-you-1469038426)
+- [DD-WRT](https://en.wikipedia.org/wiki/DD-WRT)
 
 [![wifisafe](images/wifisafe-marca.jpg)](https://www.wifisafe.com/)
 

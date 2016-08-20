@@ -127,6 +127,7 @@
 - [github.com/awslabs 🌟](https://github.com/awslabs)
 - [slideshare.net/AmazonWebServices 🌟🌟🌟](http://www.slideshare.net/AmazonWebServices)
 - [AWS 10-Minute Tutorials 🌟🌟](https://aws.amazon.com/getting-started/tutorials/)
+- [How do I create and activate a new Amazon Web Services account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -280,6 +281,7 @@
 - [Migrating from MySQL (RDS) to Aurora with no downtime 🌟🌟](http://cantrill.io/howto/aws/2016/06/06/migrating-from-mysql-to-aurora-with-almost-no-downtime.html)
 - [Replicating Amazon Aurora DB Clusters Across AWS Regions 🌟🌟🌟](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
 - [Working with PostgreSQL, MySQL, and MariaDB Read Replicas - Amazon 🌟🌟](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html) Use RDS PostgreSQL cross-region Read Replicas to get data close to customers. 
+- [Working with an Amazon RDS DB Instance in a VPC](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
 
 [![Replicating_AuroraDB_Clusters_Across_AWS_Regions](images/Replicating_AuroraDB_Clusters_Across_AWS_Regions.png)](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
 

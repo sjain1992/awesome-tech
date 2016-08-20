@@ -164,6 +164,7 @@
 - [Here's who you should sit next to at work if you want to be more productive](http://www.businessinsider.com/who-to-sit-next-to-at-work-to-be-more-productive-2016-8)
 - [opensource.com: How to keep a meritocracy in check 🌟](https://opensource.com/open-organization/16/8/how-make-meritocracy-work)
 - [Management Style: When Is It Viewed as Abusive?](http://www.wsj.com/articles/management-style-when-is-it-viewed-as-abusive-1470752281) Some boorish bosses earn reputations as masterful leaders because they get results, new research says
+- [hbr.org - Research: Insecure Managers Don’t Want Your Suggestions](https://hbr.org/2014/11/research-insecure-managers-dont-want-your-suggestions)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -175,6 +176,8 @@
 [![a_cure_for_bad_boss_problem](images/a_cure_for_bad_boss_problem.png)](http://www.forbes.com/sites/lizryan/2016/06/17/is-there-a-cure-for-my-bad-boss-problem/)
 
 [![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
+
+[![3_most_likely_reasons_you_got_fired](images/3_most_likely_reasons_you_got_fired.png)](http://www.careerealism.com/fired-reasons-likely/)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
