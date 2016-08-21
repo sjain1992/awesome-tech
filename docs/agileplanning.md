@@ -41,6 +41,7 @@
 - [opensource.com - Scrum is dead: breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
 - [DZone refcard: Scrum 🌟🌟](https://dzone.com/refcardz/scrum)
 - [DZone: 12 Mistakes in Agile Manifesto 🌟🌟](https://dzone.com/articles/twelve-mistakes-in-agile-manifesto) Most software teams misunderstand the 12 agile principles. Here is a summary of what's going on and an interpretation of each principle.
+- [DZone: Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile) While we can all agree agile is better than waterfall development, the iterative methodology has an awful lot of detractors from its history of misuse.
 
 [![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)
 
@@ -124,6 +125,8 @@
 
 ## Project Management
 - [cio.com: Why less is more with project management](http://www.cio.com/article/3031636/leadership-management/why-less-is-more-with-project-management.html)
+- [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
+- [opensource.com: Avoiding bad practices in open source project management](https://opensource.com/business/16/6/bad-practice-foss-projects-management)
 
 [![get_done_by_friday](images/get_done_by_friday.gif)](http://dilbert.com/strip/2016-05-18)
 

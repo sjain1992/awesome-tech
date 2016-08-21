@@ -23,6 +23,8 @@
 
 [![Business Insider Python](images/BI_python.png)](http://www.businessinsider.com/learn-to-code-python-best-beginner-programming-language-2015-12)
 
+[![python_qna](images/python_qna.png)](https://twitter.com/PythonQnA)
+
 # Python
 ## Python Blogs and Forums
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
@@ -59,6 +61,7 @@
 	- [Python mini-quiz](http://www.mypythonquiz.com/)
 - [How do you handle the ORM problem? When do you say YES or NO to using ORM?](http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
 - [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
+- [commandlinefu.com: pip install into current directory without virtualenv](http://www.commandlinefu.com/commands/view/17656/pip-install-into-current-directory-without-virtualenv)
 - [Java Vs. Python - Which Programming Language is More Productive? - Infographic](http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
 - [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team](http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team)
 - [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/)
@@ -87,6 +90,7 @@
 - [Python FAQ: Why should I use Python 3? 🌟](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 - [stackoverflow: Problems installing python3 on RHEL 🌟](http://stackoverflow.com/questions/8087184/problems-installing-python3-on-rhel)
 - [PEP 8 Cheatsheet 🌟🌟🌟](https://es.scribd.com/document/207247675/PEP-8-Cheatsheet-2009)
+- [Lists vs. Tuples](http://nedbatchelder.com/blog/201608/lists_vs_tuples.html) A common beginner Python question: what's the difference between a list and a tuple?
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
@@ -161,6 +165,7 @@
 - [pandas.pydata.org: Reshaping by pivoting DataFrame objects](http://pandas.pydata.org/pandas-docs/stable/reshaping.html)
 - [analyticsvidhya.com: A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 - [analyticsvidhya.com: Tutorial – Python List Comprehension With Examples](http://www.analyticsvidhya.com/blog/2016/01/python-tutorial-list-comprehension-examples/)
+- [analyticsvidhya.com: Cheat Sheet for Exploratory Data Analysis in Python 🌟🌟](https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python)
 
 ### PandasDatabase
 - [PandasDatabase is a RESTful database engine application built on top of Pandas](https://pypi.python.org/pypi/pddb/)

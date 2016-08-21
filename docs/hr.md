@@ -165,6 +165,7 @@
 - [opensource.com: How to keep a meritocracy in check 🌟](https://opensource.com/open-organization/16/8/how-make-meritocracy-work)
 - [Management Style: When Is It Viewed as Abusive?](http://www.wsj.com/articles/management-style-when-is-it-viewed-as-abusive-1470752281) Some boorish bosses earn reputations as masterful leaders because they get results, new research says
 - [hbr.org - Research: Insecure Managers Don’t Want Your Suggestions](https://hbr.org/2014/11/research-insecure-managers-dont-want-your-suggestions)
+- [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -292,6 +293,7 @@
 - [Glassdoor.com: How to Deal With a Bad Boss 🌟](https://www.glassdoor.com/blog/manage-bad-boss/)
 - [Glassdoor.com: Why Do People Quit Their Dream Job?](https://www.glassdoor.com/blog/why-do-people-quit-their-dream-job/)
 - [Glassdoor.com: How to Deal With a Micromanager](https://www.glassdoor.com/blog/how-to-deal-with-a-micromanager/)
+- [forbes.com: Don't Post Your Way To Unemployment](http://www.forbes.com/sites/alizalicht/2016/08/02/dont-post-your-way-to-unemployment-2/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -328,6 +330,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4iBIbzzS8IDZeR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sklip/7-workplace-communication" title="7 workplace communication" target="_blank">7 workplace communication</a> </strong> from <strong><a href="//www.slideshare.net/sklip" target="_blank">sklip</a></strong> </div>
 </div>
 <br/>
+
+[![dilbert_kill_another_coworker](images/dilbert_kill_another_coworker.gif)](http://dilbert.com/strip/1999-06-02)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/CKJf9NUdlNKCN8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mony1437/negotition-skills-20" title="Negotiation skills" target="_blank">Negotiation skills</a> </strong> from <strong><a href="//www.slideshare.net/mony1437" target="_blank">Mohamed Ayman</a></strong> </div>

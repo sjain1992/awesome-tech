@@ -153,8 +153,15 @@
 - [rhelblog.redhat.com: Container Image Signing 🌟🌟](http://rhelblog.redhat.com/2016/07/22/container-image-signing/)
 - [wsargent/docker-cheat-sheet 🌟🌟🌟](https://github.com/wsargent/docker-cheat-sheet)
 - [Containers debunked: DevOps, security and why containers will not replace virtual machines 🌟🌟](http://www.cbronline.com/news/enterprise-it/software/containers-debunked-devops-security-and-why-containers-will-not-replace-virtual-machines-4977492)
+- [opensource.com: A brief introduction to Linux containers and image signing](https://opensource.com/bus/16/8/introduction-linux-containers-and-image-signing)
+- [forbes.com: Explaining Containers To Your CEO 🌟🌟](http://www.forbes.com/sites/danwoods/2016/08/04/explaining-containers-to-your-ceo)
+- [developers.redhat.com - Keep it small: a closer look at Docker image sizing 🌟🌟🌟](http://developers.redhat.com/blog/2016/03/09/more-about-docker-images-size/)
+- [thenewstack.io: Red Hat’s Paul Cormier: Containers are Here to Stay 🌟🌟🌟](http://thenewstack.io/red-hats-paul-cormier-patience-young-enterprise/)
+- [DZone - Docker Cloud: Monitoring and Logging](https://dzone.com/articles/docker-cloud-monitoring-logging) In 10-15 minutes you could be looking at charts with all your Docker operations data in one place, accessible by your whole team! Read on to see how it's done by wielding Docker Cloud.
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273312823&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 [![java_containerization_dzone_refcard](images/java_containerization_dzone_refcard.png)](https://dzone.com/refcardz/java-containerization)
 

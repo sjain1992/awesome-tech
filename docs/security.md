@@ -28,6 +28,7 @@
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
 	- [Next Generation Firewalls](#next-generation-firewalls)
+	- [NTP](#ntp)
 	- [Security Checklist](#security-checklist)
 	- [Major Security Vulnerabilities](#major-security-vulnerabilities)
 		- [Keyloggers](#keyloggers)
@@ -187,6 +188,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m trying to get out of server security mess created by incompetent sysadmin. <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/uYii1k5VKr">pic.twitter.com/uYii1k5VKr</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/767282017599827968">21 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Security articles
 - [Cybersecurity isn’t Rocket Science!](http://www.infosecurity-magazine.com/opinions/cybersecurity-isnt-rocket-science/)
 - [Citibank IT guy deliberately wiped routers, shut down 90% of firm’s networks across America](http://www.tripwire.com/state-of-security/featured/citibank-it-guy-deliberately-wiped-routers-shut-down-90-of-firms-networks-across-america/)
@@ -289,6 +293,7 @@
 - [The rise of ransomware (in more than one way)](http://www.innovativecomp.com/blog/the-rise-of-ransomware-in-more-than-one-way)
 - [software.dell.com: The Top 6 Ways to Protect Your Organization from Malware](https://software.dell.com/blog/en/the-top-6-ways-to-protect-your-organization-from-malware)
 - [software.dell.com - Ransomware: The Cost of Doing Nothing](https://software.dell.com/blog/en/ransomware-the-cost-of-doing-nothing)
+- [medium.com: How a malware could infect digitally signed files without altering hashes on macOS](https://medium.com/@sabrihaddouche/how-a-malware-can-infects-digitally-signed-files-without-altering-hashes-on-macos-c7dc9e391a8e#.nu2vc41rm)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
@@ -454,6 +459,9 @@
 
 ## Next Generation Firewalls
 - [Next Generation Firewalls](networking.md#next-generation-firewalls-ngfw)
+
+## NTP
+- [NTP is Still a Security Risk](http://www.circleid.com/posts/20160804_ntp_is_still_a_security_risk/)
 
 ## Security Checklist
 - [securitychecklist.org](https://securitychecklist.org/)

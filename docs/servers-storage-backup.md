@@ -164,10 +164,14 @@
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
 - [commandlinefu.com: Get the serial numbers from HP RAID](http://www.commandlinefu.com/commands/view/17608/get-the-serial-numbers-from-hp-raid)
+- [nixCraft: Linux Check The Health of Adaptec RAID array](http://www.cyberciti.biz/faq/howto-check-adaptec-raid-array/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/132158475779" data-did="25c4bf4e9f55ff90f914ea4649ba4b984b59e7b0"><a href="http://securityreactions.tumblr.com/post/132158475779/noticing-a-zmapmasscan-hit-your-command-and">http://securityreactions.tumblr.com/post/132158475779/noticing-a-zmapmasscan-hit-your-command-and</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 </center>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux Check The Health of Adaptec RAID array <a href="https://t.co/DVObj3GgXN">https://t.co/DVObj3GgXN</a> <a href="https://t.co/XiluYTevbJ">pic.twitter.com/XiluYTevbJ</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/766711409388367872">19 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Remote PC Access
 - [Alternatives to LogMeIn for Remote PC Access](http://www.storagecraft.com/blog/alternatives-logmein-remote-pc-access/)

@@ -118,6 +118,7 @@
 - [Single vendors don't offer a complete software-defined environment](http://searchnetworking.techtarget.com/news/450300354/Single-vendors-dont-offer-a-complete-software-defined-environment)
 - [The telecoms industry and NFV – How the cloud is virtualising](http://www.vanillaplus.com/2016/08/04/20138-the-telecoms-industry-and-nfv-how-the-cloud-is-virtualising/)
 - [Automation is Paramount in Cloud/NFV (Infographic) 🌟🌟🌟](http://blog.dialogic.com/blog/automation-is-paramount-in-cloud/nfv-infographic)
+- [sdxcentral.com: What Are Microservices in NFV? Definition 🌟](https://www.sdxcentral.com/nfv/definitions/microservices-in-nfv-definition) 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great interview w/ <a href="https://twitter.com/darrelljs">@darrelljs</a> &amp; <a href="https://twitter.com/intel">@intel</a> John Healy discussing &quot;The Future of NFV&quot; <a href="https://twitter.com/TIA_Now">@TIA_Now</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/OpenTelco">@OpenTelco</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://t.co/NzB8p1Qur1">https://t.co/NzB8p1Qur1</a></p>&mdash; Annie Potvin (@anniep0206) <a href="https://twitter.com/anniep0206/status/702396797063454722">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -13,6 +13,7 @@
         - [Continuous Integration using Docker. DevOps and Docker architectures](#continuous-integration-using-docker-devops-and-docker-architectures)
     - [CI RPM build](#ci-rpm-build)
     - [CI Maven and Gradle](#ci-maven-and-gradle)
+    - [Logging for Continuous Integration](#logging-for-continuous-integration)
     - [Deploying PHP Applications](#deploying-php-applications)
     - [Subversion](#subversion)
     - [Git](#git)
@@ -248,7 +249,6 @@
 </div>
 <br/>
 
-
 ## CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
 	- [Build native RPM packages by leveraging docker capabilities](https://github.com/alanfranz/docker-rpm-builder)
@@ -261,6 +261,9 @@
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 - [javacodegeeks.com: Setting up your application server with maven](http://www.javacodegeeks.com/2013/10/setting-up-your-application-server-with-maven.html)
 - [DZone: How to Set Up a Maven Repository In Minutes](https://dzone.com/articles/how-to-setup-a-maven-repository-in-minutes) A tutorial on how to set up Artifactory as a Maven repository to resolve and deploy artifacts in Maven builds.
+
+## Logging for Continuous Integration 
+- [Logging for Continuous Integration 🌟🌟🌟](https://dzone.com/articles/logging-for-continuous-integration-1) Logging the details of what actually happens during the Continuous Integration process makes sense, but how many of us actually do it? Read on for more information.
 
 ## Deploying PHP Applications
 - [deployingphpapplications.com](http://www.deployingphpapplications.com/)

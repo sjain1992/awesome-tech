@@ -85,6 +85,8 @@
 - [Ansible automation heralds move beyond DevOps niche 🌟](http://searchitoperations.techtarget.com/news/450299478/Ansible-automation-heralds-move-beyond-DevOps-niche)
 - [blog.rackspace.com - How to Deploy With Ansible: An Accessible Explanation 🌟🌟](http://blog.rackspace.com/how-to-deploy-ansible-accessible-explanation/)
 - [Playbook Debugger](http://docs.ansible.com/ansible/playbooks_debugger.html) In 2.1 we added a debug strategy. This strategy enables you to invoke a debugger when a task is failed, and check several info, such as the value of a variable. Also, it is possible to update module arguments in the debugger, and run the failed task again with new arguments to consider how you can fix an issue.
+- [developers.redhat.com: Install Ansible on Red Hat Enterprise Linux 🌟](http://developers.redhat.com/blog/2016/08/15/install-ansible-on-rhel/)
+- [opensource.com: Ansible as a gateway to DevOps in the cloud](https://opensource.com/life/16/8/cloud-ansible-gateway)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

@@ -269,6 +269,7 @@
 - [projectatomic.io 🌟](http://www.projectatomic.io) Create and Run Applications in Linux Containers 
 - [New CentOS Atomic Host Images Available for Download](http://www.projectatomic.io/blog/2016/03/new-centos-atomic-host-images-available-for-download/)
 - [rhelblog.redhat.com: Announcing Red Hat Enterprise Linux Atomic Host 7.2.6](http://rhelblog.redhat.com/2016/08/10/announcing-red-hat-enterprise-linux-atomic-host-7-2-6/)
+- [projectatomic.io: Vagrant Service Manager 1.3.0 Released](http://www.projectatomic.io/blog/2016/08/vagrant-service-manager-1-3-0-release/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New blog: New CentOS Atomic Host Images Available for Download <a href="https://t.co/4MZS7sc2sj">https://t.co/4MZS7sc2sj</a></p>&mdash; Project Atomic (@ProjectAtomic) <a href="https://twitter.com/ProjectAtomic/status/704678766023479296">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -375,6 +376,7 @@
 
 ## Red Hat Storage
 - [redhat.com/storage](http://redhat.com/storage)
+- [redhatstorage.redhat.com](http://redhatstorage.redhat.com/)
 - [redhat.lookbookhq.com: Is Open, Software-defined Storage Right for Your Organization?](http://redhat.lookbookhq.com/sds/asset1)
 - [UK goes all-in on cloud as Google & Red Hat partner for flexible, open source storage](http://www.cbronline.com/news/cloud/public/uk-heads-all-in-on-cloud-as-google-red-hat-partner-for-flexible-open-source-storage-4816365)
 - [tecmint.com: Create Centralized Secure Storage using iSCSI Target/Initiator on RHEL/CentOS 7 – Part 12 🌟](http://www.tecmint.com/create-centralized-secure-storage-using-iscsi-target-initiator/)

@@ -242,7 +242,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|[![london_devops_video](images/london_devops_video.jpg)](https://www.youtube.com/channel/UCITk36Wxz1_R_tfBm41mmrg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|[![agile_training_video](images/agile_training_video.jpg)](https://www.youtube.com/user/AgileTrainingVideos)|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![intellij_idea_video](images/intellij_idea_video.jpg)](https://www.youtube.com/user/intellijideavideo)|[![mozilla_hacks_video](images/mozilla_hacks_video.jpg)](https://www.youtube.com/user/mozhacks)|
@@ -373,6 +373,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 ![napoleon_quote_poder](images/napoleon_quote_poder.png)
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
+
+[![dilbert_agenda](images/dilbert_agenda.jpg)](http://dilbert.com/strip/2016-08-19)
 <!--
 [![cartman_gets_hit_by_bus](images/cartman_gets_hit_by_bus.png)](https://www.youtube.com/watch?v=G6v6rdSYyaA) -->
 <div class="container">

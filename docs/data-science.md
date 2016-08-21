@@ -77,6 +77,7 @@
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
 - [datasciencecentral.com: 20 short tutorials all data scientists should read (and practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
+- [expansion.com: Qué debes estudiar para ser un experto en 'big data'](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/01/27/56a90c4cca47417a408b465a.html)
 
 [![dzone_refcard_machine_learning](images/dzone_refcard_machine_learning.png)](https://dzone.com/refcardz/machine-learning-predictive)
 
@@ -308,6 +309,7 @@
 - [information-age.com: 5 ways to get more out of Hadoop](http://www.information-age.com/technology/information-management/123460762/5-ways-get-more-out-hadoop)
 - [datafloq.com: 10 Things to Consider Before Diving Into the Hadoop Data Lake](https://datafloq.com/read/10-things-consider-diving-into-hadoop-data-lake/1805)
 - [16 for '16: What you must know about Hadoop and Spark right now](http://www.infoworld.com/article/3019754/application-development/16-things-you-should-know-about-hadoop-and-spark-right-now.html)
+- [Hadoop Deployment Cheat Sheet 🌟🌟🌟](http://jethro.io/hadoop-deployment-cheat-sheet/)
 
 [![dzone_refcard_hadoop](images/dzone_refcard_hadoop.png)](https://dzone.com/refcardz/getting-started-apache-hadoop)
 

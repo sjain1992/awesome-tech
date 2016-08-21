@@ -50,6 +50,7 @@
 - [Soy programador y tengo 50 años 🌟🌟](http://m.xataka.com/aplicaciones/soy-programador-y-tengo-50-anos)
 - [Las 10 mejores frases de ‘El lobo de Wall Street’ aplicadas al mundo empresarial](http://blog.nubelo.com/las-mejores-frases-lobo-wall-street-aplicadas-mundo-empresarial/)
 - [Quién a buen árbol se arrima, buena sombra le cobija: El dilema del networking](http://www.grupoblc.com/quien-a-buen-arbol-se-arrima-buena-sombra-le-cobija-el-dilema-del-networking/)
+- [forbes.es: 7 claves para disculparse con clase en el trabajo](http://forbes.es/actualizacion/1026/7-claves-para-disculparse-con-clase-en-el-trabajo)
 
 [![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
 
@@ -155,6 +156,8 @@
 
 [![estrategias_pedir_vacaciones](images/estrategias_pedir_vacaciones.png)](http://hbr.es/conciliaci%C3%B3n/72/%C2%BFvacaciones-cuando-uno-quiera-avise-su-jefa-con-tiempo)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need something during the summer lull <a href="https://t.co/lWdq0sVxRN">https://t.co/lWdq0sVxRN</a> <a href="https://t.co/ot1g2lmTJf">pic.twitter.com/ot1g2lmTJf</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/765806912004816896">17 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_salary_depends_on_boss](images/dilbert_salary_depends_on_boss.gif)](http://dilbert.com/strip/1996-07-12)
 
 <div class="container">
@@ -216,6 +219,7 @@
 - [El coste económico de los “empleados tóxicos”](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
 - [Llevarse bien con el jefe](http://elpais.com/elpais/2014/10/09/eps/1412875219_002156.html) Un alto porcentaje de personas cambian de trabajo por mala relación con su superior. Éstas son pautas para dar la vuelta a un ambiente laboral tóxico
 - [genbetadev.com: 10 cosas sobre trabajar en remoto que quizá no habías pensado y deberías tener en cuenta](http://www.genbetadev.com/trabajar-como-desarrollador/10-cosas-sobre-trabajar-en-remoto-que-quiza-no-habias-pensado-y-deberias-tener-en-cuenta)
+- [citapreviainem.es: 10 consejos para elegir una buena foto de perfil en Linkedin](http://www.citapreviainem.es/como-elegir-una-buena-foto-de-perfil-en-linkedin/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

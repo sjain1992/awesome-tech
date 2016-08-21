@@ -31,22 +31,26 @@
 	- [Linux Virtualization](#linux-virtualization)
 	- [FOSS Software](#foss-software)
 	- [Linux Kernel](#linux-kernel)
-	- [Linux Performance](#linux-performance)
+	- [Linux Performance Monitoring](#linux-performance-monitoring)
 		- [htop](#htop)
 		- [Glances](#glances)
 		- [Netdata](#netdata)
-		- [bcc Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
+		- [BCC Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
+			- [Berkeley Packet Filter BPF](#berkeley-packet-filter-bpf)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
+		- [OpenVPN](#openvpn)
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
 		- [Linux SSH](#linux-ssh)
 		- [Rsync](#rsync)
-		- [iptables](#iptables)
+		- [iptables and firewalld](#iptables-and-firewalld)
+			- [FirewallD](#firewalld)
 		- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
 		- [OPNsense Firewall](#opnsense-firewall)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 		- [pfSense firewall](#pfsense-firewall)
+	- [Integrate DRBD with Pacemaker Clusters](#integrate-drbd-with-pacemaker-clusters)
 	- [Vim and Emacs](#vim-and-emacs)
 		- [Vim](#vim)
 		- [Emacs](#emacs)
@@ -451,6 +455,7 @@
 - [nixCraft: How to see CPU temperature on CentOS 7 and RedHat Enterprise Linux 7](http://www.cyberciti.biz/faq/howto-view-cpu-temperature-on-rhel7-centos-linux-7/)
 - [nixCraft: How to see PCI devices info on CentOS 7 and RedHat Enterprise Linux 7](http://www.cyberciti.biz/faq/how-to-see-pci-devices-info-on-centos-7-and-redhat-enterprise-linux-7/)
 - [nixCraft: Shell script to update all lxd container hypervisor](https://bash.cyberciti.biz/virtualization/shell-script-to-update-all-lxd-container-hypervisor/)
+- [Unix shell script to shorten URLs with tny.im URL shortener. wget must be installed for this to work](https://gist.github.com/gbl08ma/6115095)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -537,8 +542,9 @@
 
 ## Linux Kernel
 - [unixmen.com: How to upgrade or update kernel of the CentOS to Latest stable Kernel](https://www.unixmen.com/upgrade-update-kernel-centos-latest-stable-kernel/)
+- [unixmen.com: How To Install Linux Kernel 4.3.0](http://www.unixmen.com/how-to-install-linux-kernel-4-3-0/)
 
-## Linux Performance
+## Linux Performance Monitoring
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [tecmint.com: Sysstat – All-in-One System Performance and Usage Activity Monitoring Tool For Linux](http://www.tecmint.com/install-sysstat-in-linux/)
 - [tecmint.com: How to Produce and Deliver System Activity Reports Using Linux Toolsets](http://www.tecmint.com/linux-performance-monitoring-and-file-system-statistics-reports/)
@@ -560,6 +566,7 @@
 - [rittmanmead.com: Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Collecting Ubuntu Linux System Information](http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/)
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
+- [tecmint: Install Munin (Network Monitoring) in RHEL, CentOS and Fedora](http://www.tecmint.com/install-munin-network-monitoring-in-rhel-centos-fedora/)
 - [github: Script for automating Linux memory capture and analysis](https://github.com/halpomeranz/lmg)
 - [slideshare.net: Broken Linux Performance Tools 2016](http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016)
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
@@ -577,6 +584,7 @@
 - [tier1app: Build ultra available, highly scalable, performant apps 🌟🌟🌟](https://blog.tier1app.com/)
 	- [Garbage Collection Log Analysis API](https://blog.tier1app.com/2016/06/18/garbage-collection-log-analysis-api/)
 	- [How to take thread dumps? – 7 options](https://blog.tier1app.com/2016/05/23/how-to-take-thread-dumps-7-options/)
+- [fedoramagazine.org: Performance profiling with perf 🌟🌟🌟](https://fedoramagazine.org/performance-profiling-perf/)
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
@@ -640,8 +648,12 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Netdata - Linux real time performance monitoring, done right. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/xxFbw2jE3s">pic.twitter.com/xxFbw2jE3s</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715283444830314496">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### bcc Dynamic Tracing Tools
+### BCC Dynamic Tracing Tools
 - [bcc Dynamic Tracing Tools](https://iovisor.github.io/bcc/)
+	- [github: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+
+#### Berkeley Packet Filter BPF
+- [What is BPF and why is it taking over Linux Performance Analysis?](http://blog.memsql.com/bpf-linux-performance/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -663,6 +675,7 @@
 - [ngrep 🌟](http://ngrep.sourceforge.net/)
 - [nixCraft: Linux Force DHCP Client (dhclient) to Renew IP Address](http://www.cyberciti.biz/faq/howto-linux-renew-dhcp-client-ip-address/)
 - [nixCraft: How to configure a static IP address on CentOS 7/RHEL 7](http://www.cyberciti.biz/faq/howto-setting-rhel7-centos-7-static-ip-configuration/)
+- [unixmen.com: Install and using netstat in Linux 🌟](https://www.unixmen.com/install-using-netstat-linux/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -670,15 +683,18 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux Networking Tutorials For Advanced Users. Includes lab examples for lxc, bgp, vpn, &amp; more <a href="https://t.co/8mkYo5fMaS">https://t.co/8mkYo5fMaS</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718444646808965120">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My daily OpenVPN traffic usage. Generated by vnstat <a href="https://t.co/TUoDYmPJWW">https://t.co/TUoDYmPJWW</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/Centos?src=hash">#Centos</a> <a href="https://t.co/O4XaJUn591">pic.twitter.com/O4XaJUn591</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/757977257352716288">26 de julio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cmn5Gee1q8E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ngrep  - grep your network! <a href="https://t.co/LJCtQEaDAK">pic.twitter.com/LJCtQEaDAK</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/759758932181147648">31 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### OpenVPN
+- [nixCraft: How To Setup OpenVPN Server In 5 Minutes on Ubuntu Server](http://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My daily OpenVPN traffic usage. Generated by vnstat <a href="https://t.co/TUoDYmPJWW">https://t.co/TUoDYmPJWW</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/Centos?src=hash">#Centos</a> <a href="https://t.co/O4XaJUn591">pic.twitter.com/O4XaJUn591</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/757977257352716288">26 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Networking CLI and settings
@@ -717,6 +733,7 @@
 - [dig: How To Find My Public IP Address From Command Line On a Linux](http://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
 - [tcpdump is amazing](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 - [tecmint: 12 Tcpdump Commands – A Network Sniffer Tool](http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/)
+- [opensource.com: How to configure networking in Linux 🌟🌟](https://opensource.com/life/16/6/how-configure-networking-linux)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nmap Command For Network Administrator<a href="https://t.co/6yFJIt1iNd">https://t.co/6yFJIt1iNd</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/Nmap?src=hash">#Nmap</a> <a href="https://twitter.com/hashtag/Network?src=hash">#Network</a> <a href="https://t.co/YFvHyC9fqs">pic.twitter.com/YFvHyC9fqs</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752591167435472896">11 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -783,6 +800,7 @@
 - [sshfront: Programmable SSH frontend](https://github.com/gliderlabs/sshfront) A lightweight SSH server frontend where authentication and connections are controlled with command handlers / shell scripts.
 - [medium.com: Why aren’t we using SSH for everything? 🌟](https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc#.bvj32odfz)
 - [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
+- [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -818,14 +836,17 @@
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
 - [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
 
-### iptables
+### iptables and firewalld
 - [cyberciti.biz: Linux Netfilter Tutorials (iptables)](http://www.cyberciti.biz/faq/category/iptables/)
 - [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
 - [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
-- [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)
 - [Linux Iptables Delete postrouting Rule Command 🌟🌟](http://www.cyberciti.biz/faq/how-to-iptables-delete-postrouting-rule/)
 - [nixCraft - Linux iptables: Port Redirection Example](http://www.cyberciti.biz/faq/linux-port-redirection-with-iptables/)
+
+#### FirewallD
+- [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)
+- [tecmint: Useful ‘FirewallD’ Rules to Configure and Manage Firewall in Linux](http://www.tecmint.com/firewalld-rules-for-centos-7/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blocklist of all Facebook domains <br><br>-&gt; /etc/hosts file <a href="https://t.co/fh3G6c2Tqg">https://t.co/fh3G6c2Tqg</a><br><br>-&gt; iptables <a href="https://t.co/oH3r62qByF">https://t.co/oH3r62qByF</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736581390276272128">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -875,6 +896,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to configure <a href="https://twitter.com/pfsense">@pfSense</a> as multi wan/DUAL WAN load balance failover router<a href="https://t.co/o6cxmedLjm">https://t.co/o6cxmedLjm</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://t.co/2kJUyWK1FA">pic.twitter.com/2kJUyWK1FA</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760944292600827904">3 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Integrate DRBD with Pacemaker Clusters
+- [Integrate DRBD with Pacemaker Clusters on RHEL7/CentOS7](http://www.learnitguide.net/2016/07/integrate-drbd-with-pacemaker-clusters.html)
 
 ## Vim and Emacs
 ### Vim

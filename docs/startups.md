@@ -541,6 +541,9 @@
 
 [![Flowchart-of-umbrella-employment](images/Flowchart-of-umbrella-employment.png)](https://en.wikipedia.org/wiki/Umbrella_company)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Consultants <a href="https://t.co/Ixl3YDpJk3">pic.twitter.com/Ixl3YDpJk3</a></p>&mdash; The Practical Dev (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/766993735477563393">20 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ICYMI: &quot;Penetration Testing discussion&quot; by Gina Roberts <a href="https://t.co/ZW1HzYrZmF">https://t.co/ZW1HzYrZmF</a></p>&mdash; Peerlyst (@Peerlyst) <a href="https://twitter.com/Peerlyst/status/747893680036548608">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

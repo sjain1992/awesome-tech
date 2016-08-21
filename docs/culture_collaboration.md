@@ -66,6 +66,8 @@
 - [19 signs you're a horrible boss, even if it doesn't feel like it](http://www.businessinsider.com/signs-youre-a-horrible-boss-even-if-it-doesnt-feel-like-it-2016-8)
 - [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
 - [entrepreneur.com: Unhealthy Culture? Now, What? 🌟](https://www.entrepreneur.com/article/253872)
+- [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
+- [opensource.com: Avoiding bad practices in open source project management](https://opensource.com/business/16/6/bad-practice-foss-projects-management)
 
 [![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
 
