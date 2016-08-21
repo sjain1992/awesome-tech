@@ -161,6 +161,11 @@
 - [AWS Techchat](https://aws.amazon.com/podcasts/aws-techchat)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N89AffsxS-g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Closed groups for AWS certified professionals
 - [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
 - [awscerts.slack.com](https://awscerts.slack.com)
