@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Networking](#networking)
+	- [DNS](#dns)
 	- [Next Generation Firewalls \(NGFW\)](#next-generation-firewalls-ngfw)
 	- [Switches](#switches)
 		- [Virtual LAN](#virtual-lan)
@@ -65,6 +66,12 @@
 </center>
 
 # Networking
+## DNS
+- [DNS: What Can Go Wrong and How You Can Fix It | @DevOpsSummit #APM #Agile #DevOps](http://java.sys-con.com/node/3884842) DNS enables users of all skill sets and technical knowledge levels to use this incredibly advanced resource on a daily basis
+- [DZone: How to Configure Your DNS With Cloud 66 for High Availability](https://dzone.com/articles/how-to-configure-your-dns-with-cloud-66-for-high-a) If you're using Cloud 66, here's a quick and easy tutorial to show you how to set your site up for high availability.
+
+[![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
+
 ## Next Generation Firewalls (NGFW)
 - [Next Generation Firewalls (NGFW)](NGFW.md)
 
