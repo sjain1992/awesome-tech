@@ -158,6 +158,7 @@
 - [developers.redhat.com - Keep it small: a closer look at Docker image sizing 🌟🌟🌟](http://developers.redhat.com/blog/2016/03/09/more-about-docker-images-size/)
 - [thenewstack.io: Red Hat’s Paul Cormier: Containers are Here to Stay 🌟🌟🌟](http://thenewstack.io/red-hats-paul-cormier-patience-young-enterprise/)
 - [DZone - Docker Cloud: Monitoring and Logging](https://dzone.com/articles/docker-cloud-monitoring-logging) In 10-15 minutes you could be looking at charts with all your Docker operations data in one place, accessible by your whole team! Read on to see how it's done by wielding Docker Cloud.
+- [redhat.com topic: Containers 🌟🌟🌟](https://www.redhat.com/en/technologies/topic/containers) Change how you develop and deploy applications
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 

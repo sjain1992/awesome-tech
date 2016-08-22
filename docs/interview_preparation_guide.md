@@ -147,6 +147,7 @@
 - [If You Can’t Pass THIS Test, You Won’t Get Job Interviews 🌟🌟](http://www.careerealism.com/job-interviews-pass-test/)
 - [3 Ways You’re Messing Up the Answer to, “Tell Me About a Conflict You’ve Faced at Work”](https://www.themuse.com/advice/3-ways-youre-messing-up-the-answer-to-tell-me-about-a-conflict-youve-faced-at-work)
 - [5 Ways You’re Scaring The Hiring Manager At An Interview](http://www.careerealism.com/interview-scaring-hiring-manager/)
+- [theundercoverrecruiter.com: How to Explain Why You Stayed in the Same Job so Long](http://theundercoverrecruiter.com/explain-why-you-stayed)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

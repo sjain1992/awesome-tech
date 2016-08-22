@@ -22,6 +22,7 @@
 - [blog.performancevision.com - 6 REASONS TO TAKE A NEW APPROACH TO PACKET CAPTURE 🌟🌟🌟](http://blog.performancevision.com/the-6-reasons-packet-capture-will-not-work-anymore)
 - [AWS Network Performance Optimization Whitepaper 🌟](http://resources.datapath.io/whitepapers/aws-network-performance-optimization-whitepaper) Learn how to minimize Network latency, Packet loss, transit cost and Optimize Bandwidth from AWS to your end users.
 - [blog.performancevision.com: Key differences between packet capture and real time stream analysis](http://blog.performancevision.com/key-differences-between-packet-capture-and-real-time-stream-analysis)
+- [blog.performancevision.com: HOW TO MAKE A BETTER USE OF YOUR NETWORK SNIFFER](http://blog.performancevision.com/eng/earl/how-to-make-a-better-use-of-your-network-sniffer)
 - [HOW TO CAPTURE TRAFFIC WITH VMWARE VDS AND PERFORMANCEVISION](http://blog.performancevision.com/eng/clos/how-to-capture-traffic-with-vmware-vds-and-performancevision) Leverage VMware's native capabilities to process packet capture in a virtual data center
 - [Dynamic Web Accelerator for AWS Hosted Applications](http://blog.datapath.io/dynamic-web-accelerator-for-aws-hosted-applications)
 
