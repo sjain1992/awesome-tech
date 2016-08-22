@@ -105,6 +105,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE to Bundle Docker Containers Into All Servers <a href="https://t.co/UufzZW8Zi3">https://t.co/UufzZW8Zi3</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/749400141602361344">3 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Laughed so hard I got stitch (via Reddit) <a href="https://t.co/ujn3lWmDaX">pic.twitter.com/ujn3lWmDaX</a></p>&mdash; Holly Brockwell (@holly) <a href="https://twitter.com/holly/status/767496822336126976">21 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## FlexPod Datacenter
 - [FlexPod Datacenter](http://www.netapp.com/solutions/flexpod/datacenter.aspx)
 

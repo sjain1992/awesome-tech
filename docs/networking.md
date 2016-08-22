@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Networking](#networking)
+	- [Slides](#slides)
 	- [DNS](#dns)
 	- [Next Generation Firewalls \(NGFW\)](#next-generation-firewalls-ngfw)
 	- [Switches](#switches)
@@ -66,6 +67,9 @@
 </center>
 
 # Networking
+## Slides
+- [slideshare.net/Niasta](http://www.slideshare.net/Niasta) SDN, F5, Palo Alto, Juniper SRX, Wireless Security, VPN, Application Aware Networking, etc.
+
 ## DNS
 - [DNS: What Can Go Wrong and How You Can Fix It | @DevOpsSummit #APM #Agile #DevOps](http://java.sys-con.com/node/3884842) DNS enables users of all skill sets and technical knowledge levels to use this incredibly advanced resource on a daily basis
 - [DZone: How to Configure Your DNS With Cloud 66 for High Availability](https://dzone.com/articles/how-to-configure-your-dns-with-cloud-66-for-high-a) If you're using Cloud 66, here's a quick and easy tutorial to show you how to set your site up for high availability.
@@ -154,6 +158,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c5P2CvBTRg?list=PLk1Rzj8ppcXm7jv58Hrr6jv1t8A-OHVfA" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/w0I4y28c9OTwZy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Niasta/sdn-software-defined-networking-and-nfv-network-function-virtualization" title="SDN- Software Defined Networking and NFV- Network Function Virtualization" target="_blank">SDN- Software Defined Networking and NFV- Network Function Virtualization</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Niasta">Niasta</a></strong> </div>
 </div>
 <br/>
 

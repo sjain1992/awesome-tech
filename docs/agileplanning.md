@@ -127,6 +127,7 @@
 - [cio.com: Why less is more with project management](http://www.cio.com/article/3031636/leadership-management/why-less-is-more-with-project-management.html)
 - [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
 - [opensource.com: Avoiding bad practices in open source project management](https://opensource.com/business/16/6/bad-practice-foss-projects-management)
+- [The Human Cost of Tech Debt 🌟🌟🌟](http://www.daedtech.com/human-cost-tech-debt/)
 
 [![get_done_by_friday](images/get_done_by_friday.gif)](http://dilbert.com/strip/2016-05-18)
 

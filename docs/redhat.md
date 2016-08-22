@@ -393,6 +393,8 @@
 
 [![redhat_ceph_storage2](images/redhat_ceph_storage2.png)](https://www.redhat.com/en/about/press-releases/red-hat-unveils-red-hat-ceph-storage-2-enhanced-object-storage-capabilities-improved-ease-use)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: Red Hat Storage update 2016 <a href="https://t.co/gxdUHieNuM">https://t.co/gxdUHieNuM</a></p>&mdash; Red Hat Benelux (@RedHatNL) <a href="https://twitter.com/RedHatNL/status/763745288724951040">11 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Red Hat and IBM
 - [Installing Red Hat Enterprise Linux 7.2 on IBM POWER8 and x86 in bare metal mode: A comparison](http://www.ibm.com/developerworks/linux/library/l-installing-rhel-7-2-on-ibm-power8-and-x86/index.html)
 

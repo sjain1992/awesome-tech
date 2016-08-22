@@ -439,7 +439,8 @@
 - [HowTo: Use cat Command In Linux/UNIX](http://www.cyberciti.biz/faq/howto-use-cat-command-in-unix-linux-shell-script/)
 - [Bash Shell: Check File Exists or Not](http://www.cyberciti.biz/faq/unix-linux-test-existence-of-file-in-bash/)
 - [Linux: Delete/Remove User Account](http://www.cyberciti.biz/faq/linux-remove-user-command/)
-- [HowTo: Add Jobs To cron Under Linux or UNIX?](http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
+- [nixCrat HowTo: Add Jobs To cron Under Linux or UNIX?](http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
+- [nixCraft: Ubuntu 16.04 Create a cron.log File To Log crontab Logs](http://www.cyberciti.biz/faq/howto-create-cron-log-file-to-log-crontab-logs-in-ubuntu-linux/)
 - [Bash History: Correct/Repeat The Last Command With a Substitution](http://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
 - [computerworld.com: 9 really odd linux commands](http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html)
 - [RHEL/Centos Linux 7: Change and Set Hostname Command](http://www.cyberciti.biz/faq/rhel-redhat-centos-7-change-hostname-command/)
@@ -831,6 +832,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Easily Correct a Typo of Previous Command Using Carat (^) Symbol<a href="https://t.co/SKirSzyaBC">https://t.co/SKirSzyaBC</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/3MWJYRwFKB">pic.twitter.com/3MWJYRwFKB</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/760719861827993600">3 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">systemd-logind must be restarted every ~1000 SSH logins to prevent a ~25 second delay <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QDOtQ6cO3c">https://t.co/QDOtQ6cO3c</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/767565110692892673">22 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

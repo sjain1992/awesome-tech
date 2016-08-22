@@ -36,6 +36,7 @@
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 - [DZone refcard: Getting Started With Apache JMeter 🌟](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 - [The DNS Cache Manager: The Right Way To Test Load Balanced Apps 🌟](https://www.blazemeter.com/blog/dns-cache-manager-right-way-test-load-balanced-apps)
+- [opensource.com: How to run JMeter with Jenkins](https://opensource.com/life/16/7/running-jmeter-jenkins-continuous-delivery-101)
 
 ### Video Streaming Load Testing
 - [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
