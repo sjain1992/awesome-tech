@@ -625,6 +625,8 @@
 
 ### DDos and Project Shield. February 2016
 - [Project Shield 🌟](https://projectshield.withgoogle.com) Google Releases Project Shield To Fight Against DDoS Attacks 
+- [Juniper Hotfixes Shut Down IPv6 DDoS Vulnerability](https://threatpost.com/juniper-hotfixes-shut-down-ipv6-ddos-vulnerability/)
+- [How to mitigate ransomware, DDoS attacks, and other cyber extortion threats](http://nr.news-republic.com/Web/ArticleWeb.aspx?regionid=1&articleid=70781980)
 
 [![glibc vulnerability docker](images/glibc_vulnerability_docker.png)](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 

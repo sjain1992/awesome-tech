@@ -43,6 +43,7 @@
 - [DZone: 12 Mistakes in Agile Manifesto 🌟🌟](https://dzone.com/articles/twelve-mistakes-in-agile-manifesto) Most software teams misunderstand the 12 agile principles. Here is a summary of what's going on and an interpretation of each principle.
 - [DZone: Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile) While we can all agree agile is better than waterfall development, the iterative methodology has an awful lot of detractors from its history of misuse.
 - [DZone: The Ultimate Agile Transformation Tool: Sticky Notes](https://dzone.com/articles/the-ultimate-agile-transformation-tool-quotsticky) Who would guess that the ultimate Agile tool is as simple as a sticky note? Read on to find out how it will work for you and your team.
+- [zdnet: Keeping control when you're not in the office: Five tips for managing a dispersed team](http://www.zdnet.com/article/keeping-control-when-youre-not-in-the-office-five-tips-for-managing-a-dispersed-team/) Keeping a team working effectively if you rarely meet can be hard: here are some best practices.
 
 [![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)
 

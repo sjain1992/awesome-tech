@@ -103,6 +103,9 @@
 
 [![infoworld_21_hot_programming_trends](images/infoworld_21_hot_programming_trends.png)](http://www.infoworld.com/article/3039935/application-development/21-hot-programming-trends-and-21-going-cold.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Coding needs a new youth movement <a href="https://t.co/yL7HZoWM4C">https://t.co/yL7HZoWM4C</a> <a href="https://t.co/1awCGYD2JK">pic.twitter.com/1awCGYD2JK</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/768128195547766785">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
