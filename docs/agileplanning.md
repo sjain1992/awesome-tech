@@ -145,6 +145,12 @@
 </div>
 <br/>
 
+![every-group-project-the-hangover](images/every-group-project-the-hangover.jpg)
+
+![every-group-project](images/every-group-project.jpg)
+
+![hangover-project](images/hangover-project.jpg)
+
 ## Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies) 🌟🌟](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)

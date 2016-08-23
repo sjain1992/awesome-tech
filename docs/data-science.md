@@ -201,6 +201,7 @@
 - [talend.com: How To Turn Any Big Data Project Into a Success (And Key Pitfalls To Avoid)](http://www.talend.com/blog/2016/01/07/how-to-turn-any-big-data-project-into-a-success-and-key-pitfalls-to-avoid)
 - [Forbes: Big Data Facts: How Many Companies Are Really Making Money From Their Data?](Big Data Facts: How Many Companies Are Really Making Money From Their Data?)
 - [centurylink.com: Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
+- [medium.com: Big Data is not the same as Lots of Data 🌟🌟](https://medium.com/@TyBurridge/big-data-is-not-the-same-as-lots-of-data-4950b718c2b)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Bigdata?src=hash">#Bigdata</a>. El poder de convertir datos en decisiones <a href="https://t.co/T3yhz2MdMH">https://t.co/T3yhz2MdMH</a> <a href="https://twitter.com/hashtag/ebook?src=hash">#ebook</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/711228464242794499">19 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
