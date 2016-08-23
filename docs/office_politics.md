@@ -44,6 +44,7 @@
 - [An Introvert's Guide to Surviving Team Lunches](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 - [workplace.stackexchange.com: Staying late for appearance?](http://workplace.stackexchange.com/questions/50655/staying-late-for-appearance)
 - [cityam.com: I've been passed over for a promotion: Should I move jobs? 🌟](http://www.cityam.com/234517/debretts-ask-the-expert-ive-been-passed-over-for-a-promotion-should-i-move-jobs) 
+- [Yes, You Have to Brag At Work. Here's How to Do It](https://learning.linkedin.com/blog/learning-tips/yes--you-have-to-brag-at-work--here-s-how-to-do-it-) A specific example that shows why self-promotion is important
 
 ![voltaire disagreement](images/voltaire_disagreement.jpg)
 

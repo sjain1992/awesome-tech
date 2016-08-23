@@ -4,18 +4,19 @@
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
 </div>
-[![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
+<!-- 
+[![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/) -->
 <center>
 
 Application Engineer/Middleware SysAdmin | Automation/DevOps CI/CD | Solutions/Systems Architect | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
 
-Interested in Infrastructure Automation, JBoss, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics.
+Interested in Infrastructure Automation, JBoss, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics. I live in Barcelona since 2012.
 
 </center>
 <center>
-
+<!-- 
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
-
+-->
 </center>
 <center>
 

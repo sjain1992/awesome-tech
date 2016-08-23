@@ -295,6 +295,8 @@
 - [Glassdoor.com: How to Deal With a Micromanager](https://www.glassdoor.com/blog/how-to-deal-with-a-micromanager/)
 - [forbes.com: Don't Post Your Way To Unemployment](http://www.forbes.com/sites/alizalicht/2016/08/02/dont-post-your-way-to-unemployment-2/)
 - [High Staff Turnover? Top 4 Ways to Lose Your Best Employees](http://www.mjms.net/blog/turnover/high-staff-turnover-top-4-ways-lose-best-employees/)
+- [25 Qualities the World's Worst Managers Have in Common (Don’t You Be One!)](https://www.linkedin.com/pulse/25-qualities-worlds-worst-managers-have-common-dont-you-bernard-marr)
+- [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

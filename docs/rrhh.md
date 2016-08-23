@@ -221,6 +221,7 @@
 - [genbetadev.com: 10 cosas sobre trabajar en remoto que quizá no habías pensado y deberías tener en cuenta](http://www.genbetadev.com/trabajar-como-desarrollador/10-cosas-sobre-trabajar-en-remoto-que-quiza-no-habias-pensado-y-deberias-tener-en-cuenta)
 - [citapreviainem.es: 10 consejos para elegir una buena foto de perfil en Linkedin](http://www.citapreviainem.es/como-elegir-una-buena-foto-de-perfil-en-linkedin/)
 - [emprendedores.es: Cómo tratar a todos los tipos de empleados conflictivos](http://www.emprendedores.es/gestion/tratar-tipos-empleados-conflictivos-problemas-en-trabajo) Debes conocer el perfil de todos los empleados conflictivos para poder adelantarte a futuros problemas.
+- [¡Que vienen los trepas!](http://economia.elpais.com/economia/2016/01/14/actualidad/1452783980_329918.html) El trabajador que busca su propio beneficio a expensas de sus compañeros es uno de los más tóxicos en cualquier firma
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

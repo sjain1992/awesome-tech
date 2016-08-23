@@ -39,6 +39,8 @@
 </center>
 
 # Testing Tools
+- [DZone: 12 Great Web Service Testing Tools 🌟🌟🌟](https://dzone.com/articles/12-great-web-service-testing-tools) In recent years, API use, and reliance on web services, has increased. Here's a list of 12 awesome web service testing tools to aid your API and web service journey.
+
 ## Google New website Testing tool for Small Businesses
 - [testmysite.thinkwithgoogle.com 🌟🌟🌟](https://testmysite.thinkwithgoogle.com/)
 - [Google Launches New website Testing tool for Small Businesses](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
