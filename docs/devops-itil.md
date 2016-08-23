@@ -209,6 +209,8 @@
 - [devops.com: What DevOps Skills are Organizations Looking for?](http://devops.com/2016/08/16/devops-skills-organizations-looking/)
 - [DZone: 400+ Free Resources for DevOps and Sysadmins 🌟🌟🌟🌟](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins) A massive list of resources and technology for anything you could possibly need for your DevOps projects. Perfect culture not included.
 - [DZone: What is DevOps? The Beginner's Guide 🌟🌟🌟🌟](https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio) A high-level introduction to what DevOps is, its roots in agile development, and what it needs to succeed.
+- [datamation.com: How to Become a DevOps Engineer 🌟🌟🌟](http://www.datamation.com/careers/how-to-become-a-devops-engineer.html) Companies are eager to hire DevOps engineers, and it is not unusual for salaries of $200,000 or more to be offered to DevOps team leaders.
+- [blog.datapath.io: 10 Network Automation Principles for DevOps 🌟🌟🌟](http://blog.datapath.io/10-network-automation-principles-for-devops)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

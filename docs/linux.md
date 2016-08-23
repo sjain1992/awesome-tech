@@ -48,6 +48,7 @@
 			- [FirewallD](#firewalld)
 		- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
 		- [OPNsense Firewall](#opnsense-firewall)
+		- [Endian Firewall](#endian-firewall)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 		- [pfSense firewall](#pfsense-firewall)
 	- [Integrate DRBD with Pacemaker Clusters](#integrate-drbd-with-pacemaker-clusters)
@@ -105,6 +106,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cleaning out the desk drawer. <a href="https://twitter.com/hashtag/SunMicrosystems?src=hash">#SunMicrosystems</a> I like to think I&#39;ve lived up to this <a href="https://twitter.com/scottmcnealy">@scottmcnealy</a> 10 gr8 yrs 96-06 <a href="https://t.co/efJFnuRTjJ">pic.twitter.com/efJFnuRTjJ</a></p>&mdash; Brett Murphy (@PowerMan4Evr) <a href="https://twitter.com/PowerMan4Evr/status/764572168072077312">13 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![sysadmin_skills_in_demand](images/sysadmin_skills_in_demand.png)](https://www.linux.com/blog/sysadmins-open-source-skills-are-demand)
 
 # Sysadmin Forums
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
@@ -374,6 +377,7 @@
 - [Debian Linux apt-get package management cheat sheet](http://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html)
 - [nixCraft: How to use multiple connections to speed up apt-get/apt on Ubuntu Linux 16.04 LTS server](http://www.cyberciti.biz/faq/how-to-speed-up-apt-get-apt-command-ubuntu-linux/)
 - [unixmen.com: How to enable or disable repositories in CentOS](https://www.unixmen.com/enable-disable-repositories-centos/)
+- [unixmen.com: How To Add Repositories To Debian 8.1.0](https://www.unixmen.com/how-to-add-repositories-to-debian-8-1-0/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/46877604" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -441,6 +445,7 @@
 - [Linux: Delete/Remove User Account](http://www.cyberciti.biz/faq/linux-remove-user-command/)
 - [nixCrat HowTo: Add Jobs To cron Under Linux or UNIX?](http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 - [nixCraft: Ubuntu 16.04 Create a cron.log File To Log crontab Logs](http://www.cyberciti.biz/faq/howto-create-cron-log-file-to-log-crontab-logs-in-ubuntu-linux/)
+- [unixmen: HOW TO ADD CRON JOBS IN LINUX AND UNIX](https://www.unixmen.com/add-cron-jobs-linux-unix/)
 - [Bash History: Correct/Repeat The Last Command With a Substitution](http://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
 - [computerworld.com: 9 really odd linux commands](http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html)
 - [RHEL/Centos Linux 7: Change and Set Hostname Command](http://www.cyberciti.biz/faq/rhel-redhat-centos-7-change-hostname-command/)
@@ -457,6 +462,8 @@
 - [nixCraft: How to see PCI devices info on CentOS 7 and RedHat Enterprise Linux 7](http://www.cyberciti.biz/faq/how-to-see-pci-devices-info-on-centos-7-and-redhat-enterprise-linux-7/)
 - [nixCraft: Shell script to update all lxd container hypervisor](https://bash.cyberciti.biz/virtualization/shell-script-to-update-all-lxd-container-hypervisor/)
 - [Unix shell script to shorten URLs with tny.im URL shortener. wget must be installed for this to work](https://gist.github.com/gbl08ma/6115095)
+- [Tecmint: Learn How to Set Your $PATH Variables Permanently in Linux](http://www.tecmint.com/set-path-variable-linux-permanently/)
+- [Bash Pitfalls 🌟🌟🌟](http://mywiki.wooledge.org/BashPitfalls) This page shows common errors that Bash programmers make. These examples are all flawed in some way. 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -498,6 +505,7 @@
 - [Hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
 - [faqs.org: AWK FAQ](http://www.faqs.org/faqs/computer-lang/awk/faq/)
 - [tecmint.com: How to Use Awk to Print Fields and Columns in File](http://www.tecmint.com/awk-print-fields-columns-with-space-separator/)
+- [Tecmint: Ebook: Introducing the Awk Getting Started Guide for Beginners](http://www.tecmint.com/linux-awk-command-book-for-beginners/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
@@ -646,8 +654,11 @@
 
 ### Netdata
 - [netdata 🌟](https://github.com/firehol/netdata/blob/master/README.md)
+- [Tecmint: Netdata – A Real-Time Performance Monitoring Tool for Linux Systems 🌟](http://www.tecmint.com/netdata-real-time-linux-performance-network-monitoring-tool/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Netdata - Linux real time performance monitoring, done right. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/xxFbw2jE3s">pic.twitter.com/xxFbw2jE3s</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715283444830314496">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![netdata-Real-Time-Linux-Performance-Monitoring](images/netdata-Real-Time-Linux-Performance-Monitoring.gif)](http://www.tecmint.com/netdata-real-time-linux-performance-network-monitoring-tool/)
 
 ### BCC Dynamic Tracing Tools
 - [bcc Dynamic Tracing Tools](https://iovisor.github.io/bcc/)
@@ -696,6 +707,9 @@
 - [nixCraft: How To Setup OpenVPN Server In 5 Minutes on Ubuntu Server](http://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My daily OpenVPN traffic usage. Generated by vnstat <a href="https://t.co/TUoDYmPJWW">https://t.co/TUoDYmPJWW</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/Centos?src=hash">#Centos</a> <a href="https://t.co/O4XaJUn591">pic.twitter.com/O4XaJUn591</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/757977257352716288">26 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Still want to try Proprietary closed source system? Try OpenVPN &amp; can be set in 5 minutes <a href="https://t.co/CTPnudxt34">https://t.co/CTPnudxt34</a> <a href="https://t.co/Ft58LwwRSn">https://t.co/Ft58LwwRSn</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/766617739754516484">19 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Networking CLI and settings
@@ -866,6 +880,14 @@
 ### OPNsense Firewall
 - [opnsense.org](https://opnsense.org/)
 - [unixmen.com: How To Install OPNsense Firewall](https://www.unixmen.com/install-opnsense-firewall/)
+
+### Endian Firewall
+- [endian.com](http://www.endian.com/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vs-CfTr97cc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)

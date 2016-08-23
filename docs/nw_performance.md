@@ -25,6 +25,9 @@
 - [blog.performancevision.com: HOW TO MAKE A BETTER USE OF YOUR NETWORK SNIFFER](http://blog.performancevision.com/eng/earl/how-to-make-a-better-use-of-your-network-sniffer)
 - [HOW TO CAPTURE TRAFFIC WITH VMWARE VDS AND PERFORMANCEVISION](http://blog.performancevision.com/eng/clos/how-to-capture-traffic-with-vmware-vds-and-performancevision) Leverage VMware's native capabilities to process packet capture in a virtual data center
 - [Dynamic Web Accelerator for AWS Hosted Applications](http://blog.datapath.io/dynamic-web-accelerator-for-aws-hosted-applications)
+- [blog.datapath.io: Understanding Application Delivery Networks](http://blog.datapath.io/understanding-application-delivery-networks)
+- [blog.datapath.io: How do you Measure Network Latency Improvements?](http://blog.datapath.io/how-do-you-measure-network-latency-improvements)
+- [blog.datapath.io: 4 Ways to Reduce Internet Latency](http://blog.datapath.io/4-ways-to-reduce-internet-latency)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

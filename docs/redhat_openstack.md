@@ -36,6 +36,7 @@
 - [RDO Project](https://www.rdoproject.org/)
     - [RDO quickstart: Proof of concept for single node](https://www.rdoproject.org/install/quickstart/)
 - [twitter.com/RDOcommunity](https://twitter.com/RDOcommunity)
+- [redhatstackblog.redhat.com](http://redhatstackblog.redhat.com/)
 - [redhatstackblog.redhat.com: Can’t we just install and manage OpenStack ourselves?](http://redhatstackblog.redhat.com/2015/03/26/an-openstack-cloud-that-frees-you-to-pursue-your-business/)
 - [Red Hat Whitepaper: Preparing for Private Cloud and Hybrid IT with Red Hat Cloud Infrastructure](http://www.redhat.com/en/resources/managing-hybrid-cloud-diversified-workloads-and-unified-cloud-infrastructure-administration)
 - [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)

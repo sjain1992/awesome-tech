@@ -3,6 +3,7 @@
 
 - [Networking](#networking)
 	- [Slides](#slides)
+	- [NetDevOps Culture](#netdevops-culture)
 	- [DNS](#dns)
 	- [Next Generation Firewalls \(NGFW\)](#next-generation-firewalls-ngfw)
 	- [Switches](#switches)
@@ -70,6 +71,11 @@
 ## Slides
 - [slideshare.net/Niasta](http://www.slideshare.net/Niasta) SDN, F5, Palo Alto, Juniper SRX, Wireless Security, VPN, Application Aware Networking, etc.
 
+## NetDevOps Culture
+- [blog.datapath.io: 10 Network Automation Principles for DevOps 🌟🌟🌟](http://blog.datapath.io/10-network-automation-principles-for-devops)
+- [blog.datapath.io: What is NetDevOps?](http://blog.datapath.io/what-is-netdevops)
+- [blog.datapath.io: What is Infrastructure as Code?](http://blog.datapath.io/what-is-infrastructure-as-code)
+
 ## DNS
 - [DNS: What Can Go Wrong and How You Can Fix It | @DevOpsSummit #APM #Agile #DevOps](http://java.sys-con.com/node/3884842) DNS enables users of all skill sets and technical knowledge levels to use this incredibly advanced resource on a daily basis
 - [DZone: How to Configure Your DNS With Cloud 66 for High Availability](https://dzone.com/articles/how-to-configure-your-dns-with-cloud-66-for-high-a) If you're using Cloud 66, here's a quick and easy tutorial to show you how to set your site up for high availability.
@@ -130,6 +136,7 @@
 - [The telecoms industry and NFV – How the cloud is virtualising](http://www.vanillaplus.com/2016/08/04/20138-the-telecoms-industry-and-nfv-how-the-cloud-is-virtualising/)
 - [Automation is Paramount in Cloud/NFV (Infographic) 🌟🌟🌟](http://blog.dialogic.com/blog/automation-is-paramount-in-cloud/nfv-infographic)
 - [sdxcentral.com: What Are Microservices in NFV? Definition 🌟](https://www.sdxcentral.com/nfv/definitions/microservices-in-nfv-definition) 
+- [opensource.com: Managing networks in a software-defined future](https://opensource.com/business/16/7/managing-networks-software-defined-future)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great interview w/ <a href="https://twitter.com/darrelljs">@darrelljs</a> &amp; <a href="https://twitter.com/intel">@intel</a> John Healy discussing &quot;The Future of NFV&quot; <a href="https://twitter.com/TIA_Now">@TIA_Now</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/OpenTelco">@OpenTelco</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://t.co/NzB8p1Qur1">https://t.co/NzB8p1Qur1</a></p>&mdash; Annie Potvin (@anniep0206) <a href="https://twitter.com/anniep0206/status/702396797063454722">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

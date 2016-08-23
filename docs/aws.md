@@ -596,6 +596,7 @@
 - [All the AWS Resource Types Reference for AWS CloudFormation ](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
 
 ## AWS for Windows
+- [blog.rackspace.com: Patch and AMI Management for Windows on AWS](http://blog.rackspace.com/patch-and-ami-management-for-windows-on-aws) step-by-step guide about patch and AMI management for Windows on AWS
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/iwoF2R0A0to5gv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dvo310-benefit-from-devops-when-moving-to-aws-for-windows" title="(DVO310) Benefit from DevOps When Moving to AWS for Windows" target="_blank">(DVO310) Benefit from DevOps When Moving to AWS for Windows</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>

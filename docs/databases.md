@@ -136,8 +136,11 @@
 - [Transactions: What commands aren’t allowed?](http://www.sqlservercentral.com/blogs/sqlstudies/2014/02/05/transactions-what-commands-arent-allowed/)
 - [ilearnsql.com: How Do You Join Tables Using SQL Outer Join?](http://www.ilearnsql.com/joining-tables-outer-join/)
 - [How the DBA job is evolving for future ? 🌟🌟](https://www.linkedin.com/pulse/how-dba-job-evolving-future-shiv-iyer?trk=hp-feed-article-title-comment)
+- [DZone: Say No to Venn Diagrams When Explaining JOINs 🌟🌟🌟](https://dzone.com/articles/say-no-to-venn-diagrams-when-explaining-joins) It's easy to use Venn diagrams to explain JOINs, but when you think about it, they're not quite the right tool to use. That's where JOIN diagrams come in.
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Say No to Venn Diagrams When Explaining JOINs via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> Lukas Elder <a href="https://t.co/rzjGPj99uW">https://t.co/rzjGPj99uW</a> <a href="https://twitter.com/hashtag/database?src=hash">#database</a> <a href="https://t.co/DC6aruDUXy">pic.twitter.com/DC6aruDUXy</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/767662609789321216">22 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Database Performance
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
@@ -321,6 +324,8 @@
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
 - [Why Uber Engineering Switched from Postgres to MySQL 🌟](https://eng.uber.com/mysql-migration/)
 - [MySQL does not need SQL](https://dom.as/2016/08/03/mysql-does-not-need-sql/) 
+- [Tecmint: How to Run MySQL/MariaDB Queries Directly from the Linux Command Line](http://www.tecmint.com/run-execute-mysql-mariadb-queries-directly-linux-commandline/)
+- [Tecmint: How to Backup/Restore MySQL/MariaDB and PostgreSQL Using ‘Automysqlbackup’ and ‘Autopostgresqlbackup’ Tools 🌟🌟🌟](http://www.tecmint.com/mysql-mariadb-postgresql-database-backup-using-automysqlbackup-autopostgresqlbackup/)
 
 ### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)

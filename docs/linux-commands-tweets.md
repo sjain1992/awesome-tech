@@ -201,3 +201,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">egrep -o &quot;from=&lt;[^&gt;]+\.[a-z0-9-]{2,}&gt;&quot; /var/log/maillog |awk -F\. &#39;{print <a href="https://twitter.com/search?q=%24NF&amp;src=ctag">$NF</a>}&#39; |sort |uniq -c |sort -rn |head -20 # .Top 20 email From TLDs</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/761576106193481728">5 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find . -mtime +$((365*5)) -maxdepth 1 -exec du -sb {} \; |awk &#39;{s+=$1}END{print s}&#39; # Total bytes used by 5+ year old directories in CWD</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/767739705513250816">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -310,6 +310,7 @@
 - [datafloq.com: 10 Things to Consider Before Diving Into the Hadoop Data Lake](https://datafloq.com/read/10-things-consider-diving-into-hadoop-data-lake/1805)
 - [16 for '16: What you must know about Hadoop and Spark right now](http://www.infoworld.com/article/3019754/application-development/16-things-you-should-know-about-hadoop-and-spark-right-now.html)
 - [Hadoop Deployment Cheat Sheet 🌟🌟🌟](http://jethro.io/hadoop-deployment-cheat-sheet/)
+- [DZone: Word Count Program With MapReduce and Java 🌟🌟🌟](https://dzone.com/articles/word-count-hello-word-program-in-mapreduce) An introduction to the basics of MapReduce, along with a tutorial to create a word count app using Hadoop and Java.
 
 [![dzone_refcard_hadoop](images/dzone_refcard_hadoop.png)](https://dzone.com/refcardz/getting-started-apache-hadoop)
 

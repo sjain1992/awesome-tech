@@ -67,6 +67,8 @@
 - [DZone: Carving the Java EE Monolith Into Microservices](https://dzone.com/articles/carving-the-java-ee-monolith-into-microservices) This article looks at how to break up enterprise Java applications into microservices and how to separate concerns and build smaller usable modules.
 - [DZone: 4 Challenges You Need to Address With Microservices Adoption](https://dzone.com/articles/4-challenges-you-need-to-address-with-microservice) Transitioning to microservices creates significant challenges for organizations. This week, I’ll delve into some of the obstacles you might face and the ultimate benefits of your efforts.
 - [nginx.com: Microservices VS Service-Oriented Architecture. EXPLORE MICROSERVICES AND SOA IN THIS EXCLUSIVE O'REILLY REPORT](https://www.nginx.com/microservices-soa/)
+- [DZone: Microservices Architecture: What, When, and How 🌟🌟🌟](https://dzone.com/articles/microservices-architecture-what-when-how) Microservices have seen widespread adoption. Even Google Trends points to this rapid evolution. Check out what microservices are, a brief overview of when and how to use them, and advantages over monolithic structures.
+- [Microservices — Myths and Misunderstandings 🌟🌟🌟](https://dzone.com/articles/microservices-myths-and-misunderstanding) Microservices are quite popular. Learn more about microservices, what's myth and misunderstood, and what's fact.
 
 [![dzone_microservices_vs_soa](images/dzone_microservices_vs_soa.png)](https://dzone.com/articles/microservices-vs-soa-2)
 
