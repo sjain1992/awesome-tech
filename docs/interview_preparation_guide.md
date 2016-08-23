@@ -353,6 +353,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 skills you need to thrive tomorrow – and the universities that will help you get them <a href="https://t.co/HEkBFxH9lU">https://t.co/HEkBFxH9lU</a> <a href="https://t.co/2IP0Oakwu1">pic.twitter.com/2IP0Oakwu1</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/766692466443575300">19 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNLZnr7z8F0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Brutally honest job description
 
 ![brutally_honest_job_desc](images/brutally_honest_job_desc.png)
