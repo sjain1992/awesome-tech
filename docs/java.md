@@ -88,6 +88,7 @@
 - [slideshare: Troubleshooting Live Java Web Applications 🌟🌟](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
 - [genbetadev.com: ¿Por qué empresas que empiezan con lenguajes modernos se vuelven a Java? 🌟🌟](http://www.genbetadev.com/java-j2ee/por-que-empresas-que-empiezan-con-lenguajes-modernos-se-vuelven-a-java)
 - [Java EE devotees plot to seize control from Oracle 🌟🌟🌟](http://www.infoworld.com/article/3090528/java/java-ee-devotees-plot-to-seize-control-from-oracle.html)
+- [DZone: Convert a List to a Comma-Separated String in Java 8](https://dzone.com/articles/java-8-convert-list-to-string-comma-separated)
 
 [![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java)
 
@@ -149,7 +150,6 @@
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
 - [DZone: Revisiting the Advanced Theories of ‘Java Garbage Collection’ 🌟🌟🌟](https://dzone.com/articles/revisiting-the-advanced-theories-of-java-garbage-c)
-- [DZone: Convert a List to a Comma-Separated String in Java 8](https://dzone.com/articles/java-8-convert-list-to-string-comma-separated)
 - [DZone: Understanding the Java Memory Model and Garbage Collection 🌟🌟🌟](https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag) In this article we will try to understand the Java memory model and how garbage collection works. In this article I have used JDK8 Oracle Hot Spot 64 bit JVM. First let me depict the different memory areas available for Java processes.
 
 <div class="container">

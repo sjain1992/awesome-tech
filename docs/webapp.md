@@ -235,6 +235,8 @@
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
+- [Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.](http://ehcache.org/)
+- [Jillegal OffHeap Module](https://github.com/serkan-ozal/jillegal)
 - [vogella.com: Java Performance - Memory and Runtime Analysis - Tutorial](http://www.vogella.com/tutorials/JavaPerformance/article.html)
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
@@ -246,6 +248,11 @@
 	- [PermGen removed](http://www.infoq.com/articles/Java-PERMGEN-Removed)
 	- [Mi análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
 - [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
+	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
+- [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
+- [DZone: Revisiting the Advanced Theories of ‘Java Garbage Collection’ 🌟🌟🌟](https://dzone.com/articles/revisiting-the-advanced-theories-of-java-garbage-c)
+- [DZone: Understanding the Java Memory Model and Garbage Collection 🌟🌟🌟](https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag) In this article we will try to understand the Java memory model and how garbage collection works. In this article I have used JDK8 Oracle Hot Spot 64 bit JVM. First let me depict the different memory areas available for Java processes.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/n2WeaBLq1lzQcN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ihji/jvm-garbage-collection-tuning" title="JVM Garbage Collection Tuning" target="_blank">JVM Garbage Collection Tuning</a> </strong> from <strong><a href="//www.slideshare.net/ihji" target="_blank">ihji</a></strong> </div>
