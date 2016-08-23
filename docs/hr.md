@@ -166,6 +166,7 @@
 - [Management Style: When Is It Viewed as Abusive?](http://www.wsj.com/articles/management-style-when-is-it-viewed-as-abusive-1470752281) Some boorish bosses earn reputations as masterful leaders because they get results, new research says
 - [hbr.org - Research: Insecure Managers Don’t Want Your Suggestions](https://hbr.org/2014/11/research-insecure-managers-dont-want-your-suggestions)
 - [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
+- [The Good Boss Effect](http://www.mjms.net/blog/good-boss-effect/) In a employee survey, 49 percent of employees stated they would leave their job to feel more appreciated.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
