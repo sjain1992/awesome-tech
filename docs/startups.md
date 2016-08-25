@@ -229,6 +229,7 @@
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
 	- [no dogma podcast: What Ireland Offers the Tech World 🌟](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
 - [Berlín en español](http://berlinenespanol.net)
+- [forbes: Berlin Vies To Become The Silicon Valley Of Europe](http://www.forbes.com/sites/henriadams/2016/08/22/berlin-vies-to-become-the-silicon-valley-of-europe/)
 - [Asociación española de profesionales en Holanda](http://profesionalesholanda.org)
 - [volvemos.org 🌟🌟🌟](http://www.volvemos.org)
 

@@ -83,6 +83,7 @@
 - [THE PSYCHOLOGICAL CONTRACT: ARE YOU ON GOOD TERMS WITH YOUR MANAGER?](http://www.yoh.com/blog/the-psychological-contract-are-you-on-good-terms-with-your-manager)
 - [9 Warning Signs Your Employee is Quitting](http://www.mjms.net/blog/9-warning-signs-your-employee-is-quitting/)
 - [10 Things Companies Do That Kill Employee Motivation 🌟](https://learning.linkedin.com/blog/engaging-your-workforce/10-things-companies-do-that-kill-employee-motivation)
+- [Employee vs employer views on benefits (infographic) 🌟🌟](http://raconteur.net/infographics/employee-vs-employer-views-on-benefits) If money doesn't buy loyal employees, what does? Our infographic outlines the most desired benefits, retention drivers according to employers versus employees and more
 
 [![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
 
@@ -298,6 +299,8 @@
 - [High Staff Turnover? Top 4 Ways to Lose Your Best Employees](http://www.mjms.net/blog/turnover/high-staff-turnover-top-4-ways-lose-best-employees/)
 - [25 Qualities the World's Worst Managers Have in Common (Don’t You Be One!)](https://www.linkedin.com/pulse/25-qualities-worlds-worst-managers-have-common-dont-you-bernard-marr)
 - [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
+- [fortune.com: Tech industry job ads: Older workers need not apply](http://fortune.com/2014/06/19/tech-job-ads-discrimination/)
+- [Add Hewlett-Packard To The List Of Tech Icons Sued For Ageism](http://www.huffingtonpost.com/entry/add-hewlett-packard-to-the-list-of-tech-icons-sued-for-ageism_us_57bdbb82e4b00c67eca0f7cb) Did the company target older workers for termination, just to replace them with younger ones?
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -5,7 +5,6 @@
 
 <!-- /MarkdownTOC -->
 
-
 # Economics. Napoleon
 
 <div class="container">
@@ -19,7 +18,7 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2A0XJfbNh00?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2A0XJfbNh00?list=PLmJIGepU3gJNDtkiJv8cCBK_iA5FbIHgb" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

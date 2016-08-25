@@ -381,6 +381,9 @@
 - [AWS Elastic Beanstalk Documentation](http://aws.amazon.com/documentation/elastic-beanstalk/)
 - [Deploying a High-Availability PHP Application with an External Amazon RDS Database to Elastic Beanstalk 🌟🌟](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-ha-tutorial.html)
 - [Creating and Deploying PHP Applications on AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
+- [AWS Elastic Beanstalk Supports ASP.NET Core and Multi-App .NET Support](https://aws.amazon.com/about-aws/whats-new/2016/08/aws-elastic-beanstalk-supports-asp-net-core-and-multi-app-net-support/)
+- [AWS Elastic Beanstalk Supports Application Load Balancer](https://aws.amazon.com/about-aws/whats-new/2016/08/aws-elastic-beanstalk-supports-application-load-balancer/)
+- [AWS Elastic Beanstalk Supports Nginx Proxy Server with Tomcat](https://aws.amazon.com/about-aws/whats-new/2016/08/aws-elastic-beanstalk-supports-nginx-proxy-server-with-tomcat/) 
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dvmssHHBnII?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -556,6 +559,7 @@
 
 ## AWS SQS. Amazon Simple Queue Service
 - [Limits in Amazon SQS](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-limits.html)
+- [Amazon SQS FAQs](https://aws.amazon.com/sqs/faqs/)
 
 ## AWS Application Discovery Service Update. Agentless Discovery for VMware 
 - [AWS Application Discovery Service Update – Agentless Discovery for VMware](https://aws.amazon.com/es/blogs/aws/aws-application-discovery-service-update-agentless-discovery-for-vmware/)

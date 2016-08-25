@@ -567,6 +567,7 @@
 - [Querying JSON in Postgres](http://schinckel.net/2014/05/25/querying-json-in-postgres/) Good read for anyone storing jsonb data in postgresql
 - [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 - [KEEP CALM and QUERY JSON](https://dzone.com/articles/keep-calm-and-query-json) Trying to break from SQL? Here's how JSON and the platforms that use it can lend a hand organizing and querying data.
+- [Google readies next-gen RPC protocol to replace JSON](http://www.infoworld.com/article/3110633/application-development/google-readies-next-gen-rpc-protocol-to-rival-json.html) Google's gRPC aims to oust JSON for exchanging data between HTTP-connected services
 
 ### Mozilla Tools
 - [developer.mozilla.org](https://developer.mozilla.org/)
