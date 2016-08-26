@@ -319,6 +319,7 @@
 - [DevOps Debates: The Benefits of Tool Standardization 🌟](http://devops.com/2016/01/20/devops-debates-benefits-tool-standardization/)
 - [51 Best DevOps Tools for #DevOps Engineers 🌟](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/)
 - [11 Programming Languages For DevOps Success 🌟🌟](http://www.informationweek.com/devops/11-programming-languages-for-devops-success/d/d-id/1326274) DevOps uses languages for software development and languages for deployment automation. If you want to be successful with either side of DevOps, these languages will help.
+- [softwaretestingnews.co.uk: A software testing and DevOps tools directory for digital programmes 🌟🌟](http://www.softwaretestingnews.co.uk/a-software-testing-and-devops-tools-directory-for-digital-programmes/)
 
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
@@ -329,6 +330,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Periodic Table of DevOps Tools <a href="https://t.co/xkWVqwLPkq">https://t.co/xkWVqwLPkq</a> <a href="https://t.co/KQPeAsVzTO">pic.twitter.com/KQPeAsVzTO</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/739067366575738880">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)
+
+[![devops1](images/devops1.png)](http://www.softwaretestingnews.co.uk/a-software-testing-and-devops-tools-directory-for-digital-programmes/)
 
 ### Rundeck 
 - [rundeck.org](http://rundeck.org/)

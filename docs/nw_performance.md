@@ -28,6 +28,7 @@
 - [blog.datapath.io: Understanding Application Delivery Networks](http://blog.datapath.io/understanding-application-delivery-networks)
 - [blog.datapath.io: How do you Measure Network Latency Improvements?](http://blog.datapath.io/how-do-you-measure-network-latency-improvements)
 - [blog.datapath.io: 4 Ways to Reduce Internet Latency](http://blog.datapath.io/4-ways-to-reduce-internet-latency)
+- [blog.performancevision.com: TTFB (TIME TO FIRST BYTE) - A METRIC TO USE WITH PRECAUTION](http://blog.performancevision.com/eng/cons/ttfb-time-to-first-byte-a-metric-to-use-with-precaution)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

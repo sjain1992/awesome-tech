@@ -111,6 +111,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dirigir mediante el ‘ordeno y mando’ ya no es rentable ➡ <a href="https://t.co/j1AsBqR0wJ">https://t.co/j1AsBqR0wJ</a> <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/Liderazgo?src=hash">#Liderazgo</a> <a href="https://t.co/icL3QBREfQ">pic.twitter.com/icL3QBREfQ</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/739140034016731136">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A blame culture at work. Here we see a &quot;manager&quot; or a &quot;politician&quot; in their natural habitat. <a href="https://t.co/bAwQlPkXwU">pic.twitter.com/bAwQlPkXwU</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/768703393183338497">25 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![accenture_care_of_people_at_work_family](images/accenture_care_of_people_at_work_family.png)](https://www.accenture.com/us-en/company-diversity-workforce)
 
 ![wall_street_get_a_dog](images/wall_street_get_a_dog.jpg)
