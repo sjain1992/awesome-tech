@@ -302,6 +302,7 @@
 - [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
 - [fortune.com: Tech industry job ads: Older workers need not apply](http://fortune.com/2014/06/19/tech-job-ads-discrimination/)
 - [Add Hewlett-Packard To The List Of Tech Icons Sued For Ageism](http://www.huffingtonpost.com/entry/add-hewlett-packard-to-the-list-of-tech-icons-sued-for-ageism_us_57bdbb82e4b00c67eca0f7cb) Did the company target older workers for termination, just to replace them with younger ones?
+- [glassdoor.com: 7 Annoying Coworkers To Avoid](https://www.glassdoor.com/blog/7-annoying-coworkers-to-avoid/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

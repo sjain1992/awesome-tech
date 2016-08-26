@@ -15,6 +15,7 @@
 		- [Example 1](#example-1)
 		- [Example 2](#example-2)
 		- [Example 3](#example-3)
+		- [Example 4](#example-4)
 - [ITIL](#itil)
 	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
 	- [ITIL Tools](#itil-tools)
@@ -474,6 +475,33 @@ SC clearable (can start with BPSS but must be clearable).
 This is a 6 month contract based in Central London paying excellent day rates starting ASAP.
 
 Big Data DevOps Engineer - London - Eligible for SC Clearance
+
+### Example 4
+NetOps/DevOps Engineer
+
+Our client is the industry’s most advanced, powerful and versatile platform, powering the real-time management via online, mobile, in-store or call centre for thousands of enterprise clients. Using a combination of cutting-edge front end technologies, and a truly open and scalable cloud-based API architecture, we’re able to design solutions that can accommodate the wildest of client requirements. As technology progresses, so do they; re-architecting and expanding their platform to take advantage of new ideas, methodologies, and the latest and greatest trends in the technology industry. 
+It’s an exciting time to join the organisation. They are scaling up their Technology teams, and looking for an experienced NetOps / DevOps Engineer to join their Engineering team based in Farringdon. Their team is very diverse, with backgrounds spanning from astrophysics to criminology and computer game design to music management. They pride themselves on our great working culture and offer all staff a host of extra perks and regular social activities. What you’ll be doing: 
+
+• Automating common tasks within the Engineering and Information Security departments 
+• Collating statistics from various systems and monitoring sources and producing reports for various departments 
+• Identifying potential efficiencies within existing processes and developing solutions via automation 
+• Connecting existing and future their systems to leverage centralised access control and authentication 
+• Building custom code to provide monitoring of complex interactions within the their platforms 
+• Building, Running and Maintaining their server infrastructures 
+• Supporting internal development teams with infrastructure needs and platform investigations 
+• Performing R&D for Engineering and Development future projects 
+• Rota-based on-call responsibilities for out of hours response / duties 
+
+Skills you can demonstrate: 
+• Knowledge of the Linux operating system (in particular CentOS / RedHat); Amazon Web Services and their APIs; various APIs and SDKs that may aid delivery of responsibilities 
+• Knowledge of JavaScript-based frameworks that may aid in the delivery of responsibilities 
+• Knowledge of Apache, MySQL and/ or Redis servers 
+• Knowledge of Network Protocols and Web Browser to server communications via HTTP 
+• Knowledge of Data centre techniques and processes for delivery of a High Availability platform 
+• Ideally be able to use, or understand Ruby-based shell scripts, application code and frameworks 
+• A confident, enthusiastic attitude and an understanding of small company culture and dynamics 
+
+If this sounds like you we’d love to hear from you! Please get in touch with some information about you, your experience, why you’re the superstar for this role, your CV and any links to relevant blogs/social media pages/previous work etc that you would like to share with us. Exclusive to IQ, apply now more information. 
 
 # ITIL
 ## Is DevOps replacing ITIL?

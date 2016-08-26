@@ -49,6 +49,8 @@
 		- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
 		- [OPNsense Firewall](#opnsense-firewall)
 		- [Endian Firewall](#endian-firewall)
+		- [Untangle Firewall](#untangle-firewall)
+		- [IPFire Firewall](#ipfire-firewall)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 		- [pfSense firewall](#pfsense-firewall)
 	- [Integrate DRBD with Pacemaker Clusters](#integrate-drbd-with-pacemaker-clusters)
@@ -464,6 +466,10 @@
 - [Unix shell script to shorten URLs with tny.im URL shortener. wget must be installed for this to work](https://gist.github.com/gbl08ma/6115095)
 - [Tecmint: Learn How to Set Your $PATH Variables Permanently in Linux](http://www.tecmint.com/set-path-variable-linux-permanently/)
 - [Bash Pitfalls 🌟🌟🌟](http://mywiki.wooledge.org/BashPitfalls) This page shows common errors that Bash programmers make. These examples are all flawed in some way. 
+- [Tecmint: MultiTail – Monitor Multiple Files Simultaneously in a Single Linux Terminal](http://www.tecmint.com/view-multiple-files-in-linux/) 
+- [Tecmint: Understanding Different Classifications of Shell Commands and Their Usage in Linux](http://www.tecmint.com/understanding-different-linux-shell-commands-usage/)
+- [unixmen: Linux Shell Scripting part-1: Starting with Linux Shell Scripting](http://www.unixmen.com/starting-with-linux-shell-scripting/)
+- [unixmen: Linux Shell Scripting part-2: Message Displaying, User Variables and Environment Variables](https://www.unixmen.com/message-displaying-user-variables-and-environment-variables/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -506,6 +512,7 @@
 - [faqs.org: AWK FAQ](http://www.faqs.org/faqs/computer-lang/awk/faq/)
 - [tecmint.com: How to Use Awk to Print Fields and Columns in File](http://www.tecmint.com/awk-print-fields-columns-with-space-separator/)
 - [Tecmint: Ebook: Introducing the Awk Getting Started Guide for Beginners](http://www.tecmint.com/linux-awk-command-book-for-beginners/)
+- [nixCraft - Bash Shell: Replace a String With Another String In All Files Using sed and Perl -pie Options](http://www.cyberciti.biz/faq/unix-linux-replace-string-words-in-many-files/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
@@ -548,6 +555,7 @@
 - [Buku: cmdline bookmark manager... your mini web!](https://github.com/jarun/Buku) Buku (formerly markit) is a cmdline bookmark management utility written in Python3 and SQLite3. buku exists because of my monumental dependency on historious. I wanted the same database on my local system. However, I couldn't find an equally flexible cmdline solution. Hence, Buku! 
 	- [historious: bookmarking you can love](http://historio.us/) historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! 
 - [GoogleApps  or Office365 replacement. Kolab + CloudSuite: It's collaborative all the way down](https://kolab.org/group-blog/2016/01/30/kolab-collabora/)
+- [unixmen.com: How To Setup LogicalDOC In Ubuntu 15.04](https://www.unixmen.com/setup-logicaldoc-ubuntu-15-04/) LogicalDOC is a Document Management System. It is useful for all kind of small and medium enterprises, and it could play a very important role in knowledge resource management of Educational Organizations.
 
 ## Linux Kernel
 - [unixmen.com: How to upgrade or update kernel of the CentOS to Latest stable Kernel](https://www.unixmen.com/upgrade-update-kernel-centos-latest-stable-kernel/)
@@ -748,6 +756,7 @@
 - [dig: How To Find My Public IP Address From Command Line On a Linux](http://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
 - [tcpdump is amazing](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 - [tecmint: 12 Tcpdump Commands – A Network Sniffer Tool](http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/)
+- [unixmen.com: Using Tcpdump To Capture And Analyze Network Traffic](https://www.unixmen.com/using-tcpdump-capture-analyze-network-traffic/)
 - [opensource.com: How to configure networking in Linux 🌟🌟](https://opensource.com/life/16/6/how-configure-networking-linux)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nmap Command For Network Administrator<a href="https://t.co/6yFJIt1iNd">https://t.co/6yFJIt1iNd</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/Nmap?src=hash">#Nmap</a> <a href="https://twitter.com/hashtag/Network?src=hash">#Network</a> <a href="https://t.co/YFvHyC9fqs">pic.twitter.com/YFvHyC9fqs</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752591167435472896">11 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -888,6 +897,14 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vs-CfTr97cc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+### Untangle Firewall
+- [untangle.com](https://www.untangle.com/)
+- [How To Install And Use Untangle Firewall](https://www.unixmen.com/install-use-untangle-firewall/)
+
+### IPFire Firewall
+- [ipfire.org](http://www.ipfire.org/)
+- [youtube: How to Install IPFire Linux Firewall 2.19 + VMware Tools on VMware Workstation/Player Tutorial(https://www.youtube.com/watch?v=XhzS_PMhVms)
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)

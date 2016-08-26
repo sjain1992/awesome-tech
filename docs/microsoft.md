@@ -214,6 +214,7 @@
 - [Microsoft Open-Sources PowerShell, Releases Linux Port](http://www.eweek.com/enterprise-apps/microsoft-open-sources-powershell-releases-linux-port.html)
 - [PowerShell is open sourced and is available on Linux](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/)
 - [powershell.org: Microsoft did WHAT?](https://powershell.org/2016/08/23/microsoft-did-what/)
+- [powershell.org: Ultimate PowerShell Prompt Customization and Git Setup Guide](https://powershell.org/2016/08/26/ultimate-powershell-prompt-customization-and-git-setup-guide/)
 
 [![dzone_powershell_refcard](images/dzone_powershell_refcard.png)](https://dzone.com/refcardz/windows-powershell)
 
