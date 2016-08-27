@@ -51,6 +51,7 @@
 - [Las 10 mejores frases de ‘El lobo de Wall Street’ aplicadas al mundo empresarial](http://blog.nubelo.com/las-mejores-frases-lobo-wall-street-aplicadas-mundo-empresarial/)
 - [Quién a buen árbol se arrima, buena sombra le cobija: El dilema del networking](http://www.grupoblc.com/quien-a-buen-arbol-se-arrima-buena-sombra-le-cobija-el-dilema-del-networking/)
 - [forbes.es: 7 claves para disculparse con clase en el trabajo](http://forbes.es/actualizacion/1026/7-claves-para-disculparse-con-clase-en-el-trabajo)
+- [masquenegocio.com: Tipos de líder en la empresa (infografía) 🌟🌟](http://www.masquenegocio.com/2015/07/11/tipos-lider-empresa/)
 
 [![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
 

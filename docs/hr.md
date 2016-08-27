@@ -84,6 +84,7 @@
 - [9 Warning Signs Your Employee is Quitting](http://www.mjms.net/blog/9-warning-signs-your-employee-is-quitting/)
 - [10 Things Companies Do That Kill Employee Motivation 🌟](https://learning.linkedin.com/blog/engaging-your-workforce/10-things-companies-do-that-kill-employee-motivation)
 - [Employee vs employer views on benefits (infographic) 🌟🌟](http://raconteur.net/infographics/employee-vs-employer-views-on-benefits) If money doesn't buy loyal employees, what does? Our infographic outlines the most desired benefits, retention drivers according to employers versus employees and more
+- [weforum.org: This is how to recharge your brain, according to science](https://www.weforum.org/agenda/2016/08/this-is-how-to-recharge-your-brain-according-to-science)
 
 [![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
 

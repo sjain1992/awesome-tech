@@ -146,6 +146,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Cuáles son las universidades más valoradas por las empresas? <a href="https://twitter.com/elmundoes">@elmundoes</a> <a href="https://t.co/H627FC2439">https://t.co/H627FC2439</a> <a href="https://t.co/vmdTgYxo4o">pic.twitter.com/vmdTgYxo4o</a></p>&mdash; Santiago Satué (@satueabogado) <a href="https://twitter.com/satueabogado/status/742807082471182344">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Ranking de las universidades con los graduados que mas cobran. <a href="https://twitter.com/hashtag/dinero?src=hash">#dinero</a> <a href="https://twitter.com/hashtag/educaci%C3%B3n?src=hash">#educación</a> <a href="https://t.co/nnyYQ6Ymrw">pic.twitter.com/nnyYQ6Ymrw</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/768156124587622404">23 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![sistema_universitari_catalunya](images/sistema_universitari_catalunya.png)](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/293683/ca/sistema-universitari-catalunya-encapcala-lactivitat-recerca-lestat-espanyol.do)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Teaching teachers to teach open source <a href="https://t.co/yqsm73nOqZ">https://t.co/yqsm73nOqZ</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/746764648117002241">25 de junio de 2016</a></blockquote>

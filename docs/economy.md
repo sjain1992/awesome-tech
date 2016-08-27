@@ -133,6 +133,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Projection: Global GDP Distribution 1970-2030, with highlighted USA, <a href="https://twitter.com/hashtag/China?src=hash">#China</a> and <a href="https://twitter.com/hashtag/India?src=hash">#India</a> <a href="https://t.co/uGnIloxS4O">pic.twitter.com/uGnIloxS4O</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/700076818041303041">17 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US deaths, 2014.<br><br>Alcohol-related: 88,000<br>Suicide: 42,773<br>Murder: 14,249<br>Domestic violence: ~2,400</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768817930456870912">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Eurozone, 2015<br><br>GDP growth: 1.5%<br>Interest rate: 0.05%<br>Inflation: 0.2%<br>Unemployment: 10.9%<br>Govt debt as % of GDP: 92% <a href="https://t.co/NyUPJpIgs2">pic.twitter.com/NyUPJpIgs2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768863147314651136">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Generation Y, Curling or Maybe: what the world calls millennials <a href="https://t.co/cQWAO8yyxe">https://t.co/cQWAO8yyxe</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/707102616032026629">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -191,6 +197,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The gig economy attracts many workers, few full-time jobs <a href="https://t.co/q76qFZF5Fg">https://t.co/q76qFZF5Fg</a> <a href="https://t.co/utzF0EzV9m">pic.twitter.com/utzF0EzV9m</a></p>&mdash; Real Time Economics (@WSJecon) <a href="https://twitter.com/WSJecon/status/702238896873205764">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Young people think these factors are driving global inequality <a href="https://t.co/1axXE2Yrlt">https://t.co/1axXE2Yrlt</a> <a href="https://t.co/QH4BeeLDXJ">pic.twitter.com/QH4BeeLDXJ</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/768859262659551232">25 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Divorce rate as % of marriages, 2011.<br><br>France: 55%<br>US: 52%<br>Russia: 51%<br>UK: 47%<br>Japan: 36%<br>Italy: 25%<br>China: 22%<br>Turkey: 20%<br>Libya: 5%<br><br>(UN)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768848064211656704">25 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">81% of adults in <a href="https://twitter.com/hashtag/OECD?src=hash">#OECD</a> might use the <a href="https://twitter.com/hashtag/internet?src=hash">#internet</a>, but there are still gaps between age groups <a href="https://t.co/WacVHqMAU9">https://t.co/WacVHqMAU9</a> <a href="https://t.co/ZEJ4IldezE">pic.twitter.com/ZEJ4IldezE</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/702892226293178369">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
