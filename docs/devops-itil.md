@@ -418,7 +418,7 @@ DevOps Engineer / Infrastructure Engineer / Linux / git / Puppet / Chef / Ansibl
 
 I am presently recruiting for one of the UKs most respected medical research companies who are growing their operations rapidly in 2016/17. They are looking to hire three DevOps Engineers / Infrastructure Engineers immediately to be based in their HQ in London on an initial 3 to 6 month contract.
 
-Please find a brief description below: 
+Please find a brief description below. 
 
 Job Responsibilities, requirements and skills:
 
@@ -432,10 +432,10 @@ Job Responsibilities, requirements and skills:
 - Partner with colleagues to improve processes and performance
 - Knowledge of scheduling systems – Nomad, SGE, LSF and Mesos (Desirable)
  
-Location: London
-Rate: £Negotiable
-Salary:	GBP400 - GBP525 per day
-Contract Length: 3 to 6 Months initial (Extensions)
+- Location: London
+- Rate: £Negotiable
+- Salary:	GBP400 - GBP525 per day
+- Contract Length: 3 to 6 Months initial (Extensions)
 
 Please forward your updated CV for immediate consideration or refer a friend.
 
@@ -444,7 +444,8 @@ Big Data DevOps Engineer - London - Eligible for SC Clearance
 
 Square One are looking for a Big Data Devops Engineer to come on board for a 6 month contract based in London
 
-Role Definitions/Duties
+Role Definitions/Duties:
+
 - DevOps for Hadoop platform on major government programme.
 - Help deliver and develop the continuous integration pipeline for the Hadoop stack.
 - Help design and deliver the target cloud infrastructure for the Hadoop stack.
@@ -455,24 +456,24 @@ Role Definitions/Duties
 - Prototype and prove concepts quickly.
 - Identify and mitigate risks in development and technology
 
-Skills Required
-Skills Split - 70% DevOps, 30% Hadoop
-Excellent overall knowledge Dev Ops, continuous delivery and environment build on large development programmes.
+Skills Required:
 
-Excellent knowledge of cloud hosting and virtualised infrastructure.
-Demonstrable experience of infrastructure as code.
-Strong hands-on experience with virtualisation and cloud technologies, such as VMWare vCloud, AWS and others.
+- Skills Split - 70% DevOps, 30% Hadoop
+- Excellent overall knowledge Dev Ops, continuous delivery and environment build on large development programmes.
+- Excellent knowledge of cloud hosting and virtualised infrastructure.
+- Demonstrable experience of infrastructure as code.
+- Strong hands-on experience with virtualisation and cloud technologies, such as VMWare vCloud, AWS and others.
+- Experience with low level environment design.
+- Strong experience in infrastructure automation tools such as Blueprints, Puppet and Chef
+- Deep understanding of Linux and/or Unix Operating Systems
+- Experience administering one or more database products, including Hadoop/HDFS.
+- Experience in using monitoring tools
+- Good understanding of IT security
+- Nice to have - Specific experience with automated deployment of the Hortonworks Hadoop distribution.
 
-Experience with low level environment design.
-Strong experience in infrastructure automation tools such as Blueprints, Puppet and Chef
-Deep understanding of Linux and/or Unix Operating Systems
-Experience administering one or more database products, including Hadoop/HDFS.
-Experience in using monitoring tools
-Good understanding of IT security
-Nice to have - Specific experience with automated deployment of the Hortonworks Hadoop distribution.
+Security: 
 
-Security
-SC clearable (can start with BPSS but must be clearable).
+- SC clearable (can start with BPSS but must be clearable).
 
 This is a 6 month contract based in Central London paying excellent day rates starting ASAP.
 
