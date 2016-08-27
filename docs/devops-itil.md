@@ -422,15 +422,15 @@ Please find a brief description below:
 
 Job Responsibilities, requirements and skills:
 
-Version control systems experience - A thorough understanding of git, as a minimum
-Configuration management expertise – commercial knowledge of at least one of: Puppet, Chef, Ansible and/or Salt
-Continuous Integration capability – solid knowledge of either Jenkins and/or Bamboo
-Exposure to Kanban and Scrum
-Expertise in one language as a minimum (Go, Python, Java)
-Experienced in a matrix team /multidisciplinary project working
-Ability to impart knowledge to others in the team and within the organisation
-Partner with colleagues to improve processes and performance
-Knowledge of scheduling systems – Nomad, SGE, LSF and Mesos (Desirable)
+- Version control systems experience - A thorough understanding of git, as a minimum
+- Configuration management expertise – commercial knowledge of at least one of: Puppet, Chef, Ansible and/or Salt
+- Continuous Integration capability – solid knowledge of either Jenkins and/or Bamboo
+- Exposure to Kanban and Scrum
+- Expertise in one language as a minimum (Go, Python, Java)
+- Experienced in a matrix team /multidisciplinary project working
+- Ability to impart knowledge to others in the team and within the organisation
+- Partner with colleagues to improve processes and performance
+- Knowledge of scheduling systems – Nomad, SGE, LSF and Mesos (Desirable)
  
 Location: London
 Rate: £Negotiable
@@ -445,22 +445,24 @@ Big Data DevOps Engineer - London - Eligible for SC Clearance
 Square One are looking for a Big Data Devops Engineer to come on board for a 6 month contract based in London
 
 Role Definitions/Duties
-DevOps for Hadoop platform on major government programme.
-Help deliver and develop the continuous integration pipeline for the Hadoop stack.
-Help design and deliver the target cloud infrastructure for the Hadoop stack.
-Analysis, authoring of user stories and detailed design.
-Development of code, scripts, configuration and build automation.
-Provide specialist Hadoop and big data expertise.
-Engage with all members of the scrum team to ensure the technology meets the user needs.
-Prototype and prove concepts quickly.
-Identify and mitigate risks in development and technology
+- DevOps for Hadoop platform on major government programme.
+- Help deliver and develop the continuous integration pipeline for the Hadoop stack.
+- Help design and deliver the target cloud infrastructure for the Hadoop stack.
+- Analysis, authoring of user stories and detailed design.
+- Development of code, scripts, configuration and build automation.
+- Provide specialist Hadoop and big data expertise.
+- Engage with all members of the scrum team to ensure the technology meets the user needs.
+- Prototype and prove concepts quickly.
+- Identify and mitigate risks in development and technology
 
 Skills Required
 Skills Split - 70% DevOps, 30% Hadoop
 Excellent overall knowledge Dev Ops, continuous delivery and environment build on large development programmes.
+
 Excellent knowledge of cloud hosting and virtualised infrastructure.
 Demonstrable experience of infrastructure as code.
 Strong hands-on experience with virtualisation and cloud technologies, such as VMWare vCloud, AWS and others.
+
 Experience with low level environment design.
 Strong experience in infrastructure automation tools such as Blueprints, Puppet and Chef
 Deep understanding of Linux and/or Unix Operating Systems
@@ -480,26 +482,27 @@ Big Data DevOps Engineer - London - Eligible for SC Clearance
 NetOps/DevOps Engineer
 
 Our client is the industry’s most advanced, powerful and versatile platform, powering the real-time management via online, mobile, in-store or call centre for thousands of enterprise clients. Using a combination of cutting-edge front end technologies, and a truly open and scalable cloud-based API architecture, we’re able to design solutions that can accommodate the wildest of client requirements. As technology progresses, so do they; re-architecting and expanding their platform to take advantage of new ideas, methodologies, and the latest and greatest trends in the technology industry. 
+
 It’s an exciting time to join the organisation. They are scaling up their Technology teams, and looking for an experienced NetOps / DevOps Engineer to join their Engineering team based in Farringdon. Their team is very diverse, with backgrounds spanning from astrophysics to criminology and computer game design to music management. They pride themselves on our great working culture and offer all staff a host of extra perks and regular social activities. What you’ll be doing: 
 
-• Automating common tasks within the Engineering and Information Security departments 
-• Collating statistics from various systems and monitoring sources and producing reports for various departments 
-• Identifying potential efficiencies within existing processes and developing solutions via automation 
-• Connecting existing and future their systems to leverage centralised access control and authentication 
-• Building custom code to provide monitoring of complex interactions within the their platforms 
-• Building, Running and Maintaining their server infrastructures 
-• Supporting internal development teams with infrastructure needs and platform investigations 
-• Performing R&D for Engineering and Development future projects 
-• Rota-based on-call responsibilities for out of hours response / duties 
+- Automating common tasks within the Engineering and Information Security departments 
+- Collating statistics from various systems and monitoring sources and producing reports for various departments 
+- Identifying potential efficiencies within existing processes and developing solutions via automation 
+- Connecting existing and future their systems to leverage centralised access control and authentication 
+- Building custom code to provide monitoring of complex interactions within the their platforms 
+- Building, Running and Maintaining their server infrastructures 
+- Supporting internal development teams with infrastructure needs and platform investigations 
+- Performing R&D for Engineering and Development future projects 
+- Rota-based on-call responsibilities for out of hours response/duties 
 
 Skills you can demonstrate: 
-• Knowledge of the Linux operating system (in particular CentOS / RedHat); Amazon Web Services and their APIs; various APIs and SDKs that may aid delivery of responsibilities 
-• Knowledge of JavaScript-based frameworks that may aid in the delivery of responsibilities 
-• Knowledge of Apache, MySQL and/ or Redis servers 
-• Knowledge of Network Protocols and Web Browser to server communications via HTTP 
-• Knowledge of Data centre techniques and processes for delivery of a High Availability platform 
-• Ideally be able to use, or understand Ruby-based shell scripts, application code and frameworks 
-• A confident, enthusiastic attitude and an understanding of small company culture and dynamics 
+- Knowledge of the Linux operating system (in particular CentOS/RedHat); Amazon Web Services and their APIs; various APIs and SDKs that may aid delivery of responsibilities 
+- Knowledge of JavaScript-based frameworks that may aid in the delivery of responsibilities 
+- Knowledge of Apache, MySQL and/ or Redis servers 
+- Knowledge of Network Protocols and Web Browser to server communications via HTTP 
+- Knowledge of Data centre techniques and processes for delivery of a High Availability platform 
+- Ideally be able to use, or understand Ruby-based shell scripts, application code and frameworks 
+- A confident, enthusiastic attitude and an understanding of small company culture and dynamics 
 
 If this sounds like you we’d love to hear from you! Please get in touch with some information about you, your experience, why you’re the superstar for this role, your CV and any links to relevant blogs/social media pages/previous work etc that you would like to share with us. Exclusive to IQ, apply now more information. 
 

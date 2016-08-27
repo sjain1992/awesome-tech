@@ -1,4 +1,12 @@
-## Cambios importantes en la gestión de memoria de Java 8 de Oracle (2014)
+<!-- MarkdownTOC -->
+
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle \(2014\)](#cambios-importantes-en-la-gestión-de-memoria-de-java-8-de-oracle-2014)
+    - [Java Performance](#java-performance)
+    - [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
+
+<!-- /MarkdownTOC -->
+
+# Cambios importantes en la gestión de memoria de Java 8 de Oracle (2014)
 
 PermGen no pertenece al heap y los objetos no son promocionados a esta sección de memoria gestionada durante un GC. Como bien dices es un espacio contiguo al heap, pero también se limpia cada vez que la tenured/old generation procede a un GC. No es una generación separada del mismo modo que es la young generation, y no hay un mecanismo específico para un GC separado de PermGen. La tenured/old generation y la permanent generation proceden a un GC cuando una de las dos se llena.
 
@@ -32,7 +40,18 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 </div>
 <br/>
 
-### Referencias
+## Java Performance
+- [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 
+- [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization) Tools and Techniques for Turbocharged Apps
+- [DZone: Performance Improvement in Java Applications: ORM/JPA 🌟🌟🌟](https://dzone.com/articles/performance-improvement-in-java-applications-orm-j)
+
+[![dzone_refcard_java_performance_optimization](images/dzone_refcard_java_performance_optimization.png)](https://dzone.com/refcardz/java-performance-optimization)
+
+[![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
+
+[![java_caching](images/java_caching.png)](https://dzone.com/refcardz/java-caching)
+
+## Garbage Collection and Heap Offloading
 - [Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.](http://ehcache.org/)
 - [Jillegal OffHeap Module](https://github.com/serkan-ozal/jillegal)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
@@ -41,5 +60,7 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
+- [DZone: Revisiting the Advanced Theories of ‘Java Garbage Collection’ 🌟🌟🌟](https://dzone.com/articles/revisiting-the-advanced-theories-of-java-garbage-c)
+- [DZone: Understanding the Java Memory Model and Garbage Collection 🌟🌟🌟](https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag) In this article we will try to understand the Java memory model and how garbage collection works. In this article I have used JDK8 Oracle Hot Spot 64 bit JVM. First let me depict the different memory areas available for Java processes.
 
 [![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)

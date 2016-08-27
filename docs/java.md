@@ -131,7 +131,7 @@
 
 ### Java Performance
 - [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 
-- [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization)
+- [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization) Tools and Techniques for Turbocharged Apps
 - [DZone: Performance Improvement in Java Applications: ORM/JPA 🌟🌟🌟](https://dzone.com/articles/performance-improvement-in-java-applications-orm-j)
 
 [![dzone_refcard_java_performance_optimization](images/dzone_refcard_java_performance_optimization.png)](https://dzone.com/refcardz/java-performance-optimization)
