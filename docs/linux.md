@@ -904,7 +904,7 @@
 
 ### IPFire Firewall
 - [ipfire.org](http://www.ipfire.org/)
-- [youtube: How to Install IPFire Linux Firewall 2.19 + VMware Tools on VMware Workstation/Player Tutorial(https://www.youtube.com/watch?v=XhzS_PMhVms)
+- [youtube: How to Install IPFire Linux Firewall 2.19 + VMware Tools on VMware Workstation/Player Tutorial](https://www.youtube.com/watch?v=XhzS_PMhVms)
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)
