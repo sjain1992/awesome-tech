@@ -636,6 +636,7 @@
 - [How to Restrict Amazon S3 Bucket Access to a Specific IAM Role](http://blogs.aws.amazon.com/security/post/TxK5WUJK3DG9G8/How-to-Restrict-Amazon-S3-Bucket-Access-to-a-Specific-IAM-Role)
 - [Updated Whitepaper Available: AWS Best Practices for DDoS Resiliency 🌟🌟🌟](http://blogs.aws.amazon.com/security/post/Tx6QAIBSQTJPHB/Updated-Whitepaper-Available-AWS-Best-Practices-for-DDoS-Resiliency)
 - [AWS Security Blog: In Case You Missed These: AWS Security Blog Posts from June, July, and August 2016](http://blogs.aws.amazon.com/security/post/Tx3KVD6T490MM47/In-Case-You-Missed-These-AWS-Security-Blog-Posts-from-June-July-and-August)
+- [Amazon Inspector Announces General Availability for Windows](https://aws.amazon.com/es/about-aws/whats-new/2016/08/amazon-inspector-announces-general-availability-for-windows/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ready to learn more about securely controlling access to AWS resources? Follow <a href="https://twitter.com/AWSIdentity">@AWSIdentity</a>! <a href="https://t.co/zrQd8MQsiH">pic.twitter.com/zrQd8MQsiH</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/747429329030701056">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

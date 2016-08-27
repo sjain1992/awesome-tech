@@ -87,6 +87,7 @@
 - [Playbook Debugger](http://docs.ansible.com/ansible/playbooks_debugger.html) In 2.1 we added a debug strategy. This strategy enables you to invoke a debugger when a task is failed, and check several info, such as the value of a variable. Also, it is possible to update module arguments in the debugger, and run the failed task again with new arguments to consider how you can fix an issue.
 - [developers.redhat.com: Install Ansible on Red Hat Enterprise Linux 🌟](http://developers.redhat.com/blog/2016/08/15/install-ansible-on-rhel/)
 - [opensource.com: Ansible as a gateway to DevOps in the cloud](https://opensource.com/life/16/8/cloud-ansible-gateway)
+- [ansible.com: AUTOMATING THE PROVISIONING AND CONFIGURATION OF RED HAT MOBILE APPLICATION PLATFORM](https://www.ansible.com/blog/ansible-openshift-enterprise-container-platform)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

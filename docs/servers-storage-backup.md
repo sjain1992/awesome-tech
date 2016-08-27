@@ -28,6 +28,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/FloppyDisks?src=hash">#FloppyDisks</a> <a href="https://twitter.com/hashtag/OldSchoolCool?src=hash">#OldSchoolCool</a> <a href="https://twitter.com/hashtag/History?src=hash">#History</a> <a href="https://t.co/AtHGcR1UfU">pic.twitter.com/AtHGcR1UfU</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/746763306560413696">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_schedule_unplanned_nw_outages](images/dilbert_schedule_unplanned_nw_outages.gif)](http://dilbert.com/strip/1997-01-29)
+
 # Servers, Storage and Backup
 - [opensource.com: Linux monitoring tools to keep your hardware cool 🌟](https://opensource.com/life/15/11/linux-temperature-monitoring-tools)
 
