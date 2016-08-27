@@ -48,6 +48,8 @@
 
 ![voltaire disagreement](images/voltaire_disagreement.jpg)
 
+[![dilbert_great_idea](images/dilbert_great_idea.jpg)](http://dilbert.com/strip/2005-07-24)
+
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
 [![getting_your_boss_to_love_you](images/getting_your_boss_to_love_you.png)](http://www.businessinsider.com/dave-kerpen-how-to-manage-up-2016-3)
