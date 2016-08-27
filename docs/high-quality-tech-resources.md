@@ -105,6 +105,7 @@
 ## Gartner
 - [Gartner](http://www.gartner.com/)
 - [Gartner wikipedia](https://en.wikipedia.org/wiki/Gartner)
+- [Gartner's 2016 Hype Cycle for Emerging Technologies Identifies Three Key Trends That Organizations Must Track to Gain Competitive Advantage](http://www.gartner.com/newsroom/id/3412017)
 
 [![gartner-logo](images/gartner-logo.png)](http://www.gartner.com)
 
@@ -112,6 +113,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjnfOhCbCr4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![emerging-tech-hc-2016](images/emerging-tech-hc-2016.png)](http://www.gartner.com/newsroom/id/3412017)
 
 ## Goldman Sachs
 
