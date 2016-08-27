@@ -167,6 +167,7 @@
 
 ## JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
+- [developers.redhat.com: Get you some of that new #JBoss #DataVirt 6.3 that was released today... avail online! 🌟🌟🌟](http://developers.redhat.com/products/datavirt/get-started/) Red Hat JBoss Data Virtualization. An integration platform that unifies data from disparate sources into a single source and exposes the data as a reusable service.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4PQTDwMqE4iYw9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TedJones1/red-hat-middleware-solutions-for-sap-systems" title="Red Hat Middleware Solutions for SAP Systems" target="_blank">Red Hat Middleware Solutions for SAP Systems</a> </strong> from <strong><a href="//www.slideshare.net/TedJones1" target="_blank">Ted Jones</a></strong> </div>

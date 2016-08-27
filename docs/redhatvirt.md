@@ -79,6 +79,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/cajadevalores">@cajadevalores</a> succeeds with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://twitter.com/hashtag/Virtualization?src=hash">#Virtualization</a>: <a href="https://t.co/CMxetuGm8Z">https://t.co/CMxetuGm8Z</a> <a href="https://twitter.com/hashtag/RHV4?src=hash">#RHV4</a> <a href="https://t.co/sYccF3eaMq">pic.twitter.com/sYccF3eaMq</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/768456082331017216">24 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOeH-bjTSLw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

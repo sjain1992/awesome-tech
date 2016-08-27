@@ -316,8 +316,9 @@
 - [opensource.com: Decoding DevOps, Docker, and Git 🌟🌟](https://opensource.com/business/16/4/linuxfest-northwest-interview-corey-quinn)
     - [Githug - an interactive way to learn how to use git 🌟🌟](https://github.com/Gazler/githug)
     - [Joey Hess's myrepos is great at simplifying the management and updating of large numbers of Git repos](https://myrepos.branchable.com/)
-- [opensouce.com: How to manage binary blobs with Git 🌟🌟](https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7) Git has extensions for handling binary blobs such as multimedia files, so today we will learn how to manage binary assets with Git.
+- [opensouce.com: How to manage binary blobs with Git](https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7) Git has extensions for handling binary blobs such as multimedia files, so today we will learn how to manage binary assets with Git.
 - [atlassian.com: Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase/)
+- [opensource.com: How to restore older file versions in Git 🌟🌟🌟](https://opensource.com/life/16/7/how-restore-older-file-versions-git)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
