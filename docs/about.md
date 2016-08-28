@@ -68,18 +68,11 @@
 </div>
 <br/>
 _______________________________________________________________________________________
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVkq8IEO4tc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Ich habe ein <a href="https://twitter.com/YouTube">@YouTube</a>-Video positiv bewertet: <a href="https://t.co/6UFjwFg437">https://t.co/6UFjwFg437</a> Top 5 Michael Schumacher Moments</p>&mdash; Sinan Demirbas (@CoolSinan99) <a href="https://twitter.com/CoolSinan99/status/702846002533933058">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/x3T9acIzSX">https://t.co/x3T9acIzSX</a> Entrevista de Eduard Punset a Oliver Sacks en <a href="https://twitter.com/RedesTV">@RedesTV</a></p>&mdash; Antonio (@antolev10) <a href="https://twitter.com/antolev10/status/683951403325374464">4 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/RXfPMWU4gGc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr63Sm7B16YnQPFBHmaiRnoXXzryFjUdZ" frameborder="0" allowfullscreen class="video"></iframe>
 </div> 
 <br/>
 

@@ -89,6 +89,7 @@
 - [genbetadev.com: ¿Por qué empresas que empiezan con lenguajes modernos se vuelven a Java? 🌟🌟](http://www.genbetadev.com/java-j2ee/por-que-empresas-que-empiezan-con-lenguajes-modernos-se-vuelven-a-java)
 - [Java EE devotees plot to seize control from Oracle 🌟🌟🌟](http://www.infoworld.com/article/3090528/java/java-ee-devotees-plot-to-seize-control-from-oracle.html)
 - [DZone: Convert a List to a Comma-Separated String in Java 8](https://dzone.com/articles/java-8-convert-list-to-string-comma-separated)
+- [DZone: If You Like Good Java, Sip Tea](https://dzone.com/articles/if-you-like-good-java-sip-tea) If you like good Java, SIPT. These four properties—method size, impact set, potential coupling, and transitive dependencies—may be proposed as foundational properties by which programmers should evaluate method structure 
 
 [![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java)
 

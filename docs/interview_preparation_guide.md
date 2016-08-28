@@ -149,6 +149,7 @@
 - [5 Ways You’re Scaring The Hiring Manager At An Interview](http://www.careerealism.com/interview-scaring-hiring-manager/)
 - [theundercoverrecruiter.com: How to Explain Why You Stayed in the Same Job so Long](http://theundercoverrecruiter.com/explain-why-you-stayed)
 - [glassdoor.com: Why Do Job Interviews Feel So Weird?](https://www.glassdoor.com/blog/weird-interviews/)
+- [careerealism.com: 5 Ways To Build Confidence For An Interview](http://www.careerealism.com/build-confidence-interview/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

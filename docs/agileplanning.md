@@ -45,6 +45,8 @@
 - [DZone: The Ultimate Agile Transformation Tool: Sticky Notes](https://dzone.com/articles/the-ultimate-agile-transformation-tool-quotsticky) Who would guess that the ultimate Agile tool is as simple as a sticky note? Read on to find out how it will work for you and your team.
 - [zdnet: Keeping control when you're not in the office: Five tips for managing a dispersed team](http://www.zdnet.com/article/keeping-control-when-youre-not-in-the-office-five-tips-for-managing-a-dispersed-team/) Keeping a team working effectively if you rarely meet can be hard: here are some best practices.
 
+![trust_your_project_manager](images/trust_your_project_manager.png)
+
 [![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)
 
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
