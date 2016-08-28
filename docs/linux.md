@@ -602,6 +602,7 @@
 	- [Garbage Collection Log Analysis API](https://blog.tier1app.com/2016/06/18/garbage-collection-log-analysis-api/)
 	- [How to take thread dumps? – 7 options](https://blog.tier1app.com/2016/05/23/how-to-take-thread-dumps-7-options/)
 - [fedoramagazine.org: Performance profiling with perf 🌟🌟🌟](https://fedoramagazine.org/performance-profiling-perf/)
+- [Linux debugging tools you'll love: the zine (Julia Evans) 🌟🌟🌟🌟](https://www.indiegogo.com/projects/linux-debugging-tools-you-ll-love-the-zine) A zine about my favourite Linux debugging tools (strace! perf! tcpdump! and many more!) 
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
@@ -610,6 +611,9 @@
 [![fastthread](images/fastthread.png)](http://fastthread.io/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Perf- A Performance Monitoring and Analysis Tool for Linux<a href="https://t.co/dc4kzOHWEV">https://t.co/dc4kzOHWEV</a> <br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/sYi1KhAmr3">pic.twitter.com/sYi1KhAmr3</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/733207445317648384">19 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m making a zine about linux debugging tools. want a printed copy? (and to help me give them away?) here you go: <a href="https://t.co/aZI4Vjv054">https://t.co/aZI4Vjv054</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/769609966802075649">27 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### htop
