@@ -113,22 +113,7 @@
 <br>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0X8mr6Q8Ew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CB9G5Dvv-EE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpkmFGuC9NQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5B7mJtiwbMg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr63Sm7B16YlwVAGwxPOXSZ9CdcHMa-rc" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
