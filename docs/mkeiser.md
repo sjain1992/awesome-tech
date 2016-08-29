@@ -28,6 +28,27 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">World debt, by country<br><br>(Via Visual Capitalist) <a href="https://t.co/GRfCIl7Yak">pic.twitter.com/GRfCIl7Yak</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768108183298514944">23 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: European countries, public debt as % of GDP (2014). <a href="https://t.co/W6bSuJ9Bj7">pic.twitter.com/W6bSuJ9Bj7</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768893280041873408">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Highest govt debt as share of GDP.<br><br>Japan: 229%<br>Greece: 179%<br>Lebanon: 134%<br>Italy: 132%<br>Portugal: 129%<br>Cyprus: 108%<br>Belgium: 106%<br>US: 103%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/759048510201139200">29 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Public debt as % of GDP, 2015<br><br>Japan: 243%<br>Greece: 174%<br>US: 105%<br>France: 94%<br>UK: 90%<br>India: 66%<br>Turkey: 36%<br>China: 22%<br>Russia: 13%<br>Saudi: 2%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768878189485502464">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">China, total debt.<br><br>2007: $7 trillion<br>2014: $28 trillion <a href="https://t.co/Xm6sCwsQAJ">pic.twitter.com/Xm6sCwsQAJ</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767791069698240512">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nuclear Warheads<br><br>Russia: 8500<br>US: 7700<br>France: 300<br>China: 250<br>UK: 225<br>Pakistan: 120<br>India: 110<br>Israel: 80<br>NKorea: 8 <a href="https://t.co/qMmFJejfoM">pic.twitter.com/qMmFJejfoM</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768886067965497345">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top arms exporters, 2014 ($ billion)<br><br>1. US: 10.2<br>2. Russia: 6<br>3. France: 2<br>4. UK. 1.7<br>5. Germany: 1.2<br>6. Spain: 1.1 <a href="https://t.co/XRmyTDJvwk">pic.twitter.com/XRmyTDJvwk</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768870855115878400">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Military budget, 2015. ($ billion)<br><br>US: 598<br>China: 146<br>Saudi: 82<br>Russia: 65<br>UK: 56<br>India: 48<br>France: 47<br>Japan: 41 <a href="https://t.co/qVj5W9HCLZ">pic.twitter.com/qVj5W9HCLZ</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768153478770270208">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 7 Facets of a Digital Bank<a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://twitter.com/hashtag/digitalbank?src=hash">#digitalbank</a><a href="https://twitter.com/BankDirector">@bankdirector</a> <a href="https://t.co/WufP4TL3h5">https://t.co/WufP4TL3h5</a> <a href="https://t.co/UqQh5sIsVf">pic.twitter.com/UqQh5sIsVf</a></p>&mdash; Sebastien Meunier (@sbmeunier) <a href="https://twitter.com/sbmeunier/status/706388929134653441">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

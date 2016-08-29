@@ -92,6 +92,9 @@
 
 [![distribucion_ingresos_espana](images/distribucion_ingresos_espana.png)](https://image-store.slidesharecdn.com/7ac618a4-bb3d-4733-ab9e-03153bf7744e-original.jpeg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">World&#39;s most admired companies.<br><br>1. Apple<br>2. Alphabet<br>3. Amazon<br>4. Berkshire<br>5. Disney<br>6. Starbucks<br><br>(Fortune) <a href="https://t.co/jDdTNIPknn">pic.twitter.com/jDdTNIPknn</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767753578706378752">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Startups, Multinationals and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)

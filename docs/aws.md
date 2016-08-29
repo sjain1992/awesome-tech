@@ -637,6 +637,7 @@
 - [Updated Whitepaper Available: AWS Best Practices for DDoS Resiliency 🌟🌟🌟](http://blogs.aws.amazon.com/security/post/Tx6QAIBSQTJPHB/Updated-Whitepaper-Available-AWS-Best-Practices-for-DDoS-Resiliency)
 - [AWS Security Blog: In Case You Missed These: AWS Security Blog Posts from June, July, and August 2016](http://blogs.aws.amazon.com/security/post/Tx3KVD6T490MM47/In-Case-You-Missed-These-AWS-Security-Blog-Posts-from-June-July-and-August)
 - [Amazon Inspector Announces General Availability for Windows](https://aws.amazon.com/es/about-aws/whats-new/2016/08/amazon-inspector-announces-general-availability-for-windows/)
+- [encrypt and decrypt data: Importing Key Material in AWS Key Management Service (AWS KMS)](https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html) Use your own encryption keys with AWS Key Management Service.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ready to learn more about securely controlling access to AWS resources? Follow <a href="https://twitter.com/AWSIdentity">@AWSIdentity</a>! <a href="https://t.co/zrQd8MQsiH">pic.twitter.com/zrQd8MQsiH</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/747429329030701056">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -677,6 +678,7 @@
 <br/>
 
 ## AWS S3
+- [Making Requests to Amazon S3 over IPv6](http://docs.aws.amazon.com/AmazonS3/latest/dev/ipv6-access.html) Amazon Simple Storage Service (Amazon S3) supports the ability to access S3 buckets using the Internet Protocol version 6 (IPv6), in addition to the IPv4 protocol.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55f-4CMxoro?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

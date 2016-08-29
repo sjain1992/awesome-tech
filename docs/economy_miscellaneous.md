@@ -1,9 +1,9 @@
 <!-- MarkdownTOC -->
 
 - [Economy. Miscellaneous](#economy-miscellaneous)
-    - [IT](#it)
-    - [Referencias](#referencias)
-    - [Business process improvement](#business-process-improvement)
+	- [IT](#it)
+	- [Referencias](#referencias)
+	- [Business process improvement](#business-process-improvement)
 
 <!-- /MarkdownTOC -->
 
@@ -32,6 +32,111 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Salidas de flujos de Capital, especialmente Italia y España. <a href="https://twitter.com/hashtag/economia?src=hash">#economia</a> <a href="https://t.co/tBxZfLYQqC">pic.twitter.com/tBxZfLYQqC</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/755795127612956672">20 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="it" dir="ltr">Volkswagen brands<br><br>- Audi<br>- Bentley<br>- Bugatti<br>- Ducati<br>- Lamborghini<br>- Porsche<br>- Scania<br>- Seat<br>- Skoda<br>- VW <a href="https://t.co/gSvSQgWd9s">pic.twitter.com/gSvSQgWd9s</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768131073595158528">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Fiat Chrysler brands<br><br>- Alfa Romeo<br>- Chrysler<br>- Dodge<br>- Ferrari<br>- Jeep<br>- Lancia<br>- Maserati<br>- Ram Trucks<br>- SRT<br>- Fiat <a href="https://t.co/PGGkCdUolb">pic.twitter.com/PGGkCdUolb</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767806138523881473">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">China and Italy both had economies of $1.1 trillion in 2000<br><br>China&#39;s economy is now six times larger than Italy&#39;s <a href="https://t.co/R1TOEn34Bd">pic.twitter.com/R1TOEn34Bd</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768085742329352192">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Venezuela, 2016.<br><br>GDP growth: -8%<br>Inflation: 720%<br>Fiscal deficit: 17% of GDP<br>Interest rate: 21%<br>Reserves: $1 billion <a href="https://t.co/GqM12IakpQ">pic.twitter.com/GqM12IakpQ</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768011444419895296">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Walmart&#39;s revenue in 2015, of $485 billion, is larger than the GDP of Iran. <a href="https://t.co/H6MQ9kvpOL">pic.twitter.com/H6MQ9kvpOL</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767783557146091520">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="in" dir="ltr">Billionaires, 2016.<br><br>China: 568<br>US: 535<br>India: 111<br>UK: 82<br>Germany: 82<br>Russia: 80<br><br>(Hurun) <a href="https://t.co/n9Z0C3iC6I">pic.twitter.com/n9Z0C3iC6I</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767745799971180544">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Size of labour force (million)<br><br>1. China: 797.6<br>2. India: 487.3<br>3. EU: 228<br>4. US: 155.4<br>5. Indonesia: 120 <a href="https://t.co/yiO4RfaWFR">pic.twitter.com/yiO4RfaWFR</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767730739622268929">22 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Solar panel prices have fallen by over 80% since 2010, driven mainly by a surge in Chinese production. <a href="https://t.co/eiklyZxfOa">pic.twitter.com/eiklyZxfOa</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767398422986883072">21 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Suicides per 100,000 people per year<br><br>Korea: 29<br>India: 21<br>Russia 19<br>Japan: 18<br>US: 12<br>France: 12<br>Turkey: 8<br>UK: 6<br>Israel: 6<br>Saudi: 0.4<br><br>(WHO)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767088978151342080">20 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Birth rate, 2015<br><br>Niger: 7.6<br>Nigeria: 5.5<br>Israel: 3.3<br>Saudi: 3<br>India: 2.3<br>US: 1.9<br>Brazil: 1.8<br>Russia: 1.8<br>China: 1.7<br>Germany: 1.5<br>Japan: 1.4</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767066302011670528">20 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Retirement age for men<br><br>Greece: 67<br>Italy: 66.3<br>US: 66<br>Germany: 65.3<br>France: 65<br>UK: 65<br>Japan: 61<br>China: 60<br>India: 60<br>Turkey: 60<br>Indonesia: 58</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767051173480116224">20 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Japan&#39;s economy is same size today as it was in 1993.<br><br>China&#39;s economy has grown twenty-fold over same period. <a href="https://t.co/Oxj2xpoYD8">pic.twitter.com/Oxj2xpoYD8</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767058832283439104">20 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of electricity produced from coal, 2010.<br><br>Australia: 76%<br>Israel: 58%<br>US: 46%<br>Germany: 44%<br>UK: 29%<br>Japan: 27%<br>Turkey: 26%<br>Canada: 16%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767005870840360960">20 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">France<br><br>- Unemployment: 10%<br>- Youth unemployment: 23%<br>- National union crisis<br>- President approval: 14%<br>- Three terror attacks in 18 months</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/766726602482823168">19 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Military spending ($ billion, 2011 prices)<br><br>1990<br>Germany: 73<br>USSR: 291<br>Saudi: 25<br>China: 19<br><br>2014<br>Germany: 46<br>Russia: 92<br>Saudi: 74<br>China: 191</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/766711550912569344">19 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: Countries by leading source of imports, 2013. <a href="https://t.co/ntaoBekMol">pic.twitter.com/ntaoBekMol</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/766364213556105216">18 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: European countries by percentage of population killed in WWII. <a href="https://t.co/bXqbv30gZo">pic.twitter.com/bXqbv30gZo</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/766001864169041920">17 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries with least trust in politicians<br><br>1. Lebanon<br>2. Venezuela<br>3. Paraguay<br>4. Argentina<br>5. Brazil<br>6. Italy<br>7. Czech Republic<br><br>(WEF)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/765994159396106240">17 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="it" dir="ltr">Companies based in state of Bavaria, Germany:<br><br>- Allianz<br>- Adidas<br>- Audi<br>- BMW<br>- Puma<br>- Siemens <a href="https://t.co/KUhwyRfbgw">pic.twitter.com/KUhwyRfbgw</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/764869455255998464">14 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Companies based in California, USA.<br><br>Apple Inc.<br>Alphabet<br>Chevron<br>Disney<br>Intel<br>eBay<br>Facebook<br>Visa<br>HP<br>Netflix <a href="https://t.co/hrHKOGejgH">pic.twitter.com/hrHKOGejgH</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/764839241117425664">14 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MAP: Most photographed places on earth. <a href="https://t.co/I6kQmSn2tQ">pic.twitter.com/I6kQmSn2tQ</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763424722239430656">10 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Toyota made more revenue in 2015, $252 billion, than the governments of Greece, South Africa and Ukraine combined. <a href="https://t.co/iRGzgARgw6">pic.twitter.com/iRGzgARgw6</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763404996612206593">10 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">People killed by police, annual.<br><br>US: 428<br>France: 5<br>UK: 4<br>Germany: 2<br><br>---<br><br>Police killed, annual.<br><br>US: 50<br>France: 8<br>Germany: 6<br>UK: 4</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763110201394237440">9 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Exports as % of GDP, 2014<br><br>Germany: 46%<br>Russia: 30%<br>UK: 28%<br>Turkey: 28%<br>India: 23%<br>China: 23%<br>Japan: 16%<br>US: 14% <a href="https://t.co/QD9PB8lWoY">pic.twitter.com/QD9PB8lWoY</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763080011100266496">9 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US oil and gas company bankruptcies<br><br>2013: 15<br>2014: 14<br>2015: 67 <a href="https://t.co/PrcYIjHQR8">pic.twitter.com/PrcYIjHQR8</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763057559297064960">9 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Favorable view of China<br><br>Pakistan: 82%<br>Russia: 79%<br>Israel: 55%<br>Brazil: 55%<br>France: 50%<br>UK: 45%<br>India: 41%<br>US: 38%<br>Turkey: 18%<br>Japan: 9%<br><br>Pew</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763042543093227521">9 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of global economy<br><br>US<br>1980: 25%<br>2014: 19.2%<br><br>EU<br>1980: 30.9%<br>2014: 18.4%<br><br>China<br>1980: 2.2%<br>2014: 16.6%<br><br>India<br>1980: 2.54%<br>2014: 6%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763034813280292864">9 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: Muslims as share of population, perception and reality<br><br>(Via The Guardian) <a href="https://t.co/ynoYpPOEen">pic.twitter.com/ynoYpPOEen</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761970356047360000">6 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Soldiers. (thousand)<br><br>Russia: 798<br>Turkey: 511<br>France: 209<br>Germany: 179<br>Italy: 175<br>UK: 155<br>Greece: 143<br>Spain: 122 <a href="https://t.co/CY0oWksuh8">pic.twitter.com/CY0oWksuh8</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761949996426022914">6 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Agriculture price change over past year<br><br>Wheat: -18%<br>Corn: -15%<br>Oat: -28%<br>Rice: -17%<br>Canola: -10%<br>Rubber: -24% <a href="https://t.co/TP2Csxntop">pic.twitter.com/TP2Csxntop</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761944960744554496">6 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: America&#39;s shrinking middle class.<br><br>(Pew) <a href="https://t.co/ROSEM66kc3">pic.twitter.com/ROSEM66kc3</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761222870252924928">4 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Corporate Tax Rate<br><br>US: 39%<br>China: 25%<br>Japan: 33%<br>Germany: 29.6%<br>UK: 20%<br>France: 33.3%<br>Brazil: 34%<br>India: 34.6%<br>Russia: 20%<br>Indonesia: 25%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761215392609996801">4 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Favourable views of Muslims<br><br>France: 76%<br>UK: 72%<br>Germany: 69%<br>Spain: 52%<br>Italy: 31%<br>Poland: 30%<br><br>(Pew, mid-2015) <a href="https://t.co/tBriFBhraM">pic.twitter.com/tBriFBhraM</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761205093295271937">4 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: World&#39;s most frequent flight paths. <a href="https://t.co/JUeStbxvGf">pic.twitter.com/JUeStbxvGf</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/760898285355671553">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In 1991, the G7 countries made up 50.4% of world GDP.<br><br>In 2020, they are projected to make up 29%. <a href="https://t.co/vYqiEboJvP">pic.twitter.com/vYqiEboJvP</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/760581112817070080">2 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gulf States GDP growth between 2005-2014.<br><br>Qatar: 377%<br>Oman: 156%<br>Saudi: 129%<br>UAE: 122%<br>Kuwait: 115%<br>Iran: 80% <a href="https://t.co/Tej58pAH73">pic.twitter.com/Tej58pAH73</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/759093758537273344">29 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## IT

@@ -379,3 +379,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ever wonder what happens inside a crash test center? Check out this cool behind-the-scenes video. <a href="https://twitter.com/IIHS_autosafety">@IIHS_autosafety</a> <a href="https://t.co/HSzuKnFYMm">https://t.co/HSzuKnFYMm</a></p>&mdash; Good Deeds Insurance (@GoodDeedsDone) <a href="https://twitter.com/GoodDeedsDone/status/710460397770375168">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US motor vehicle deaths, per 100,000 population.<br><br>1970: 25.6<br>1980: 22.4<br>1990: 17.8 <br>2000: 14.8 <br>2010: 10.6 <a href="https://t.co/HavYVhxl5C">pic.twitter.com/HavYVhxl5C</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768100920307494912">23 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+

@@ -1,7 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [Economy Videos](#economy-videos)
-- [Raj británico](#raj-británico)
+    - [Raj británico](#raj-británico)
+    - [Imperio Otomano](#imperio-otomano)
 - [Napoleón](#napoleón)
 - [Economics](#economics)
     - [IT Leaders](#it-leaders)
@@ -120,7 +121,7 @@
 </div>
 <br/>
 
-# Raj británico
+## Raj británico
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RYflddGcaU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -128,6 +129,16 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: The British Empire in 1921, at its territorial peak. <a href="https://t.co/7QNjO8TDvw">pic.twitter.com/7QNjO8TDvw</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/760928469966479360">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Imperio Otomano
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqvxBZ6jYw8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: Ottoman Empire at its territorial peak in the 17th century <a href="https://t.co/yNL1UtqGP0">pic.twitter.com/yNL1UtqGP0</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/763064988218957825">9 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Napoleón
