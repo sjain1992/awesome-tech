@@ -40,6 +40,8 @@
 </div>
 <br>
 
+![simon_sinek_passion](images/simon_sinek_passion.jpg)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qp0HIF3SfI4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
