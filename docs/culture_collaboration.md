@@ -71,6 +71,9 @@
 - [DZone: Technical Leadership in Software Companies 🌟🌟🌟](https://dzone.com/articles/technical-leadership-in-software-companies) The author gives highlights of a recent talk about software leadership, the psyche of developers, and how to lead.
 - [opensource.com: Avoiding bad practices in open source project management](https://opensource.com/business/16/6/bad-practice-foss-projects-management)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Finextra TV: Cultural change crucial in digital transformation <a href="https://t.co/0dnxP26UQy">https://t.co/0dnxP26UQy</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/pTaeZu8ON3">pic.twitter.com/pTaeZu8ON3</a></p>&mdash; Finextra (@Finextra) <a href="https://twitter.com/Finextra/status/768751313748369408">25 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
 
 ![performance_review](images/performance_review.gif)
