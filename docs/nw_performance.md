@@ -10,6 +10,8 @@
 
 <!-- /MarkdownTOC -->
 
+![perfvision_be_careful_def_metrics](images/perfvision_be_careful_def_metrics.jpg)
+
 # Network Performance
 - [infoworld.com: 10 tips for boosting network performance 🌟](http://www.infoworld.com/article/2627174/network-monitoring/10-tips-for-boosting-network-performance.html)
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
