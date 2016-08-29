@@ -1022,6 +1022,7 @@
 
 # Linux interview questions
 - [tecmint.com: interview questions/](http://www.tecmint.com/category/interview-questions/)
+- [intellipaat.com: Top Linux Interview Questions – Most Asked](https://intellipaat.com/interview-question/linux-interview-questions/)
 - [linuxfoundation.org: 10 Job Interview Questions for Linux System Administrators](http://www.linuxfoundation.org/news-media/blogs/browse/2015/07/10-job-interview-questions-linux-system-administrators)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here is some great job interview advice for sys admins. | <a href="https://t.co/ScApCY8YMm">https://t.co/ScApCY8YMm</a> via <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/5A66BknFjh">pic.twitter.com/5A66BknFjh</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/712954615906508801">24 de marzo de 2016</a></blockquote>
