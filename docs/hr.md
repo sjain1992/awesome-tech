@@ -173,6 +173,7 @@
 - [The Good Boss Effect](http://www.mjms.net/blog/good-boss-effect/) In a employee survey, 49 percent of employees stated they would leave their job to feel more appreciated.
 - [hbr.org: What to Do When Your Employee Asks for a Raise Too Soon 🌟🌟](https://hbr.org/2016/07/what-to-do-when-your-employee-asks-for-a-raise-too-soon)
 - [‘It’s Not In My Job Description’: 5 Steps To Build Company Pride And A Sense Of Ownership](http://www.content-loop.com/its-not-in-my-job-description-5-steps-to-build-company-pride-and-a-sense-of-ownership/)
+- [inc.com: Why the Office Dress Code Is Slowly Dying](http://www.inc.com/fiscal-times/how-the-office-dress-code-is-slowly-dying-talent-activewear.html) Companies competing to attract and retain the best talent are changing their expectations about what employees should wear on the job.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

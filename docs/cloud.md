@@ -71,6 +71,7 @@
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 - [Is It Down Righ Now? 🌟🌟](http://www.isitdownrightnow.com)
 - [tecmint: 8 Open Source/Commercial Billing Platforms for Hosting Providers](http://www.tecmint.com/open-source-commercial-billing-software-system-web-hosting/)
+- [Google Cloud: Tour one of the data centers powering our cloud (video) 🌟🌟](https://www.google.com/about/careers/videos/take-a-360-tour-of-one-of-the-data-centers-powering-our-cloud/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LH5lj4sARI0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -89,6 +90,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZmGGAbHqa0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDAYZU4A3w0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
