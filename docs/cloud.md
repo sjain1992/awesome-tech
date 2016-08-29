@@ -17,6 +17,7 @@
 		- [OpenStack refs](#openstack-refs)
 	- [IBM Cloud. IBM Bluemix](#ibm-cloud-ibm-bluemix)
 	- [Google Cloud](#google-cloud)
+	- [Ericsson Cloud](#ericsson-cloud)
 	- [Sandstorm Personal Cloud Platform](#sandstorm-personal-cloud-platform)
 	- [AWS Gartner Report](#aws-gartner-report)
 
@@ -341,6 +342,15 @@
 	- [Spotify chooses Google Cloud Platform to power data infrastructure](http://googlecloudplatform.blogspot.com.es/2016/02/Spotify-chooses-Google-Cloud-Platform-to-power-data-infrastructure.html)
 - [zdnet: Spotify to move to Google Cloud](http://www.zdnet.com/article/spotify-to-switch-from-aws-to-google-cloud/) Spotify said its experience with Google's data platform and tools convinced the company to switch its so-called 'traditional' infrastructure to Google Cloud.
 - [How Google will beat Amazon's cloud 🌟](http://www.zdnet.com/article/how-google-will-beat-amazons-cloud/) Amazon Web Services (AWS) has a seemingly insurmountable lead with an 80+ percent market share. But the cloud game has barely begun, and Google has their own nearly insurmountable lead in technologies key to the evolution of the cloud. Here's how it will play out.
+
+## Ericsson Cloud
+- [Ericsson to Lead Estonia's Public Sector Cloud Transformation](https://www.yahoo.com/news/ericsson-lead-estonias-public-sector-133801077.html)
+- [HYPERSCALE DATACENTER SYSTEM ERICSSON HDS 8000](http://www.ericsson.com/mwc2015/launches/hyperscale-datacenter-system-ericsson-hds-8000)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zbWcr0vzm4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Sandstorm Personal Cloud Platform
 - [sandstorm.io](https://sandstorm.io/)
