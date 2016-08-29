@@ -565,6 +565,8 @@
 </div>
 <br/>
 
+![it_worker_outsourced_his_job_to_china](images/it_worker_outsourced_his_job_to_china.jpg)
+
 ## Leadership Styles Around the World
 - [Leadership Styles Around the World](leadership_styles_around_world.md)
 
