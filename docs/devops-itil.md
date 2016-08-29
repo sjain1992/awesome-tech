@@ -497,6 +497,7 @@ It’s an exciting time to join the organisation. They are scaling up their Tech
 - Rota-based on-call responsibilities for out of hours response/duties 
 
 Skills you can demonstrate: 
+
 - Knowledge of the Linux operating system (in particular CentOS/RedHat); Amazon Web Services and their APIs; various APIs and SDKs that may aid delivery of responsibilities 
 - Knowledge of JavaScript-based frameworks that may aid in the delivery of responsibilities 
 - Knowledge of Apache, MySQL and/ or Redis servers 
