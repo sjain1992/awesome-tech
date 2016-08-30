@@ -6,6 +6,7 @@
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
 	- [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
 	- [Seguridad Web](#seguridad-web)
+	- [PHP Security](#php-security)
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
 	- [Cisco Security Advisories and Responses](#cisco-security-advisories-and-responses)
 	- [Security Blogs](#security-blogs)
@@ -17,11 +18,13 @@
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
 	- [Antivirus and malware](#antivirus-and-malware)
+		- [XSS and CSRF attacks](#xss-and-csrf-attacks)
 	- [Mobile Security](#mobile-security)
 	- [Private Browsing](#private-browsing)
 	- [HTTPs and HSTS](#https-and-hsts)
 	- [Database encryption](#database-encryption)
 	- [Identity Management](#identity-management)
+	- [Session Hijacking Detection](#session-hijacking-detection)
 	- [Big Data Security](#big-data-security)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
@@ -142,6 +145,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4UgRVPvcOc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## PHP Security
+- [phpsecurity.readthedocs.io 🌟🌟🌟](http://phpsecurity.readthedocs.io)
 
 ## OpenSCAP and Lynis. Open Source security auditing tools
 - [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
@@ -333,6 +339,16 @@
 </div>
 <br/>
 
+### XSS and CSRF attacks 
+- [Cross-site Scripting (XSS) Attack](http://www.acunetix.com/websitesecurity/cross-site-scripting/)
+- [CSRF Attacks, XSRF or Sea-Surf – What They Are and How to Defend Against Them](http://www.acunetix.com/websitesecurity/csrf-attacks/)
+- [The True Danger of XSS and CSRF](https://labs.securitycompass.com/web-applications/the-true-danger-of-xss-and-csrf/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s7nsrrOnbcfVYG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shreeraj/xss-and-csrf-with-html5" title="XSS and CSRF with HTML5" target="_blank">XSS and CSRF with HTML5</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shreeraj">Shreeraj Shah</a></strong> </div>
+</div>
+<br/>
+
 ## Mobile Security
 - [Zeef: Mobile Security](https://mobile-security.zeef.com)
 
@@ -398,6 +414,14 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7dpcDA8-8I?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Session Hijacking Detection
+- [stackoverflow.com: What is the best way to prevent session hijacking?](http://stackoverflow.com/questions/22880/what-is-the-best-way-to-prevent-session-hijacking)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tP3JoZ7cHOke14" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/harshjk/session-hijacking-by-harsh-kevadiya" title="Session Hijacking ppt" target="_blank">Session Hijacking ppt</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/harshjk">Harsh Kevadia</a></strong> </div>
 </div>
 <br>
 
