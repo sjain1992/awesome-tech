@@ -4,6 +4,7 @@
 - [Miscellaneous](#miscellaneous)
 	- [IT Blogs and Forums](#it-blogs-and-forums)
 	- [IT Spain Blogs](#it-spain-blogs)
+	- [IT Magazines Spain](#it-magazines-spain)
 	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
 	- [Non IT related Blogs](#non-it-related-blogs)
@@ -95,6 +96,12 @@
 - [ecommerce-news.es 🌟](http://ecommerce-news.es)
 	- [Mercadona pierde entre 30 y 40 M€ al año en su canal online](http://ecommerce-news.es/actualidad/mercadona-pierde-30-40-me-al-ano-canal-online-38119.html)
 	- [Tienda online de Mercadona: un 1% de las ventas y pérdidas por 40 millones](http://cincodias.com/cincodias/2016/03/04/empresas/1457075734_828492.html)
+
+## IT Magazines Spain
+- [ituser.es](http://www.ituser.es/)
+- [ecommerce-news.es](http://ecommerce-news.es)
+- [silicon.es](http://www.silicon.es/)
+- [computing.es](http://www.computing.es/)
 
 ## Blog Hosting
 - [How to Start a Blog with WordPress (Step by Step Guide for Blog Hosting)](http://www.webcodegeeks.com/wordpress/how-to-start-blog-wordpress-hosting/)

@@ -2,7 +2,7 @@
 A curated list of awesome IT projects and resources collected since 2014. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 - [Awesome Tech at GitHub](/docs/index.md)
-- [Awesome Tech at readthedocs.org](https://awesome-tech.readthedocs.io) Recommended, embedded videos are displayed
+- [Awesome Tech at readthedocs.io](https://awesome-tech.readthedocs.io) Recommended, embedded videos are displayed
 
 # Inspired by
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)

@@ -111,6 +111,7 @@
 
 # Security
 - [csoonline.com: How to get a job as a security engineer](http://www.csoonline.com/article/3112674/security/how-to-get-a-job-as-a-security-engineer.html)
+- [Does Security Need DevOps?](https://www.linkedin.com/pulse/does-security-need-devops-casey-walker)
 
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
