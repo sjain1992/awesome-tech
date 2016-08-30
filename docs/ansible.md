@@ -138,7 +138,7 @@
 
 ## Ansible Support and Forums
 - [Ansible Support](https://support.ansible.com)
-- [Ansible subreddit](https://www.reddit.com/r/ansible/)
+- [Ansible subreddit 🌟🌟🌟🌟](https://www.reddit.com/r/ansible/)
 - [ansible-tips-and-tricks.readthedocs.org](http://ansible-tips-and-tricks.readthedocs.org)
 - [ansible-flow.readthedocs.org](http://ansible-flow.readthedocs.org)
 - [Google Groups ansible-project](https://groups.google.com/forum/#!forum/ansible-project)

@@ -310,6 +310,7 @@
 - [glassdoor.com: 7 Annoying Coworkers To Avoid](https://www.glassdoor.com/blog/7-annoying-coworkers-to-avoid/)
 - [Hey Boss: This Job Is Making Me Sick](https://www.linkedin.com/pulse/hey-boss-job-making-me-sick-brian-de-haaff)
 - [entrepreneur.com: 3 Tips for Dealing With the Inevitable Departure of Key Employees](https://www.entrepreneur.com/article/269795)
+- [There's a new boss in town 🌟](https://www.linkedin.com/pulse/theres-new-boss-town-alex-malley) Here are some key principles to keep in mind when a new boss comes to town.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -330,6 +331,8 @@
 [![dilbert_comparing_their_careers_to_others](images/dilbert_comparing_their_careers_to_others.gif)](http://dilbert.com/strip/2016-07-12)
 
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
+
+![donnie_darko_knife](images/donnie_darko_knife.gif)
 
 [![bi_7characteristics_laziest_employees](images/bi_7characteristics_laziest_employees.png)](http://www.businessinsider.com/common-characteristics-of-the-laziest-employees-2016-4)
 

@@ -129,6 +129,7 @@
 - [Reddit CTO: Stick to Boring Tech when Building Your Startup 🌟🌟🌟🌟](http://thenewstack.io/reddit-cto-sxsw-stick-boring-tech-building-start/)
 - [3 Principles for Building a Company That Lasts](https://www.entrepreneur.com/article/276262)
 - [Linkedin: Why Startups Fail?](https://www.linkedin.com/pulse/why-startups-fail-amitt-virmani-lfno-)
+- [expansion.com: ¿La muerte de los unicornios?](http://www.expansion.com/actualidadeconomica/analisis/2016/08/29/57bed622ca4741ad758b4615.html) El auge de las 'startups' ha entrado en una nueva fase. El inversor exige ahora un modelo de negocio viable. La criba ya ha empezado.
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)

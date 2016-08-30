@@ -27,6 +27,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You had one job and you nailed it 😎 👍🏻<a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/SysAdmin?src=hash">#SysAdmin</a> <a href="https://t.co/w30Bpmvoja">pic.twitter.com/w30Bpmvoja</a></p>&mdash; unixstickers (@unixstickers) <a href="https://twitter.com/unixstickers/status/755817900842377216">20 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![sonicwall_independent](images/sonicwall_independent.png)](http://www.channelpartnersonline.com/news/2016/08/dell-s-sonicwall-to-emerge-as-independent-company-with-more-to-offer-partners.aspx)
+
 # Next Generation Firewalls (NGFW)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)

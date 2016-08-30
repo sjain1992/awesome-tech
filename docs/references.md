@@ -36,6 +36,8 @@
 </div>
 <br/>
 
+![donnie_darko_you_are_not_listening](images/donnie_darko_you_are_not_listening.gif)
+
 # References and online defamation
 - [wikipedia: Defamation](https://en.wikipedia.org/wiki/Defamation)
 - [wikipedia: Right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)

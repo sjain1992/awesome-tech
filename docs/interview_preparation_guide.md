@@ -27,6 +27,8 @@
 
 [![former_boss_change_linkedin_profile](images/former_boss_change_linkedin_profile.png)](http://www.theglobeandmail.com/report-on-business/careers/career-advice/life-at-work/can-i-be-forced-by-a-former-boss-to-change-my-linkedin-profile/article27051185/)
 
+![donnie_darko_life_isnt_that_simple](images/donnie_darko_life_isnt_that_simple.gif)
+
 [![dont_expect_recruiters_to_call_you](images/dont_expect_recruiters_to_call_you.png)](https://www.linkedin.com/pulse/dont-expect-recruiters-call-you-bruce-kasanoff)
 
 [![linkedin_boss_employee](images/linkedin_boss_employee.png)](https://www.linkedin.com/pulse/attn-boss-my-linkedin-profile-your-property-glen-mccallum)

@@ -76,6 +76,16 @@ ________________________________________________________________________________
 </div> 
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr63Sm7B16Yn1iIWmy88eHiXH9-ZFBj2-" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2A4I5BZ1L34?list=PLF4C445D6E234A0F6" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Vídeo: <a href="https://twitter.com/elsapunset">@elsapunset</a> y Eduardo Punset tratan el tema del Aprendizaje socioemocional en la <a href="https://twitter.com/hashtag/educaci%C3%B3n?src=hash">#educación</a> escolar <a href="https://t.co/nBbsga4BJq">https://t.co/nBbsga4BJq</a> <a href="https://twitter.com/RedesTV">@RedesTV</a></p>&mdash; Cambiar educando (@Cambiareducando) <a href="https://twitter.com/Cambiareducando/status/670542669257412608">28 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Somos lo que comemos&quot; EDUARD PUNSET siempre tan interesante.<a href="https://t.co/3Kl8vUhEmw">https://t.co/3Kl8vUhEmw</a></p>&mdash; Comer por igual (@Comerporigual) <a href="https://twitter.com/Comerporigual/status/534087470883688448">16 de noviembre de 2014</a></blockquote>
