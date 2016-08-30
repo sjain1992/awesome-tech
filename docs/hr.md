@@ -332,8 +332,6 @@
 
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
 
-![donnie_darko_knife](images/donnie_darko_knife.gif)
-
 [![bi_7characteristics_laziest_employees](images/bi_7characteristics_laziest_employees.png)](http://www.businessinsider.com/common-characteristics-of-the-laziest-employees-2016-4)
 
 [![dilbert_stress_free_workmate](images/dilbert_stress_free_workmate.jpg)](http://dilbert.com/strip/2016-08-14)

@@ -107,6 +107,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Game of inches<a href="https://t.co/SwBSum936R">https://t.co/SwBSum936R</a></p>&mdash; Famps (@ElFamps) <a href="https://twitter.com/ElFamps/status/708649150548742144">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![donnie_darko_knife](images/donnie_darko_knife.gif)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So much of what we call management consists in making it difficult for people to work. —Drucker <a href="https://t.co/rB8ghD9ss7">pic.twitter.com/rB8ghD9ss7</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/714838123578982400">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
