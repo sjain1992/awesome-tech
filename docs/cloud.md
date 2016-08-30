@@ -34,6 +34,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Top10?src=hash">#Top10</a> Ways to Leverage <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> in 2016 <a href="https://t.co/hOYN7wy8rr">https://t.co/hOYN7wy8rr</a> via <a href="https://twitter.com/TechRepublic">@techrepublic</a></p>&mdash; Cloud Girls (@gocloudgirls) <a href="https://twitter.com/gocloudgirls/status/683000209497042945">1 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![2018_60percent_enterprises_cloud](images/2018_60percent_enterprises_cloud.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/bbva">@BBVA</a> partners with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> to power flexible, scalable digital <a href="https://twitter.com/hashtag/banking?src=hash">#banking</a>. <a href="https://t.co/NRIW6ZrOIc">https://t.co/NRIW6ZrOIc</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/ezBw8iH1zt">pic.twitter.com/ezBw8iH1zt</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/738012731584843777">1 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
