@@ -83,6 +83,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Linux Journey is a site dedicated to making learning Linux fun and easy.&quot;  <a href="https://t.co/6zFkticGrB">https://t.co/6zFkticGrB</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/738578805053259778">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux turned 25 on August 25th. How it shaped the development of cloud computing <a href="https://t.co/lfRNdri0qM">https://t.co/lfRNdri0qM</a> <a href="https://t.co/jQ6d5GlhIl">pic.twitter.com/jQ6d5GlhIl</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/769916956111695872">28 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
 
 <center>
