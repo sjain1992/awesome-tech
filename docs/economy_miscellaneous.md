@@ -11,6 +11,8 @@
 
 ![todays_society](images/todays_society.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BetterLife?src=hash">#BetterLife</a> Index: Because there’s <a href="https://twitter.com/hashtag/more2life?src=hash">#more2life</a> than cold economic <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a>. Make yr voice heard <a href="https://t.co/wNmW8qAPfq">https://t.co/wNmW8qAPfq</a><a href="https://t.co/M2KP4uIPr0">https://t.co/M2KP4uIPr0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/770606582858063873">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Economy. Miscellaneous
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
@@ -137,6 +139,14 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In 1991, the G7 countries made up 50.4% of world GDP.<br><br>In 2020, they are projected to make up 29%. <a href="https://t.co/vYqiEboJvP">pic.twitter.com/vYqiEboJvP</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/760581112817070080">2 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gulf States GDP growth between 2005-2014.<br><br>Qatar: 377%<br>Oman: 156%<br>Saudi: 129%<br>UAE: 122%<br>Kuwait: 115%<br>Iran: 80% <a href="https://t.co/Tej58pAH73">pic.twitter.com/Tej58pAH73</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/759093758537273344">29 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most expensive cities for expats – and there&#39;s a new one at the top of the ranking <a href="https://t.co/wj8HH6TDy3">https://t.co/wj8HH6TDy3</a> <a href="https://t.co/5motrtZUtY">pic.twitter.com/5motrtZUtY</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770635191492673536">30 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 maps that will change how you see <a href="https://twitter.com/hashtag/migration?src=hash">#migration</a> in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/AUJxuIa1GT">https://t.co/AUJxuIa1GT</a> <a href="https://t.co/Ly48GXNKtE">pic.twitter.com/Ly48GXNKtE</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770613805013401600">30 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## IT

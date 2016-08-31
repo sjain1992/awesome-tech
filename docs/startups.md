@@ -152,6 +152,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 things you need to know about fintech. Read more: <a href="https://t.co/pjGCPgdM9i">https://t.co/pjGCPgdM9i</a> <a href="https://t.co/hvh18gynQI">pic.twitter.com/hvh18gynQI</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770639498434740224">30 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
@@ -410,6 +413,14 @@
 </p>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Collective living&#39;s fine for students but for everybody else it stinks - The Guardian <a href="https://t.co/huep0RcCuW">https://t.co/huep0RcCuW</a><br><br>The Guardian<br><br>Collective li…</p>&mdash; Dyl Does (@dyl_does) <a href="https://twitter.com/dyl_does/status/725797334026702848">28 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most expensive cities for expats – and there&#39;s a new one at the top of the ranking <a href="https://t.co/wj8HH6TDy3">https://t.co/wj8HH6TDy3</a> <a href="https://t.co/5motrtZUtY">pic.twitter.com/5motrtZUtY</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770635191492673536">30 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 maps that will change how you see <a href="https://twitter.com/hashtag/migration?src=hash">#migration</a> in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/AUJxuIa1GT">https://t.co/AUJxuIa1GT</a> <a href="https://t.co/Ly48GXNKtE">pic.twitter.com/Ly48GXNKtE</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770613805013401600">30 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/OSouk8Ferd">https://t.co/OSouk8Ferd</a> The Wolf of Wall Street - &quot;You Make A Lot of Money&quot; Clip</p>&mdash; Lucas Daher Tristão (@Lucasplay) <a href="https://twitter.com/Lucasplay/status/704919553889935360">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

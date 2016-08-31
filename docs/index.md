@@ -479,6 +479,13 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BetterLife?src=hash">#BetterLife</a> Index: Because there’s <a href="https://twitter.com/hashtag/more2life?src=hash">#more2life</a> than cold economic <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a>. Make yr voice heard <a href="https://t.co/wNmW8qAPfq">https://t.co/wNmW8qAPfq</a><a href="https://t.co/M2KP4uIPr0">https://t.co/M2KP4uIPr0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/770606582858063873">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This map tells you everything you need to know about <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> in Europe <a href="https://t.co/pUTR3IyWlo">https://t.co/pUTR3IyWlo</a> <a href="https://t.co/3853yJbBGe">pic.twitter.com/3853yJbBGe</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770916594436476929">31 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US and China high-technology exports ($ billion)<br><br>1992<br>US:104<br>China: 4.3<br><br>2012<br>US: 148 <br>China: 505 <a href="https://t.co/Q5aRVYlSM9">pic.twitter.com/Q5aRVYlSM9</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761253033195937793">4 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -340,6 +340,7 @@
 - [distrowatch.com: SystemRescueCd](http://distrowatch.com/table.php?distribution=systemrescue)
 - [Linux.com: Let Attic Deduplicate and Store your Backups 🌟🌟🌟](https://www.linux.com/learn/let-attic-deduplicate-and-store-your-backups)
 - [Backup and archive to AWS Storage Gateway VTL with Veeam Backup & Replication v9 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/08/backup-and-archive-to-aws-storage-gateway-vtl-with-veeam-backup-and-replication-v9/)
+- [SEP Backup and Disaster Recovery Announces Support for Red Hat Virtualization 4.0](http://finance.yahoo.com/news/sep-backup-disaster-recovery-announces-214400634.html)
 
 ![system_restore_disk](images/system_restore_disk.jpg)
 
