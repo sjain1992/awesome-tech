@@ -52,6 +52,8 @@
 
 ![modis_soak_up_new_info](images/modis_soak_up_new_info.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Under-qualified, over-qualified? Read about reasons for &amp; consequences of <a href="https://twitter.com/hashtag/skills?src=hash">#skills</a> mismatch <a href="https://t.co/BVgv85T9ZV">https://t.co/BVgv85T9ZV</a> <a href="https://t.co/oVYhJSJ8Ba">pic.twitter.com/oVYhJSJ8Ba</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/769429138176413696">27 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
