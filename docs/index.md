@@ -486,6 +486,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src='http://players.brightcove.net/1898269467/Bksol5B7_default/index.html?videoId=1730791867001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US and China high-technology exports ($ billion)<br><br>1992<br>US:104<br>China: 4.3<br><br>2012<br>US: 148 <br>China: 505 <a href="https://t.co/Q5aRVYlSM9">pic.twitter.com/Q5aRVYlSM9</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761253033195937793">4 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

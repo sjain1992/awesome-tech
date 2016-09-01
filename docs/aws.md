@@ -50,7 +50,7 @@
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
         - [AWS IAM](#aws-iam)
         - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
-    - [AWS S3](#aws-s3)
+    - [AWS S3 & EBS. AWS Storage Gateway](#aws-s3--ebs-aws-storage-gateway)
     - [Amazon EFS Elastic File System](#amazon-efs-elastic-file-system)
     - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
     - [AWS Diagrams](#aws-diagrams)
@@ -677,8 +677,10 @@
 </div>
 <br/>
 
-## AWS S3
+## AWS S3 & EBS. AWS Storage Gateway
 - [Making Requests to Amazon S3 over IPv6](http://docs.aws.amazon.com/AmazonS3/latest/dev/ipv6-access.html) Amazon Simple Storage Service (Amazon S3) supports the ability to access S3 buckets using the Internet Protocol version 6 (IPv6), in addition to the IPv4 protocol.
+- [How to Build Sparse EBS Volumes for Fun and Easy Snapshotting](https://aws.amazon.com/blogs/apn/how-to-build-sparse-ebs-volumes-for-fun-and-easy-snapshotting/)
+- [Getting Started with AWS Storage Gateway](http://docs.aws.amazon.com/storagegateway/latest/userguide/GettingStarted-common.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55f-4CMxoro?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
