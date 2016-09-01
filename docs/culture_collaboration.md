@@ -88,6 +88,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/QFVSHwGov0">https://t.co/QFVSHwGov0</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749294104027201536">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![culture_its_ok_to](images/culture_its_ok_to.png)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In meritocracies, leaders can emerge anywhere—if you let them. <a href="https://twitter.com/jackieyeaney">@JackieYeaney</a> explains how to do it: <a href="https://t.co/VJ30cSKDdr">https://t.co/VJ30cSKDdr</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/746567347402481664">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
