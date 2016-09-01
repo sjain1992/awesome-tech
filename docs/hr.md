@@ -76,6 +76,8 @@
 </div>
 <br/>
 
+![which_country_best_developers](images/which_country_best_developers.png)
+
 ## Employee Engagement
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [Warning: Over Half Your Employees Hate Their Job](http://www.mjms.net/blog/warning-half-employees-hate-job/)
