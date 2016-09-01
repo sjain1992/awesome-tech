@@ -149,6 +149,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 maps that will change how you see <a href="https://twitter.com/hashtag/migration?src=hash">#migration</a> in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/AUJxuIa1GT">https://t.co/AUJxuIa1GT</a> <a href="https://t.co/Ly48GXNKtE">pic.twitter.com/Ly48GXNKtE</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770613805013401600">30 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In 2014, OECD countries accounted for 54% of global <a href="https://twitter.com/hashtag/tourist?src=hash">#tourist</a> arrivals. Compare your country <a href="https://t.co/t6wrBa0Iwm">https://t.co/t6wrBa0Iwm</a> <a href="https://t.co/i1amSlmvfy">pic.twitter.com/i1amSlmvfy</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/766260983878811648">18 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## IT
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good 🌟🌟](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
