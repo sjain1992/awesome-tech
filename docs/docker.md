@@ -159,6 +159,7 @@
 - [thenewstack.io: Red Hat’s Paul Cormier: Containers are Here to Stay 🌟🌟🌟](http://thenewstack.io/red-hats-paul-cormier-patience-young-enterprise/)
 - [DZone - Docker Cloud: Monitoring and Logging](https://dzone.com/articles/docker-cloud-monitoring-logging) In 10-15 minutes you could be looking at charts with all your Docker operations data in one place, accessible by your whole team! Read on to see how it's done by wielding Docker Cloud.
 - [redhat.com topic: Containers 🌟🌟🌟](https://www.redhat.com/en/technologies/topic/containers) Change how you develop and deploy applications
+- [businessinsider.com: A new technology called 'containers' is creating 'winners and losers' says Red Hat CEO 🌟🌟🌟](http://www.businessinsider.com/red-hat-ceo-jim-whitehurst-containers-creating-winners-and-losers-2016-8)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 

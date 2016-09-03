@@ -44,6 +44,7 @@
 - [Red Hat Powers New Generation of High-performance virtualization based on open standards with Red Hat Virtualization 4](https://www.redhat.com/en/about/press-releases/red-hat-powers-new-generation-high-performance-virtualization-based-open-standards-red-hat-virtualization-4) KVM-based virtualization platform designed to streamline the virtualization of traditional workloads while providing a more secure and scalable foundation for hybrid cloud and container-based workloads
 - [captainkvm.com: Red Hat Virtualization 4 Has Launched](http://captainkvm.com/2016/08/red-hat-virtualization-4-launched)
 - [SEP Backup and Disaster Recovery Announces Support for Red Hat Virtualization 4.0](http://finance.yahoo.com/news/sep-backup-disaster-recovery-announces-214400634.html)
+- [businessinsider.com: A new technology called 'containers' is creating 'winners and losers' says Red Hat CEO 🌟🌟🌟](http://www.businessinsider.com/red-hat-ceo-jim-whitehurst-containers-creating-winners-and-losers-2016-8)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Congratulations: <a href="https://twitter.com/hashtag/oVirt?src=hash">#oVirt</a> 4.0 Final Release is now available! Release highlights and more info on the oVirt blog: <a href="https://t.co/vznUO0vkab">https://t.co/vznUO0vkab</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/746067115585736704">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

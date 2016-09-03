@@ -473,6 +473,7 @@
 - [Tecmint: Understanding Different Classifications of Shell Commands and Their Usage in Linux](http://www.tecmint.com/understanding-different-linux-shell-commands-usage/)
 - [unixmen: Linux Shell Scripting part-1: Starting with Linux Shell Scripting](http://www.unixmen.com/starting-with-linux-shell-scripting/)
 - [unixmen: Linux Shell Scripting part-2: Message Displaying, User Variables and Environment Variables](https://www.unixmen.com/message-displaying-user-variables-and-environment-variables/)
+- [Advancing in the Bash Shell 🌟🌟🌟🌟](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) Amazing bash wizardry. In this tutorial, I hope to show you just a few of the amazing features bash provides that will increase your productivity in the shell. 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -919,6 +920,7 @@
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
 - [OpenSCAP](https://www.open-scap.org)
 - [tecmint.com: Implementing Mandatory Access Control with SELinux or AppArmor in Linux](http://www.tecmint.com/mandatory-access-control-with-selinux-or-apparmor-linux/)
+- [people.redhat.com: SECURITY ENHANCED LINUX FOR MERE MORTALS 🌟](http://people.redhat.com/tcameron/Summit2016/selinux/selinux_for_mere_mortals.pdf) Scared of SELinux? Don't be, its easy.
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 

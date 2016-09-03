@@ -32,6 +32,7 @@
     - [AWS OpsWorks](#aws-opsworks)
     - [AWS Networking](#aws-networking)
     - [AWS Route 53](#aws-route-53)
+    - [AWS Elastic Load Balancing](#aws-elastic-load-balancing)
     - [AWS Application Load Balancer](#aws-application-load-balancer)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
@@ -445,12 +446,20 @@
 ## AWS Route 53
 - [How do I transfer a domain to AWS from another registrar?](https://aws.amazon.com/premiumsupport/knowledge-center/transfer-domain-to-aws/)
 
+## AWS Elastic Load Balancing
+- [AWS Summit Series 2016 | London: Deep Dive on Elastic Load Balancing](https://www.youtube.com/watch?v=HinwLb2lpLQ)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HinwLb2lpLQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## AWS Application Load Balancer
 - [Application Load Balancer 🌟🌟](https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/)
 - [aws blogs - New – AWS Application Load Balancer](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4976_8JIWT4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBow4273Ym8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
