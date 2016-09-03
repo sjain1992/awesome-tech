@@ -244,8 +244,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|[![systems_engineer_video](images/systems_engineer_video.jpg)](https://www.youtube.com/user/CloudSystemsEngineer)|[![microsoft_online_learning_video](images/microsoft_online_learning_video.jpg)](https://www.youtube.com/channel/UCiLEaVJlVFB_DoeBQGWV63g)|[![itfreetraining_video](images/itfreetraining_video.jpg)](https://www.youtube.com/user/itfreetraining)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|[![london_devops_video](images/london_devops_video.jpg)](https://www.youtube.com/channel/UCITk36Wxz1_R_tfBm41mmrg)|
-|:---:|:---:|
+|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|[![london_devops_video](images/london_devops_video.jpg)](https://www.youtube.com/channel/UCITk36Wxz1_R_tfBm41mmrg)|[![ibm_devops_video](images/ibm_devops_video.jpg)](https://www.youtube.com/user/IBMRational)|[![devops_library_video](images/devops_library_video.jpg)](https://www.youtube.com/channel/UCOnioSzUZS-ZqsRnf38V2nA)|
+|:---:|:---:|:---:|:---:|
 
 |[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![powershell_video](images/powershell_video.jpg)](https://www.youtube.com/user/powershellorg)|
 |:---:|:---:|:---:|:---:|:---:|
