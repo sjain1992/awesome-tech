@@ -42,6 +42,31 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Fiat Chrysler brands<br><br>- Alfa Romeo<br>- Chrysler<br>- Dodge<br>- Ferrari<br>- Jeep<br>- Lancia<br>- Maserati<br>- Ram Trucks<br>- SRT<br>- Fiat <a href="https://t.co/PGGkCdUolb">pic.twitter.com/PGGkCdUolb</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767806138523881473">22 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MEIerHQ9IAw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHqvKYanuZw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dGFkw0hzW1c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acmbVbBK1ps?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XYzuExPmm3Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">China and Italy both had economies of $1.1 trillion in 2000<br><br>China&#39;s economy is now six times larger than Italy&#39;s <a href="https://t.co/R1TOEn34Bd">pic.twitter.com/R1TOEn34Bd</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/768085742329352192">23 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -61,6 +86,26 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Suicides per 100,000 people per year<br><br>Korea: 29<br>India: 21<br>Russia 19<br>Japan: 18<br>US: 12<br>France: 12<br>Turkey: 8<br>UK: 6<br>Israel: 6<br>Saudi: 0.4<br><br>(WHO)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767088978151342080">20 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YRh0p3xb0Vw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ0dZhHccfU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mCTaiKxpWSA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvFl6UBZLv4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Birth rate, 2015<br><br>Niger: 7.6<br>Nigeria: 5.5<br>Israel: 3.3<br>Saudi: 3<br>India: 2.3<br>US: 1.9<br>Brazil: 1.8<br>Russia: 1.8<br>China: 1.7<br>Germany: 1.5<br>Japan: 1.4</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767066302011670528">20 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -140,6 +185,21 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gulf States GDP growth between 2005-2014.<br><br>Qatar: 377%<br>Oman: 156%<br>Saudi: 129%<br>UAE: 122%<br>Kuwait: 115%<br>Iran: 80% <a href="https://t.co/Tej58pAH73">pic.twitter.com/Tej58pAH73</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/759093758537273344">29 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJdT6QcSbQ0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvFl6UBZLv4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDN6ykZO0kI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most expensive cities for expats – and there&#39;s a new one at the top of the ranking <a href="https://t.co/wj8HH6TDy3">https://t.co/wj8HH6TDy3</a> <a href="https://t.co/5motrtZUtY">pic.twitter.com/5motrtZUtY</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770635191492673536">30 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
