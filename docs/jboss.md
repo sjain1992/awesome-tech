@@ -97,6 +97,7 @@
 - [developer.jboss.org: This week in JBoss (1 July 2016): Harness the power of participation](https://developer.jboss.org/blogs/weekly-editorial/2016/07/01/this-week-in-jboss-1-july-2016-an-amazing-week-at-red-hat-summit-and-devnation-2016)
 - [DZone: How to Import Any JBoss BRMS Example Project](https://dzone.com/articles/how-to-import-any-jboss-brms-example-project) This article shows how you can import the projects associated with the various JBoss BRMS demo projects into my own existing installation.
 - [DZone: What You Missed at DevNation and Red Hat Summit 2016](https://dzone.com/articles/what-you-missed-at-devnation-red-hat-summit-2016-1) Haven't seen all the big news from DevNation and Red Hat Summit yet? This post goes over some of the highlights from Red Hat's Eric Schabell.
+- [schabell.org: 4 examples showcasing new JBoss Cloud installation option 🌟](http://www.schabell.org/2016/04/4-examples-showcasing-new-jboss-cloud-installation-option.html)
 
 [![jboss_eap7_release_notes](images/jboss_eap7_release_notes.png)](https://developer.jboss.org/blogs/weekly-editorial/2016/07/01/this-week-in-jboss-1-july-2016-an-amazing-week-at-red-hat-summit-and-devnation-2016)
 

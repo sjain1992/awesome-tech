@@ -383,6 +383,7 @@
 - [nixCraft: How to use multiple connections to speed up apt-get/apt on Ubuntu Linux 16.04 LTS server](http://www.cyberciti.biz/faq/how-to-speed-up-apt-get-apt-command-ubuntu-linux/)
 - [unixmen.com: How to enable or disable repositories in CentOS](https://www.unixmen.com/enable-disable-repositories-centos/)
 - [unixmen.com: How To Add Repositories To Debian 8.1.0](https://www.unixmen.com/how-to-add-repositories-to-debian-8-1-0/)
+- [unixmen.com: Introducing ‘Aptly’, A Debian Repository Management Tool](https://www.unixmen.com/introducing-aptly-a-debian-repository-management-tool/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/46877604" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -474,6 +475,9 @@
 - [unixmen: Linux Shell Scripting part-1: Starting with Linux Shell Scripting](http://www.unixmen.com/starting-with-linux-shell-scripting/)
 - [unixmen: Linux Shell Scripting part-2: Message Displaying, User Variables and Environment Variables](https://www.unixmen.com/message-displaying-user-variables-and-environment-variables/)
 - [Advancing in the Bash Shell 🌟🌟🌟🌟](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) Amazing bash wizardry. In this tutorial, I hope to show you just a few of the amazing features bash provides that will increase your productivity in the shell. 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -697,6 +701,7 @@
 - [cyberciti.biz - ss: Display Linux TCP / UDP Network and Socket Information](http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html)
 - [nixCraft: How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed 🌟](http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/)
 - [How To Flush Linux/UNIX DNS Cache](http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/)
+- [unixmen.com: How To Setup DNS Server In Ubuntu 15.10](http://www.unixmen.com/how-to-setup-dns-server-in-ubuntu-15-10/)
 - [How to Configure and Manage Network Connections Using ‘nmcli’ Tool 🌟](http://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/)
 - [Linux networking examples and tutorials for advanced users 🌟🌟🌟](https://github.com/knorrie/network-examples) Includes lab examples for lxc, bgp, vpn, & more
 - [CentOS/RHEL: Install vnStat Network Traffic Monitor To Keep a Log Of Daily Traffic 🌟🌟🌟](http://www.cyberciti.biz/faq/centos-redhat-fedora-linux-install-vnstat-bandwidth-monitor/)
@@ -811,6 +816,8 @@
 - [securitychecklist.org 🌟🌟🌟](https://securitychecklist.org/)
 - [nixCraft: HowTo Change Password of Specific User Account In Linux](http://www.cyberciti.biz/faq/changing-password-of-specific-account-in-linux-commandline/)
 - [unixmen.com: Password Management in Linux by using passwd command](http://www.unixmen.com/password-management-linux-using-passwd-command/)
+- [tecmint: The Mega Guide To Harden and Secure CentOS 7 – Part 1 🌟🌟🌟](http://www.tecmint.com/security-and-hardening-centos-7-guide/)
+- [tecmint: How to Change and Secure Default PhpMyAdmin Login URL](http://www.tecmint.com/change-secure-phpmyadmin-login-url-page/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -1017,6 +1024,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Combining apt-get/apt-cache &amp; adds a progress bar using apt <a href="https://t.co/USBZOpb3rF">https://t.co/USBZOpb3rF</a> <a href="https://twitter.com/hashtag/debian?src=hash">#debian</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Fmkw4xvG8b">pic.twitter.com/Fmkw4xvG8b</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706180656439566336">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Some people just don&#39;t appreciate the hard work of script or software writer. Why do you trust yum/apt-get/src code? <a href="https://t.co/GymiesjBqY">pic.twitter.com/GymiesjBqY</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/771767888902447106">2 de septiembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # ArchLinux
 - [ArchLinux.org](https://www.archlinux.org/)

@@ -48,6 +48,8 @@
 
 ![voltaire disagreement](images/voltaire_disagreement.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Almost everything in the world becomes better when it’s open: <a href="https://t.co/R476y341Lt">https://t.co/R476y341Lt</a> via <a href="https://twitter.com/HuffPostBlog">@HuffPostBlog</a> <a href="https://twitter.com/JWhitehurst">@jwhitehurst</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/772114182023946240">3 de septiembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_great_idea](images/dilbert_great_idea.jpg)](http://dilbert.com/strip/2005-07-24)
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)

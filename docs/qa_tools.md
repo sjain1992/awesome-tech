@@ -48,6 +48,7 @@
 ## Gerrit Code Review
 - [Gerrit](https://www.gerritcodereview.com/)
 - [youtube: Introducing GerritHub, Gerrit Code Review on GitHub](https://www.youtube.com/watch?v=jeWTvDad6VM)
+- [How Code Review Saves You Time](http://www.daedtech.com/code-review-saves-time/)
 
 [![Gerrit_workflow](images/Gerrit_workflow.png)](https://www.bsi-software.com/en/scout-blog/article/git-gerrit-workflow.html)
 

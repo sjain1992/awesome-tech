@@ -308,6 +308,7 @@
 - [software.dell.com: The Top 6 Ways to Protect Your Organization from Malware](https://software.dell.com/blog/en/the-top-6-ways-to-protect-your-organization-from-malware)
 - [software.dell.com - Ransomware: The Cost of Doing Nothing](https://software.dell.com/blog/en/ransomware-the-cost-of-doing-nothing)
 - [medium.com: How a malware could infect digitally signed files without altering hashes on macOS](https://medium.com/@sabrihaddouche/how-a-malware-can-infects-digitally-signed-files-without-altering-hashes-on-macos-c7dc9e391a8e#.nu2vc41rm)
+- [Situation: scary. #APT #malware, probably state-sponsored, invading many large, secure networks. Scientists Just Discovered Something Awful for IT Workers Everywhere](http://www.inc.com/tom-popomaronis/scientists-just-discovered-something-awful-for-it-workers-everywhere.html) The new, advanced malware researchers found forces business IT specialists to acknowledge the long reach of state-sponsored cyber attacks.
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 

@@ -16,7 +16,7 @@
     - [Logging for Continuous Integration](#logging-for-continuous-integration)
     - [Deploying PHP Applications](#deploying-php-applications)
     - [Subversion](#subversion)
-    - [Git](#git)
+    - [Git and GitHub](#git-and-github)
         - [Git on Twitter](#git-on-twitter)
         - [Git clients](#git-clients)
     - [Red Hat Demo. Live CI/CD deployment](#red-hat-demo-live-cicd-deployment)
@@ -261,6 +261,7 @@
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 - [javacodegeeks.com: Setting up your application server with maven](http://www.javacodegeeks.com/2013/10/setting-up-your-application-server-with-maven.html)
 - [DZone: How to Set Up a Maven Repository In Minutes](https://dzone.com/articles/how-to-setup-a-maven-repository-in-minutes) A tutorial on how to set up Artifactory as a Maven repository to resolve and deploy artifacts in Maven builds.
+- [genbetadev.com: ¿Por qué deberías pensar en Gradle 3.0 como sustituto de Maven?](http://www.genbetadev.com/herramientas/por-que-deberias-pensar-en-gradle-3-0-como-sustituto-de-maven)
 
 ## Logging for Continuous Integration 
 - [Logging for Continuous Integration 🌟🌟🌟](https://dzone.com/articles/logging-for-continuous-integration-1) Logging the details of what actually happens during the Continuous Integration process makes sense, but how many of us actually do it? Read on for more information.
@@ -279,7 +280,7 @@
 
 [![dzone_git_svn](images/dzone_git_svn.png)](https://dzone.com/articles/git-or-svn-centralized-or-de-centralized-version-c)
 
-## Git
+## Git and GitHub
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
 - [One Million Downloads of GitLab 🌟](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
     - [Setting up GitLab Runner For Continuous Integration](https://about.gitlab.com/2016/03/01/gitlab-runner-with-docker/)
@@ -319,6 +320,7 @@
 - [opensouce.com: How to manage binary blobs with Git](https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7) Git has extensions for handling binary blobs such as multimedia files, so today we will learn how to manage binary assets with Git.
 - [atlassian.com: Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase/)
 - [opensource.com: How to restore older file versions in Git 🌟🌟🌟](https://opensource.com/life/16/7/how-restore-older-file-versions-git)
+- [DZone: Effective Technical Writing in GitHub](https://dzone.com/articles/effectively-technical-writing-in-github) Documentation in GitHub wiki pages is becoming more and more important. Here are some tips to make it more readable for all involved.
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 

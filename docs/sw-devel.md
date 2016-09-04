@@ -106,6 +106,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Coding needs a new youth movement <a href="https://t.co/yL7HZoWM4C">https://t.co/yL7HZoWM4C</a> <a href="https://t.co/1awCGYD2JK">pic.twitter.com/1awCGYD2JK</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/768128195547766785">23 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Code is not the Asset (Business Impact is the asset).... Code is the Cost <a href="https://twitter.com/tastapod">@tastapod</a> <a href="https://twitter.com/hashtag/craftconf?src=hash">#craftconf</a> <a href="https://t.co/J9p0HI6e07">pic.twitter.com/J9p0HI6e07</a></p>&mdash; Houssam Fakih (@houssamfakih) <a href="https://twitter.com/houssamfakih/status/725979155058286592">29 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)

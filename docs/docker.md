@@ -41,6 +41,8 @@
 
 [![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)
 
+[![dockercast](images/dockercast.png)](https://soundcloud.com/docker-run)
+
 ## Docker
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)
@@ -160,6 +162,7 @@
 - [DZone - Docker Cloud: Monitoring and Logging](https://dzone.com/articles/docker-cloud-monitoring-logging) In 10-15 minutes you could be looking at charts with all your Docker operations data in one place, accessible by your whole team! Read on to see how it's done by wielding Docker Cloud.
 - [redhat.com topic: Containers 🌟🌟🌟](https://www.redhat.com/en/technologies/topic/containers) Change how you develop and deploy applications
 - [businessinsider.com: A new technology called 'containers' is creating 'winners and losers' says Red Hat CEO 🌟🌟🌟](http://www.businessinsider.com/red-hat-ceo-jim-whitehurst-containers-creating-winners-and-losers-2016-8)
+- [Docker Plugins 🌟🌟🌟](https://docs.docker.com/engine/extend/plugins/)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
@@ -235,6 +238,7 @@
 - [youtube: Container security: Do containers actually contain? Should you care? - 2015 Red Hat Summit](https://youtu.be/a9lE9Urr6AQ)
 - [Docker Security – part 1(Overview)](https://sreeninet.wordpress.com/2016/03/06/docker-security-part-1overview/)
 - [Docker & Security refcard 🌟](https://www.ernw.de/download/ERNW_Stocard_Docker-Devops-Security_fbarth-mluft.pdf)
+- [delve-labs.com - Docker Security In Production: Overview of the options available for securing Docker in production environments 🌟🌟🌟](https://www.delve-labs.com/articles/docker-security-production-2/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Containers in Dev vs Prod <a href="https://t.co/YqDHvigW8r">pic.twitter.com/YqDHvigW8r</a></p>&mdash; Michael Ducy (@mfdii) <a href="https://twitter.com/mfdii/status/697532387240996864">10 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

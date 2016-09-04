@@ -52,6 +52,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los 4 retos de la banca. <a href="https://twitter.com/hashtag/finanzas?src=hash">#finanzas</a> <a href="https://twitter.com/hashtag/economia?src=hash">#economia</a> <a href="https://t.co/tGdyw7qEEO">pic.twitter.com/tGdyw7qEEO</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/737369361019764736">30 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">These are the world&#39;s <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> hubs <a href="https://t.co/Ubxnqux8mi">https://t.co/Ubxnqux8mi</a> <a href="https://t.co/8TdQ09Rl3S">pic.twitter.com/8TdQ09Rl3S</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/771139768302338049">1 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Boom, bubble or bust for fintech? <a href="https://t.co/BnXho0OpOC">https://t.co/BnXho0OpOC</a> by <a href="https://twitter.com/howardlindzon">@howardlindzon</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/743171391411785728">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

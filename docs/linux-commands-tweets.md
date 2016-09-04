@@ -210,3 +210,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">cp - u will only copy files that don&#39;t exist, or are newer than their existing counterparts, in the destination directory.</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/768850571491147777">25 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed -i -e &#39;/^\s*#/!s/$val\&gt;/$pid/g&#39; getproc.pl # Replace all variables <a href="https://twitter.com/search?q=%24val&amp;src=ctag">$val</a> with <a href="https://twitter.com/search?q=%24pid&amp;src=ctag">$pid</a> in getproc.pl, except on commented lines. *FIXED*</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/771722330821144580">2 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

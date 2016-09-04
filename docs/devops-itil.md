@@ -215,6 +215,7 @@
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win 🌟🌟🌟](https://www.linkedin.com/pulse/feed-your-head-lee-herrin)
 - [‘The Fear’ Keeping up to date with DevOps](https://www.linkedin.com/pulse/fear-keeping-up-date-devops-casey-walker) What Happens When You Don’t Keep Up To Date With DevOps
 - [Does Security Need DevOps?](https://www.linkedin.com/pulse/does-security-need-devops-casey-walker)
+- [DZone: DevOps is Dead — Long Live DevOps!](https://dzone.com/articles/devops-is-dead-long-live-devops) ShadowOps is not just bad DevOps, and it certainly doesn't mean DevOps is dead.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

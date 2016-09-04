@@ -409,6 +409,10 @@
  
 		- sysctl: name=net.ipv4.tcp_challenge_ack_limit value=999999999 sysctl_set=yes
 
+- Live dmesg output in human readable format (colors, timing)
+
+		dmesg -wH 
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
