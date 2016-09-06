@@ -54,6 +54,7 @@ para universitarios y titulados júnior
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 - [Barcelona se postula como uno de los ‘hubs’ tecnológicos más potentes de Europa](http://cincodias.com/cincodias/2016/07/21/tecnologia/1469129064_806611.html)
 - [¿Qué tiene Barcelona Tech City para que todas las 'startups' quieran estar?](http://cincodias.com/cincodias/2016/08/16/empresas/1471354874_836515.html)
+- [Why your next technology start-up should be in Barcelona](https://www.linkedin.com/pulse/why-your-next-technology-start-up-should-barcelona-magnus-jern) After 5 years of financial crisis Spain has recovered but inflation and cost of living is still low which means that salaries are relatively low. The average salary of a software developer is about €27,000 vs London €55,000, Berlin €49,000 and Stockholm €48,000 (source: Glassdoor.com). Other salaries and costs are even lower in comparison.
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.museugrifols.com)
 
