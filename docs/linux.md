@@ -475,6 +475,7 @@
 - [unixmen: Linux Shell Scripting part-1: Starting with Linux Shell Scripting](http://www.unixmen.com/starting-with-linux-shell-scripting/)
 - [unixmen: Linux Shell Scripting part-2: Message Displaying, User Variables and Environment Variables](https://www.unixmen.com/message-displaying-user-variables-and-environment-variables/)
 - [Advancing in the Bash Shell 🌟🌟🌟🌟](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) Amazing bash wizardry. In this tutorial, I hope to show you just a few of the amazing features bash provides that will increase your productivity in the shell. 
+- [tecmint: How to Run or Repeat a Linux Command Every X Seconds Forever 🌟🌟🌟](http://www.tecmint.com/run-repeat-linux-command-every-x-seconds/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -547,11 +548,15 @@
 - [Troubleshooting KVM Virtualization Problem With Log Files](http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/)
 - [linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04](http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/)
 - [nixCraft: KVM libvirt assign static guest IP addresses using DHCP on the virtual machine](http://www.cyberciti.biz/faq/linux-kvm-libvirt-dnsmasq-dhcp-static-ip-address-configuration-for-guest-os/)
+- [nixCraft: How to create snapshot in Linux KVM VM/Domain 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-create-create-snapshot-in-linux-kvm-vmdomain/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">KVM libvirt assign static guest IP addresses using DHCP on Linux virtual machine <a href="https://t.co/0vFzVDnb9a">https://t.co/0vFzVDnb9a</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/GBYHhS4Bbl">pic.twitter.com/GBYHhS4Bbl</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710172113915781120">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to create create snapshot in Linux KVM VM/Domain<a href="https://t.co/iILSOWbDlD">https://t.co/iILSOWbDlD</a><a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://t.co/b2U5IU9lm8">pic.twitter.com/b2U5IU9lm8</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/772839007227039745">5 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## FOSS Software
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)

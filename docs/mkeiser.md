@@ -55,6 +55,12 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mapa de las principales <a href="https://twitter.com/hashtag/Fintech?src=hash">#Fintech</a> en España organizadas por categorías <a href="https://t.co/SJOs4jMcha">https://t.co/SJOs4jMcha</a> <a href="https://twitter.com/hashtag/sectorfinanciero?src=hash">#sectorfinanciero</a> <a href="https://twitter.com/hashtag/infograf%C3%ADa?src=hash">#infografía</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/716953450563678208">4 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Instead of flooding financial markets, <a href="https://twitter.com/hashtag/QE?src=hash">#QE</a> money should be spent on things which support investment &amp;amp; jobs. <a href="https://t.co/TD47NLtrE6">pic.twitter.com/TD47NLtrE6</a></p>&mdash; Positive Money (@PositiveMoneyUK) <a href="https://twitter.com/PositiveMoneyUK/status/772522180177461249">4 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">10 Tendencias. <a href="https://twitter.com/hashtag/finanzas?src=hash">#finanzas</a> <a href="https://twitter.com/hashtag/dinero?src=hash">#dinero</a> <a href="https://twitter.com/hashtag/economia?src=hash">#economia</a> <a href="https://t.co/pgNwzrCnYt">pic.twitter.com/pgNwzrCnYt</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/770328237536899072">29 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Motivational Quotes
 - "Talent wins games, but teamwork and intelligence wins championships” Michael Jordan
 - "Our industry does not respect tradition - it only respects innovation" Satya Nadella, Microsoft's CEO

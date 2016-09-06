@@ -181,6 +181,7 @@
 - [Ponga un Scrum Master en su vida](https://www.beeva.com/beeva-view/metodologiasagiles/ponga-un-scrum-master-en-su-vida/)
 - [blog.trello.com: Tips For Managing A Remote Team](http://blog.trello.com/tips-for-managing-a-remote-team/)
 - [Meetings are not just about status updates! Never forget the "why" at the Daily](https://hbr.org/2016/02/the-perils-of-overmonitoring-your-behavior-and-goals)
+- [DZone: Becoming a Scrum Master 🌟🌟🌟](https://dzone.com/articles/becoming-a-scrum-master) Certifications don’t make you a real Scrum Master. To become a Scrum Master you have to put the Scrum theory into practice.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to build a visual, shared editorial calendar &amp; content management system <a href="https://t.co/LgmtS0WOtO">https://t.co/LgmtS0WOtO</a> <a href="https://t.co/aYYKruFA7q">pic.twitter.com/aYYKruFA7q</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/699367622857531392">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

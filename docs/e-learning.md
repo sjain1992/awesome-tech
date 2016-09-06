@@ -150,6 +150,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Ranking de las universidades con los graduados que mas cobran. <a href="https://twitter.com/hashtag/dinero?src=hash">#dinero</a> <a href="https://twitter.com/hashtag/educaci%C3%B3n?src=hash">#educación</a> <a href="https://t.co/nnyYQ6Ymrw">pic.twitter.com/nnyYQ6Ymrw</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/768156124587622404">23 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Créditos para estudiantes ofertados por la banca. <a href="https://twitter.com/hashtag/educacion?src=hash">#educacion</a> <a href="https://twitter.com/hashtag/dinero?src=hash">#dinero</a> <a href="https://t.co/kEftXn3UYB">pic.twitter.com/kEftXn3UYB</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/773046136080826368">6 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top ranking universities in the world, 2015-16.<br><br>(Times Higher Education) <a href="https://t.co/2300S8dqhr">pic.twitter.com/2300S8dqhr</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/767013389583290368">20 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

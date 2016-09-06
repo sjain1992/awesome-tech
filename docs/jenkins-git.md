@@ -321,6 +321,7 @@
 - [atlassian.com: Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase/)
 - [opensource.com: How to restore older file versions in Git 🌟🌟🌟](https://opensource.com/life/16/7/how-restore-older-file-versions-git)
 - [DZone: Effective Technical Writing in GitHub](https://dzone.com/articles/effectively-technical-writing-in-github) Documentation in GitHub wiki pages is becoming more and more important. Here are some tips to make it more readable for all involved.
+- [paradigmadigital.com: Primeros pasos con Git](https://www.paradigmadigital.com/dev/primeros-pasos-git/)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
