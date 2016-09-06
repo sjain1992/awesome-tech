@@ -453,7 +453,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 ![recession_started_in_dec2007](images/recession_started_in_dec2007.png)
 
-![bertolt_brecht_crisis_take_place](images/bertolt_brecht_crisis_take_place.jpg)
+![bertolt_brecht_crisis_take_place](images/bertolt_brecht_crisis_take_place.png)
 
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
 
