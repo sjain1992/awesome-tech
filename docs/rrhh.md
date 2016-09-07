@@ -226,6 +226,7 @@
 - [citapreviainem.es: 10 consejos para elegir una buena foto de perfil en Linkedin](http://www.citapreviainem.es/como-elegir-una-buena-foto-de-perfil-en-linkedin/)
 - [emprendedores.es: Cómo tratar a todos los tipos de empleados conflictivos](http://www.emprendedores.es/gestion/tratar-tipos-empleados-conflictivos-problemas-en-trabajo) Debes conocer el perfil de todos los empleados conflictivos para poder adelantarte a futuros problemas.
 - [¡Que vienen los trepas!](http://economia.elpais.com/economia/2016/01/14/actualidad/1452783980_329918.html) El trabajador que busca su propio beneficio a expensas de sus compañeros es uno de los más tóxicos en cualquier firma
+- [entrepreneur.com: Cómo salir de tus deudas](https://www.entrepreneur.com/article/281959) Con esta guía podrás planificar mejor tus gastos y tener finanzas sanas. Todo depende de tu interés y capacidad de organización.
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
