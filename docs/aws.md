@@ -34,6 +34,7 @@
     - [AWS Route 53](#aws-route-53)
     - [AWS Elastic Load Balancing](#aws-elastic-load-balancing)
     - [AWS Application Load Balancer](#aws-application-load-balancer)
+    - [NGINX](#nginx)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -462,6 +463,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LBow4273Ym8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## NGINX
+- [NGINX Plus on the AWS Cloud: Quick Start Reference Deployment](https://aws.amazon.com/about-aws/whats-new/2016/09/nginx-plus-on-the-aws-cloud-quick-start-reference-deployment/)
 
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
