@@ -24,6 +24,8 @@
 </center>
 
 # Barcelona Tech, Startups and Innovation
+- [jobsbcn.com 🌟🌟🌟](http://www.jobsbcn.com/)
+    - [jobfluent.com 🌟🌟🌟](http://www.jobfluent.com/) JobsBCN is merging with @JobFluent
 - [Grupo Intercom](http://www.grupointercom.com/)
 - [twitter.com/accio_cat](https://twitter.com/accio_cat) ACCIÓ és l’agència per a la competitivitat de l'empresa de la Generalitat de Catalunya.
 - [twitter.com/JOBBCN](https://twitter.com/JOBBCN) JOBarcelona'16: III Congreso Internacional de #empleo y #orientaciónlaboral 

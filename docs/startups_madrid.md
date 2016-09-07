@@ -42,6 +42,7 @@
 <br/>
 
 # Madrid Tech, Startups and Innovation
+- [jobsmad.com 🌟🌟🌟](http://www.jobsmad.com/)
 - [madrimasd.org 🌟](http://www.madrimasd.org/)
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [chamberivalley.com](http://chamberivalley.com)

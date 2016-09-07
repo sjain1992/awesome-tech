@@ -184,6 +184,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|
 |:---:|:---:|
 
+|[![ticjob_video](images/ticjob_video.jpg)](https://www.youtube.com/user/ticjob)|[![infojobs_video](images/infojobs_video.jpg)](https://www.youtube.com/user/InfoJobsnet)|[![tecnoempleo_video](images/tecnoempleo_video.jpg)](https://www.youtube.com/user/tecnoempleo)|[![infoempleo_video](images/infoempleo_video.jpg)](https://www.youtube.com/user/infoempleo20)|[![monster_video](images/monster_video.jpg)](https://www.youtube.com/user/MonsterVideoVault)|[![indeed_video](images/indeed_video.jpg)](https://www.youtube.com/user/IndeedJobs)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 |[![wuakitv_video](images/wuakitv_video.jpg)](https://www.youtube.com/user/Wuakitv)|[![Netflix_spain_video](images/Netflix_spain_video.jpg)](https://www.youtube.com/channel/UCT2UUebPuLke_BShrDh_YEA)|[![privalia_video](images/privalia_video.jpg)](https://www.youtube.com/user/Privalia)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -250,8 +253,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|[![systems_engineer_video](images/systems_engineer_video.jpg)](https://www.youtube.com/user/CloudSystemsEngineer)|[![unixmen_video](images/unixmen_video.jpg)](https://www.youtube.com/user/UnixmenVideos)|
 |:---:|:---:|:---:|:---:|:---:|
 
-|[![microsoft_online_learning_video](images/microsoft_online_learning_video.jpg)](https://www.youtube.com/channel/UCiLEaVJlVFB_DoeBQGWV63g)|[![itfreetraining_video](images/itfreetraining_video.jpg)](https://www.youtube.com/user/itfreetraining)|[![microsoft_cloud_platform_video](images/microsoft_cloud_platform_video.jpg)](https://www.youtube.com/user/MSCloudOS)|[![microsoft_training_video](images/microsoft_training_video.jpg)](https://www.youtube.com/user/microsoftlearning)|[![cloud_ranger_network_video](images/cloud_ranger_network_video.jpg)](https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ)|
-|:---:|:---:|:---:|:---:|:---:|
+|[![microsoft_europe_video](images/microsoft_europe_video.jpg)](https://www.youtube.com/user/MicrosoftEurope)|[![microsoft_online_learning_video](images/microsoft_online_learning_video.jpg)](https://www.youtube.com/channel/UCiLEaVJlVFB_DoeBQGWV63g)|[![itfreetraining_video](images/itfreetraining_video.jpg)](https://www.youtube.com/user/itfreetraining)|[![microsoft_cloud_platform_video](images/microsoft_cloud_platform_video.jpg)](https://www.youtube.com/user/MSCloudOS)|[![microsoft_training_video](images/microsoft_training_video.jpg)](https://www.youtube.com/user/microsoftlearning)|[![cloud_ranger_network_video](images/cloud_ranger_network_video.jpg)](https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|[![london_devops_video](images/london_devops_video.jpg)](https://www.youtube.com/channel/UCITk36Wxz1_R_tfBm41mmrg)|[![ibm_devops_video](images/ibm_devops_video.jpg)](https://www.youtube.com/user/IBMRational)|[![devops_library_video](images/devops_library_video.jpg)](https://www.youtube.com/channel/UCOnioSzUZS-ZqsRnf38V2nA)|
 |:---:|:---:|:---:|:---:|

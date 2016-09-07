@@ -100,6 +100,7 @@
 
 ## IT Magazines Spain
 - [ituser.es](http://www.ituser.es/)
+- [idgtv.es](http://www.idgtv.es)
 - [ecommerce-news.es](http://ecommerce-news.es)
 - [silicon.es](http://www.silicon.es/)
 - [computing.es](http://www.computing.es/)
