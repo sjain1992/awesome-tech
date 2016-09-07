@@ -187,6 +187,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|
 |:---:|:---:|
 
+|[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|
+|:---:|:---:|:---:|
+
 |[![ticjob_video](images/ticjob_video.jpg)](https://www.youtube.com/user/ticjob)|[![infojobs_video](images/infojobs_video.jpg)](https://www.youtube.com/user/InfoJobsnet)|[![tecnoempleo_video](images/tecnoempleo_video.jpg)](https://www.youtube.com/user/tecnoempleo)|[![infoempleo_video](images/infoempleo_video.jpg)](https://www.youtube.com/user/infoempleo20)|[![monster_video](images/monster_video.jpg)](https://www.youtube.com/user/MonsterVideoVault)|[![indeed_video](images/indeed_video.jpg)](https://www.youtube.com/user/IndeedJobs)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
