@@ -112,6 +112,11 @@
 
 [![dilbert_didnt_show_initiative](images/dilbert_didnt_show_initiative.gif)](http://dilbert.com/strip/2000-05-19)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHR-mCBTyZc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
