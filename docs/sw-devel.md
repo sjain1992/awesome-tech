@@ -203,6 +203,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 years ago, backends were monolithic services and frontends many pages. Now frontends are monolithic pages and backends many services.</p>&mdash; James Roper (@jroper) <a href="https://twitter.com/jroper/status/765695495196909568">16 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![steve_jobs_design](images/steve_jobs_design.jpg)
+
 ## Software Architecture Patterns
 - [Architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [EDA - Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
