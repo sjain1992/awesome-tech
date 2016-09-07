@@ -193,6 +193,7 @@
 - [Three things to remember when moving to the cloud in 2016](http://www.zdnet.com/article/three-things-to-remember-when-moving-to-the-cloud-in-2016/) Switching to cloud-based services can create flexibility -- but the move is not necessarily without its own challenges.
 - [Seven secrets of success in your cloud migration plan 🌟🌟](http://diginomica.com/2016/02/25/seven-secrets-of-success-in-your-cloud-migration-plan/)  It’s not migration, it’s transformation. Cloud will change your business
 - [Disaster Recovery (DR) Options in Cloud Environments 🌟](http://solinea.com/blog/disaster-recovery-dr-options-cloud-environments)
+- [unixmen.com: IS THE CLOUD THE FUTURE OF HOSTING?](https://www.unixmen.com/cloud-future-hosting/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">21 steps to the <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> <a href="https://t.co/Z3EXJptKwK">https://t.co/Z3EXJptKwK</a><a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/Openstack?src=hash">#Openstack</a> <a href="https://t.co/KsARWMrmT4">pic.twitter.com/KsARWMrmT4</a></p>&mdash; VirtBox (@VirtBoxCloud) <a href="https://twitter.com/VirtBoxCloud/status/746454905003585537">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
