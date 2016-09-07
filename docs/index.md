@@ -271,6 +271,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|[![agile_training_video](images/agile_training_video.jpg)](https://www.youtube.com/user/AgileTrainingVideos)|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![intellij_idea_video](images/intellij_idea_video.jpg)](https://www.youtube.com/user/intellijideavideo)|[![mozilla_hacks_video](images/mozilla_hacks_video.jpg)](https://www.youtube.com/user/mozhacks)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![GoogleDevelopers](images/googledevelopers_video.jpg)](https://www.youtube.com/user/GoogleDevelopers)|[![chrome_developers_video](images/chrome_developers_video.jpg)](https://www.youtube.com/user/ChromeDevelopers)|[![android_developers_video](images/android_developers_video.jpg)](https://www.youtube.com/user/androiddevelopers)|[![tutorial_baba_video.jpg](images/tutorial_baba_video.jpg)](https://www.youtube.com/channel/UCUUOuXcwjXIHFY0CE5cuU5A)|[![firebase_video](images/firebase_video.jpg)](https://www.youtube.com/user/Firebase)|
+|:---:|:---:|:---:|:---:|:---:|
+
 |[![learn_code_video](images/learn_code_video.jpg)](https://www.youtube.com/user/learncodeacademy)|[![devtips_video](images/devtips_video.jpg)](https://www.youtube.com/user/DevTipsForDesigners)|[![codecourse_video](images/codecourse_video.jpg)](https://www.youtube.com/user/phpacademy)|[![codedamn_video](images/codedamn_video.jpg)](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)|[![thenewboston_video](images/thenewboston_video.jpg)](https://www.youtube.com/user/thenewboston)|[![programming_language_video](images/programming_language_video.jpg)](https://www.youtube.com/user/ProgrammingKnowledge)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
