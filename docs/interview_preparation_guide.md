@@ -155,6 +155,7 @@
 - [inc.com: Should You Choose a Job With a Higher Salary or Shorter Commute? Science Says There's a Clear Winner 🌟](http://www.inc.com/amy-morin/should-you-choose-a-job-with-a-higher-salary-or-shorter-commute-science-says-the.html) Your choice could have a big impact on your well-being
 - [6 Interview Tips You've Never Heard Before 🌟🌟](https://www.linkedin.com/pulse/6-interview-tips-youve-never-heard-before-j-t-o-donnell)
 - [18 Completely Ridiculous Job Interview Tweets](https://blog.beamery.com/job-interview-tweets/)
+- [DISCRIMINACIÓN POR EDAD: Un alto ingeniero de Apple, rechazado para trabajar en una de sus tiendas](http://www.lavanguardia.com/vida/20160907/41154606810/ingeniero-apple-rechazado-trabajar.html)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
