@@ -168,8 +168,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-|[![minsait_video](images/minsait_video.jpg)](https://www.youtube.com/channel/UCdz8akghznOoBVd2KhFW4Qw)|[![iecisa_video](images/iecisa_video.jpg)](https://www.youtube.com/user/IECISAoficial)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|[![ibm_espana_video](images/ibm_espana_video.jpg)](https://www.youtube.com/user/IBMEspana)|
-|:---:|:---:|:---:|:---:|:---:|
+|[![minsait_video](images/minsait_video.jpg)](https://www.youtube.com/channel/UCdz8akghznOoBVd2KhFW4Qw)|[![iecisa_video](images/iecisa_video.jpg)](https://www.youtube.com/user/IECISAoficial)|[![oracle_spain_video](images/oracle_spain_video.jpg)](https://www.youtube.com/user/OracleSpain)|[![hp_spain_video](images/hp_spain_video.jpg)](https://www.youtube.com/user/HPEspana)|[![ibm_espana_video](images/ibm_espana_video.jpg)](https://www.youtube.com/user/IBMEspana)|[![fujitsu_es_video](images/fujitsu_es_video.jpg)](https://www.youtube.com/user/FujitsuSpain)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 
