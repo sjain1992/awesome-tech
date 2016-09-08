@@ -184,8 +184,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![sopra_steria_video](images/sopra_steria_video.jpg)](https://www.youtube.com/user/SteriaGroup)|[![gfi_spain_video](images/gfi_spain_video.jpg)](https://www.youtube.com/user/GFIInformatica)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![science_net_video](images/science_net_video.jpg)](https://www.youtube.com/user/jerrybber)|
-|:---:|:---:|:---:|
+|[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![science_net_video](images/science_net_video.jpg)](https://www.youtube.com/user/jerrybber)|[![futuro_one_video](images/futuro_one_video.jpg)](https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ)|
+|:---:|:---:|:---:|:---:|
 
 |[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|
 |:---:|:---:|:---:|:---:|
