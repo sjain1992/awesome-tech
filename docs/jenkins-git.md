@@ -322,6 +322,7 @@
 - [opensource.com: How to restore older file versions in Git 🌟🌟🌟](https://opensource.com/life/16/7/how-restore-older-file-versions-git)
 - [DZone: Effective Technical Writing in GitHub](https://dzone.com/articles/effectively-technical-writing-in-github) Documentation in GitHub wiki pages is becoming more and more important. Here are some tips to make it more readable for all involved.
 - [paradigmadigital.com: Primeros pasos con Git](https://www.paradigmadigital.com/dev/primeros-pasos-git/)
+- [DZone: Why Is GitHub Taking Over the World?](https://dzone.com/articles/why-is-github-taking-over-the-world) Github has becoming the 83rd busiest website in the entire planet. That's a mind blowing statistic when you consider it's "just source control." Why is this happening?
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
