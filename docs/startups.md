@@ -422,7 +422,7 @@
 <a href="https://www.thecollective.co.uk/">thecollective.co.uk</a>
 </p>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Collective living&#39;s fine for students but for everybody else it stinks - The Guardian <a href="https://t.co/huep0RcCuW">https://t.co/huep0RcCuW</a><br><br>The Guardian<br><br>Collective li…</p>&mdash; Dyl Does (@dyl_does) <a href="https://twitter.com/dyl_does/status/725797334026702848">28 de abril de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Collective living’s fine for students but for everybody else it stinks | Jonn Elledge <a href="https://t.co/YbOWfk5CaS">https://t.co/YbOWfk5CaS</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/725712864581931008">28 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most expensive cities for expats – and there&#39;s a new one at the top of the ranking <a href="https://t.co/wj8HH6TDy3">https://t.co/wj8HH6TDy3</a> <a href="https://t.co/5motrtZUtY">pic.twitter.com/5motrtZUtY</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770635191492673536">30 de agosto de 2016</a></blockquote>
