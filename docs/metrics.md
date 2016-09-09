@@ -56,6 +56,7 @@
 - Splunk
     
 ### Tools
+- [systemcodegeeks.com: Nagios Tutorial for IT Monitoring 🌟🌟](https://www.systemcodegeeks.com/monitoring/nagios/nagios-monitoring-tutorial/)
 - [Stop using Nagios (so it can die peacefully) 🌟](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 	- [nagiosql.org](http://www.nagiosql.org/)
 	- [Install NagiosQL - GUI interface to Configure Nagios Core](http://linoxide.com/monitoring-2/install-nagiosql-gui-interface-configure-nagios-core/)

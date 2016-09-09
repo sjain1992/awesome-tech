@@ -51,6 +51,7 @@
     - [AWS Security](#aws-security)
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
         - [AWS IAM](#aws-iam)
+        - [AWS CloudFront](#aws-cloudfront)
         - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3 & EBS. AWS Storage Gateway](#aws-s3--ebs-aws-storage-gateway)
     - [Amazon EFS Elastic File System](#amazon-efs-elastic-file-system)
@@ -651,6 +652,7 @@
 - [AWS Security Blog: In Case You Missed These: AWS Security Blog Posts from June, July, and August 2016](http://blogs.aws.amazon.com/security/post/Tx3KVD6T490MM47/In-Case-You-Missed-These-AWS-Security-Blog-Posts-from-June-July-and-August)
 - [Amazon Inspector Announces General Availability for Windows](https://aws.amazon.com/es/about-aws/whats-new/2016/08/amazon-inspector-announces-general-availability-for-windows/)
 - [encrypt and decrypt data: Importing Key Material in AWS Key Management Service (AWS KMS)](https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html) Use your own encryption keys with AWS Key Management Service.
+- [Amazon s2n: AWS’s new Open Source implementation of the SSL/TLS network encryption protocols](http://blogs.aws.amazon.com/security/post/TxLEHNNDPUFDU9/Automated-Reasoning-and-Amazon-s2n)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ready to learn more about securely controlling access to AWS resources? Follow <a href="https://twitter.com/AWSIdentity">@AWSIdentity</a>! <a href="https://t.co/zrQd8MQsiH">pic.twitter.com/zrQd8MQsiH</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/747429329030701056">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -675,6 +677,9 @@
 - [AWS Identity and Access Management (IAM) best practices in 2016](http://blogs.aws.amazon.com/security/post/Tx2OB7YGHMB7WCM/Adhere-to-IAM-Best-Practices-in-2016)
 - [How to Record and Govern Your IAM Resource Configurations Using AWS Config](http://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config)
 - [How to Use SAML to Automatically Direct Federated Users to a Specific AWS Management Console Page](http://blogs.aws.amazon.com/security/post/Tx2CGWIB8SBYW2J/How-to-Use-SAML-to-Automatically-Direct-Federated-Users-to-a-Specific-AWS-Manage)
+
+### AWS CloudFront
+- [Amazon CloudFront now supports HTTP/2 🌟🌟🌟](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/)
 
 ### AWS WAF Web Application Firewall
 - [AWS WAF - Web Application Firewall](https://aws.amazon.com/waf/)

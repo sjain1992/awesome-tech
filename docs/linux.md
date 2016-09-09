@@ -32,7 +32,7 @@
 	- [FOSS Software](#foss-software)
 	- [Linux Kernel](#linux-kernel)
 	- [Linux Performance Monitoring](#linux-performance-monitoring)
-		- [htop](#htop)
+		- [htop and top](#htop-and-top)
 		- [Glances](#glances)
 		- [Netdata](#netdata)
 		- [BCC Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
@@ -480,6 +480,9 @@
 - [unixmen: Linux Shell Scripting part-2: Message Displaying, User Variables and Environment Variables](https://www.unixmen.com/message-displaying-user-variables-and-environment-variables/)
 - [Advancing in the Bash Shell 🌟🌟🌟🌟](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) Amazing bash wizardry. In this tutorial, I hope to show you just a few of the amazing features bash provides that will increase your productivity in the shell. 
 - [tecmint: How to Run or Repeat a Linux Command Every X Seconds Forever 🌟🌟🌟](http://www.tecmint.com/run-repeat-linux-command-every-x-seconds/)
+- [nixCraft: HowTo Compile a 32-bit Application Using gcc On the 64-bit Linux Version](http://www.cyberciti.biz/tips/compile-32bit-application-using-gcc-64-bit-linux.html)
+- [tecmint: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
+- [What typing ^D really does on Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -620,6 +623,7 @@
 	- [How to take thread dumps? – 7 options](https://blog.tier1app.com/2016/05/23/how-to-take-thread-dumps-7-options/)
 - [fedoramagazine.org: Performance profiling with perf 🌟🌟🌟](https://fedoramagazine.org/performance-profiling-perf/)
 - [Linux debugging tools you'll love: the zine (Julia Evans) 🌟🌟🌟🌟](https://www.indiegogo.com/projects/linux-debugging-tools-you-ll-love-the-zine) A zine about my favourite Linux debugging tools (strace! perf! tcpdump! and many more!) 
+	- [Julia Evans: Zines](http://jvns.ca/zines/#linux-debugging-tools)
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
@@ -633,10 +637,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m making a zine about linux debugging tools. want a printed copy? (and to help me give them away?) here you go: <a href="https://t.co/aZI4Vjv054">https://t.co/aZI4Vjv054</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/769609966802075649">27 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### htop
+### htop and top
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
 - [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
 - [How to find out information about a LXC (Linux container) CPU & Memory Usage](http://www.cyberciti.biz/faq/how-to-find-out-information-about-lxc-cpu-memory-networking/)
+- [tecmint: Find Top 15 Processes by Memory Usage with ‘top’ in Batch Mode](http://www.tecmint.com/find-processes-by-memory-usage-top-batch-mode/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/139101622517" data-did="f5ed5731bd6cb168199437ff3815965a4179516a"><a href="http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd">http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

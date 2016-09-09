@@ -138,6 +138,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Imperio Otomano
+- [La magnificiencia de la Constantinopla otomana del siglo XIX, en imágenes a todo color](http://magnet.xataka.com/un-mundo-fascinante/la-magnificiencia-de-la-constantinopla-otomana-del-siglo-xix-en-imagenes-a-todo-color)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pqvxBZ6jYw8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

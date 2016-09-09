@@ -33,6 +33,7 @@
 - [blog.performancevision.com: TTFB (TIME TO FIRST BYTE) - A METRIC TO USE WITH PRECAUTION](http://blog.performancevision.com/eng/cons/ttfb-time-to-first-byte-a-metric-to-use-with-precaution)
 - [netcraftsmen.com - NETWORK MONITORING: TOP PERFORMANCE ITEMS TO WATCH, PART 1](http://www.netcraftsmen.com/network-monitoring-top-performance-items-watch-part-1/) What’s eating your network? What is (quietly) killing performance? What performance items should you be watching, but probably are not?
 - [blog.performancevision.com: WHY IS RETENTION TIME CRITICAL TO PERFORMANCE TROUBLESHOOTING?](http://blog.performancevision.com/why-is-retention-time-critical-to-performance-troubleshooting) Capturing network traffic to get performance analytics is the first step for troubleshooting operations. The second step is to store the information you need and to make that data available over time. Depending on your environment, business context, organization and budget constraint, you may want to retain that data for a shorter or longer period. 
+- [blog.performancevision.com: HOW TO LEVERAGE A FLOW MATRIX FOR NETWORK MONITORING](http://blog.performancevision.com/how-to-leverage-a-flow-matrix-for-network-monitoring)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)
