@@ -19,7 +19,7 @@
         - [Selenium on Twitter](#selenium-on-twitter)
     - [SoapUI](#soapui)
     - [Cucumber](#cucumber)
-    - [pg_tmp Run tests on an isolated, temporary PostgreSQL database](#pg_tmp-run-tests-on-an-isolated-temporary-postgresql-database)
+    - [pg_tmp Run tests on an isolated, temporary PostgreSQL database](#pgtmp-run-tests-on-an-isolated-temporary-postgresql-database)
     - [Jasmine Behavior Driven JavaScript](#jasmine-behavior-driven-javascript)
     - [Concordion](#concordion)
     - [Appium Mobile App Automation](#appium-mobile-app-automation)
@@ -158,6 +158,7 @@
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
 - [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
 - [seleniumtests.com](http://www.seleniumtests.com/)
+- [Free eBook Now: "Selenium Programming Cookbook"](http://freepromagazine-com.tradepub.com/free/w_java28/)
 
 [![dzone_refcard_selenium](images/dzone_refcard_selenium.png)](https://dzone.com/refcardz/getting-started-selenium)
 

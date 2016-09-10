@@ -198,6 +198,11 @@
 
 ![recruiters_value_based_metrics](images/recruiters_value_based_metrics.jpg)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qQ-Pa1-wxA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![howto_create_resume](images/howto_create_resume.png)](http://www.careerealism.com/resume-captures-hearts-minds-job-offers-employers/)
 
 [![3_job_search_secrets](images/3_job_search_secrets.png)](http://www.careerealism.com/job-search-secrets-employers-wish/)

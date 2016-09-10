@@ -225,6 +225,8 @@
 - [webcodegeeks.tradepub.com](http://webcodegeeks.tradepub.com/)
 - [Microsoft has released over 100 Free Ebooks 🌟](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 - [OpenLibra.com 🌟](https://openlibra.com) La Biblioteca Libre online: libros y ebooks en PDF gratis
+- [acens.com: 12 webs para descargar libros gratis en español de forma legal](www.acens.com/blog/12-webs-descargar-libros-gratis-en-espanol-legal.html)
+- [freepromagazine-com.tradepub.com](http://freepromagazine-com.tradepub.com/)
 
 [![wow ebook](images/wowebook.gif)](http://www.wowebook.org)
 
@@ -246,6 +248,8 @@
 	- [Pearson English Business Solutions](http://www.globalenglish.com)
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish)
 - [Los mejores canales de YouTube para aprender inglés gratis 🌟](http://www.ticbeat.com/educacion/los-mejores-canales-de-youtube-para-aprender-ingles-gratis/)
+- [El colegio que no quiere ser bilingüe: "Es muy difícil explicar la fotosíntesis en inglés"](http://www.elconfidencial.com/alma-corazon-vida/educacion/2016-09-10/colegio-no-quiere-ser-bilingue-madrid_1256910/) 
+- [meneame.net: El colegio que no quiere ser bilingüe: "Los niños no se enteran en inglés" ](https://www.meneame.net/story/colegio-no-quiere-ser-bilingue-ninos-no-enteran-ingles)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Nuevos Cursos de Formación Oficial OpenStack](http://www.josemariagonzalez.es/2016/01/20/nuevos-cursos-de-formacion-oficial-openstack.html)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)

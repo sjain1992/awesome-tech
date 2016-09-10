@@ -331,6 +331,7 @@
 	- [Architecture and Deployment Deep Dive Veeam Backup & Replication v7](https://www.youtube.com/watch?v=8xiucXOinqw)
 	- [Libro sobre Veeam Backup, by Xavier Genestós](https://www.linkedin.com/pulse/libro-sobre-veeam-backup-xavier-genestós-josep-ros)
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
+	- [Veeam Availability Suite and SAP on Oracle Deployment Guide](https://www.veeam.com/wp-sap-oracle-deployment-guide.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
 - [tecmint.com: Amanda – An Advanced Automatic Network Backup Tool For Linux](http://www.tecmint.com/amanda-an-advanced-automatic-network-backup-tool-for-linux/)
 - [sqlbackupandftp.com: Sql Backup and FTP. SQL Server backups. Efforless](http://sqlbackupandftp.com)
