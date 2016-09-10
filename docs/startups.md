@@ -480,6 +480,8 @@
 
 [![practicas_anticompetitivas](images/practicas_anticompetitivas.png)](http://www.elmundo.es/economia/2016/04/25/571e348122601d4f7b8b45eb.html)
 
+[![practicas_anticompetitivas_cementeras](images/practicas_anticompetitivas_cementeras.png)](http://www.elmundo.es/economia/2016/09/09/57d2e508468aeb11668b45cb.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdB1fNN_gtE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

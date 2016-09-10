@@ -82,6 +82,7 @@
 - [How To Flush Linux/UNIX DNS Cache](http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/)
 - [unixmen.com: How To Setup DNS Server In Ubuntu 15.10](http://www.unixmen.com/how-to-setup-dns-server-in-ubuntu-15-10/)
 - [linux.com: Dig Into DNS: Part 1](https://www.linux.com/learn/dig-dns-part-1)
+- [blog.datapath.io: How we use Anycast for DNS Failover](http://blog.datapath.io/dns-failover-how-we-use-anycast-for-dns-failover)
 
 [![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
 
@@ -140,6 +141,7 @@
 - [Automation is Paramount in Cloud/NFV (Infographic) 🌟🌟🌟](http://blog.dialogic.com/blog/automation-is-paramount-in-cloud/nfv-infographic)
 - [sdxcentral.com: What Are Microservices in NFV? Definition 🌟](https://www.sdxcentral.com/nfv/definitions/microservices-in-nfv-definition) 
 - [opensource.com: Managing networks in a software-defined future](https://opensource.com/business/16/7/managing-networks-software-defined-future)
+- [blog.datapath.io: What is Software Defined Networking (SDN)?](http://blog.datapath.io/what-is-software-defined-networking-sdn)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great interview w/ <a href="https://twitter.com/darrelljs">@darrelljs</a> &amp; <a href="https://twitter.com/intel">@intel</a> John Healy discussing &quot;The Future of NFV&quot; <a href="https://twitter.com/TIA_Now">@TIA_Now</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/OpenTelco">@OpenTelco</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://t.co/NzB8p1Qur1">https://t.co/NzB8p1Qur1</a></p>&mdash; Annie Potvin (@anniep0206) <a href="https://twitter.com/anniep0206/status/702396797063454722">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -269,6 +271,7 @@
 ## BGP Border Gateway Protocol 
 - [Using Border Gateway Protocol for Latency Optimization](http://blog.datapath.io/using-border-gateway-protocol-for-latency-optimization)
 - [How BGP Best Path Selection Works](http://blog.datapath.io/how-bgp-best-path-selection-works)
+- [How we use iBGP at Datapath.io](http://blog.datapath.io/how-we-use-ibgp-at-datapath.io)
 
 ## Mobile Core Network
 - [Mobile Core Network](mobilecore.md)
