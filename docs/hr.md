@@ -330,6 +330,7 @@
 - [There's a new boss in town 🌟](https://www.linkedin.com/pulse/theres-new-boss-town-alex-malley) Here are some key principles to keep in mind when a new boss comes to town.
 - [How To Solve The Biggest Threat To Your Office Culture](http://www.content-loop.com/how-to-solve-the-biggest-threat-to-your-office-culture) Have you heard about the single deadliest threat to your office culture? It’s a secret, so I’ll tell you, as long as you promise not to tell anyone. It’s gossip.
 - [I walked away from a career where people kissed my ass — and I couldn’t be happier about it 🌟🌟](https://www.linkedin.com/pulse/i-walked-away-from-career-where-people-kissed-my-ass-couldnt-paltrow)
+- [8 Things Employees Desperately Wish Managers Would Do More](https://www.linkedin.com/pulse/8-things-employees-desperately-wish-managers-would-do-bernard-marr)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
