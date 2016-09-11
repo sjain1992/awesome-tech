@@ -114,6 +114,8 @@
 
 [![sysadmin_skills_in_demand](images/sysadmin_skills_in_demand.png)](https://www.linux.com/blog/sysadmins-open-source-skills-are-demand)
 
+[![systemcodegeeks](images/systemcodegeeks.png)](https://twitter.com/systemcodegeeks)
+
 # Sysadmin Forums
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
