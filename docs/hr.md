@@ -190,6 +190,7 @@
 - [entrepreneur.com: The 4 Punishing Costs of Making a Bad Hire](https://www.entrepreneur.com/article/280571) The financial wreckage wrought by hiring the wrong person is much too often hidden from the founder's notice.
     - [The Cost of Failure Calculator: Hiring the Wrong Sales Person Costs! Find out how much](https://www.salestestonline.com/sales-test-the-cost-of-failure-calculator-what-does-it-cost-to-hire-the-wrong-sales-person)
 - [social.hays.com: WHAT’S ON YOUR CAREER BUCKET LIST? 🌟](https://social.hays.com/2016/08/10/whats-on-your-career-bucket-list/) Many of us draw up a bucket list of things we’d like to do or achieve in our personal lives, such as learning how to dance salsa, trying sky-diving, trekking to Everest base camp, or writing a book – but how many of us think about creating a bucket list of milestones for our professional lives?
+- [businessinsider.com: 9 signs you'll never be rich 🌟](http://www.businessinsider.com/signs-youll-never-be-rich-2016-4)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
