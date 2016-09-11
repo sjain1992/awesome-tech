@@ -216,6 +216,8 @@
 
 [![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
 
+[![most-spoken-second-languages](images/most-spoken-second-languages.jpg)](https://jakubmarian.com/map-of-the-most-spoken-foreign-languages-of-the-eu-by-country/)
+
 ![postureo ibiza one cookie](images/postureo_ibiza_one_cookie.png)
 
 ## Download Free Legal eBooks
