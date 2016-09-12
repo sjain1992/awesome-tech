@@ -109,6 +109,25 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Code is not the Asset (Business Impact is the asset).... Code is the Cost <a href="https://twitter.com/tastapod">@tastapod</a> <a href="https://twitter.com/hashtag/craftconf?src=hash">#craftconf</a> <a href="https://t.co/J9p0HI6e07">pic.twitter.com/J9p0HI6e07</a></p>&mdash; Houssam Fakih (@houssamfakih) <a href="https://twitter.com/houssamfakih/status/725979155058286592">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
+
+|[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|[![agile_training_video](images/agile_training_video.jpg)](https://www.youtube.com/user/AgileTrainingVideos)|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![intellij_idea_video](images/intellij_idea_video.jpg)](https://www.youtube.com/user/intellijideavideo)|[![mozilla_hacks_video](images/mozilla_hacks_video.jpg)](https://www.youtube.com/user/mozhacks)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![GoogleDevelopers](images/googledevelopers_video.jpg)](https://www.youtube.com/user/GoogleDevelopers)|[![chrome_developers_video](images/chrome_developers_video.jpg)](https://www.youtube.com/user/ChromeDevelopers)|[![android_developers_video](images/android_developers_video.jpg)](https://www.youtube.com/user/androiddevelopers)|[![tutorial_baba_video.jpg](images/tutorial_baba_video.jpg)](https://www.youtube.com/channel/UCUUOuXcwjXIHFY0CE5cuU5A)|[![firebase_video](images/firebase_video.jpg)](https://www.youtube.com/user/Firebase)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![learn_code_video](images/learn_code_video.jpg)](https://www.youtube.com/user/learncodeacademy)|[![devtips_video](images/devtips_video.jpg)](https://www.youtube.com/user/DevTipsForDesigners)|[![codecourse_video](images/codecourse_video.jpg)](https://www.youtube.com/user/phpacademy)|[![codedamn_video](images/codedamn_video.jpg)](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)|[![thenewboston_video](images/thenewboston_video.jpg)](https://www.youtube.com/user/thenewboston)|[![programming_language_video](images/programming_language_video.jpg)](https://www.youtube.com/user/ProgrammingKnowledge)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![codektv_video](images/codektv_video.jpg)](https://www.youtube.com/channel/UCbvzUavFjvAeF9LGxx9sz3g)|[![codelytv_video](images/codelytv_video.jpg)](https://www.youtube.com/channel/UC9IKtxn9AIGelnYmwYr0Lxw)|[![bextlan_video](images/bextlan_video.jpg)](https://www.youtube.com/user/bextlancom)|[![jsplanet_video](images/jsplanet_video.jpg)](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA)|[![empieza_programar_video](images/empieza_programar_video.jpg)](https://www.youtube.com/channel/UCLchXzm5K44lsprjAfnyvGQ)|[![codigo_facilito_video](images/codigo_facilito_video.jpg)](https://www.youtube.com/user/codigofacilito)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![Enthought_video](images/Enthought_video.jpg)](https://www.youtube.com/user/EnthoughtMedia)|[![pydata_video](images/pydata_video.jpg)](https://www.youtube.com/user/PyDataTV)|[![eli_computer_guy_video](images/eli_computer_guy_video.jpg)](https://www.youtube.com/user/EliComputerGuyLive)|[![codegeek_video](images/codegeek_video.jpg)](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)|[![packethacks_video](images/packethacks_video.jpg)](https://www.youtube.com/channel/UCF9kSu51gh8T_F6OAtr8yig)|[![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</center>
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)

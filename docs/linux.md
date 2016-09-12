@@ -93,6 +93,9 @@
 |[![linux_foundation_video](images/linux_foundation_video.jpg)](https://www.youtube.com/user/TheLinuxFoundation)|[![kernel-training-video](images/kernel-training-video.jpg)](https://www.youtube.com/user/KernelTraining)|[![linux_cloud_tutorials_video](images/linux_cloud_tutorials_video.jpg)](https://www.youtube.com/channel/UCPc0nlna_WquFCL2X86KO8w)|[![nixcraft_video](images/nixcraft_video.jpg)](https://www.youtube.com/user/nixcraftcom)|[![tecmint_video](images/tecmint_video.jpg)](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)|[![sysadmin_howto_video](images/sysadmin_howto_video.jpg)](https://www.youtube.com/channel/UCQBNM7QWVrS_pZgzYdY7ruQ)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|[![systems_engineer_video](images/systems_engineer_video.jpg)](https://www.youtube.com/user/CloudSystemsEngineer)|[![unixmen_video](images/unixmen_video.jpg)](https://www.youtube.com/user/UnixmenVideos)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # Sysadmin Blogs
