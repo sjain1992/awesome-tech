@@ -62,8 +62,11 @@
 
 <center>
 
-|[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|
-|:---:|:---:|
+|[![gsma_video](images/gsma_video.jpg)](https://www.youtube.com/user/GSMAOnline)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|[![telefonica_video_a_click_tic](images/telefonica_video_a_click_tic.jpg)](https://www.youtube.com/user/TelefonicaGGClientes)|
+|:---:|:---:|:---:|:---:|
+
+|[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|
+|:---:|:---:|:---:|:---:|
 
 </center>
 
