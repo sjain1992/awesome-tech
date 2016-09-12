@@ -127,7 +127,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
     - [CDN Content Delivery Network](cdn.md)
     - [VoIP](voip.md)
     - [Mobile Core Network & Signaling. Diameter](mobilecore.md)
-    - [IMS IP Multimedia Subsystem](ims.md)
+    - [NGN Next-Generation network. IMS IP Multimedia Subsystem](ims.md)
     - [IPTV Internet Protocol Television](iptv.md)
     - [F5 Load Balancer](f5lb.md)
 14. [Servers, Storage and Backup](servers-storage-backup.md)
@@ -332,6 +332,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)|[![owasp_delphi_slides](images/owasp_delphi_slides.jpg)](http://www.slideshare.net/OWASPdelhi)|[![capgemini_slideshare](images/capgemini_slideshare.jpg)](http://www.slideshare.net/capgemini)|[![atlassian_videos](images/atlassian_videos.jpg)](http://www.slideshare.net/GoAtlassian)|[![agile_bcn_slides](images/agile_bcn_slides.jpg)](http://es.slideshare.net/agilebcn)|[![rackspace_slideshare](images/rackspace_slideshare.jpg)](http://www.slideshare.net/rackspace)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>

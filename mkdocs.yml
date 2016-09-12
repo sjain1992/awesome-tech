@@ -89,7 +89,7 @@ pages:
 - CDN Content Delivery Network: cdn.md
 - VoIP: voip.md
 - Mobile Core Network & Signaling. Diameter: mobilecore.md
-- IMS IP Multimedia Subsystem: ims.md
+- NGN Next-Generation network. IMS IP Multimedia Subsystem: ims.md
 - IPTV Internet Protocol Television: iptv.md
 - F5 Load Balancer: f5lb.md
 - Servers, Storage and Backup: servers-storage-backup.md
