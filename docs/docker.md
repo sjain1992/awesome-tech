@@ -164,6 +164,7 @@
 - [businessinsider.com: A new technology called 'containers' is creating 'winners and losers' says Red Hat CEO 🌟🌟🌟](http://www.businessinsider.com/red-hat-ceo-jim-whitehurst-containers-creating-winners-and-losers-2016-8)
 - [Docker Plugins 🌟🌟🌟](https://docs.docker.com/engine/extend/plugins/)
 - [medium.com: MicroServices From Development To Production Using Docker, Docker Compose & Docker Swarm](https://medium.com/@eon01/microservices-from-development-to-production-using-docker-docker-compose-docker-swarm-3cf37f97706b)
+- [fortune.com: Here's Why This Software Scuffle Should Matter to Non-Techies 🌟🌟🌟](http://fortune.com/2016/09/06/docker-software-swarm/)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 

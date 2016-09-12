@@ -45,6 +45,7 @@
 - [workplace.stackexchange.com: Staying late for appearance?](http://workplace.stackexchange.com/questions/50655/staying-late-for-appearance)
 - [cityam.com: I've been passed over for a promotion: Should I move jobs? 🌟](http://www.cityam.com/234517/debretts-ask-the-expert-ive-been-passed-over-for-a-promotion-should-i-move-jobs) 
 - [Yes, You Have to Brag At Work. Here's How to Do It](https://learning.linkedin.com/blog/learning-tips/yes--you-have-to-brag-at-work--here-s-how-to-do-it-) A specific example that shows why self-promotion is important
+- [bloomberg.com: It’s Tough Being Over 40 in Silicon Valley 🌟](http://www.bloomberg.com/news/articles/2016-09-08/silicon-valley-s-job-hungry-say-we-re-not-to-old-for-this) Older workers are trying lawsuits, classes, makeovers—even surgery—to keep working.
 
 ![voltaire disagreement](images/voltaire_disagreement.jpg)
 

@@ -324,6 +324,7 @@
 - [How To Survive A Difficult Boss](https://www.linkedin.com/pulse/how-survive-difficult-boss-dr-travis-bradberry)
 - [fortune.com: Tech industry job ads: Older workers need not apply](http://fortune.com/2014/06/19/tech-job-ads-discrimination/)
 - [Add Hewlett-Packard To The List Of Tech Icons Sued For Ageism](http://www.huffingtonpost.com/entry/add-hewlett-packard-to-the-list-of-tech-icons-sued-for-ageism_us_57bdbb82e4b00c67eca0f7cb) Did the company target older workers for termination, just to replace them with younger ones?
+- [bloomberg.com: It’s Tough Being Over 40 in Silicon Valley](http://www.bloomberg.com/news/articles/2016-09-08/silicon-valley-s-job-hungry-say-we-re-not-to-old-for-this) Older workers are trying lawsuits, classes, makeovers—even surgery—to keep working.
 - [glassdoor.com: 7 Annoying Coworkers To Avoid](https://www.glassdoor.com/blog/7-annoying-coworkers-to-avoid/)
 - [Hey Boss: This Job Is Making Me Sick](https://www.linkedin.com/pulse/hey-boss-job-making-me-sick-brian-de-haaff)
 - [entrepreneur.com: 3 Tips for Dealing With the Inevitable Departure of Key Employees](https://www.entrepreneur.com/article/269795)
