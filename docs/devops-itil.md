@@ -73,6 +73,13 @@
 
 [![dzone_what_is_devops](images/dzone_what_is_devops.png)](https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio)
 
+<center>
+
+|[![devops_tv](images/devops_tv.jpg)](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ)|[![london_devops_video](images/london_devops_video.jpg)](https://www.youtube.com/channel/UCITk36Wxz1_R_tfBm41mmrg)|[![ibm_devops_video](images/ibm_devops_video.jpg)](https://www.youtube.com/user/IBMRational)|[![devops_library_video](images/devops_library_video.jpg)](https://www.youtube.com/channel/UCOnioSzUZS-ZqsRnf38V2nA)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
+|:---:|:---:|:---:|:---:|:---:|
+
+</center>
+
 # DevOps
 ## DevOps Blogs and Podcasts
 - [devops.com](http://devops.com/)

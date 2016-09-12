@@ -75,6 +75,7 @@
 - [Is It Down Righ Now? 🌟🌟](http://www.isitdownrightnow.com)
 - [tecmint: 8 Open Source/Commercial Billing Platforms for Hosting Providers](http://www.tecmint.com/open-source-commercial-billing-software-system-web-hosting/)
 - [Google Cloud: Tour one of the data centers powering our cloud (video) 🌟🌟](https://www.google.com/about/careers/videos/take-a-360-tour-of-one-of-the-data-centers-powering-our-cloud/)
+- [A Loud Sound Just Shut Down a Bank's Data Center for 10 Hours](http://motherboard.vice.com/read/a-loud-sound-just-shut-down-a-banks-data-center-for-10-hours)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LH5lj4sARI0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
