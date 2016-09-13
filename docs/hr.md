@@ -334,6 +334,8 @@
 - [8 Things Employees Desperately Wish Managers Would Do More](https://www.linkedin.com/pulse/8-things-employees-desperately-wish-managers-would-do-bernard-marr)
 - [workitdaily.com: Learn To Say ‘No’ When You Have Too Much On Your Plate At Work](https://www.workitdaily.com/work-say-no-too-much-on-plate/)
 - [How I Learned That Employees Need A Leader, Not A Friend](http://www.content-loop.com/how-i-learned-that-employees-need-a-leader-not-a-friend)
+- [Employers: Avoiding Age Discrimination In The Workplace](https://www.workitdaily.com/employers-avoiding-age-discrimination/)
+- [Our Negative Boss: Unconventional Tactics We Used to Overcome The 2nd Worst Boss Ever 🌟🌟](https://www.linkedin.com/pulse/our-negative-boss-unconventional-tactics-we-used-2nd-worst-mccracken)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -457,6 +459,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to be happier at work? Don’t quit your day job – get a creative side project <a href="https://t.co/KyFgJujSil">https://t.co/KyFgJujSil</a> <a href="https://t.co/puKXdL5i3r">pic.twitter.com/puKXdL5i3r</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770721007539806208">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Game theory
+- [economist.com: What is the Nash equilibrium and why does it matter?](http://www.economist.com/blogs/economist-explains/2016/09/economist-explains-economics)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sU1RvicQkvM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
