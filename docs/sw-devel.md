@@ -109,6 +109,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Code is not the Asset (Business Impact is the asset).... Code is the Cost <a href="https://twitter.com/tastapod">@tastapod</a> <a href="https://twitter.com/hashtag/craftconf?src=hash">#craftconf</a> <a href="https://t.co/J9p0HI6e07">pic.twitter.com/J9p0HI6e07</a></p>&mdash; Houssam Fakih (@houssamfakih) <a href="https://twitter.com/houssamfakih/status/725979155058286592">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dzone_podcast](images/dzone_podcast.png)](https://dzone.com/podcast)
+
 <center>
 
 |[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|[![agile_training_video](images/agile_training_video.jpg)](https://www.youtube.com/user/AgileTrainingVideos)|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![intellij_idea_video](images/intellij_idea_video.jpg)](https://www.youtube.com/user/intellijideavideo)|[![mozilla_hacks_video](images/mozilla_hacks_video.jpg)](https://www.youtube.com/user/mozhacks)|

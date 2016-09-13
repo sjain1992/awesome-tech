@@ -468,6 +468,9 @@
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
 - [DevOps radio 🌟](https://www.cloudbees.com/resources/devops-radio) The newest podcast series covering all things related to software delivery
 - [Syscast Podcast 🌟](http://podcast.sysca.st/) Talking Linux, open source, web development and system administration (DevOps)
+- [dzone.com/podcast 🌟🌟](https://dzone.com/podcast)
+
+[![dzone_podcast](images/dzone_podcast.png)](https://dzone.com/podcast)
 
 ### Non IT related podcasts
 - [The Stitcher List. What the World is Listening to Now](http://www.stitcher.com/stitcher-list/)

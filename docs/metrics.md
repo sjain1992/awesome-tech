@@ -35,6 +35,9 @@
 
 [![dzone_latest_performance_refcards](images/dzone_latest_performance_refcards.png)](https://dzone.com/articles/latest-performance-refcardz)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DevOps Metrics That Actually Mean Something (Anders Wallgren, CTO Electric Cloud) by DZone CodeTalk via <a href="https://twitter.com/hashtag/soundcloud?src=hash">#soundcloud</a> <a href="https://t.co/SRbSKNWaUc">https://t.co/SRbSKNWaUc</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/775774655122726912">13 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Backend Server Monitoring and Alarm System
 ## Metric monitoring
 ### Time Series Database
