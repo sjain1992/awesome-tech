@@ -36,6 +36,7 @@
 - [blog.performancevision.com: HOW TO LEVERAGE A FLOW MATRIX FOR NETWORK MONITORING](http://blog.performancevision.com/how-to-leverage-a-flow-matrix-for-network-monitoring)
 - [blog.datapath.io: Monitoring Network Latency with Datapath.io](http://blog.datapath.io/monitoring-network-latency-with-datapath.io)
 - [blog.datapath.io: 8 Network Optimization Principles for DevOps](http://blog.datapath.io/network-optimization-principles-for-devops)
+- [blog.performancevision.com: TROUBLESHOOTING SLOW APPLICATIONS: WHY IS THE NETWORK ALWAYS FIRST TO BE BLAMED?](http://blog.performancevision.com/troubleshooting-slow-applications-why-is-the-network-always-first-to-be-blamed)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)
