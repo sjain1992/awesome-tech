@@ -336,6 +336,7 @@
 - [How I Learned That Employees Need A Leader, Not A Friend](http://www.content-loop.com/how-i-learned-that-employees-need-a-leader-not-a-friend)
 - [Employers: Avoiding Age Discrimination In The Workplace](https://www.workitdaily.com/employers-avoiding-age-discrimination/)
 - [Our Negative Boss: Unconventional Tactics We Used to Overcome The 2nd Worst Boss Ever 🌟🌟](https://www.linkedin.com/pulse/our-negative-boss-unconventional-tactics-we-used-2nd-worst-mccracken)
+- [An Unexpected Way to Stop People from Quitting](https://www.linkedin.com/pulse/unexpected-way-stop-people-from-quitting-ryan-holmes)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

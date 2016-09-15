@@ -55,6 +55,7 @@
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
 		- [HTTP/2. August 2016](#http2-august-2016)
 		- [DDos](#ddos)
+		- [DNS Attack Analysis](#dns-attack-analysis)
 		- [Shadow IT security risks](#shadow-it-security-risks)
 		- [httpoxy. July 2016](#httpoxy-july-2016)
 		- [Flip Feng Shui SSH Cross VM Exploit. August 2016](#flip-feng-shui-ssh-cross-vm-exploit-august-2016)
@@ -612,6 +613,13 @@
 
 ### DDos
 - [En alza los ataques DDoS y los relacionados con aplicaciones web](http://cso.computerworld.es/defensa-perimetral/en-alza-los-ataques-ddos-y-los-relacionados-con-aplicaciones-web)
+
+### DNS Attack Analysis
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33LIeX3ZSTA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### Shadow IT security risks
 - [techcrunch.com: It’s Time To Embrace, Not Fear, Shadow IT](https://techcrunch.com/2015/09/25/its-time-to-embrace-not-fear-shadow-it/)

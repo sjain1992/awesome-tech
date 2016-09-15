@@ -146,6 +146,7 @@
 - [sdxcentral.com: What Are Microservices in NFV? Definition 🌟](https://www.sdxcentral.com/nfv/definitions/microservices-in-nfv-definition) 
 - [opensource.com: Managing networks in a software-defined future](https://opensource.com/business/16/7/managing-networks-software-defined-future)
 - [blog.datapath.io: What is Software Defined Networking (SDN)?](http://blog.datapath.io/what-is-software-defined-networking-sdn)
+- [blog.datapath.io: What is Network Function Virtualization (NFV)?](http://blog.datapath.io/network-function-virtualization-nfv)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great interview w/ <a href="https://twitter.com/darrelljs">@darrelljs</a> &amp; <a href="https://twitter.com/intel">@intel</a> John Healy discussing &quot;The Future of NFV&quot; <a href="https://twitter.com/TIA_Now">@TIA_Now</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/OpenTelco">@OpenTelco</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://t.co/NzB8p1Qur1">https://t.co/NzB8p1Qur1</a></p>&mdash; Annie Potvin (@anniep0206) <a href="https://twitter.com/anniep0206/status/702396797063454722">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
