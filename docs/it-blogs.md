@@ -68,6 +68,7 @@
 - [diginomica.com](http://diginomica.com) business insights for the digital enterprise
 - [virtualizationreview.com 🌟🌟🌟](https://virtualizationreview.com)
 - [betanews.com 🌟🌟🌟🌟](http://betanews.com/)
+- [comparethecloud.net 🌟🌟🌟](https://www.comparethecloud.net/)
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 
