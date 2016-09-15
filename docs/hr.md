@@ -459,6 +459,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to be happier at work? Don’t quit your day job – get a creative side project <a href="https://t.co/KyFgJujSil">https://t.co/KyFgJujSil</a> <a href="https://t.co/puKXdL5i3r">pic.twitter.com/puKXdL5i3r</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770721007539806208">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![Generations-in-the-Workplace-IG](images/Generations-in-the-Workplace-IG.jpg)](http://www.commsaxis.com/workplace-generations-infographic/)
+
 ## Game theory
 - [economist.com: What is the Nash equilibrium and why does it matter?](http://www.economist.com/blogs/economist-explains/2016/09/economist-explains-economics)
 
