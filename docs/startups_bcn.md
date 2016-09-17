@@ -24,7 +24,10 @@
 |[![wuakitv_video](images/wuakitv_video.jpg)](https://www.youtube.com/user/Wuakitv)|[![privalia_video](images/privalia_video.jpg)](https://www.youtube.com/user/Privalia)|[![edreams_video](images/edreams_video.jpg)](https://www.youtube.com/user/eDreamsChannel)|[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet)|[![grifols_video](images/grifols_video.jpg)](https://www.youtube.com/user/GrifolsCorpComms)|[![crg_video](images/crg_video.jpg)](https://www.youtube.com/user/CRGchannel)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![nexica_video](images/nexica_video.jpg)](https://www.youtube.com/channel/UCy2k-UBjF9I8XhN-zJJh03w)|[![cdmon_video](images/cdmon_video.jpg)](https://www.youtube.com/user/CDmonTV)|[![ackstorm_video](images/ackstorm_video.jpg)](https://www.youtube.com/channel/UC7EyXHW_T73C7L7ZJkkmZVg)|[![acens_video](images/acens_video.jpg)](https://www.youtube.com/user/acenstec)|[![uoc_video](images/uoc_video.jpg)](https://www.youtube.com/user/UOC)|[![dexmatech_video](images/dexmatech_video.jpg)](https://www.youtube.com/user/dexmatech)|
+|[![nexica_video](images/nexica_video.jpg)](https://www.youtube.com/channel/UCy2k-UBjF9I8XhN-zJJh03w)|[![cdmon_video](images/cdmon_video.jpg)](https://www.youtube.com/user/CDmonTV)|[![ackstorm_video](images/ackstorm_video.jpg)](https://www.youtube.com/channel/UC7EyXHW_T73C7L7ZJkkmZVg)|[![acens_video](images/acens_video.jpg)](https://www.youtube.com/user/acenstec)|[![uoc_video](images/uoc_video.jpg)](https://www.youtube.com/user/UOC)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![dexmatech_video](images/dexmatech_video.jpg)](https://www.youtube.com/user/dexmatech)|[![holaluz_video](images/holaluz_video.jpg)](https://www.youtube.com/user/HolaLuzcom)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
