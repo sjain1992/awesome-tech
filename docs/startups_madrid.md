@@ -26,10 +26,13 @@
 |[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)|[![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|[![autentia_video](images/autentia_video.jpg)](https://www.youtube.com/user/AutentiaMedia)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![gigas_video](images/gigas_video.jpg)](https://www.youtube.com/channel/UCfjNL-5mC-PTQE6VNnfbYIQ)|[![uniway_video](images/uniway_video.jpg)](https://www.youtube.com/user/webmasterUniway)|[![pocoyo_video](images/pocoyo_video.jpg)](https://www.youtube.com/user/pocoyotv)|[![destinia_video](images/destinia_video.jpg)](https://www.youtube.com/user/Destiniacom)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![gigas_video](images/gigas_video.jpg)](https://www.youtube.com/channel/UCfjNL-5mC-PTQE6VNnfbYIQ)|[![uniway_video](images/uniway_video.jpg)](https://www.youtube.com/user/webmasterUniway)|[![pocoyo_video](images/pocoyo_video.jpg)](https://www.youtube.com/user/pocoyotv)|[![destinia_video](images/destinia_video.jpg)](https://www.youtube.com/user/Destiniacom)|[![fon_video](images/fon_video.jpg)](https://www.youtube.com/user/FonFreeWiFi)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![tuenti_video](images/tuenti_video.jpg)](https://www.youtube.com/user/tuenti)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![fundaciontelefonica_video](images/fundaciontelefonica_video.jpg)](https://www.youtube.com/user/fundaciontef)|[![gmv_video](images/gmv_video.jpg)](https://www.youtube.com/user/infoGMV)|[![cartodb_video](images/cartodb_video.jpg)](https://www.youtube.com/user/CartoDB)|[![bq_video](images/bq_video.jpg)](https://www.youtube.com/channel/UCgVTZ7PJjxiuGzoK3ryFGJg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
