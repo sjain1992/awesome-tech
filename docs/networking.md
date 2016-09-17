@@ -68,7 +68,7 @@
 |[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|[![onf_video](images/onf_video.jpg)](https://www.youtube.com/user/OpenNetworkingFndn)|[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|
 |:---:|:---:|:---:|:---:|:---:|
 
-|[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|[![opennetsummit_slides](images/opennetsummit_slides.jpg)](http://www.slideshare.net/opennetsummit)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|[![opennetsummit_slides](images/opennetsummit_slides.jpg)](http://www.slideshare.net/opennetsummit)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|[![wifisafe_video](images/wifisafe_video.jpg)](https://www.youtube.com/user/Wifisafe)|
 |:---:|:---:|:---:|:---:|:---:|
 
 </center>
