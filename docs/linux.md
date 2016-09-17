@@ -37,6 +37,7 @@
 		- [Netdata](#netdata)
 		- [BCC Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
 			- [Berkeley Packet Filter BPF](#berkeley-packet-filter-bpf)
+	- [Logging](#logging)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [OpenVPN](#openvpn)
@@ -402,6 +403,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Adios apt and yum? Ubuntu’s snap apps are coming to distros everywhere <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  <a href="https://t.co/eyV4HNiY60">https://t.co/eyV4HNiY60</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/742798889233747968">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Delete older unwanted Debian/Ubuntu Linux kernel &amp; save disk<br><br>apt --purge autoremove<br><br>Info <a href="https://t.co/NGRP0wTkSm">https://t.co/NGRP0wTkSm</a> &amp; <a href="https://t.co/2TvsTpKSnA">https://t.co/2TvsTpKSnA</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/774595766203523072">10 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Downgrade or Rollback Updates
 - [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
 - [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
@@ -488,6 +492,8 @@
 - [nixCraft: HowTo Compile a 32-bit Application Using gcc On the 64-bit Linux Version](http://www.cyberciti.biz/tips/compile-32bit-application-using-gcc-64-bit-linux.html)
 - [tecmint: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
 - [What typing ^D really does on Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects)
+- [Put the last command's run time in your Bash prompt 🌟🌟🌟](http://jakemccrary.com/blog/2015/05/03/put-the-last-commands-run-time-in-your-bash-prompt/)
+- [unixmen.com: Some Basic Linux Commands I Have Used During My Linux Journey – Part 5](https://www.unixmen.com/basic-linux-commands-used-linux-journey-part-5/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -512,6 +518,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GNU parallel is a shell tool for executing jobs in parallel using one or more computers. <a href="https://t.co/VLTnmPkjMG">https://t.co/VLTnmPkjMG</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/760153229749518337">1 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show the runtime of the last command in your prompt. <a href="https://t.co/yRqd5xKuIC">https://t.co/yRqd5xKuIC</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/776557772041101312">15 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Tips
@@ -601,6 +610,7 @@
 - [IOzone Filesystem Benchmark](http://www.iozone.org/)
 - [nixCraft: Linux and Unix Test Disk I/O Performance With dd Command 🌟🌟](http://www.cyberciti.biz/faq/howto-linux-unix-test-disk-performance-with-dd-command/)
 - [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat 🌟](http://dag.wiee.rs/home-made/dstat/)
+- [tecmint: Dstat – A Resourceful Tool to Monitor Linux Server Performance in Real-Time 🌟🌟](http://www.tecmint.com/dstat-monitor-linux-server-performance-process-memory-network/)
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
@@ -629,6 +639,7 @@
 - [fedoramagazine.org: Performance profiling with perf 🌟🌟🌟](https://fedoramagazine.org/performance-profiling-perf/)
 - [Linux debugging tools you'll love: the zine (Julia Evans) 🌟🌟🌟🌟](https://www.indiegogo.com/projects/linux-debugging-tools-you-ll-love-the-zine) A zine about my favourite Linux debugging tools (strace! perf! tcpdump! and many more!) 
 	- [Julia Evans: Zines](http://jvns.ca/zines/#linux-debugging-tools)
+- [tecmint: Monitorix 3.8.1 Released – A Lightweight System and Network Monitoring Tool for Linux 🌟🌟](http://www.tecmint.com/monitorix-a-lightweight-system-and-network-monitoring-tool-for-linux/)
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
@@ -640,6 +651,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m making a zine about linux debugging tools. want a printed copy? (and to help me give them away?) here you go: <a href="https://t.co/aZI4Vjv054">https://t.co/aZI4Vjv054</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/769609966802075649">27 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Monitorix – A Lightweight System and Network <a href="https://twitter.com/hashtag/monitoring?src=hash">#monitoring</a> Tool for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/x3SXlXiV5Z">https://t.co/x3SXlXiV5Z</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/SzFJ9hxR5P">pic.twitter.com/SzFJ9hxR5P</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/775921437194321922">14 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### htop and top
@@ -661,6 +675,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The many load averages of Unix(es) <a href="https://t.co/7CWPcIc5CK">https://t.co/7CWPcIc5CK</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/NetBSD?src=hash">#NetBSD</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/GoodReads?src=hash">#GoodReads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700151524119310336">febrero 18, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">also dstat is the other best program. convinced that staring at dstat output is the path to solving many bugs.</p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/709931262987866112">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Dstat – A Resourceful Tool to Monitor <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Server Performance in Real-Time <a href="https://t.co/n3cU0ajnM0">https://t.co/n3cU0ajnM0</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/weolaUBrk6">pic.twitter.com/weolaUBrk6</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/776687024346570752">16 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">another interesting tcp debugging story from <a href="https://twitter.com/majek04">@majek04</a>!! &quot;The revenge of the listening sockets&quot; <a href="https://t.co/dkANiC2Q27">https://t.co/dkANiC2Q27</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/717347304320188417">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -708,6 +725,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Logging
+- [Logging With Journald In RHEL7/CentOS7](https://www.unixmen.com/logging-journald-rhel7centos7/)
 
 ## Linux Networking
 ### Networking FOSS Tools
@@ -790,6 +810,7 @@
 - [tecmint: 12 Tcpdump Commands – A Network Sniffer Tool](http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/)
 - [unixmen.com: Using Tcpdump To Capture And Analyze Network Traffic](https://www.unixmen.com/using-tcpdump-capture-analyze-network-traffic/)
 - [opensource.com: How to configure networking in Linux 🌟🌟](https://opensource.com/life/16/6/how-configure-networking-linux)
+- [unixmen.com: Basics Of NetworkManager Command Line Tool, Nmcli 🌟🌟](https://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nmap Command For Network Administrator<a href="https://t.co/6yFJIt1iNd">https://t.co/6yFJIt1iNd</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/Nmap?src=hash">#Nmap</a> <a href="https://twitter.com/hashtag/Network?src=hash">#Network</a> <a href="https://t.co/YFvHyC9fqs">pic.twitter.com/YFvHyC9fqs</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752591167435472896">11 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -807,6 +828,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ping - ipv4<br>ping6 - ipv6<br>iptables - ipv4<br>ip6tables - Why? Why not name it as iptables6 too? Who makes such bad decisions?</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753267593721450496">13 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">NetworkManager Command Line Tool, Nmcli <a href="https://t.co/FX2yDMescX">https://t.co/FX2yDMescX</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/776541122365566976">15 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
@@ -859,6 +883,7 @@
 - [medium.com: Why aren’t we using SSH for everything? 🌟](https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc#.bvj32odfz)
 - [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
 - [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
+- [tecmint: How to Use Conspy to View and Control Remote Linux Virtual Consoles in Real Time 🌟🌟](http://www.tecmint.com/use-conspy-to-view-and-control-remote-linux-virtual-consoles/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -891,6 +916,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Easily Correct a Typo of Previous Command Using Carat (^) Symbol<a href="https://t.co/SKirSzyaBC">https://t.co/SKirSzyaBC</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/3MWJYRwFKB">pic.twitter.com/3MWJYRwFKB</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/760719861827993600">3 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">systemd-logind must be restarted every ~1000 SSH logins to prevent a ~25 second delay <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QDOtQ6cO3c">https://t.co/QDOtQ6cO3c</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/767565110692892673">22 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use Conspy to View and Control Remote <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Virtual Consoles in Real Time<a href="https://t.co/rGGOutOELx">https://t.co/rGGOutOELx</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/WQTwvT8dUQ">pic.twitter.com/WQTwvT8dUQ</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/776654290668523520">16 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

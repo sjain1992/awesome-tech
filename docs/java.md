@@ -90,6 +90,7 @@
 - [Java EE devotees plot to seize control from Oracle 🌟🌟🌟](http://www.infoworld.com/article/3090528/java/java-ee-devotees-plot-to-seize-control-from-oracle.html)
 - [DZone: Convert a List to a Comma-Separated String in Java 8](https://dzone.com/articles/java-8-convert-list-to-string-comma-separated)
 - [DZone: If You Like Good Java, Sip Tea](https://dzone.com/articles/if-you-like-good-java-sip-tea) If you like good Java, SIPT. These four properties—method size, impact set, potential coupling, and transitive dependencies—may be proposed as foundational properties by which programmers should evaluate method structure 
+- [DZone: The JVM Architecture Explained 🌟🌟🌟](https://dzone.com/articles/jvm-architecture-explained) An overview of the different components of the JVM, along with a very useful diagram
 
 [![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java)
 
@@ -129,6 +130,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/g0xZOrGp6f0UWc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/scolebourne/java-se-8-best-practices-53975908" title="Java SE 8 best practices" target="_blank">Java SE 8 best practices</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/scolebourne">Stephen Colebourne</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The JVM Architecture Explained via Jackson Joseraj  <a href="https://twitter.com/hashtag/java?src=hash">#java</a> <a href="https://t.co/n7Ihmf5kZx">https://t.co/n7Ihmf5kZx</a> <a href="https://t.co/TQoQ7XLgpT">pic.twitter.com/TQoQ7XLgpT</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/775408818796781568">12 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Java Performance
 - [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 

@@ -63,6 +63,8 @@
 - [Stop using Nagios (so it can die peacefully) 🌟](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 	- [nagiosql.org](http://www.nagiosql.org/)
 	- [Install NagiosQL - GUI interface to Configure Nagios Core](http://linoxide.com/monitoring-2/install-nagiosql-gui-interface-configure-nagios-core/)
+	- [unixmen.com: Send Nagios Alert Notification Using WhatsApp](https://www.unixmen.com/send-nagios-alert-notification-using-whatsapp/)
+- [unixmen.com: How To Combine Two Graphs On Cacti](https://www.unixmen.com/combine-two-graphs-cacti/)
 - [GoAccess real time web log analyzer 🌟🌟🌟](http://goaccess.io/)
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Netflix and linux performance analysis in 60 seconds 🌟](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
@@ -141,6 +143,7 @@
 - [500+ Zabbix community projects: Zabbix templates, scripts, CLIs, integrations, APIs, ... 🌟🌟🌟](https://github.com/zabbix/zabbix-community-repos)
 - [Official Zabbix Dockerfiles 🌟🌟](https://github.com/zabbix/zabbix-docker)
 - [New version of @MySQL and @MariaDB performance monitor for @Zabbix. Major improvements in Zabbix 3.0 and @PHP 5.5](https://fromdual.com/fromdual-performance-monitor-for-mysql-and-mariadb-0.10.6-has-been-released)
+- [unixmen.com: How To Install Zabbix 3 On Debian 8 and Ubuntu 16](https://www.unixmen.com/how-to-install-zabbix-on-debian8-and-ubuntu-16/)
 
 ### Prometheus
 - [prometheus.io](http://prometheus.io/) An open-source service monitoring system and time series database

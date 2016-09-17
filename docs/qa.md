@@ -128,6 +128,7 @@
 - [DZone: Six Developer Phrases That QA Engineers Love to Hate](https://dzone.com/articles/6-developer-phrases-that-qa-engineers-love-to-hate) We have to verify that our code works, that's just a fact of life. Having spent my entire life on the developer side of the room I must say (if I'm going to be honest) that I have committed each and every one of these sins.
 - [DZone: Best Practices in Mobile App Testing 🌟🌟](https://dzone.com/articles/best-practices-in-mobile-app-testing) Here are some challenges and best practices to keep in mind while you are performing mobile app testing.
 - [Software Testing is not for Attention Seekers](http://www.darwinrecruitment.com/blog/software-testing-is-not-for-attention-seekers-58178/)
+- [Top 9 qualities of clean code 🌟🌟](https://blog.goyello.com/2013/01/21/top-9-principles-clean-code/)
 
 [![dzone_refcard_refactoring_patterns](images/dzone_refcard_refactoring_patterns.png)](https://dzone.com/refcardz/refactoring-patterns)
 

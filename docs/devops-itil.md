@@ -288,6 +288,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Should <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> be applied to all software development within an organisation? <a href="https://twitter.com/AtosSC">@AtosSC</a> <a href="https://twitter.com/Atos">@Atos</a> <a href="https://t.co/GRDrj5igaA">https://t.co/GRDrj5igaA</a> <a href="https://t.co/9JTlnukcs8">pic.twitter.com/9JTlnukcs8</a></p>&mdash; Antonio Santos⚙☘️ (@akwyz) <a href="https://twitter.com/akwyz/status/737045860090019840">29 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">IT sysadmin/devops salary top in USA and lowest in Asia/Eastern Europe. Via <a href="https://t.co/CO3uWZv2wt">https://t.co/CO3uWZv2wt</a> <a href="https://t.co/cGmmeVPS2u">pic.twitter.com/cGmmeVPS2u</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/775342620574834688">12 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tOdsxSB4MfwWj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths" title="Busting the Five Biggest DevOps Myths" target="_blank">Busting the Five Biggest DevOps Myths</a> </strong> from <strong><a href="//www.slideshare.net/CAinc" target="_blank">CA Technologies</a></strong> </div>
 </div>

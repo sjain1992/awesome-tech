@@ -21,6 +21,12 @@
 |[![bcn_activa_video](images/bcn_activa_video.jpg)](https://www.youtube.com/user/videosbarcelonactiva)|[![bdigital_video](images/bdigital_video.jpg)](https://www.youtube.com/user/BarcelonaDigital)|[![eurecat_ti_video](images/eurecat_ti_video.jpg)](https://www.youtube.com/channel/UCWeVIFJ___t_6ozc7bDaKZw)|[![barcinno_video](images/barcinno_video.jpg)](https://www.youtube.com/channel/UCn36ZGvF15R5dNpEQ4piCEQ)|[![gsma_video](images/gsma_video.jpg)](https://www.youtube.com/user/GSMAOnline)|
 |:---:|:---:|:---:|:---:|:---:|
 
+|[![wuakitv_video](images/wuakitv_video.jpg)](https://www.youtube.com/user/Wuakitv)|[![Netflix_spain_video](images/Netflix_spain_video.jpg)](https://www.youtube.com/channel/UCT2UUebPuLke_BShrDh_YEA)|[![privalia_video](images/privalia_video.jpg)](https://www.youtube.com/user/Privalia)|[![edreams_video](images/edreams_video.jpg)](https://www.youtube.com/user/eDreamsChannel)|[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet)|[![grifols_video](images/grifols_video.jpg)](https://www.youtube.com/user/GrifolsCorpComms)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![nexica_video](images/nexica_video.jpg)](https://www.youtube.com/channel/UCy2k-UBjF9I8XhN-zJJh03w)|[![cdmon_video](images/cdmon_video.jpg)](https://www.youtube.com/user/CDmonTV)|[![ackstorm_video](images/ackstorm_video.jpg)](https://www.youtube.com/channel/UC7EyXHW_T73C7L7ZJkkmZVg)|[![acens_video](images/acens_video.jpg)](https://www.youtube.com/user/acenstec)|[![uoc_video](images/uoc_video.jpg)](https://www.youtube.com/user/UOC)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # Barcelona Tech, Startups and Innovation
@@ -86,6 +92,11 @@ para universitarios y titulados júnior
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTOSgFKKDZI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnAHknghmIM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

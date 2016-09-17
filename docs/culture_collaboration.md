@@ -137,6 +137,9 @@
 
 [![elizabeth_holmes_banned_for_2_years](images/elizabeth_holmes_banned_for_2_years.png)](http://thenextweb.com/insider/2016/07/08/theranos-elizabeth-holmes-banned-running-labs-2-years/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;If a girl looks good, she&#39;s probably not good at her work.&quot; Bang on, seen this bias so often. <a href="https://twitter.com/hashtag/BestATWork?src=hash">#BestATWork</a> <a href="https://t.co/argHHU61YN">https://t.co/argHHU61YN</a></p>&mdash; Kiran Manral (@KiranManral) <a href="https://twitter.com/KiranManral/status/774570723603980289">10 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/BYA1zNZmsN7dqC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/SuharshHarsha/business-etiquette-and-culture-in-europe" title="BUSINESS ETIQUETTE AND CULTURE IN EUROPE " target="_blank">BUSINESS ETIQUETTE AND CULTURE IN EUROPE </a> </strong> from <strong><a target="_blank" href="//es.slideshare.net/SuharshHarsha">Suharsh L</a></strong> </div>
 </div>

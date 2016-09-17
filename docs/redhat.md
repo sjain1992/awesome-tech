@@ -165,6 +165,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Red Hat
+- [growthhackers.com: Red Hat. How They Developed a Big Idea That Shook Up A Huge Market](https://growthhackers.com/growth-studies/red-hat-how-they-developed-a-big-idea-that-shook-up-a-huge-market)
+
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
 - [twitter.com/fedora](https://twitter.com/fedora)

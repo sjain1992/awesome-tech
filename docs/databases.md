@@ -5,6 +5,7 @@
 	- [SQL Blogs and Forums](#sql-blogs-and-forums)
 	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 	- [SQL and Database Docs](#sql-and-database-docs)
+		- [SQL and JSON](#sql-and-json)
 	- [Database Performance](#database-performance)
 	- [Database Security](#database-security)
 	- [EssentialSQL. SQL Server](#essentialsql-sql-server)
@@ -142,6 +143,9 @@
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Say No to Venn Diagrams When Explaining JOINs via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> Lukas Elder <a href="https://t.co/rzjGPj99uW">https://t.co/rzjGPj99uW</a> <a href="https://twitter.com/hashtag/database?src=hash">#database</a> <a href="https://t.co/DC6aruDUXy">pic.twitter.com/DC6aruDUXy</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/767662609789321216">22 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### SQL and JSON
+- [DZone: KEEP CALM and QUERY JSON](https://dzone.com/articles/keep-calm-and-query-json) Trying to break from SQL? Here's how JSON and the platforms that use it can lend a hand organizing and querying data.
 
 ## Database Performance
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)

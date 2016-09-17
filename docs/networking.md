@@ -65,11 +65,11 @@
 |[![gsma_video](images/gsma_video.jpg)](https://www.youtube.com/user/GSMAOnline)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|[![telefonica_video_a_click_tic](images/telefonica_video_a_click_tic.jpg)](https://www.youtube.com/user/TelefonicaGGClientes)|
 |:---:|:---:|:---:|:---:|
 
-|[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|
-|:---:|:---:|:---:|:---:|
+|[![opendaylight_video](images/opendaylight_video.jpg)](https://www.youtube.com/user/opendaylightproject)|[![opnfv_video](images/opnfv_video.jpg)](https://www.youtube.com/channel/UC3EjXLJbub0tPFpnI3vEmYg)|[![onf_video](images/onf_video.jpg)](https://www.youtube.com/user/OpenNetworkingFndn)|[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|
+|:---:|:---:|:---:|:---:|:---:|
 
-|[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
-|:---:|:---:|:---:|:---:|
+|[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|[![opennetsummit_slides](images/opennetsummit_slides.jpg)](http://www.slideshare.net/opennetsummit)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 
@@ -132,7 +132,8 @@
 - [Virtual LAN](VLAN.md)
 
 ## Network virtualization. Software Defined Networking (SDN)
-- [FOSS Network Functions Virtualization](https://www.opnfv.org)
+- [opnfv.org FOSS Network Functions Virtualization](https://www.opnfv.org)
+- [opennetworking.org](https://www.opennetworking.org/)
 - [SDxCentral.com: Trusted News and Resources for SDx, SDN, NFV](https://www.sdxcentral.com/)
 - [sdxcentral.com: What is NFV – Network Functions Virtualization?](https://www.sdxcentral.com/resources/nfv/whats-network-functions-virtualization-nfv/)
 	- [Software-defined networking (SDN)](https://www.sdxcentral.com/flow/sdn-software-defined-networking/)

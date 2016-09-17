@@ -213,3 +213,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed -i -e &#39;/^\s*#/!s/$val\&gt;/$pid/g&#39; getproc.pl # Replace all variables <a href="https://twitter.com/search?q=%24val&amp;src=ctag">$val</a> with <a href="https://twitter.com/search?q=%24pid&amp;src=ctag">$pid</a> in getproc.pl, except on commented lines. *FIXED*</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/771722330821144580">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">jq -C &#39;.&#39; data.json | less -R # Use jq to pretty print some json data with ANSI color coded syntax and use -R in less to process the color.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/775701661230641152">13 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed &#39;/Alice/!d; /Bob/!d&#39; irc.log # Search irc.log for lines containing Alice and Bob regardless of their order in the line. <a href="https://twitter.com/hashtag/SEDtember?src=hash">#SEDtember</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/776064862854189056">14 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

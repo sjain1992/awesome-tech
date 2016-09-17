@@ -16,15 +16,15 @@
 
 <center>
 
-|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|
-|:---:|:---:|:---:|
+|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 
 <center>
 
-| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|
-|:---:|:---:|:---:|:---:|:---:|
+|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|[![autentia_video](images/autentia_video.jpg)](https://www.youtube.com/user/AutentiaMedia)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
 

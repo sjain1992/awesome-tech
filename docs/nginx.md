@@ -32,6 +32,9 @@
 
 [![dzone_refcard_monitoring_nginx](images/dzone_refcard_monitoring_nginx.png)](https://dzone.com/refcardz/monitoring-nginx)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Get the most out of <a href="https://twitter.com/hashtag/NGINX?src=hash">#NGINX</a> with this exclusive <a href="https://twitter.com/OReillyMedia">@OReillyMedia</a> ebook! Download here: <a href="https://t.co/FbrdjGweU0">https://t.co/FbrdjGweU0</a></p>&mdash; NGINX, Inc. (@nginx) <a href="https://twitter.com/nginx/status/775887193403305984">14 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Nginx Virtual Hosts
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
 

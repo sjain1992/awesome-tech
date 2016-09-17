@@ -90,6 +90,7 @@
 - [ansible.com: AUTOMATING THE PROVISIONING AND CONFIGURATION OF RED HAT MOBILE APPLICATION PLATFORM](https://www.ansible.com/blog/ansible-openshift-enterprise-container-platform)
 - [VMware support: A SHINY NEW WAY TO MANAGE VMWARE GUESTS 🌟🌟🌟](https://www.ansible.com/blog/managing-vmware-guests)
 - [unixmen.com: How to install Ansible and Use it in Automation (CentOS)](https://www.unixmen.com/install-ansible-use-automation/)
+- [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

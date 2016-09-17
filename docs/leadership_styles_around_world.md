@@ -77,6 +77,9 @@
 
 ![dont_pick_a_job_pick_a_boss](images/dont_pick_a_job_pick_a_boss.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">From &#39;Planning to Experimentation&#39;, to enable organizational transformation.<a href="https://twitter.com/hashtag/brands?src=hash">#brands</a> <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> <a href="https://twitter.com/hashtag/SMB?src=hash">#SMB</a> <a href="https://t.co/13FzRXnq4k">pic.twitter.com/13FzRXnq4k</a></p>&mdash; Sean Gardner (@2morrowknight) <a href="https://twitter.com/2morrowknight/status/775291683139223553">12 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/nR0Ldi2Dac0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

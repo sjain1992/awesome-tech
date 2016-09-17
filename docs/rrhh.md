@@ -229,6 +229,9 @@
 - [entrepreneur.com: Cómo salir de tus deudas](https://www.entrepreneur.com/article/281959) Con esta guía podrás planificar mejor tus gastos y tener finanzas sanas. Todo depende de tu interés y capacidad de organización.
 - [elconfidencial.com: Por qué la gente inteligente suele quedarse anclada en un muy mal trabajo](http://www.elconfidencial.com/alma-corazon-vida/2016-06-06/las-razones-por-las-que-la-gente-inteligente-se-queda-anclada-en-un-trabajo-de-mierda_1209332/) Como sabes 'lo mal que están las cosas' prefieres quedarte –virgencita, virgencita– tal y donde estás sin mover un dedo. Pues quizás ha llegado el momento de buscar otra cosa
 - [elconfidencial.com: Las ocho tácticas de la gente que, sin valer para nada, consigue lo que quiere](http://www.elconfidencial.com/alma-corazon-vida/2016-05-30/trepas-laborales-habitos-de-los-companeros-de-trabajo-que-ascienden-sin-merecerlo_1206698/) 
+- [lavanguardia.com: ¿Por qué somos envidiosos?](http://www.lavanguardia.com/vida/20160917/41371492381/por-que-somos-envidiosos.html) Las sociedades individualistas y competitivas fomentan que ansiemos lo que tienen otros
+- [lavanguardia.com: El calvario de un funcionario ‘aburrido’](http://www.lavanguardia.com/vida/20160912/41245202101/ramon-gausachs-funcionario-aburrido-boreout.html) Un trabajador de una administración local de Barcelona revive los seis meses que pasó arrinconado en una oficina
+- [elcorreo.com: Mi jefe el psicópata](http://www.elcorreo.com/bizkaia/sociedad/201609/17/jefe-psicopata-20160916190859.html) Uno de cada cinco altos directivos tiene más peligro que Hannibal Lecter. Así lo asegura un estudio
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

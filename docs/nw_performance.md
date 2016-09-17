@@ -38,6 +38,9 @@
 - [blog.datapath.io: 8 Network Optimization Principles for DevOps](http://blog.datapath.io/network-optimization-principles-for-devops)
 - [blog.performancevision.com: TROUBLESHOOTING SLOW APPLICATIONS: WHY IS THE NETWORK ALWAYS FIRST TO BE BLAMED?](http://blog.performancevision.com/troubleshooting-slow-applications-why-is-the-network-always-first-to-be-blamed)
 - [blog.datapath.io: 4 Areas Network Latency is Killing your eCommerce Site](http://blog.datapath.io/4-areas-network-latency-is-killing-your-ecommerce-site)
+- [blog.datapath.io: Last Mile Access is Affecting your Internet Speed](http://blog.datapath.io/last-mile-access-is-effecting-your-internet-speed)
+- [blog.datapath.io: What are the Causes of Packet Loss?](http://blog.datapath.io/causes-of-packet-loss)
+- [nordicapis.com: Don’t Underutilize These 5 Amazing HTTP Performance Features 🌟🌟🌟](http://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

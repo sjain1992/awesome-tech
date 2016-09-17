@@ -165,6 +165,9 @@
 - [Docker Plugins 🌟🌟🌟](https://docs.docker.com/engine/extend/plugins/)
 - [medium.com: MicroServices From Development To Production Using Docker, Docker Compose & Docker Swarm](https://medium.com/@eon01/microservices-from-development-to-production-using-docker-docker-compose-docker-swarm-3cf37f97706b)
 - [fortune.com: Here's Why This Software Scuffle Should Matter to Non-Techies 🌟🌟🌟](http://fortune.com/2016/09/06/docker-software-swarm/)
+- [opensource.com: 8 best practices for building containerized applications](https://opensource.com/life/16/9/8-best-practices-building-containerized-applications)
+- [Julia Evans: Some questions about Docker and rkt 🌟🌟](http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/)
+- [It's the future 🌟🌟🌟🌟](https://circleci.com/blog/its-the-future/)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
