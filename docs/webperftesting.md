@@ -2,6 +2,7 @@
 
 - [Performance Testing. Traffic injectors/generators](#performance-testing-traffic-injectorsgenerators)
     - [JMeter](#jmeter)
+        - [JMeter Testing Platforms](#jmeter-testing-platforms)
         - [Video Streaming Load Testing](#video-streaming-load-testing)
     - [Webpagetest](#webpagetest)
     - [Performance tools in Firefox](#performance-tools-in-firefox)
@@ -39,6 +40,10 @@
 - [DZone refcard: Getting Started With Apache JMeter 🌟](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 - [The DNS Cache Manager: The Right Way To Test Load Balanced Apps 🌟](https://www.blazemeter.com/blog/dns-cache-manager-right-way-test-load-balanced-apps)
 - [opensource.com: How to run JMeter with Jenkins](https://opensource.com/life/16/7/running-jmeter-jenkins-continuous-delivery-101)
+
+### JMeter Testing Platforms
+- [blazemeter.com](https://www.blazemeter.com/)
+- [cloudload.io: Performance testing for websites and mobile applications](http://www.cloudload.io/)
 
 ### Video Streaming Load Testing
 - [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)

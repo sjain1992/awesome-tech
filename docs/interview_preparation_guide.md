@@ -158,6 +158,7 @@
 - [DISCRIMINACIÓN POR EDAD: Un alto ingeniero de Apple, rechazado para trabajar en una de sus tiendas](http://www.lavanguardia.com/vida/20160907/41154606810/ingeniero-apple-rechazado-trabajar.html)
 - [Security vs. Opportunity: The Career Dilemma We Must Address 🌟🌟🌟](https://www.linkedin.com/pulse/20140827151652-7668018-security-vs-opportunity-career-dilema-all-must-now-address)
 - [recruitmentgrapevine.com: Former Google career coach reveals her favourite interview questions 🌟🌟](http://www.recruitmentgrapevine.com/article/2016-09-07-former-google-employee-reveals-favourite-interview-questions)
+- [How To Answer, "Tell Me About Yourself"](https://www.linkedin.com/pulse/how-answer-tell-me-yourself-j-t-o-donnell)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
