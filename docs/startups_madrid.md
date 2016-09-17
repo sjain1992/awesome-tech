@@ -16,7 +16,7 @@
 
 <center>
 
-|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
+|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![redpuntoes_video](images/redpuntoes_video.jpg)](https://www.youtube.com/user/Redpuntoes)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
@@ -24,6 +24,12 @@
 <center>
 
 |[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) |[![atsistemas_video](images/atsistemas_video.jpg)](https://www.youtube.com/user/videosatsistemas)|[![autentia_video](images/autentia_video.jpg)](https://www.youtube.com/user/AutentiaMedia)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![gigas_video](images/gigas_video.jpg)](https://www.youtube.com/channel/UCfjNL-5mC-PTQE6VNnfbYIQ)|[![uniway_video](images/uniway_video.jpg)](https://www.youtube.com/user/webmasterUniway)|[![pocoyo_video](images/pocoyo_video.jpg)](https://www.youtube.com/user/pocoyotv)|[![bolsamania_videos](images/bolsamania_videos.jpg)](https://www.youtube.com/user/bolsamaniaTV)|[![bolsatv](images/bolsatv.jpg)](https://www.youtube.com/channel/UC379hLqrhnGa0_pPeyc4ySg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|[![ei_video](images/ei_video.jpg)](https://www.youtube.com/user/estrategiasTV)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
@@ -56,16 +62,6 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgva9v9aaC4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkEGCA40RV0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFeo22j08e8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

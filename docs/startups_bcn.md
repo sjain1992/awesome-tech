@@ -27,7 +27,7 @@
 |[![nexica_video](images/nexica_video.jpg)](https://www.youtube.com/channel/UCy2k-UBjF9I8XhN-zJJh03w)|[![cdmon_video](images/cdmon_video.jpg)](https://www.youtube.com/user/CDmonTV)|[![ackstorm_video](images/ackstorm_video.jpg)](https://www.youtube.com/channel/UC7EyXHW_T73C7L7ZJkkmZVg)|[![acens_video](images/acens_video.jpg)](https://www.youtube.com/user/acenstec)|[![uoc_video](images/uoc_video.jpg)](https://www.youtube.com/user/UOC)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![dexmatech_video](images/dexmatech_video.jpg)](https://www.youtube.com/user/dexmatech)|[![holaluz_video](images/holaluz_video.jpg)](https://www.youtube.com/user/HolaLuzcom)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![dexmatech_video](images/dexmatech_video.jpg)](https://www.youtube.com/user/dexmatech)|[![holaluz_video](images/holaluz_video.jpg)](https://www.youtube.com/user/HolaLuzcom)|[![infojobs_video](images/infojobs_video.jpg)](https://www.youtube.com/user/InfoJobsnet)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>
