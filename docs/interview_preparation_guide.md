@@ -1,12 +1,12 @@
 <!-- MarkdownTOC -->
 
 - [Interview Preparation Guide](#interview-preparation-guide)
-    - [Linkedin](#linkedin)
-    - [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
-    - [Brutally honest job description](#brutally-honest-job-description)
-    - [Applicant Tracking System](#applicant-tracking-system)
-    - [Salary Negotiation](#salary-negotiation)
-        - [Technical Resume](#technical-resume)
+	- [Linkedin](#linkedin)
+	- [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
+	- [Brutally honest job description](#brutally-honest-job-description)
+	- [Applicant Tracking System](#applicant-tracking-system)
+	- [Salary Negotiation](#salary-negotiation)
+		- [Technical Resume](#technical-resume)
 
 <!-- /MarkdownTOC -->
 
@@ -159,6 +159,7 @@
 - [Security vs. Opportunity: The Career Dilemma We Must Address 🌟🌟🌟](https://www.linkedin.com/pulse/20140827151652-7668018-security-vs-opportunity-career-dilema-all-must-now-address)
 - [recruitmentgrapevine.com: Former Google career coach reveals her favourite interview questions 🌟🌟](http://www.recruitmentgrapevine.com/article/2016-09-07-former-google-employee-reveals-favourite-interview-questions)
 - [How To Answer, "Tell Me About Yourself"](https://www.linkedin.com/pulse/how-answer-tell-me-yourself-j-t-o-donnell)
+- [No one in tech will admit that they're old 🌟🌟](https://www.linkedin.com/pulse/one-tech-admit-theyre-old-caroline-fairchild)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
