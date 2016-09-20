@@ -256,11 +256,6 @@
 - [Trainline.com dumps Oracle and Microsoft, gulps AWS Kool-Aid 🌟🌟🌟](http://www.theregister.co.uk/2016/07/13/trainline_dumps_oracle_microsoft_goes_full_aws_cto_interview/)
 - [London DevOps - Trainline, A DevOps Journey - Chris Turvil 🌟🌟🌟](https://www.youtube.com/watch?v=IUvUmqu1MBQ)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HvuOyGYWk7s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)

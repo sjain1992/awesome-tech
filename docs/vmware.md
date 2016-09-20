@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [VMware](#vmware)
-    - [Blogs](#blogs)
-    - [Spanish Blogs](#spanish-blogs)
+	- [Blogs](#blogs)
+	- [Spanish Blogs](#spanish-blogs)
 - [VirtualBox](#virtualbox)
 
 <!-- /MarkdownTOC -->
