@@ -682,6 +682,9 @@
 - [VeraCrypt](https://veracrypt.codeplex.com/)
 - [TrueCrypt](http://truecrypt.sourceforge.net/)
 - [How to Enable Full-Disk Encryption on Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/)
+- [lifehacker.comn - Windows Encryption Showdown: VeraCrypt vs Bitlocker](http://lifehacker.com/windows-encryption-showdown-veracrypt-vs-bitlocker-1777855025)
+- [Trusted Platform Module (TPM) and BitLocker Drive Encryption](https://msdn.microsoft.com/en-us/library/windows/hardware/dn653315(v=vs.85).aspx)
+- [Trusted Platform Module (TPM) 🌟](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SEsIO8T5R80?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
