@@ -127,6 +127,7 @@
 - [Caching](caching.md)
 
 ## Apache and Tomcat
+- [code.tutsplus.com: An Introduction to Apache](https://code.tutsplus.com/tutorials/an-introduction-to-apache--net-25786)
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
 - [scriptrock.com: 15 Ways To Secure Apache Tomcat 8](https://www.scriptrock.com/articles/15-ways-to-secure-apache-tomcat-8)
@@ -134,6 +135,10 @@
 	- [middlewaresnippets.blogspot.com - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/09/working-some-more-with-apache-http.html)
 - [nixCraft: PHP-fpm Too Many Open Files 24 Error (set open file descriptor limit)](http://www.cyberciti.biz/faq/php-5-7-fpm-set-open-file-descriptor-limit-on-linux-unix/)
 - [unixmen.com: Apache Performance Tuning](https://www.unixmen.com/apache-performance-tuning/)
+- [askapache.com: htaccess - Ultimate Apache .htaccess file Guide](http://www.askapache.com/htaccess/htaccess.html)
+- [creativebloq.com: Protect WordPress sites with .htaccess](http://www.creativebloq.com/wordpress/protect-your-wordpress-site-htaccess-4122793)
+- [codular.com: Introduction to .htaccess](http://codular.com/htaccess-introduction)
+- [moz.com: 10 .htaccess File Snippets You Should Have Handy](https://moz.com/blog/htaccess-file-snippets-for-seos)
 
 [![How Apache Is Losing The Web To NGINX 2](images/nginx-w3techs-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 

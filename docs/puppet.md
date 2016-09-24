@@ -1,9 +1,9 @@
 <!-- MarkdownTOC -->
 
 - [Puppet](#puppet)
-    - [DZone and Puppet](#dzone-and-puppet)
-    - [Application Orchestration](#application-orchestration)
-    - [WebLogic via Puppet](#weblogic-via-puppet)
+	- [DZone and Puppet](#dzone-and-puppet)
+	- [Application Orchestration](#application-orchestration)
+	- [WebLogic via Puppet](#weblogic-via-puppet)
 
 <!-- /MarkdownTOC -->
 
@@ -39,6 +39,7 @@
 - [Linux Journal: Managing Linux Using Puppet 🌟](http://www.linuxjournal.com/content/managing-linux-using-puppet)
 - [Puppet blog: Installing Puppet Enterprise-only modules without internet access](https://puppet.com/blog/installing-puppet-enterprise-only-modules-without-internet-access)
 - [puppet.com - Automating with Puppet: Standardizing NTP](https://puppet.com/blog/automating-puppet-standardizing-ntp)
+- [puppet.com: PuppetConf speaker Martin Alfke on DevOps, ChatOps and learning Puppet](https://puppet.com/blog/puppetconf-speaker-martin-alfke-devops-chatops-and-learning-puppet)
 
 <blockquote class="reddit-card" data-card-created="1467912191"><a href="https://www.reddit.com/r/Puppet/comments/4rbbm5/puppet_4_user_base/?ref=share&ref_source=embed">Puppet 4 user base</a> from <a href="http://www.reddit.com/r/Puppet">Puppet</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>

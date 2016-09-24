@@ -190,6 +190,7 @@
 - [Hack In The Box Security Conference 🌟](https://www.youtube.com/user/hitbsecconf)
 - [infosecurity-magazine.com 🌟🌟](http://www.infosecurity-magazine.com/)
 - [hackercool.com 🌟🌟](http://hackercool.com/latest-hacks/)
+- [krebsonsecurity.com 🌟🌟](http://krebsonsecurity.com/)
 
 [![hack_in_the_security_conference](images/hack_in_the_security_conference.png)](https://www.youtube.com/user/hitbsecconf)
 

@@ -232,6 +232,7 @@
 - [lavanguardia.com: ¿Por qué somos envidiosos?](http://www.lavanguardia.com/vida/20160917/41371492381/por-que-somos-envidiosos.html) Las sociedades individualistas y competitivas fomentan que ansiemos lo que tienen otros
 - [lavanguardia.com: El calvario de un funcionario ‘aburrido’](http://www.lavanguardia.com/vida/20160912/41245202101/ramon-gausachs-funcionario-aburrido-boreout.html) Un trabajador de una administración local de Barcelona revive los seis meses que pasó arrinconado en una oficina
 - [elcorreo.com: Mi jefe el psicópata](http://www.elcorreo.com/bizkaia/sociedad/201609/17/jefe-psicopata-20160916190859.html) Uno de cada cinco altos directivos tiene más peligro que Hannibal Lecter. Así lo asegura un estudio
+- [elcorreo.com: Un juez da la invalidez absoluta a una enfermera de Osakidetza por el mal ambiente de trabajo](http://www.elcorreo.com/bizkaia/economia/201609/24/invalidez-absoluta-ambiente-trabajo-20160923235153.html) La salud de la afectada se vio seriamente resentida por las presiones de sus superiores y compañeros
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
