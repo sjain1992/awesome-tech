@@ -15,8 +15,8 @@
 
 <center>
 
-|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)|[![vmware_training_video](images/vmware_training_video.jpg)](https://www.youtube.com/user/viadmin)|[![vmware_slides](images/vmware_slides.jpg)](http://www.slideshare.net/vmware)|[![vmware_nsx_video](images/vmware_nsx_video.jpg)](https://www.youtube.com/user/vmwarensx)|
-|:---:|:---:|:---:|:---:|
+|[![vmware_emea_video](images/vmware_emea_video.jpg)](https://www.youtube.com/user/VMwareEMEA)|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)|[![vmware_training_video](images/vmware_training_video.jpg)](https://www.youtube.com/user/viadmin)|[![vmware_slides](images/vmware_slides.jpg)](http://www.slideshare.net/vmware)|[![vmware_nsx_video](images/vmware_nsx_video.jpg)](https://www.youtube.com/user/vmwarensx)|
+|:---:|:---:|:---:|:---:|:---:|
 
 |[![vmware_storage_video](images/vmware_storage_video.jpg)](https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q)|[![vmware_vsphere_video](images/vmware_vsphere_video.jpg)](https://www.youtube.com/channel/UCN8FHFshMw-15AtFKWSLczA)|[![vmware_spain_video](images/vmware_spain_video.jpg)](https://www.youtube.com/user/vmwareespana)|[![vmware_partner_tv_video](images/vmware_partner_tv_video.jpg)](https://www.youtube.com/user/VMwarePartnerTV)|[![vmware_cloud_management_video](images/vmware_cloud_management_video.jpg)](https://www.youtube.com/channel/UCKON30YeSGIeqsueMYgEa9A)|
 |:---:|:---:|:---:|:---:|:---:|
