@@ -39,6 +39,9 @@
 |[![trovit_video](images/trovit_video.jpg)](https://www.youtube.com/channel/UCz8S73iKoCom2RN8B8l-Heg)|[![tokiota_video](images/tokiota_video.jpg)](https://www.youtube.com/channel/UCfiDuxp9zGMJ7NIFyjRuHWQ)|[![midokura_video](images/midokura_video.jpg)](https://www.youtube.com/user/midokura)|[![Boehringer_Global_video](images/Boehringer_Global_video.jpg)](https://www.youtube.com/user/boehringeringelheim)|[![boehringer_spain_video](images/boehringer_spain_video.jpg)](https://www.youtube.com/channel/UCyOAPX-3hb2X57_SbfHzRGA)|[![banco_sabadell_video](images/banco_sabadell_video.jpg)](https://www.youtube.com/user/BancSabadell)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![reuters_live](images/reuters_live.jpg)](https://www.youtube.com/user/ReutersVideo)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # Barcelona Tech, Startups and Innovation
