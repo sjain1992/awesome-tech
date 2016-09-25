@@ -102,8 +102,8 @@
 
 <center>
 
-|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet)|
-|:---:|:---:|:---:|:---:|
+|[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet)|[![tpsc_video](images/tpsc_video.jpg)](https://www.youtube.com/user/ThePCSecurity)|
+|:---:|:---:|:---:|:---:|:---:|
 
 | [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom)|[![secure_ninja_tv](images/secure_ninja_tv.jpg)](https://www.youtube.com/user/Secureninja)|[![network_security_video](images/network_security_video.jpg)](https://www.youtube.com/channel/UCb3RspaWNxC3Yyuqve5f59w)|[![kali_linux_video](images/kali_linux_video.jpg)](https://www.youtube.com/user/kalinuxx)|[![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)|
 |:---:|:---:|:---:|:---:|:---:|

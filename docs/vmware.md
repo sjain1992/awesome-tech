@@ -13,6 +13,9 @@
 
 [![dzone_refcard_virtualization](images/dzone_refcard_virtualization.png)](https://dzone.com/refcardz/getting-started-virtualization)
 
+|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)|[![vmware_training_video](images/vmware_training_video.jpg)](https://www.youtube.com/user/viadmin)|[![vmware_slides](images/vmware_slides.jpg)](http://www.slideshare.net/vmware)|
+|:---:|:---:|:---:|
+
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
 	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)
