@@ -16,6 +16,8 @@
 </div>
 <br/>
 
+[![redhat_virt_video](images/redhat_virt_video.jpg)](https://www.youtube.com/user/redhatvirtualization)
+
 # Red Hat Virtualization
 - [virtualizationreview.com 🌟🌟🌟](https://virtualizationreview.com)
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)

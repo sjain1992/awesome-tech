@@ -29,6 +29,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Joint solutions from <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> + <a href="https://twitter.com/Cisco">@Cisco</a> simplify deployment, increase flexibility, &amp; reduce risk <a href="https://t.co/FBWrhHsSob">https://t.co/FBWrhHsSob</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/748234340178468864">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+|[![openstack_video](images/openstack_video.jpg)](https://www.youtube.com/user/OpenStackFoundation)|[![mirantis_video](images/mirantis_video.jpg)](https://www.youtube.com/user/MirantisUS)|[![david_mahler_video](images/david_mahler_video.jpg)](https://www.youtube.com/user/mahler711)|[![redhat_cloud_video](images/redhat_cloud_video.jpg)](https://www.youtube.com/user/RedHatCloud)|[![redhat_storage_video](images/redhat_storage_video.jpg)](https://www.youtube.com/user/redhatstorage)|
+|:---:|:---:|:---:|:---:|:---:|
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 
