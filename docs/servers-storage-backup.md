@@ -38,8 +38,8 @@
 |[![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell)|[![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise)|[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![vce_videos](images/vce_videos.jpg)](https://www.youtube.com/user/VCEcomputing)|[![ingram_micro_video](images/ingram_micro_video.jpg)](https://www.youtube.com/user/IngramMicroInc)|
 |:---:|:---:|:---:|:---:|:---:|
 
-|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)| [![veeam_videos](images/veeam_videos.jpg)](https://www.youtube.com/c/veeam)|[![barracuda_video](images/barracuda_video.jpg)](https://www.youtube.com/user/CudaVideo)|[![openstack_video](images/openstack_video.jpg)](https://www.youtube.com/user/OpenStackFoundation)|[![the_var_guy](images/the_var_guy.jpg)](https://www.youtube.com/user/thevarguy)|
-|:---:|:---:|:---:|:---:|:---:|
+|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)|[![vmware_storage_video](images/vmware_storage_video.jpg)](https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q)|[![veeam_videos](images/veeam_videos.jpg)](https://www.youtube.com/c/veeam)|[![barracuda_video](images/barracuda_video.jpg)](https://www.youtube.com/user/CudaVideo)|[![openstack_video](images/openstack_video.jpg)](https://www.youtube.com/user/OpenStackFoundation)|[![the_var_guy](images/the_var_guy.jpg)](https://www.youtube.com/user/thevarguy)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![emc_videos](images/emc_videos.jpg)](https://www.youtube.com/c/emc)|[![netapp_videos](images/netapp_videos.jpg)](https://www.youtube.com/c/netapp)|[![synology_videos](images/synology_videos.jpg)](https://www.youtube.com/user/synologyinc)|[![naseros_video](images/naseros_video.jpg)](https://www.youtube.com/user/naseros)|[![qnap_video](images/qnap_video.jpg)](https://www.youtube.com/user/qnapsys)|[![qloudea_video](images/qloudea_video.jpg)](https://www.youtube.com/user/qloudea)|
 |:---:|:---:|:---:|:---:|:---:|:---:|

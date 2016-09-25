@@ -71,6 +71,9 @@
 |[![OPNFV_slides](images/OPNFV_slides.jpg)](http://www.slideshare.net/OPNFV)|[![opennetsummit_slides](images/opennetsummit_slides.jpg)](http://www.slideshare.net/opennetsummit)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|[![wifisafe_video](images/wifisafe_video.jpg)](https://www.youtube.com/user/Wifisafe)|
 |:---:|:---:|:---:|:---:|:---:|
 
+|[![david_bombal_video](images/david_bombal_video.jpg)](https://www.youtube.com/user/ConfigTerm)|[![nick_feamster_video](images/nick_feamster_video.jpg)](https://www.youtube.com/user/nfeamster)|[![ivan_pepelvnjak_video](images/ivan_pepelvnjak_video.jpg)](https://www.youtube.com/user/IvanPx)|[![assaf_muller_video](images/assaf_muller_video.jpg)](assafmuller)|[![vmware_nsx_video](images/vmware_nsx_video.jpg)](https://www.youtube.com/user/vmwarensx)|
+|:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # Networking
