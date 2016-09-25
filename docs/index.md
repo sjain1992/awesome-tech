@@ -181,8 +181,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia)|[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup)|[![atos_videos](images/atos_videos.jpg)](https://www.youtube.com/user/Atos)|[![thales_videos](images/thales_videos.jpg)](https://www.youtube.com/user/thethalesgroup)|[![altran_es_videos](images/altran_es_videos.jpg)](https://www.youtube.com/user/AltranEspana)|[![alten_spain_video](images/alten_spain_video.jpg)](https://www.youtube.com/user/altenspain)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![sopra_steria_video](images/sopra_steria_video.jpg)](https://www.youtube.com/user/SteriaGroup)|[![gfi_spain_video](images/gfi_spain_video.jpg)](https://www.youtube.com/user/GFIInformatica)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![ricoh_spain_video](images/ricoh_spain_video.jpg)](https://www.youtube.com/user/RicohES)|[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
+|[![sopra_steria_video](images/sopra_steria_video.jpg)](https://www.youtube.com/user/SteriaGroup)|[![gfi_spain_video](images/gfi_spain_video.jpg)](https://www.youtube.com/user/GFIInformatica)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![ricoh_spain_video](images/ricoh_spain_video.jpg)](https://www.youtube.com/user/RicohES)|[![avanttic_video](images/avanttic_video.jpg)](https://www.youtube.com/user/avanttic)|[![seidor_video](images/seidor_video.jpg)](https://www.youtube.com/user/gruposeidor)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
+|:---:|:---:|
 
 |[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|[![science_net_video](images/science_net_video.jpg)](https://www.youtube.com/user/jerrybber)|[![futuro_one_video](images/futuro_one_video.jpg)](https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ)|
 |:---:|:---:|:---:|:---:|
