@@ -20,6 +20,7 @@
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
 - [HP Mini PC](#hp-mini-pc)
+- [HP Elitebook 840 G3](#hp-elitebook-840-g3)
 - [This is my desk at Red Hat](#this-is-my-desk-at-red-hat)
 
 <!-- /MarkdownTOC -->
@@ -418,6 +419,14 @@
 # HP Mini PC
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
+
+
+# HP Elitebook 840 G3 
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xFqPn62VF1o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 # This is my desk at Red Hat
 
