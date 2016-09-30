@@ -135,6 +135,8 @@
 - [expansion.com: ¿La muerte de los unicornios?](http://www.expansion.com/actualidadeconomica/analisis/2016/08/29/57bed622ca4741ad758b4615.html) El auge de las 'startups' ha entrado en una nueva fase. El inversor exige ahora un modelo de negocio viable. La criba ya ha empezado.
 - [More evidence that every company is becoming a software company in order to stay competitive. G.E., the 124-Year-Old Software Start-Up](http://www.nytimes.com/2016/08/28/technology/ge-the-124-year-old-software-start-up.html)
 - [xataka.com: Siete emprendedores españoles rompen el tabú: explican por qué realmente su startup fue un fracaso](http://www.xataka.com/otros/siete-emprendedores-espanoles-rompen-el-tabu-explican-por-que-realmente-su-startup-fue-un-fracaso)
+- [Lecciones aprendidas montando (y cerrando) mi startup (de Big Data)](https://medium.com/@ivan.prado/lecciones-aprendidas-montando-y-cerrando-mi-startup-de-big-data-afd6d42c0f8d)
+    - [meneame.net: Lecciones aprendidas montando (y cerrando) mi startup (de Big Data)](https://www.meneame.net/story/lecciones-aprendidas-montando-cerrando-startup-big-data)	
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
