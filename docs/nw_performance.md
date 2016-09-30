@@ -42,6 +42,7 @@
 - [blog.datapath.io: Last Mile Access is Affecting your Internet Speed](http://blog.datapath.io/last-mile-access-is-effecting-your-internet-speed)
 - [blog.datapath.io: What are the Causes of Packet Loss?](http://blog.datapath.io/causes-of-packet-loss)
 - [nordicapis.com: Don’t Underutilize These 5 Amazing HTTP Performance Features 🌟🌟🌟](http://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/)
+- [blog.datapath.io: 10 Causes of Network Congestion You Should Know About](http://blog.datapath.io/10-causes-of-network-congestion-you-should-know-about)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)
