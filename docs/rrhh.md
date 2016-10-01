@@ -263,6 +263,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">“Una mala persona nunca llega a ser buen profesional” <a href="https://twitter.com/LluisAmiguet">@LluisAmiguet</a> entrevista a Howard Gardner. <a href="https://t.co/pR7UgEJU9W">https://t.co/pR7UgEJU9W</a></p>&mdash; Roger Domingo (@RogerDomingo) <a href="https://twitter.com/RogerDomingo/status/719499895653199872">11 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Qué saldría en un estudio como este hecho en ESP? <a href="https://t.co/ctGZaxvht8">https://t.co/ctGZaxvht8</a> (Claro que puede ser sólo una forma de abaratamiento salarial)</p>&mdash; S. Niño Becerra (@sninobecerra) <a href="https://twitter.com/sninobecerra/status/781762585490104321">30 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El periodo de prueba en el contrato <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> .Derechos del trabajador y la empresa. Prestaciones por desempleo <a href="https://t.co/nWF0Xj1BKn">https://t.co/nWF0Xj1BKn</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/702040241377570816">23 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -341,6 +344,9 @@
 [![dragui_nadie_es_joven_para_siempre](images/dragui_nadie_es_joven_para_siempre.png)](http://www.eleconomista.es/economia/noticias/7414223/03/16/El-mensaje-de-Draghi-para-Espana-el-mercado-laboral-protege-a-los-veteranos-y-perjudica-a-los-jovenes.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Draghi &quot;El mercado laboral protege a los veteranos y perjudica a los jóvenes&quot; <a href="https://t.co/4VFUqwMfjo">https://t.co/4VFUqwMfjo</a> <a href="https://t.co/vXeP0poboX">pic.twitter.com/vXeP0poboX</a></p>&mdash; elEconomista.es (@elEconomistaes) <a href="https://twitter.com/elEconomistaes/status/708273641885192192">11 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Para meditar mucho, mucho. <a href="https://t.co/MX4uPU0wfs">https://t.co/MX4uPU0wfs</a></p>&mdash; S. Niño Becerra (@sninobecerra) <a href="https://twitter.com/sninobecerra/status/781069341378875392">28 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here&#39;s how much of your income to save every year so you&#39;ll have enough money in retirement <a href="https://t.co/OB6GDxrv7f">https://t.co/OB6GDxrv7f</a> <a href="https://t.co/8sd5Go7Ej3">pic.twitter.com/8sd5Go7Ej3</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/743096423172935680">15 de junio de 2016</a></blockquote>
