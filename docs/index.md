@@ -427,7 +427,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
 
-![napoleon_quote_poder](images/napoleon_quote_poder.png)
+[![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj&v=s7ys0gCxtd8)
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 
