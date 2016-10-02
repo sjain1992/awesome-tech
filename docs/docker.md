@@ -168,6 +168,7 @@
 - [opensource.com: 8 best practices for building containerized applications](https://opensource.com/life/16/9/8-best-practices-building-containerized-applications)
 - [Julia Evans: Some questions about Docker and rkt 🌟🌟](http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/)
 - [It's the future 🌟🌟🌟🌟](https://circleci.com/blog/its-the-future/)
+- [training.docker.com Self-Paced Training 🌟🌟🌟](https://training.docker.com/self-paced-training)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
@@ -183,6 +184,9 @@
 [![dzone_refcard_docker](images/dzone_refcard_docker.png)](https://dzone.com/refcardz/getting-started-with-docker-1)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Interesting study on Container Orchestrators, what are the most popular platforms? <a href="https://t.co/geWO2r55fk">https://t.co/geWO2r55fk</a> <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/zIyXbhOcvf">pic.twitter.com/zIyXbhOcvf</a></p>&mdash; Emmet O&#39;Grady (@EmmetOGrady) <a href="https://twitter.com/EmmetOGrady/status/762018158513364993">6 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Checking out the <a href="https://twitter.com/docker">@Docker</a> Fundamentals Tutorial right now. Man this is powerful!  <a href="https://t.co/tjGvqA6Fzd">https://t.co/tjGvqA6Fzd</a> <a href="https://t.co/pZfIBmHJle">pic.twitter.com/pZfIBmHJle</a></p>&mdash; Patrick Manley (@CollabPat) <a href="https://twitter.com/CollabPat/status/782212726672293888">1 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Referencias Docker
