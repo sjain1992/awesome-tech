@@ -836,3 +836,8 @@
 <p align="center">
 <a href="https://www.tradingview.com/chart/?symbol=AMZN">tradingview.com/chart/?symbol=AMZN</a>
 </p>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4LkxNXwfA8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>

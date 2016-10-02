@@ -1,11 +1,11 @@
 <!-- MarkdownTOC -->
 
 - [Java](#java)
-    - [Java on Twitter](#java-on-twitter)
-    - [Java Blogs](#java-blogs)
-    - [Java refs](#java-refs)
-        - [Java Performance](#java-performance)
-            - [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
+	- [Java on Twitter](#java-on-twitter)
+	- [Java Blogs](#java-blogs)
+	- [Java refs](#java-refs)
+		- [Java Performance](#java-performance)
+			- [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
 
 <!-- /MarkdownTOC -->
 
@@ -91,6 +91,7 @@
 - [DZone: Convert a List to a Comma-Separated String in Java 8](https://dzone.com/articles/java-8-convert-list-to-string-comma-separated)
 - [DZone: If You Like Good Java, Sip Tea](https://dzone.com/articles/if-you-like-good-java-sip-tea) If you like good Java, SIPT. These four properties—method size, impact set, potential coupling, and transitive dependencies—may be proposed as foundational properties by which programmers should evaluate method structure 
 - [DZone: The JVM Architecture Explained 🌟🌟🌟](https://dzone.com/articles/jvm-architecture-explained) An overview of the different components of the JVM, along with a very useful diagram
+- [DZone: Java 9 Kickoff: Project Jigsaw (Part I)](https://dzone.com/articles/java-9-kickoff-project-jigsaw-partnbspi) Today’s monolithic applications come in micro batches. Every micro batch is independent from one another. Now, Java will come in this flavor using project Jigsaw
 
 [![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java)
 
