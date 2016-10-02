@@ -260,6 +260,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Organizaciones basadas en el <a href="https://twitter.com/hashtag/aprendizaje?src=hash">#aprendizaje</a> ➡ <a href="https://t.co/L79EWtkpdW">https://t.co/L79EWtkpdW</a> por <a href="https://twitter.com/Pablo_BlascoB">@Pablo_BlascoB</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711500186951016449">20 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![no_eres_bueno](images/no_eres_bueno.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/infograf%C3%ADa?src=hash">#infografía</a>: Señales de mala actitud en el <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>, vía <a href="https://twitter.com/elcomercio">@elcomercio</a> <a href="https://t.co/TWWXa0eCTv">pic.twitter.com/TWWXa0eCTv</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/716727049109520384">3 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">“Una mala persona nunca llega a ser buen profesional” <a href="https://twitter.com/LluisAmiguet">@LluisAmiguet</a> entrevista a Howard Gardner. <a href="https://t.co/pR7UgEJU9W">https://t.co/pR7UgEJU9W</a></p>&mdash; Roger Domingo (@RogerDomingo) <a href="https://twitter.com/RogerDomingo/status/719499895653199872">11 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

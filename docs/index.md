@@ -411,14 +411,14 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)
+[![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)](https://www.youtube.com/watch?v=-Ot948zIr0s)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)
+[![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)](https://www.youtube.com/watch?v=YnOfomPgETs)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qSSrTx1vjE?list=RD3qSSrTx1vjE" frameborder="0" allowfullscreen class="video"></iframe>
