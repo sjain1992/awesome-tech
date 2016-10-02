@@ -162,6 +162,7 @@
 - [No one in tech will admit that they're old 🌟🌟](https://www.linkedin.com/pulse/one-tech-admit-theyre-old-caroline-fairchild)
 - [workitdaily.com: Being Your Own Reference: Rating Yourself As A Professional In The Job Interview](https://www.workitdaily.com/rating-yourself-professional-job-interview/)
 - [workitdaily.com: 9 Ways Your Insecurities Are Hurting Your Interview](https://www.workitdaily.com/insecurities-hurting-interview/)
+- [4C's To Asking Great Questions On Interviews 🌟](https://www.linkedin.com/pulse/4cs-asking-great-questions-interviews-j-t-o-donnell)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

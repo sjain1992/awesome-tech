@@ -88,7 +88,8 @@
 - [Employee vs employer views on benefits (infographic) 🌟🌟](http://raconteur.net/infographics/employee-vs-employer-views-on-benefits) If money doesn't buy loyal employees, what does? Our infographic outlines the most desired benefits, retention drivers according to employers versus employees and more
 - [weforum.org: This is how to recharge your brain, according to science](https://www.weforum.org/agenda/2016/08/this-is-how-to-recharge-your-brain-according-to-science)
 - [hbr.org: The More You Energize Your Coworkers, the Better Everyone Performs](https://hbr.org/2016/09/the-energy-you-give-off-at-work-matters)
-- [7 Things You Should Never Say to Your Employees](https://www.entrepreneur.com/article/232657)
+- [entrepreneur.com: 7 Things You Should Never Say to Your Employees 🌟](https://www.entrepreneur.com/article/232657)
+- [entrepreneur.com: How Employees and Managers See Things Differently -- and How to Fix It 🌟](https://www.entrepreneur.com/article/282397)
 
 [![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
 
