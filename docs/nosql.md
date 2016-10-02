@@ -1,12 +1,12 @@
 <!-- MarkdownTOC -->
 
 - [NoSQL and NewSQL](#nosql-and-newsql)
-    - [NoSQL](#nosql)
-        - [MongoDB on Twitter](#mongodb-on-twitter)
-        - [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
-        - [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
-        - [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
-    - [NewSQL](#newsql)
+	- [NoSQL](#nosql)
+		- [MongoDB on Twitter](#mongodb-on-twitter)
+		- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
+		- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
+		- [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
+	- [NewSQL](#newsql)
 
 <!-- /MarkdownTOC -->
 
@@ -76,6 +76,7 @@
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
 - [MongoDB Administration Checklist for MySQL DBAs 🌟](https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas) If you are MySQL DBA, starting MongoDB administration is not always an easy transition. This post provides a checklist for MongoDB administrators who are familiar with MySQL.
+- [DZone: Maximizing MongoDB on AWS](https://dzone.com/articles/maximizing-mongodb-on-aws) This lengthy post will tell you everything you need to know about getting MongoDB Atlas working as best as it can on Amazon Web Services.
 
 [![dzone_refcard_mongodb](images/dzone_refcard_mongodb.png)](https://dzone.com/refcardz/mongodb)
 
