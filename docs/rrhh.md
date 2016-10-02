@@ -234,6 +234,7 @@
 - [elcorreo.com: Mi jefe el psicópata](http://www.elcorreo.com/bizkaia/sociedad/201609/17/jefe-psicopata-20160916190859.html) Uno de cada cinco altos directivos tiene más peligro que Hannibal Lecter. Así lo asegura un estudio
 - [elcorreo.com: Un juez da la invalidez absoluta a una enfermera de Osakidetza por el mal ambiente de trabajo](http://www.elcorreo.com/bizkaia/economia/201609/24/invalidez-absoluta-ambiente-trabajo-20160923235153.html) La salud de la afectada se vio seriamente resentida por las presiones de sus superiores y compañeros
 - [Nueve años interina, condecorada con la cruz al mérito aeronáutico... y despedida sin indemnización](http://www.elmundo.es/cronica/2016/09/25/57e789b8ca4741552f8b459f.html) El Tribunal de Justicia de la Unión Europea (TJUE) acaba de fallar a su favor
+- [meneame.net: "Forzaron mi dimisión, quitándonos cosas tan básicas como el ecógrafo de urgencias"](https://www.meneame.net/story/forzaron-dimision-quitandonos-cosas-tan-basicas-como-ecografo) Esther Mora ha sido durante ocho años jefa de urgencias del hospital de El Escorial. Acaba de ser cesada, según ella, por quejarse de la reducción de camas y apoyar a sus compañeros
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

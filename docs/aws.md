@@ -447,6 +447,7 @@
 
 ## AWS Elastic Load Balancing
 - [AWS Summit Series 2016 | London: Deep Dive on Elastic Load Balancing](https://www.youtube.com/watch?v=HinwLb2lpLQ)
+- [docs.aws.amazon.com: What Is Elastic Load Balancing?](http://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HinwLb2lpLQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

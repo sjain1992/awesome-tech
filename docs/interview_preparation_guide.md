@@ -160,6 +160,7 @@
 - [recruitmentgrapevine.com: Former Google career coach reveals her favourite interview questions 🌟🌟](http://www.recruitmentgrapevine.com/article/2016-09-07-former-google-employee-reveals-favourite-interview-questions)
 - [How To Answer, "Tell Me About Yourself"](https://www.linkedin.com/pulse/how-answer-tell-me-yourself-j-t-o-donnell)
 - [No one in tech will admit that they're old 🌟🌟](https://www.linkedin.com/pulse/one-tech-admit-theyre-old-caroline-fairchild)
+- [workitdaily.com: Being Your Own Reference: Rating Yourself As A Professional In The Job Interview](https://www.workitdaily.com/rating-yourself-professional-job-interview/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
