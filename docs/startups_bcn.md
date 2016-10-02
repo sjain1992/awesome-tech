@@ -111,6 +111,7 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJE81sV3sVw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
