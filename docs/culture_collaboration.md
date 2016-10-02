@@ -76,6 +76,7 @@
 - [Jim Whitehurst - Open Everything 🌟🌟🌟](http://www.huffingtonpost.com/entry/jim-whitehurst-open-everything_us_57b64af5e4b07d22cc37464f) Almost everything in the world becomes better when it’s open.
 - [gartner.com: Develop an Open Innovation Framework](http://www.gartner.com/smarterwithgartner/develop-an-open-innovation-framework/) The best type of innovation can come from a collaboration between different groups and organizations
 - [Our Negative Boss: Unconventional Tactics We Used to Overcome The 2nd Worst Boss Ever 🌟🌟](https://www.linkedin.com/pulse/our-negative-boss-unconventional-tactics-we-used-2nd-worst-mccracken)
+- [entrepreneur.com: How to Survive in a Competitive World 🌟🌟](https://www.entrepreneur.com/article/232653)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Finextra TV: Cultural change crucial in digital transformation <a href="https://t.co/0dnxP26UQy">https://t.co/0dnxP26UQy</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/pTaeZu8ON3">pic.twitter.com/pTaeZu8ON3</a></p>&mdash; Finextra (@Finextra) <a href="https://twitter.com/Finextra/status/768751313748369408">25 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
