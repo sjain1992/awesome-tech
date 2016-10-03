@@ -7,6 +7,7 @@
 <!-- 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/) -->
 <center>
+[![blade_runner_eye](images/blade_runner_eye.gif)](https://www.youtube.com/watch?v=nx02tM0os7k)
 
 Application Engineer/Middleware SysAdmin | Automation/DevOps CI/CD | Solutions/Systems Architect | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
 
@@ -447,8 +448,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Sol6AASguc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-[![blade_runner_eye](images/blade_runner_eye.gif)](https://www.youtube.com/watch?v=nx02tM0os7k)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwoPiEc49is?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
