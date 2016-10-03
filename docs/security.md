@@ -617,6 +617,9 @@
 ### DDos
 - [En alza los ataques DDoS y los relacionados con aplicaciones web](http://cso.computerworld.es/defensa-perimetral/en-alza-los-ataques-ddos-y-los-relacionados-con-aplicaciones-web)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is a <a href="https://twitter.com/hashtag/DDoS?src=hash">#DDoS</a> attack. As for protecting yourself, put your site on a CDN <a href="https://t.co/6y3G7fDsNl">https://t.co/6y3G7fDsNl</a> <a href="https://t.co/g0dBHvyRbt">pic.twitter.com/g0dBHvyRbt</a></p>&mdash; Laurent Perche (@Laurent_Perche) <a href="https://twitter.com/Laurent_Perche/status/759205770508570624">30 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### DNS Attack Analysis
 
 <div class="container">
