@@ -439,12 +439,16 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+[![blade_runner_interview](images/blade_runner_interview.gif)](https://www.youtube.com/watch?v=yWPyRSURYFQ)
+
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Sol6AASguc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![blade_runner_eye](images/blade_runner_eye.gif)](https://www.youtube.com/watch?v=nx02tM0os7k)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwoPiEc49is?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -571,6 +575,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US and China high-technology exports ($ billion)<br><br>1992<br>US:104<br>China: 4.3<br><br>2012<br>US: 148 <br>China: 505 <a href="https://t.co/Q5aRVYlSM9">pic.twitter.com/Q5aRVYlSM9</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761253033195937793">4 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![blade_runner_car](images/blade_runner_car.gif)](https://www.youtube.com/watch?v=Ywd0yNXmHaA)
 
 [![conversation-english-eurobarometer](images/conversation-english-eurobarometer.jpg)](https://jakubmarian.com/map-of-the-percentage-of-people-speaking-english-in-the-eu-by-country/)
 

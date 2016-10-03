@@ -194,6 +194,8 @@
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
+[![blade_runner_take_test_yourself](images/blade_runner_take_test_yourself.gif)](https://www.youtube.com/watch?v=yWPyRSURYFQ)
+
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
 
 ![facebook_whatsapp](images/facebook_whatsapp.jpg)
