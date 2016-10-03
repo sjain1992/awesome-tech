@@ -17,6 +17,8 @@
 
 ![the linkedin effect](images/linkedin_effect.jpg)
 
+![analisis_linkedin_daniel_halpern](images/analisis_linkedin_daniel_halpern.png)
+
 [![linkedin connection request standards](images/linkedin-connection-request-standards.jpg)](http://www.wordstream.com/blog/ws/2016/01/18/linkedin-connection-requests)
 
 [![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)

@@ -9,6 +9,7 @@
     - [Awesome AWS](#awesome-aws)
     - [AWS Glossary](#aws-glossary)
     - [AWS on Twitter](#aws-on-twitter)
+    - [AWS Calculator](#aws-calculator)
     - [AWS Application Architecture](#aws-application-architecture)
     - [AWS Stacks](#aws-stacks)
     - [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
@@ -147,6 +148,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Five ways Brexit is accelerating AWS and public <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> adoption <a href="https://t.co/DgmLk6gFHk">https://t.co/DgmLk6gFHk</a> via <a href="https://twitter.com/cloud_comp_news">@cloud_comp_news</a> <a href="https://t.co/vweIzq4eIx">pic.twitter.com/vweIzq4eIx</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/760112907828944896">1 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## AWS Calculator
+- [AWS Total Cost of Ownership (TCO) Calculators 🌟🌟](https://aws.amazon.com/tco-calculator/)
 
 ## AWS Application Architecture
 - [AWS application-architecture 🌟🌟🌟](http://www.conceptdraw.com/examples/application-architecture)
