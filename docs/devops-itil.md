@@ -225,6 +225,7 @@
 - [DZone: DevOps is Dead — Long Live DevOps!](https://dzone.com/articles/devops-is-dead-long-live-devops) ShadowOps is not just bad DevOps, and it certainly doesn't mean DevOps is dead.
 - [DZone: Reasons for the Rise of DevOps](https://dzone.com/articles/rise-of-dev-ops-reasons) Why DevOps makes sense compared to the traditional waterfall development model.
 - [comparethecloud.net: Greater than the sum of its parts – why learning is key to DevOps adoption 🌟🌟](https://www.comparethecloud.net/articles/greater-than-the-sum-of-its-parts-why-learning-is-key-to-devops-adoption/)
+- [DZone: An Explanation of DevOps](https://dzone.com/articles/what-is-devops-2) What are the principles of DevOps? Why does DevOps exist? Mohamed Radwan dives deeper into the main ideas behind DevOps.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -252,6 +253,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4EY8dz4W3o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![What-is-DevOps](images/What-is-DevOps.jpg)](https://dzone.com/articles/what-is-devops-2)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7ZcZfGBFcU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
