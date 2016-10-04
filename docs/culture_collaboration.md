@@ -77,6 +77,7 @@
 - [gartner.com: Develop an Open Innovation Framework](http://www.gartner.com/smarterwithgartner/develop-an-open-innovation-framework/) The best type of innovation can come from a collaboration between different groups and organizations
 - [Our Negative Boss: Unconventional Tactics We Used to Overcome The 2nd Worst Boss Ever 🌟🌟](https://www.linkedin.com/pulse/our-negative-boss-unconventional-tactics-we-used-2nd-worst-mccracken)
 - [entrepreneur.com: How to Survive in a Competitive World 🌟🌟](https://www.entrepreneur.com/article/232653)
+- [No Smile? Consider the Professional Consequences](https://www.linkedin.com/pulse/20121019133348-7668018-no-smile-executives-should-consider-the-consequences)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Finextra TV: Cultural change crucial in digital transformation <a href="https://t.co/0dnxP26UQy">https://t.co/0dnxP26UQy</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/pTaeZu8ON3">pic.twitter.com/pTaeZu8ON3</a></p>&mdash; Finextra (@Finextra) <a href="https://twitter.com/Finextra/status/768751313748369408">25 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -140,6 +141,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;If a girl looks good, she&#39;s probably not good at her work.&quot; Bang on, seen this bias so often. <a href="https://twitter.com/hashtag/BestATWork?src=hash">#BestATWork</a> <a href="https://t.co/argHHU61YN">https://t.co/argHHU61YN</a></p>&mdash; Kiran Manral (@KiranManral) <a href="https://twitter.com/KiranManral/status/774570723603980289">10 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![your_smile_is_your_brand](images/your_smile_is_your_brand.png)](https://www.linkedin.com/pulse/20121019133348-7668018-no-smile-executives-should-consider-the-consequences)
 
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/BYA1zNZmsN7dqC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/SuharshHarsha/business-etiquette-and-culture-in-europe" title="BUSINESS ETIQUETTE AND CULTURE IN EUROPE " target="_blank">BUSINESS ETIQUETTE AND CULTURE IN EUROPE </a> </strong> from <strong><a target="_blank" href="//es.slideshare.net/SuharshHarsha">Suharsh L</a></strong> </div>
