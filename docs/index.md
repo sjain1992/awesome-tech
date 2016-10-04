@@ -148,7 +148,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-[![esa_video](images/esa_video.jpg)](https://www.youtube.com/user/ESA)
+|[![esa_video](images/esa_video.jpg)](https://www.youtube.com/user/ESA)|[![nasa_video](images/nasa_video.jpg)](https://www.youtube.com/user/NASAtelevision)|
+|:---:|:---:|
 
 |[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|
 |:---:|:---:|:---:|
@@ -392,6 +393,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
 
 ![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)
+
+![rfi_rfp_contract](images/rfi_rfp_contract.jpg)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9d500RXYCcA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
