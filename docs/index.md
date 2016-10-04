@@ -513,7 +513,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![world_press_photo](images/world_press_photo.png)](http://www.worldpressphoto.org/)
 
-![margin_call_meeting](images/margin_call_meeting.gif)
+[![margin_call_meeting](images/margin_call_meeting.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
