@@ -394,7 +394,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
 
-![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)
+[![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)](https://www.youtube.com/watch?v=v9XW6P0tiVc)
 
 ![rfi_rfp_contract](images/rfi_rfp_contract.jpg)
 
@@ -433,7 +433,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
 
-[![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj&v=s7ys0gCxtd8)
+[![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?v=8Cu_9aKcgjY&index=2&list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj)
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 
@@ -464,7 +464,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <center>
 
-|![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)|![lions_for_lambs_better_to_have_tried_2](images/lions_for_lambs_better_to_have_tried_2.gif)|
+|[![lions_for_lambs_better_to_have_tried](images/lions_for_lambs_better_to_have_tried.gif)](https://www.youtube.com/watch?v=KYIYMeflhj4)|![lions_for_lambs_better_to_have_tried_2](images/lions_for_lambs_better_to_have_tried_2.gif)|
 |:---:|:---:|
 
 |![lions_for_lambs_better_to_have_tried_3](images/lions_for_lambs_better_to_have_tried_3.gif)|![lions_for_lambs_better_to_have_tried_4](images/lions_for_lambs_better_to_have_tried_4.gif)|
@@ -519,7 +519,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
-![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)
+[![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)](https://www.youtube.com/watch?v=w4Pu_JuPILw)
 
 [![handicaps_sistema_economico_espanol](images/handicaps_sistema_economico_espanol.png)](http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html)
 
