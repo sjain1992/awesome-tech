@@ -379,14 +379,14 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-![marla](images/marla.gif)
+[![marla](images/marla.gif)](https://www.youtube.com/watch?v=HREKKEcwdHU)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vU_HoHZrdc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-![moneyball_adapt_or_die](images/moneyball_adapt_or_die.gif)
+[![moneyball_adapt_or_die](images/moneyball_adapt_or_die.gif)](https://www.youtube.com/watch?v=ugN5aD5p2NU)
 
 [![dilbert_consultant_cloud](images/dilbert_consultant_cloud.png)](http://dilbert.com/strip/2011-01-07)
 
