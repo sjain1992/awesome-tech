@@ -370,7 +370,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![voltaire change others](images/voltaire_change_other.jpg)](http://statusmind.com/)
+[![voltaire change others](images/voltaire_change_other.jpg)](https://en.wikipedia.org/wiki/Voltaire)
 
 ![same-dress](images/same-dress.gif)
 
@@ -437,6 +437,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
 
+[![Edmund-Burke-Quote](images/Edmund-Burke-Quote.png)](https://en.wikipedia.org/wiki/Edmund_Burke)
+
 [![dilbert_agenda](images/dilbert_agenda.jpg)](http://dilbert.com/strip/2016-08-19)
 <!--
 [![cartman_gets_hit_by_bus](images/cartman_gets_hit_by_bus.png)](https://www.youtube.com/watch?v=G6v6rdSYyaA) -->
@@ -488,7 +490,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/E3DKzC8bIT">https://t.co/E3DKzC8bIT</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750797072845209604">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![win7_linus_china](images/win7_linus_china.jpg)
+[![win7_linus_china](images/win7_linus_china.jpg)](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -525,7 +527,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 ![recession_started_in_dec2007](images/recession_started_in_dec2007.png)
 
-![bertolt_brecht_crisis_take_place](images/bertolt_brecht_crisis_take_place.png)
+[![bertolt_brecht_crisis_take_place](images/bertolt_brecht_crisis_take_place.png)](https://en.wikipedia.org/wiki/Bertolt_Brecht)
 
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
 
