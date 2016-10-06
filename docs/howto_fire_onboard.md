@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [How to Fire and Onboard Employees](#how-to-fire-and-onboard-employees)
-    - [How to Fire](#how-to-fire)
-    - [How to Successfully Onboard Employees](#how-to-successfully-onboard-employees)
+	- [How to Fire](#how-to-fire)
+	- [How to Successfully Onboard Employees](#how-to-successfully-onboard-employees)
 
 <!-- /MarkdownTOC -->
 
@@ -67,6 +67,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sfm2OzP1cRQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![dilbert_you_are_not_engineer](images/dilbert_you_are_not_engineer.gif)](http://dilbert.com/strip/2016-10-06)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJQL8w-jgEs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
