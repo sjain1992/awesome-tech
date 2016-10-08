@@ -25,7 +25,12 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 |:---:|:---:|:---:|:---:|
 
 </center>
-[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)
+<center>
+
+|[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)|[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)|[![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/user/HewlettPackardVideos)|[![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell)|
+|:---:|:---:|:---:|:---:|
+
+</center>
 <center>
 
 |[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|
@@ -254,7 +259,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![redis_videos](images/redis_videos.jpg)](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)|[![varnish_video](images/varnish_video.jpg)](https://www.youtube.com/channel/UCfW50IdBJMZwoYIeTvKdflQ)|[![akamai_videos](images/akamai_videos.jpg)](https://www.youtube.com/c/akamai)|[![wowza_videos](images/wowza_videos.jpg)](https://www.youtube.com/user/wowzamedia)|[![linuxformation_video](images/linuxformation_video.jpg)](https://www.youtube.com/channel/UC8o7QfG3WAbsf33PRk4X3Nw)|[![saltstack_video](images/saltstack_video.jpg)](https://www.youtube.com/user/SaltStack)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) |[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|[![ingram_micro_video](images/ingram_micro_video.jpg)](https://www.youtube.com/user/IngramMicroInc)|
+|[![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/user/HewlettPackardVideos) |[![cisco_video](images/cisco_video.jpg)](https://www.youtube.com/user/Cisco)|[![huawei_enterprise_video](images/huawei_enterprise_video.jpg)](https://www.youtube.com/user/HuaweiEnterprise)|[![ingram_micro_video](images/ingram_micro_video.jpg)](https://www.youtube.com/user/IngramMicroInc)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![emc_videos](images/emc_videos.jpg)](https://www.youtube.com/c/emc)|[![netapp_videos](images/netapp_videos.jpg)](https://www.youtube.com/c/netapp)|[![synology_videos](images/synology_videos.jpg)](https://www.youtube.com/user/synologyinc)|[![naseros_video](images/naseros_video.jpg)](https://www.youtube.com/user/naseros)|[![qnap_video](images/qnap_video.jpg)](https://www.youtube.com/user/qnapsys)|[![qloudea_video](images/qloudea_video.jpg)](https://www.youtube.com/user/qloudea)|
@@ -284,7 +289,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![linux_foundation_video](images/linux_foundation_video.jpg)](https://www.youtube.com/user/TheLinuxFoundation)|[![nixcraft_video](images/nixcraft_video.jpg)](https://www.youtube.com/user/nixcraftcom)|[![tecmint_video](images/tecmint_video.jpg)](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)|[![kernel-training-video](images/kernel-training-video.jpg)](https://www.youtube.com/user/KernelTraining)|[![sysadmin_howto_video](images/sysadmin_howto_video.jpg)](https://www.youtube.com/channel/UCQBNM7QWVrS_pZgzYdY7ruQ)|[![linux_cloud_tutorials_video](images/linux_cloud_tutorials_video.jpg)](https://www.youtube.com/channel/UCPc0nlna_WquFCL2X86KO8w)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|[![systems_engineer_video](images/systems_engineer_video.jpg)](https://www.youtube.com/user/CloudSystemsEngineer)|[![unixmen_video](images/unixmen_video.jpg)](https://www.youtube.com/user/UnixmenVideos)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![climagi_video](images/climagi_video.jpg)](https://www.youtube.com/user/climagic)|[![linux_skill_video](images/linux_skill_video.jpg)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)|[![opensource_com_video](images/opensource_com_video.jpg)](https://www.youtube.com/user/opensourceway)|[![systems_engineer_video](images/systems_engineer_video.jpg)](https://www.youtube.com/user/CloudSystemsEngineer)|[![unixmen_video](images/unixmen_video.jpg)](https://www.youtube.com/user/UnixmenVideos)|[![oracle_solaris_video](images/oracle_solaris_video.jpg)](https://www.youtube.com/user/OracleSolaris)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![microsoft_europe_video](images/microsoft_europe_video.jpg)](https://www.youtube.com/user/MicrosoftEurope)|[![microsoft_online_learning_video](images/microsoft_online_learning_video.jpg)](https://www.youtube.com/channel/UCiLEaVJlVFB_DoeBQGWV63g)|[![itfreetraining_video](images/itfreetraining_video.jpg)](https://www.youtube.com/user/itfreetraining)|[![microsoft_cloud_platform_video](images/microsoft_cloud_platform_video.jpg)](https://www.youtube.com/user/MSCloudOS)|[![microsoft_training_video](images/microsoft_training_video.jpg)](https://www.youtube.com/user/microsoftlearning)|[![cloud_ranger_network_video](images/cloud_ranger_network_video.jpg)](https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ)|
