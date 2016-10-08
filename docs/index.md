@@ -25,7 +25,7 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 |:---:|:---:|:---:|:---:|
 
 </center>
-![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)
+[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)
 <center>
 
 |[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|
