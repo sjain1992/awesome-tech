@@ -25,6 +25,7 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 |:---:|:---:|:---:|:---:|
 
 </center>
+![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)
 <center>
 
 |[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)|[![scrum_org_video](images/scrum_org_video.jpg)](https://www.youtube.com/user/Scrumorg)|
@@ -190,7 +191,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![sopra_steria_video](images/sopra_steria_video.jpg)](https://www.youtube.com/user/SteriaGroup)|[![gfi_spain_video](images/gfi_spain_video.jpg)](https://www.youtube.com/user/GFIInformatica)|[![gft_videos](images/gft_videos.jpg)](https://www.youtube.com/user/gftgroup)|[![ricoh_spain_video](images/ricoh_spain_video.jpg)](https://www.youtube.com/user/RicohES)|[![avanttic_video](images/avanttic_video.jpg)](https://www.youtube.com/user/avanttic)|[![seidor_video](images/seidor_video.jpg)](https://www.youtube.com/user/gruposeidor)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
@@ -271,7 +272,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![c2b2_videos](images/c2b2_videos.jpg)](https://www.youtube.com/user/C2B2Consulting)|[![svrtech_videos](images/svrtech_videos.jpg)](https://www.youtube.com/user/svrtechnologies)|[![was_videos](images/was_videos.jpg)](https://www.youtube.com/channel/UCjOtFEHSAXN-1MBLW_sMASw)|[![ibm_support_tv](images/ibm_support_tv.jpg)](https://www.youtube.com/user/WebSphereEducation)|[![ibm_messaging](images/ibm_messaging.jpg)](https://www.youtube.com/user/IBMmessagingMedia)|[![ibm_integration_video](images/ibm_integration_video.jpg)](https://www.youtube.com/user/IBMintegrationMedia)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![oracle_fusion_apps_videos](images/oracle_fusion_apps_videos.jpg)](https://www.youtube.com/user/FADeveloperRelations)|[![adf_essentials_videos](images/adf_essentials_videos.jpg)](https://www.youtube.com/user/ADFInsiderEssentials)|[![oracle_adf_java_video](images/oracle_adf_java_video.jpg)](https://www.youtube.com/channel/UCX7PJW3a2qvEoBgBlm8jE_g)|[![oracle_learning_library_video](images/oracle_learning_library_video.jpg)](https://www.youtube.com/user/OracleLearning)|[![oracle_testlab_video](images/oracle_testlab_video.jpg)](https://www.youtube.com/channel/UCR3WQHwHzCBRYC42lBFqtfA)|[![tibco_videos](images/tibco_videos.jpg)](https://www.youtube.com/user/TIBCOSoftware)|
+|[![oracle_fusion_apps_videos](images/oracle_fusion_apps_videos.jpg)](https://www.youtube.com/user/FADeveloperRelations)|[![adf_essentials_videos](images/adf_essentials_videos.jpg)](https://www.youtube.com/user/ADFInsiderEssentials)|[![oracle_adf_java_video](images/oracle_adf_java_video.jpg)](https://www.youtube.com/channel/UCX7PJW3a2qvEoBgBlm8jE_g)|[![oracle_learning_library_video](images/oracle_learning_library_video.jpg)](https://www.youtube.com/user/OracleLearning)|[![oracle_testlab_video](images/oracle_testlab_video.jpg)](https://www.youtube.com/channel/UCR3WQHwHzCBRYC42lBFqtfA)|[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![tibco_videos](images/tibco_videos.jpg)](https://www.youtube.com/user/TIBCOSoftware)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![redhat_enterprise_video](images/redhat_enterprise_video.jpg)](https://www.youtube.com/user/rhenterpriselinux)|[![redhat_virt_video](images/redhat_virt_video.jpg)](https://www.youtube.com/user/redhatvirtualization)|[![redhat_cloud_video](images/redhat_cloud_video.jpg)](https://www.youtube.com/user/RedHatCloud)|[![redhat_storage_video](images/redhat_storage_video.jpg)](https://www.youtube.com/user/redhatstorage)|
@@ -411,6 +415,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 ![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)
+
+[![dilbert_company_policy_fire_10_percent_performers](images/dilbert_company_policy_fire_10_percent_performers.gif)](http://dilbert.com/strip/2016-10-08)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

@@ -42,6 +42,9 @@
 |[![reuters_live](images/reuters_live.jpg)](https://www.youtube.com/user/ReutersVideo)|[![avanttic_video](images/avanttic_video.jpg)](https://www.youtube.com/user/avanttic)|[![seidor_video](images/seidor_video.jpg)](https://www.youtube.com/user/gruposeidor)|[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 </center>
 
 # Barcelona Tech, Startups and Innovation
