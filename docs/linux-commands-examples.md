@@ -182,6 +182,14 @@
 
 		sed "/bang/ s/foo/bar/" 
 
+- Recursive search and replace old with new string, inside files. recursively traverse the directory structure from . down, look for string "oldstring" in all files, and replace it with "newstring", wherever found 🌟🌟
+
+		$ grep -rl oldstring . |xargs sed -i -e 's/oldstring/newstring/'
+
+		also:
+		
+		grep -rl oldstring . |xargs perl -pi~ -e 's/oldstring/newstring'
+
 - Watch web server access log for HTTP status code 500 & display entry generated that code: 🌟
 
 		tail -f access.log | awk '$9 == 500 { print $0 }'
