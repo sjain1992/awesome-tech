@@ -162,7 +162,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|
 |:---:|:---:|
 
-[![science_net_video](images/science_net_video.jpg)](https://www.youtube.com/user/jerrybber)|[![futuro_one_video](images/futuro_one_video.jpg)](https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ)|
+|[![science_net_video](images/science_net_video.jpg)](https://www.youtube.com/user/jerrybber)|[![futuro_one_video](images/futuro_one_video.jpg)](https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ)|
 |:---:|:---:|
 
 |[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|
