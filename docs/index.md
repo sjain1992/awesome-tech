@@ -27,7 +27,7 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 </center>
 <center>
 
-|[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)|[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)|[![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/user/HewlettPackardVideos)|[![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell)|
+|[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)|[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)|[![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/user/HewlettPackardVideos)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
 |:---:|:---:|:---:|:---:|
 
 </center>
