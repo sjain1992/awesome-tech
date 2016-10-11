@@ -1,12 +1,12 @@
 <!-- MarkdownTOC -->
 
 - [Interview Preparation Guide](#interview-preparation-guide)
-	- [Linkedin](#linkedin)
-	- [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
-	- [Brutally honest job description](#brutally-honest-job-description)
-	- [Applicant Tracking System](#applicant-tracking-system)
-	- [Salary Negotiation](#salary-negotiation)
-		- [Technical Resume](#technical-resume)
+    - [Linkedin](#linkedin)
+    - [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
+    - [Brutally honest job description](#brutally-honest-job-description)
+    - [Applicant Tracking System](#applicant-tracking-system)
+    - [Salary Negotiation](#salary-negotiation)
+        - [Technical Resume](#technical-resume)
 
 <!-- /MarkdownTOC -->
 
@@ -165,6 +165,7 @@
 - [workitdaily.com: Being Your Own Reference: Rating Yourself As A Professional In The Job Interview](https://www.workitdaily.com/rating-yourself-professional-job-interview/)
 - [workitdaily.com: 9 Ways Your Insecurities Are Hurting Your Interview](https://www.workitdaily.com/insecurities-hurting-interview/)
 - [4C's To Asking Great Questions On Interviews 🌟](https://www.linkedin.com/pulse/4cs-asking-great-questions-interviews-j-t-o-donnell)
+- [social.hays.com: How to impress a recruiter with your resume/CV](https://social.hays.com/2015/12/10/how-to-impress-a-recruiter-with-your-resumecv/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

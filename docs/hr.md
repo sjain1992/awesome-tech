@@ -348,10 +348,13 @@
 - [An Unexpected Way to Stop People from Quitting](https://www.linkedin.com/pulse/unexpected-way-stop-people-from-quitting-ryan-holmes)
 - [cpl.ie: Why am I Not Being Promoted?](https://www.cpl.ie/Blog/Building-Your-Career/2016/September/Why-haven-t-I-been-promoted-at-work)
 - [Things Smart People Never Reveal About Themselves At Work 🌟🌟🌟](https://www.linkedin.com/pulse/things-smart-people-never-reveal-themselves-work-dr-travis-bradberry)
+- [forbes.com: 5 Toxic People You Should Avoid Like The Plague 🌟](http://www.forbes.com/sites/travisbradberry/2016/10/11/5-toxic-people-you-should-avoid-like-the-plague/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![marla_two_sides](images/marla_two_sides.gif)
+
+<iframe src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0></iframe>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/M09sPPgswr">https://t.co/M09sPPgswr</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753648466170175488">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
