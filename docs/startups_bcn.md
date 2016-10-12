@@ -435,6 +435,11 @@ para universitarios y titulados júnior
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Celebra el Dia Mundial de la Música amb un concert de l&#39;<a href="https://twitter.com/OrquestraOBC">@OrquestraOBC</a> a la platja <a href="https://t.co/Oss684JhZP">https://t.co/Oss684JhZP</a> <a href="https://t.co/ZSN2MIepQv">pic.twitter.com/ZSN2MIepQv</a></p>&mdash; Barcelona Cultura (@bcncultura) <a href="https://twitter.com/bcncultura/status/743139820411719680">15 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Llull fue un brillante mecánico del arte de la combinatoria&quot;  <a href="https://t.co/EeOXd3b82g">https://t.co/EeOXd3b82g</a> via <a href="https://twitter.com/JotDownSpain">@JotDownSpain</a> <a href="https://twitter.com/hashtag/LlullCCCB?src=hash">#LlullCCCB</a></p>&mdash; CCCB (@cececebe) <a href="https://twitter.com/cececebe/status/783554969567956992">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![maquina_comptar_binaria](images/maquina_comptar_binaria.jpg)](https://twitter.com/search?q=llullcccb)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/bIOymozaiPg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
