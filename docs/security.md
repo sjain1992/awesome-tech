@@ -22,7 +22,7 @@
 	- [Mobile Security](#mobile-security)
 	- [Private Browsing](#private-browsing)
 	- [HTTPs and HSTS](#https-and-hsts)
-	- [Database encryption](#database-encryption)
+	- [Database encryption and security](#database-encryption-and-security)
 	- [Identity Management](#identity-management)
 	- [Session Hijacking Detection](#session-hijacking-detection)
 	- [Big Data Security](#big-data-security)
@@ -368,9 +368,10 @@
 ## HTTPs and HSTS
 - [HTTPs and HSTS](https.md)
 
-## Database encryption
+## Database encryption and security
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
 - [dba.stackexchange.com - encryption tag](http://dba.stackexchange.com/questions/tagged/encryption)
+- [DZone: Database Security Is Not Being Taken Seriously Enough](https://dzone.com/articles/database-security-is-not-being-taken-seriously-eno) See where modern database security falls short, ranging from monitoring to credentials, and why that's not a trend that should continue.
 
 ## Identity Management
 - [FreeIPA.org – an open-source project sponsored by Red Hat 🌟🌟](https://www.freeipa.org)

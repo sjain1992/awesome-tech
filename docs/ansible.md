@@ -32,8 +32,7 @@
 
 [![ansible_semaphore](images/ansible_semaphore.png)](https://github.com/ansible-semaphore/semaphore)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To all Red Hat customers asking: yes, we will release Ansible Tower as open source in the future. <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a></p>&mdash; Alessandro Perilli (@giano) <a href="https://twitter.com/giano/status/747873367315845121">28 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![ansible_galaxy_opensource](images/ansible_galaxy_opensource.png)](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/)
 
 [![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
 
@@ -91,6 +90,7 @@
 - [VMware support: A SHINY NEW WAY TO MANAGE VMWARE GUESTS 🌟🌟🌟](https://www.ansible.com/blog/managing-vmware-guests)
 - [unixmen.com: How to install Ansible and Use it in Automation (CentOS)](https://www.unixmen.com/install-ansible-use-automation/)
 - [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
+- [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 

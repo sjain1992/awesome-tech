@@ -1,11 +1,11 @@
 <!-- MarkdownTOC -->
 
 - [Java](#java)
-	- [Java on Twitter](#java-on-twitter)
-	- [Java Blogs](#java-blogs)
-	- [Java refs](#java-refs)
-		- [Java Performance](#java-performance)
-			- [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
+    - [Java on Twitter](#java-on-twitter)
+    - [Java Blogs](#java-blogs)
+    - [Java refs](#java-refs)
+        - [Java Performance](#java-performance)
+            - [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
 
 <!-- /MarkdownTOC -->
 
@@ -92,10 +92,13 @@
 - [DZone: If You Like Good Java, Sip Tea](https://dzone.com/articles/if-you-like-good-java-sip-tea) If you like good Java, SIPT. These four properties—method size, impact set, potential coupling, and transitive dependencies—may be proposed as foundational properties by which programmers should evaluate method structure 
 - [DZone: The JVM Architecture Explained 🌟🌟🌟](https://dzone.com/articles/jvm-architecture-explained) An overview of the different components of the JVM, along with a very useful diagram
 - [DZone: Java 9 Kickoff: Project Jigsaw (Part I)](https://dzone.com/articles/java-9-kickoff-project-jigsaw-partnbspi) Today’s monolithic applications come in micro batches. Every micro batch is independent from one another. Now, Java will come in this flavor using project Jigsaw
+- [DZone refcard: Java Enterprise Edition 7 🌟🌟](https://dzone.com/refcardz/java-enterprise-edition-7) Java Enterprise Edition allows programmers to write less and focus on delivering clean business logic. This newly updated Refcard covers the key APIs of Java EE 7 that are the most relevant to modern development - such as WebSocket, JSON Processing, Concurrency Utilities, and JAX-RS.
 
-[![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java)
+[![dzone_refcard_microservices_java](images/dzone_refcard_microservices_java.png)](https://dzone.com/refcardz/learn-microservices-in-java) 
 
 [![dzone_refcard_groovy](images/dzone_refcard_groovy.png)](https://dzone.com/refcardz/groovy)
+
+[![dzone_java7_refcard](images/dzone_java7_refcard.png)](https://dzone.com/refcardz/java-enterprise-edition-7)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/AvZDfkHZEt7HUG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RedHatDevelopers/java-is-not-dead-bob-mcwhirter" title="Java Is Not Dead - Bob McWhirter" target="_blank">Java Is Not Dead - Bob McWhirter</a> </strong> from <strong><a href="//www.slideshare.net/RedHatDevelopers" target="_blank">Red Hat</a></strong> </div>
