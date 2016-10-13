@@ -357,9 +357,9 @@
 
 [![dzone_managing_tech_job_stress](images/dzone_managing_tech_job_stress.png)](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic)
 
-<center>
+<!--<center>
 <iframe src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0></iframe>
-</center>
+</center>-->
 
 <div class="container">
 <iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
