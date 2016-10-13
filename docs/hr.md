@@ -349,12 +349,22 @@
 - [cpl.ie: Why am I Not Being Promoted?](https://www.cpl.ie/Blog/Building-Your-Career/2016/September/Why-haven-t-I-been-promoted-at-work)
 - [Things Smart People Never Reveal About Themselves At Work 🌟🌟🌟](https://www.linkedin.com/pulse/things-smart-people-never-reveal-themselves-work-dr-travis-bradberry)
 - [forbes.com: 5 Toxic People You Should Avoid Like The Plague 🌟](http://www.forbes.com/sites/travisbradberry/2016/10/11/5-toxic-people-you-should-avoid-like-the-plague/)
+- [DZone: Managing Tech Job Stress When 9-5 Is Unrealistic 🌟🌟🌟](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic) We have control regarding the way we work, interact with people around us, and engage in self-care. We'll consider ways we can cope with job stress at work and home.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![marla_two_sides](images/marla_two_sides.gif)
 
+[![dzone_managing_tech_job_stress](images/dzone_managing_tech_job_stress.png)](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic)
+
+<center>
 <iframe src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0></iframe>
+</center>
+
+<div class="container">
+<iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/M09sPPgswr">https://t.co/M09sPPgswr</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753648466170175488">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
