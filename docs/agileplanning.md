@@ -44,6 +44,8 @@
 - [DZone: Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile) While we can all agree agile is better than waterfall development, the iterative methodology has an awful lot of detractors from its history of misuse.
 - [DZone: The Ultimate Agile Transformation Tool: Sticky Notes](https://dzone.com/articles/the-ultimate-agile-transformation-tool-quotsticky) Who would guess that the ultimate Agile tool is as simple as a sticky note? Read on to find out how it will work for you and your team.
 - [zdnet: Keeping control when you're not in the office: Five tips for managing a dispersed team](http://www.zdnet.com/article/keeping-control-when-youre-not-in-the-office-five-tips-for-managing-a-dispersed-team/) Keeping a team working effectively if you rarely meet can be hard: here are some best practices.
+- [What Agile Project Managers Do, Part 1 🌟🌟🌟](http://www.jrothman.com/mpd/agile/2016/09/what-agile-project-managers-do-part-1/)
+    - [DZone: What Agile Project Managers Do Not Do: Part II 🌟🌟🌟](https://dzone.com/articles/what-agile-project-managers-do-not-do-part-2) Many new-to-Agile teams experience a huge change because in other approaches, there is no such role as the Product Owner.
 
 ![trust_your_project_manager](images/trust_your_project_manager.png)
 
