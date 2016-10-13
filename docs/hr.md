@@ -369,6 +369,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/M09sPPgswr">https://t.co/M09sPPgswr</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753648466170175488">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![jt_odonnell_you_business_of_one](images/jt_odonnell_you_business_of_one.png)](https://www.workitdaily.com/fix-career-problems-webinar/)
+
 [![dilbert_spreading_rumors_about_you](images/dilbert_spreading_rumors_about_you.gif)](http://dilbert.com/strip/2016-07-13)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/dq8PmIrUlF">https://t.co/dq8PmIrUlF</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/753009147730329601">12 de julio de 2016</a></blockquote>
