@@ -535,6 +535,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![margin_call_meeting](images/margin_call_meeting.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El que posee mucho dinero puede especular; el que tiene poco no debe hacerlo; el que está sin blanca se ve obligado a ello&quot; André Kostolany</p>&mdash; Frases de Trading (@frasesdetrading) <a href="https://twitter.com/frasesdetrading/status/786603758113423361">13 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
 [![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)](https://www.youtube.com/watch?v=w4Pu_JuPILw)
@@ -621,9 +623,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![maquina_comptar_binaria](images/maquina_comptar_binaria.jpg)](https://twitter.com/search?q=llullcccb)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El que posee mucho dinero puede especular; el que tiene poco no debe hacerlo; el que está sin blanca se ve obligado a ello&quot; André Kostolany</p>&mdash; Frases de Trading (@frasesdetrading) <a href="https://twitter.com/frasesdetrading/status/786603758113423361">13 de octubre de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dzone_managing_tech_job_stress](images/dzone_managing_tech_job_stress.png)](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic)
 
