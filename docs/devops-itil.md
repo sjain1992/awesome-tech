@@ -227,6 +227,7 @@
 - [comparethecloud.net: Greater than the sum of its parts – why learning is key to DevOps adoption 🌟🌟](https://www.comparethecloud.net/articles/greater-than-the-sum-of-its-parts-why-learning-is-key-to-devops-adoption/)
 - [DZone: An Explanation of DevOps](https://dzone.com/articles/what-is-devops-2) What are the principles of DevOps? Why does DevOps exist? Mohamed Radwan dives deeper into the main ideas behind DevOps.
 - [ansible.com: MIGRATING THE RUNBOOK - A JOURNEY FROM LEGACY TO DEVOPS 🌟🌟🌟🌟](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
+- [enterprisersproject.com: Key steps to inspire confidence as you move to DevOps 🌟](https://enterprisersproject.com/article/2016/7/key-steps-inspire-confidence-you-move-devops)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
