@@ -219,3 +219,26 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed &#39;/Alice/!d; /Bob/!d&#39; irc.log # Search irc.log for lines containing Alice and Bob regardless of their order in the line. <a href="https://twitter.com/hashtag/SEDtember?src=hash">#SEDtember</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/776064862854189056">14 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">df -hP | awk &#39;NR==1;NR&gt;1{print|&quot;sort -k5rn&quot;}&#39; # Sort the output of df while keeping the header at the top. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/786955415041019904">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sort gkwzFruP.txt | awk &#39;{if(l1==$1 &amp;&amp; l3!=$3){print ll &quot;\n&quot; $0}; ll=$0;l1=$1;l3=$3}&#39; # Print dupes where the 3rd column changed. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/785839789199286272">11 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In bash, cd - takes you back to your previous directory.</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/786607566344380416">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;length &gt; max { max=length;maxline=$0 } END { print maxline; }&#39; quotes.txt # Print the longest line in quotes.txt <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/786592790373363716">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;!a[$0]++&#39; file # Print lines of file without printing ones already seen. $0 means whole line in awk. &#39;a&#39; is an array. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/786216769644032000">12 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{s+=$3} END {print s}&#39; data.txt # Sum numbers in the third column of data.txt. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a> Thx <a href="https://twitter.com/neil_h_watson">@neil_h_watson</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/784411452547489792">7 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;($3 == &quot;64.39.106.131&quot;) || ($1 ~ /^#/)&#39; conn.log # Search 3rd field of conn.log for an IP and print the header line. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/784052649654091776">6 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">zcat large.log.gz |awk &#39;{print $0 | &quot;gzip -v9c &gt; large.log-&quot;$1&quot;_&quot;$2&quot;.gz&quot;}&#39; # Breakup compressed log by syslog date and recompress. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/783685657080188929">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

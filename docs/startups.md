@@ -216,6 +216,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Never give up inspirational scene from <a href="https://twitter.com/hashtag/moneyball?src=hash">#moneyball</a> <a href="https://twitter.com/hashtag/softball?src=hash">#softball</a>.  <a href="http://t.co/8xWdzpkY">http://t.co/8xWdzpkY</a></p>&mdash; Fordson Softball (@fordsonsoftball) <a href="https://twitter.com/fordsonsoftball/status/270859379287400448">20 de noviembre de 2012</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente&quot;, Henry Ford <a href="https://twitter.com/hashtag/ForbesQuotes?src=hash">#ForbesQuotes</a> <a href="https://t.co/2hllhnMu8a">https://t.co/2hllhnMu8a</a> <a href="https://t.co/0QAWHJOr2A">pic.twitter.com/0QAWHJOr2A</a></p>&mdash; Forbes_es (@Forbes_es) <a href="https://twitter.com/Forbes_es/status/786479118342840320">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![new_companies_easier_now_than_a_decade_ago](images/new_companies_easier_now_than_a_decade_ago.png)](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si alguien hace un elogio de las PYMEs otra vez, que alguien salga a atizarle con esto. <a href="https://t.co/qwQWjctNmg">https://t.co/qwQWjctNmg</a></p>&mdash; Roger Senserrich (@Egocrata) <a href="https://twitter.com/Egocrata/status/742081821354151936">12 de junio de 2016</a></blockquote>
@@ -433,6 +436,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Video: Una mejor planeación evita que las ciudades se conviertan en trampas de desigualdad <a href="https://twitter.com/hashtag/BogotaEsLaCumbre?src=hash">#BogotaEsLaCumbre</a> <a href="https://t.co/NvVmx6xxUi">https://t.co/NvVmx6xxUi</a> <a href="https://twitter.com/hashtag/OCDE?src=hash">#OCDE</a></p>&mdash; OCDE en Español (@ocdeenespanol) <a href="https://twitter.com/ocdeenespanol/status/786669149355466752">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 maps that will change how you see <a href="https://twitter.com/hashtag/migration?src=hash">#migration</a> in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/AUJxuIa1GT">https://t.co/AUJxuIa1GT</a> <a href="https://t.co/Ly48GXNKtE">pic.twitter.com/Ly48GXNKtE</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770613805013401600">30 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -495,6 +501,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">EU unemployment<br><br>Greece: 24%<br>Spain: 20.9%<br>Italy: 11.5%<br>France: 10.3%<br>Poland: 10.3%<br>Ireland: 8.8%<br>Netherlands: 6.5%<br>Germany: 6.2%<br>UK: 5.1%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/711860240904376320">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Digital finance doesn&#39;t just make your life easier, it could make nations wealthier <a href="https://t.co/uV6Kqyo8NA">https://t.co/uV6Kqyo8NA</a> <a href="https://t.co/Rcvbb6OM74">pic.twitter.com/Rcvbb6OM74</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/786622030271643649">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fernando Alonso reconoce las primeras secuelas del accidente. Te lo contamos todo <a href="https://t.co/QKwYYxXX2f">https://t.co/QKwYYxXX2f</a> <a href="https://t.co/sUJYl2RPvr">pic.twitter.com/sUJYl2RPvr</a></p>&mdash; Bolsamanía (@bolsamania) <a href="https://twitter.com/bolsamania/status/711879171228766208">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

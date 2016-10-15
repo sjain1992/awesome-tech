@@ -313,6 +313,7 @@
 - [Hadoop Deployment Cheat Sheet 🌟🌟🌟](http://jethro.io/hadoop-deployment-cheat-sheet/)
 - [DZone: Word Count Program With MapReduce and Java 🌟🌟🌟](https://dzone.com/articles/word-count-hello-word-program-in-mapreduce) An introduction to the basics of MapReduce, along with a tutorial to create a word count app using Hadoop and Java.
 - [SAP comprará Altiscale para fortalecer su estrategia de Big Data](http://www.ticbeat.com/empresa-b2b/sap-comprara-altiscale-para-fortalecer-su-estrategia-de-big-data/)
+- [unixmen.com: Install Hadoop on multiple nodes using Ubuntu 15.10](https://www.unixmen.com/install-hadoop-multiple-nodes-using-ubuntu-15-10/)
 
 [![dzone_refcard_hadoop](images/dzone_refcard_hadoop.png)](https://dzone.com/refcardz/getting-started-apache-hadoop)
 

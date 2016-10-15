@@ -421,6 +421,40 @@
 
 		dmesg -wH 
 
+- List open ports on Linux: 
+
+		netstat -an --inet | grep LISTEN | grep -v 127.0.0.1
+
+		ss -l     (all open ports)
+
+		ss -nlp
+
+		ss -4nlp  (ipv4)
+
+		ss -6nlp  (ipv6)
+
+		ss -s      (summary)
+
+		ss -lp | grep 4949  (who is responsible for opnening socket/port #4949)
+
+		ss -t -a    (All TCP sockets)
+
+		ss -x -a     (unix sockets)
+
+		ss -4 state time-wait
+
+		ss -o state fin-wait-1
+
+		ss -4 state time-wait -o
+
+- Display HTTP connections:
+
+		ss -o state established '(dport=:http or sport=:http)'
+
+- Compare local and remote log file with vim. Edit a file and show differences:
+
+		vimdiff /path/local/log scp://192.168.1.25/path/log
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

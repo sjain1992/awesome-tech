@@ -34,6 +34,9 @@
 
 [![ansible_galaxy_opensource](images/ansible_galaxy_opensource.png)](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Solid news, <a href="https://twitter.com/ansible">@ansible</a> galaxy&#39;s web framework is now open sourced! <a href="https://t.co/8MCXfgMYit">https://t.co/8MCXfgMYit</a><a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a></p>&mdash; Jonathan Davila (@DefionsCode) <a href="https://twitter.com/DefionsCode/status/785841710572134401">11 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5-minute deployments? It&#39;s not a dream, it&#39;s a reality at <a href="https://twitter.com/jcrew">@jcrew</a> w/ a little help from <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> &amp; <a href="https://twitter.com/ansible">@ansible</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/e4odDhmo7I">https://t.co/e4odDhmo7I</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/748945015695511553">1 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -91,6 +94,7 @@
 - [unixmen.com: How to install Ansible and Use it in Automation (CentOS)](https://www.unixmen.com/install-ansible-use-automation/)
 - [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
+- [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 
@@ -112,6 +116,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">TCP vulnerabilty? Easy to mitigate with <a href="https://twitter.com/ansible">@ansible</a>:<br><br>- sysctl: name=net.ipv4.tcp_challenge_ack_limit value=999999999 sysctl_set=yes</p>&mdash; James (@thejimic) <a href="https://twitter.com/thejimic/status/764450960336834560">13 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I test Ansible configuration on 7 different OSes with Docker<br> <a href="https://twitter.com/hashtag/ICYMI?src=hash">#ICYMI</a> <a href="https://t.co/v2REjFXCrv">https://t.co/v2REjFXCrv</a> <a href="https://twitter.com/hashtag/ansible?src=hash">#ansible</a> <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a></p>&mdash; Jeff Geerling (@geerlingguy) <a href="https://twitter.com/geerlingguy/status/783638745371119622">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Ansible Container

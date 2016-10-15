@@ -604,5 +604,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A music playlist while programming stuff:<br><br>=&gt; <a href="https://twitter.com/Spotify">@Spotify</a> <a href="https://t.co/F1HWdSsdUz">https://t.co/F1HWdSsdUz</a><br><br>=&gt; <a href="https://twitter.com/YouTube">@YouTube</a> <a href="https://t.co/OnsTcZ2I3e">https://t.co/OnsTcZ2I3e</a><br><br>Enjoy!</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/748230236827901952">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This code looks pretty old, I wonder if I can delete th.... what the... <a href="https://t.co/mUZzLbQzrG">pic.twitter.com/mUZzLbQzrG</a></p>&mdash; Merrick Christensen (@iammerrick) <a href="https://twitter.com/iammerrick/status/777349059950485506">18 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Coder bingo<br> <a href="https://t.co/c4Sk4k8MZu">https://t.co/c4Sk4k8MZu</a> <a href="https://t.co/EkeKiyIBZI">pic.twitter.com/EkeKiyIBZI</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/744948598450823168">20 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

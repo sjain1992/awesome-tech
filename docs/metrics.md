@@ -64,6 +64,7 @@
 	- [nagiosql.org](http://www.nagiosql.org/)
 	- [Install NagiosQL - GUI interface to Configure Nagios Core](http://linoxide.com/monitoring-2/install-nagiosql-gui-interface-configure-nagios-core/)
 	- [unixmen.com: Send Nagios Alert Notification Using WhatsApp](https://www.unixmen.com/send-nagios-alert-notification-using-whatsapp/)
+	- [unixmen.com: How To Install NConf To Manage Nagios Core](https://www.unixmen.com/install-nconf-manage-nagios-core/)
 - [unixmen.com: How To Combine Two Graphs On Cacti](https://www.unixmen.com/combine-two-graphs-cacti/)
 - [GoAccess real time web log analyzer 🌟🌟🌟](http://goaccess.io/)
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
@@ -87,6 +88,7 @@
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 - [Tecmint: linux-dash: Monitors “Linux Server Performance” Remotely Using Web Browser](http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/)
 - [comparethecloud.net: System administrators and IT monitoring – How to ensure the long-term success of the cloud 🌟](https://www.comparethecloud.net/articles/system-administrators-and-it-monitoring-how-to-ensure-the-long-term-success-of-the-cloud/)
+- [blog.threatstack.com: How to Monitor Network Activity When Your Infrastructure Lacks an Edge](http://blog.threatstack.com/how-to-monitor-network-activity-when-your-infrastructure-lacks-an-edge)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9a1kop6u7RqfqS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully" title="Stop using Nagios (so it can die peacefully)" target="_blank">Stop using Nagios (so it can die peacefully)</a> </strong> from <strong><a href="//www.slideshare.net/superdupersheep" target="_blank">Andy Sykes</a></strong> </div>
@@ -246,6 +248,7 @@
 	- [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
 - [XpoLog](http://www.xpolog.com/)
 - [GrayLog2 | Open Source Log Management 🌟](https://www.graylog.org/)
+	- [unixmen.com: Install And Configure The Log Managment Tool Graylog](https://www.unixmen.com/install-configure-log-managment-tool-graylog/)
 - [Fluentd | Open Source Data Collector | Unified Logging Layer 🌟](http://www.fluentd.org/)
 	- [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 	- [Fluentd and Graylog2 for End-to-End Log Analysis](http://www.fluentd.org/guides/recipes/graylog2)

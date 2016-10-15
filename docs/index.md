@@ -591,8 +591,13 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 9 cheapest <a href="https://twitter.com/hashtag/cities?src=hash">#cities</a> to live in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> <a href="https://t.co/BHqtSBkHiA">https://t.co/BHqtSBkHiA</a> <a href="https://t.co/biAWnPCLnq">pic.twitter.com/biAWnPCLnq</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770754729546743808">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Video: Una mejor planeación evita que las ciudades se conviertan en trampas de desigualdad <a href="https://twitter.com/hashtag/BogotaEsLaCumbre?src=hash">#BogotaEsLaCumbre</a> <a href="https://t.co/NvVmx6xxUi">https://t.co/NvVmx6xxUi</a> <a href="https://twitter.com/hashtag/OCDE?src=hash">#OCDE</a></p>&mdash; OCDE en Español (@ocdeenespanol) <a href="https://twitter.com/ocdeenespanol/status/786669149355466752">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Madrid y Barcelona, en cifras. Comparación en números de servicios públicos<a href="https://t.co/XEQKECFXQ6">https://t.co/XEQKECFXQ6</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/771300150862053376">1 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![cursa_la_merce_2016](images/cursa_la_merce_2016.jpg)](http://www.championchip.cat)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ICT specialist? Here’s % of jobs in each OECD country that need yr expertise <a href="https://t.co/clU0hkUeJR">https://t.co/clU0hkUeJR</a> <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a> <a href="https://t.co/AiaFx1aGHu">pic.twitter.com/AiaFx1aGHu</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/770980988721692673">31 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -605,12 +610,26 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curiosity, <a href="https://twitter.com/hashtag/creativity?src=hash">#creativity</a>, critical thinking: Where do job seekers w/<a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a> have an edge? <a href="https://t.co/dCapgqUWQG">https://t.co/dCapgqUWQG</a> <a href="https://t.co/JS5RxMuJt0">pic.twitter.com/JS5RxMuJt0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/762759561363222529">8 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente&quot;, Henry Ford <a href="https://twitter.com/hashtag/ForbesQuotes?src=hash">#ForbesQuotes</a> <a href="https://t.co/2hllhnMu8a">https://t.co/2hllhnMu8a</a> <a href="https://t.co/0QAWHJOr2A">pic.twitter.com/0QAWHJOr2A</a></p>&mdash; Forbes_es (@Forbes_es) <a href="https://twitter.com/Forbes_es/status/786479118342840320">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Llull fue un brillante mecánico del arte de la combinatoria&quot;  <a href="https://t.co/EeOXd3b82g">https://t.co/EeOXd3b82g</a> via <a href="https://twitter.com/JotDownSpain">@JotDownSpain</a> <a href="https://twitter.com/hashtag/LlullCCCB?src=hash">#LlullCCCB</a></p>&mdash; CCCB (@cececebe) <a href="https://twitter.com/cececebe/status/783554969567956992">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![maquina_comptar_binaria](images/maquina_comptar_binaria.jpg)](https://twitter.com/search?q=llullcccb)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El que posee mucho dinero puede especular; el que tiene poco no debe hacerlo; el que está sin blanca se ve obligado a ello&quot; André Kostolany</p>&mdash; Frases de Trading (@frasesdetrading) <a href="https://twitter.com/frasesdetrading/status/786603758113423361">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dzone_managing_tech_job_stress](images/dzone_managing_tech_job_stress.png)](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happy <a href="https://twitter.com/hashtag/NationalCoffeeDay?src=hash">#NationalCoffeeDay</a> from Audrey Hepburn in Breakfast at Tiffany&#39;s ☕ <a href="https://t.co/uEJM5EUPpg">pic.twitter.com/uEJM5EUPpg</a></p>&mdash; Audrey Hepburn (@SoAudreyHepburn) <a href="https://twitter.com/SoAudreyHepburn/status/781595260749172737">29 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Most important, have the courage to follow your heart and intuition.&quot; Remembering Steve and the many ways he changed our world. <a href="https://t.co/ONAuEoq3uU">pic.twitter.com/ONAuEoq3uU</a></p>&mdash; Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/783662822819401728">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US and China high-technology exports ($ billion)<br><br>1992<br>US:104<br>China: 4.3<br><br>2012<br>US: 148 <br>China: 505 <a href="https://t.co/Q5aRVYlSM9">pic.twitter.com/Q5aRVYlSM9</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761253033195937793">4 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

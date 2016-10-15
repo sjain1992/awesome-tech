@@ -239,6 +239,8 @@
 
 [![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Myth: SQL joins are slow.<br>Truth: Even the most naïve join algorithm is faster in the DB than in your app! <a href="https://t.co/4Donwb09xW">https://t.co/4Donwb09xW</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/779540441725304832">24 de septiembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Database Version Control
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
 

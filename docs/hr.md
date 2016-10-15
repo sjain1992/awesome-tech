@@ -250,6 +250,11 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">No time to hit the gym? No excuses. You can do these exercises you can do while sitting at your desk: <a href="https://t.co/FPoqShPNDX">pic.twitter.com/FPoqShPNDX</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/786688352716201984">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wOlaqTFcKns?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -350,6 +355,7 @@
 - [Things Smart People Never Reveal About Themselves At Work 🌟🌟🌟](https://www.linkedin.com/pulse/things-smart-people-never-reveal-themselves-work-dr-travis-bradberry)
 - [forbes.com: 5 Toxic People You Should Avoid Like The Plague 🌟](http://www.forbes.com/sites/travisbradberry/2016/10/11/5-toxic-people-you-should-avoid-like-the-plague/)
 - [DZone: Managing Tech Job Stress When 9-5 Is Unrealistic 🌟🌟🌟](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic) We have control regarding the way we work, interact with people around us, and engage in self-care. We'll consider ways we can cope with job stress at work and home.
+- [Why are Women Not Considered for Top Promotions in PR and Business at Large?](https://www.linkedin.com/pulse/why-women-considered-top-promotions-pr-business-large-ashley-austin)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -484,6 +490,11 @@
 [![dilbert_internal_competitors](images/dilbert_internal_competitors.gif)](http://dilbert.com/strip/1995-10-09)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to be happier at work? Don’t quit your day job – get a creative side project <a href="https://t.co/KyFgJujSil">https://t.co/KyFgJujSil</a> <a href="https://t.co/puKXdL5i3r">pic.twitter.com/puKXdL5i3r</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770721007539806208">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ah yes, the classic Norman Rockwell painting &quot;Being A Woman On The Internet&quot; (1959) <a href="https://t.co/2Ds8Cqyudi">pic.twitter.com/2Ds8Cqyudi</a></p>&mdash; Erin Ruberry (@erinruberry) <a href="https://twitter.com/erinruberry/status/777259158206816256">17 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Generations-in-the-Workplace-IG](images/Generations-in-the-Workplace-IG.jpg)](http://www.commsaxis.com/workplace-generations-infographic/)
 

@@ -142,6 +142,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sysadmin job related stress can makes us stronger?<br>New research shows that even severe stress can have an upside <a href="https://t.co/JiyjU4X69U">https://t.co/JiyjU4X69U</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/756937631074623488">23 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
@@ -494,6 +496,9 @@
 - [What typing ^D really does on Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects)
 - [Put the last command's run time in your Bash prompt 🌟🌟🌟](http://jakemccrary.com/blog/2015/05/03/put-the-last-commands-run-time-in-your-bash-prompt/)
 - [unixmen.com: Some Basic Linux Commands I Have Used During My Linux Journey – Part 5](https://www.unixmen.com/basic-linux-commands-used-linux-journey-part-5/)
+- [nixCraft: Linux/UNIX Recursively Search All Files For A String 🌟🌟](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
+- [nixCraft: How To Change Timezone on a CentOS 6 and 7](http://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
+- [tecmint: 5 Linux Command Line Based Tools for Downloading Files and Browsing Websites 🌟🌟](http://www.tecmint.com/linux-command-line-tools-for-downloading-files/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -514,6 +519,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Another case: All the main distors moved to systemd to get rid of old rc scripts and yet we use this? Why? ¯\_(ツ)_/¯ <a href="https://t.co/WYBsgsmOf8">pic.twitter.com/WYBsgsmOf8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753271323791503361">13 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wasting resources reinventing the wheel by writing yet another init system for Linux ... <a href="https://t.co/Te0Of6rrZm">https://t.co/Te0Of6rrZm</a> <a href="https://t.co/BdjZmBM62c">pic.twitter.com/BdjZmBM62c</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/777465655733780480">18 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Reduce gif file size from CLI:<br><br>convert input.gif -fuzz 5% -layers Optimize out.gif <br><br>Adjust 5% value to get better result. <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753282734148100096">13 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -522,6 +530,14 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show the runtime of the last command in your prompt. <a href="https://t.co/yRqd5xKuIC">https://t.co/yRqd5xKuIC</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/776557772041101312">15 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/updated?src=hash">#updated</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://t.co/MsvAve25O2">https://t.co/MsvAve25O2</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/784781559249317888">8 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Command Line Tools for Downloading Files and Browsing Websites <a href="https://t.co/13vufYhgz7">https://t.co/13vufYhgz7</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/odBrWNvFIj">pic.twitter.com/odBrWNvFIj</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/777052303673085953">17 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Linux Zombie Processes [comic] via Daniel Stori <a href="https://t.co/Ylf9LYXzzU">https://t.co/Ylf9LYXzzU</a> <a href="https://twitter.com/hashtag/java?src=hash">#java</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/devhumor?src=hash">#devhumor</a> <a href="https://t.co/hmhHpNpBQ4">pic.twitter.com/hmhHpNpBQ4</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/776888701314007040">16 de septiembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
@@ -532,6 +548,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just typed wrong Linux command into the wrong SSH session :( More here <a href="https://t.co/TRPJfC3zp5">https://t.co/TRPJfC3zp5</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/12u5Bll16b">pic.twitter.com/12u5Bll16b</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715263341279584256">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So true. Via <a href="https://t.co/4clkafRHuu">https://t.co/4clkafRHuu</a> <a href="https://t.co/vaqPZPMnmx">pic.twitter.com/vaqPZPMnmx</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/783649481946312704">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
@@ -753,6 +772,7 @@
 - [nixCraft: Linux Force DHCP Client (dhclient) to Renew IP Address](http://www.cyberciti.biz/faq/howto-linux-renew-dhcp-client-ip-address/)
 - [nixCraft: How to configure a static IP address on CentOS 7/RHEL 7](http://www.cyberciti.biz/faq/howto-setting-rhel7-centos-7-static-ip-configuration/)
 - [unixmen.com: Install and using netstat in Linux 🌟](https://www.unixmen.com/install-using-netstat-linux/)
+- [nixCraft: FreeBSD - sockstat - Unix Find Out Which Programs Are Listing On a Given Port Number](http://www.cyberciti.biz/faq/freebsd-unix-find-the-process-pid-listening-on-a-certain-port-commands/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -889,6 +909,7 @@
 - [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
 - [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
 - [tecmint: How to Use Conspy to View and Control Remote Linux Virtual Consoles in Real Time 🌟🌟](http://www.tecmint.com/use-conspy-to-view-and-control-remote-linux-virtual-consoles/)
+- [unix.stackexchange.com: Is your SSH password revealed when you attempt to connect to the wrong server? 🌟🌟](http://unix.stackexchange.com/questions/309938/is-your-ssh-password-revealed-when-you-attempt-to-connect-to-the-wrong-server)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -923,6 +944,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">systemd-logind must be restarted every ~1000 SSH logins to prevent a ~25 second delay <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QDOtQ6cO3c">https://t.co/QDOtQ6cO3c</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/767565110692892673">22 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use Conspy to View and Control Remote <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Virtual Consoles in Real Time<a href="https://t.co/rGGOutOELx">https://t.co/rGGOutOELx</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/WQTwvT8dUQ">pic.twitter.com/WQTwvT8dUQ</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/776654290668523520">16 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/5DjtkFukUS">https://t.co/5DjtkFukUS</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/786993818818183168">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is your SSH password revealed when you attempt to connect to the wrong server? - <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/openssh?src=hash">#openssh</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/mX3v0dPUGk">https://t.co/mX3v0dPUGk</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/776947380033720320">17 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
@@ -1005,6 +1032,9 @@
 - [nixCraft: How to configure pfSense as multi wan (DUAL WAN) load balance failover router](http://www.cyberciti.biz/faq/howto-configure-dual-wan-load-balance-failover-pfsense-router/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to configure <a href="https://twitter.com/pfsense">@pfSense</a> as multi wan/DUAL WAN load balance failover router<a href="https://t.co/o6cxmedLjm">https://t.co/o6cxmedLjm</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://t.co/2kJUyWK1FA">pic.twitter.com/2kJUyWK1FA</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760944292600827904">3 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Another job alert for FreeBSD/pfSense/Unix open source geek. <a href="https://twitter.com/hashtag/jobsearch?src=hash">#jobsearch</a> <a href="https://twitter.com/hashtag/jobs?src=hash">#jobs</a> <a href="https://t.co/8IUVUywOIw">https://t.co/8IUVUywOIw</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/786606353527676928">13 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Integrate DRBD with Pacemaker Clusters

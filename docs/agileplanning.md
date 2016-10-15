@@ -77,11 +77,12 @@
 
 [![agile](images/agile.jpg)](https://www.xandermar.com/our-process/agile-methodology)
 
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3t8twm3aUk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dilbert_sabotage_profits](images/dilbert_sabotage_profits.gif)](http://dilbert.com/strip/2000-02-20)
 

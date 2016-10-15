@@ -77,6 +77,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow, in latest <a href="https://twitter.com/docker">@Docker</a> for <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> beta 26 you can switch between Linux and Windows container engine <a href="https://t.co/1dk7QgL0o1">pic.twitter.com/1dk7QgL0o1</a></p>&mdash; Stefan Scherer (@stefscherer) <a href="https://twitter.com/stefscherer/status/776153590486405120">14 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/5DjtkFukUS">https://t.co/5DjtkFukUS</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/786993818818183168">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rndGfIAN4GE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -128,6 +131,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Retweeted Red Hat Developers (<a href="https://twitter.com/rhdevelopers">@rhdevelopers</a>):<br><br>You heard Microsoft hearts Linux.  Soon you will see .NET in... <a href="https://t.co/oe5AsSgPDm">https://t.co/oe5AsSgPDm</a></p>&mdash; CN kashyap  ツ (@CNkashyap) <a href="https://twitter.com/CNkashyap/status/715532199500447745">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create and run Hyper-V containers using Docker on Windows 10 desktop <a href="https://t.co/AHP0R7MIDd">https://t.co/AHP0R7MIDd</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/I6NGQo6eQT">pic.twitter.com/I6NGQo6eQT</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/737598208013017089">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DockerForWindows?src=hash">#DockerForWindows</a> now supports both linux and windows containers. you may switch between by right clicking the tray icon. <a href="https://twitter.com/docker">@docker</a> <a href="https://t.co/sAgu9xubrw">pic.twitter.com/sAgu9xubrw</a></p>&mdash; Burhan Del Rey (@banruh) <a href="https://twitter.com/banruh/status/782598842848055296">2 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">

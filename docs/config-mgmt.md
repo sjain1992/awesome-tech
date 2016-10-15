@@ -28,6 +28,9 @@
 
 [![dzone_integration_zone](images/dzone_integration_zone.png)](https://dzone.com/enterprise-integration-training-tools-news)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So true. Via <a href="https://t.co/4clkafRHuu">https://t.co/4clkafRHuu</a> <a href="https://t.co/vaqPZPMnmx">pic.twitter.com/vaqPZPMnmx</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/783649481946312704">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <center>
 
 |[![cloudbees_tv](images/cloudbees_tv.jpg)](https://www.youtube.com/user/CloudBeesTV)|[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![chef_video](images/chef_video.jpg)](https://www.youtube.com/user/getchef)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![powershell_video](images/powershell_video.jpg)](https://www.youtube.com/user/powershellorg)|

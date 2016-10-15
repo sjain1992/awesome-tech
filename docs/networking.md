@@ -82,8 +82,10 @@
 
 ## NetDevOps Culture
 - [blog.datapath.io: 10 Network Automation Principles for DevOps 🌟🌟🌟](http://blog.datapath.io/10-network-automation-principles-for-devops)
+- [blog.datapath.io: 8 Network Optimization Principles for DevOps](http://blog.datapath.io/network-optimization-principles-for-devops)
 - [blog.datapath.io: What is NetDevOps?](http://blog.datapath.io/what-is-netdevops)
 - [blog.datapath.io: What is Infrastructure as Code?](http://blog.datapath.io/what-is-infrastructure-as-code)
+- [blog.datapath.io: Network automation is possible with NetDevOps and Datapath.io](http://resources.datapath.io/use-cases/network-automation)
 
 ## DNS
 - [DNS: What Can Go Wrong and How You Can Fix It | @DevOpsSummit #APM #Agile #DevOps](http://java.sys-con.com/node/3884842) DNS enables users of all skill sets and technical knowledge levels to use this incredibly advanced resource on a daily basis
@@ -93,6 +95,7 @@
 - [linux.com: Dig Into DNS: Part 1](https://www.linux.com/learn/dig-dns-part-1)
 - [blog.datapath.io: What is Domain Name System (DNS)?](http://blog.datapath.io/what-is-domain-name-system-dns)
 - [blog.datapath.io: How we use Anycast for DNS Failover](http://blog.datapath.io/dns-failover-how-we-use-anycast-for-dns-failover)
+- [blog.datapath.io: How to Optimize DNS for better Web Performance](http://blog.datapath.io/how-to-optimize-dns-for-better-web-performance)
 
 [![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
 
@@ -130,6 +133,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddgQwtt8QCc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You had one job but you didn&#39;t know better <a href="https://t.co/fhbjsjQ1ry">pic.twitter.com/fhbjsjQ1ry</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/784011701825835008">6 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Virtual LAN
 - [Virtual LAN](VLAN.md)
@@ -240,6 +246,9 @@
 - [opensource.com: 8 reasons to make the switch to IPv6](https://opensource.com/business/16/1/scale14x-interview-owen-delong-akamai-technologies)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">8 reasons to make the switch to IPv6: <a href="https://t.co/DBdU0Ap6Xv">https://t.co/DBdU0Ap6Xv</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/706178465226104833">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Google: There are three certainties in life – death, taxes and IPv6 <a href="https://twitter.com/TheRegister">@TheRegister</a> <a href="https://t.co/XSZei0ipGK">https://t.co/XSZei0ipGK</a> <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://t.co/dV6oZIgQP7">pic.twitter.com/dV6oZIgQP7</a></p>&mdash; Evan Kirstel (@evankirstel) <a href="https://twitter.com/evankirstel/status/777108085504512000">17 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">

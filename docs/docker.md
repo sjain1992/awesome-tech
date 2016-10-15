@@ -167,8 +167,10 @@
 - [fortune.com: Here's Why This Software Scuffle Should Matter to Non-Techies 🌟🌟🌟](http://fortune.com/2016/09/06/docker-software-swarm/)
 - [opensource.com: 8 best practices for building containerized applications](https://opensource.com/life/16/9/8-best-practices-building-containerized-applications)
 - [Julia Evans: Some questions about Docker and rkt 🌟🌟](http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/)
+- [Julia Evans: "I just want to run a container!" 🌟🌟🌟](http://jvns.ca/blog/2016/10/02/i-just-want-to-run-a-container/)
 - [It's the future 🌟🌟🌟🌟](https://circleci.com/blog/its-the-future/)
 - [training.docker.com Self-Paced Training 🌟🌟🌟](https://training.docker.com/self-paced-training)
+- [Introducing InfraKit, an open source toolkit for creating and managing declarative, self-healing infrastructure](https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure/)
 
 [![redhat_whitepaper_containers](images/redhat_whitepaper_containers.jpg)](https://engage.redhat.com/whitepaper-containers-consulting-s-201607080150)
 
@@ -187,6 +189,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Checking out the <a href="https://twitter.com/docker">@Docker</a> Fundamentals Tutorial right now. Man this is powerful!  <a href="https://t.co/tjGvqA6Fzd">https://t.co/tjGvqA6Fzd</a> <a href="https://t.co/pZfIBmHJle">pic.twitter.com/pZfIBmHJle</a></p>&mdash; Patrick Manley (@CollabPat) <a href="https://twitter.com/CollabPat/status/782212726672293888">1 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;I just want to run a container!&quot; <a href="https://t.co/r2fpMotPTA">https://t.co/r2fpMotPTA</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/782641895478624256">2 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Referencias Docker
