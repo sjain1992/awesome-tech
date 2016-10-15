@@ -528,6 +528,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4EY8dz4W3o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![win7_linus_china](images/win7_linus_china.jpg)](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
