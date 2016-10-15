@@ -63,7 +63,7 @@
         - [twitter.com/bcn_empresa](https://twitter.com/bcn_empresa) 
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [Barcelona Tech City - ecommercetechbcn.com](http://www.ecommercetechbcn.com)
-    - [barcelonatechcity.com 🌟](http://www.barcelonatechcity.com/)
+    - [barcelonatechcity.com 🌟🌟](http://www.barcelonatechcity.com/)
     - [twitter.com/bcntechcity 🌟](https://twitter.com/bcntechcity)
 - [Startup Grind BCN 🌟](https://www.startupgrind.com/barcelona/)
     - [twitter.com/StartupGrindBCN](https://twitter.com/StartupGrindBCN)
@@ -106,6 +106,11 @@ para universitarios y titulados júnior
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfSpoSLCrNg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O8Kelr5fM6U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
