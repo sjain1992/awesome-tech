@@ -236,6 +236,7 @@
 - [elcorreo.com: Un juez da la invalidez absoluta a una enfermera de Osakidetza por el mal ambiente de trabajo](http://www.elcorreo.com/bizkaia/economia/201609/24/invalidez-absoluta-ambiente-trabajo-20160923235153.html) La salud de la afectada se vio seriamente resentida por las presiones de sus superiores y compañeros
 - [Nueve años interina, condecorada con la cruz al mérito aeronáutico... y despedida sin indemnización](http://www.elmundo.es/cronica/2016/09/25/57e789b8ca4741552f8b459f.html) El Tribunal de Justicia de la Unión Europea (TJUE) acaba de fallar a su favor
 - [meneame.net: "Forzaron mi dimisión, quitándonos cosas tan básicas como el ecógrafo de urgencias"](https://www.meneame.net/story/forzaron-dimision-quitandonos-cosas-tan-basicas-como-ecografo) Esther Mora ha sido durante ocho años jefa de urgencias del hospital de El Escorial. Acaba de ser cesada, según ella, por quejarse de la reducción de camas y apoyar a sus compañeros
+- [Por qué los rusos no se ríen y los alemanes sí (aunque no lo parezca) 🌟](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
@@ -266,6 +267,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/infograf%C3%ADa?src=hash">#infografía</a>: Señales de mala actitud en el <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>, vía <a href="https://twitter.com/elcomercio">@elcomercio</a> <a href="https://t.co/TWWXa0eCTv">pic.twitter.com/TWWXa0eCTv</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/716727049109520384">3 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">“Una mala persona nunca llega a ser buen profesional” <a href="https://twitter.com/LluisAmiguet">@LluisAmiguet</a> entrevista a Howard Gardner. <a href="https://t.co/pR7UgEJU9W">https://t.co/pR7UgEJU9W</a></p>&mdash; Roger Domingo (@RogerDomingo) <a href="https://twitter.com/RogerDomingo/status/719499895653199872">11 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![rusos_no_se_rien](images/rusos_no_se_rien.png)](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Qué saldría en un estudio como este hecho en ESP? <a href="https://t.co/ctGZaxvht8">https://t.co/ctGZaxvht8</a> (Claro que puede ser sólo una forma de abaratamiento salarial)</p>&mdash; S. Niño Becerra (@sninobecerra) <a href="https://twitter.com/sninobecerra/status/781762585490104321">30 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

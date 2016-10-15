@@ -426,6 +426,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![automated_ansible](images/automated_ansible.jpg)](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
 
+![russian_proverb](images/russian_proverb.jpg)
+
 [![dilbert_company_policy_fire_10_percent_performers](images/dilbert_company_policy_fire_10_percent_performers.gif)](http://dilbert.com/strip/2016-10-08)
 
 <div class="container">
@@ -635,6 +637,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <div class="container">
 <iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
 </div>
+
+[![rusos_no_se_rien](images/rusos_no_se_rien.png)](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">47 years ago today Neil, Mike &amp; I took a ride on a big rocket to the moon. <br>Liftoff on <a href="https://twitter.com/hashtag/Apollo11?src=hash">#Apollo11</a> <a href="https://t.co/FrvdmddkYo">pic.twitter.com/FrvdmddkYo</a></p>&mdash; Buzz Aldrin (@TheRealBuzz) <a href="https://twitter.com/TheRealBuzz/status/754352183836045316">16 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US and China high-technology exports ($ billion)<br><br>1992<br>US:104<br>China: 4.3<br><br>2012<br>US: 148 <br>China: 505 <a href="https://t.co/Q5aRVYlSM9">pic.twitter.com/Q5aRVYlSM9</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/761253033195937793">4 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
