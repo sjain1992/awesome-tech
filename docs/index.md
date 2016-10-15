@@ -426,7 +426,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![automated_ansible](images/automated_ansible.jpg)](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
 
-![russian_proverb](images/russian_proverb.jpg)
+[![russian_proverb](images/russian_proverb.jpg)](http://awesome-tech.readthedocs.io/high-quality-tech-resources/)
 
 [![dilbert_company_policy_fire_10_percent_performers](images/dilbert_company_policy_fire_10_percent_performers.gif)](http://dilbert.com/strip/2016-10-08)
 
@@ -637,6 +637,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <div class="container">
 <iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
 </div>
+</br>
 
 [![rusos_no_se_rien](images/rusos_no_se_rien.png)](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
 
