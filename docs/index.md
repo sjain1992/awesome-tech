@@ -442,6 +442,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+[![sun_qualities_leadership](images/sun_qualities_leadership.jpg)](http://awesome-tech.readthedocs.io/culture_collaboration/)
+
 [![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)](https://www.youtube.com/watch?v=YnOfomPgETs)
 
 <div class="container">
@@ -649,6 +651,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![maquina_comptar_binaria](images/maquina_comptar_binaria.jpg)](https://twitter.com/search?q=llullcccb)
 
 [![dzone_managing_tech_job_stress](images/dzone_managing_tech_job_stress.png)](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic)
+
+<div class="container">
+<iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5147423007001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+</br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happy <a href="https://twitter.com/hashtag/NationalCoffeeDay?src=hash">#NationalCoffeeDay</a> from Audrey Hepburn in Breakfast at Tiffany&#39;s ☕ <a href="https://t.co/uEJM5EUPpg">pic.twitter.com/uEJM5EUPpg</a></p>&mdash; Audrey Hepburn (@SoAudreyHepburn) <a href="https://twitter.com/SoAudreyHepburn/status/781595260749172737">29 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

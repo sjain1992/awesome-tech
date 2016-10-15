@@ -125,6 +125,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">22% of Americans felt &#39;extreme&#39; stress about their financial situation <a href="https://t.co/LVbc9AVXCZ">https://t.co/LVbc9AVXCZ</a> <a href="https://t.co/GzFqZEh3Wr">pic.twitter.com/GzFqZEh3Wr</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/787272064642248704">15 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
@@ -497,6 +499,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ah yes, the classic Norman Rockwell painting &quot;Being A Woman On The Internet&quot; (1959) <a href="https://t.co/2Ds8Cqyudi">pic.twitter.com/2Ds8Cqyudi</a></p>&mdash; Erin Ruberry (@erinruberry) <a href="https://twitter.com/erinruberry/status/777259158206816256">17 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5147423007001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+</br>
 
 [![Generations-in-the-Workplace-IG](images/Generations-in-the-Workplace-IG.jpg)](http://www.commsaxis.com/workplace-generations-infographic/)
 
