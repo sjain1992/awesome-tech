@@ -442,7 +442,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-[![sun_qualities_leadership](images/sun_qualities_leadership.jpg)](http://awesome-tech.readthedocs.io/culture_collaboration/)
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cleaning out the desk drawer. <a href="https://twitter.com/hashtag/SunMicrosystems?src=hash">#SunMicrosystems</a> I like to think I&#39;ve lived up to this <a href="https://twitter.com/scottmcnealy">@scottmcnealy</a> 10 gr8 yrs 96-06 <a href="https://t.co/efJFnuRTjJ">pic.twitter.com/efJFnuRTjJ</a></p>&mdash; Brett Murphy (@PowerMan4Evr) <a href="https://twitter.com/PowerMan4Evr/status/764572168072077312">13 de agosto de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)](https://www.youtube.com/watch?v=YnOfomPgETs)
 
