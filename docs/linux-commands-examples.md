@@ -10,6 +10,16 @@
 
 [![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
+<center>
+
+|[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)|[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)|
+|:---:|:---:|
+
+|[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)|[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)|[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)|
+|:---:|:---:|:---:|
+
+</center>
+
 # Linux Commands Examples
 - [Linux Commands Tweets](linux-commands-tweets.md)
 - [nixCraft: My 10 UNIX Command Line Mistakes](http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html)
@@ -476,5 +486,3 @@
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Ia5mz"><a href="//imgur.com/a/Ia5mz">Got inspired and made this wallpaper today. Hope you enjoy.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </center>
 
-|[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)|[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)|[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)|[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)|[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)|
-|:---:|:---:|:---:|:---:|:---:|
