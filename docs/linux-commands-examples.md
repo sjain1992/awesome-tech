@@ -433,13 +433,13 @@
 
 		ss -6nlp  (ipv6)
 
-		ss -s      (summary)
+		ss -s     (summary)
 
-		ss -lp | grep 4949  (who is responsible for opnening socket/port #4949)
+		ss -lp | grep 4949  (who is responsible for opening socket/port #4949)
 
 		ss -t -a    (All TCP sockets)
 
-		ss -x -a     (unix sockets)
+		ss -x -a    (unix sockets)
 
 		ss -4 state time-wait
 
@@ -474,12 +474,5 @@
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Ia5mz"><a href="//imgur.com/a/Ia5mz">Got inspired and made this wallpaper today. Hope you enjoy.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
-
-[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)
-
-[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
-
-[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
-
-[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)
+|[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)|[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)|[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)|[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)|[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)|
+|:---:|:---:|:---:|:---:|:---:|

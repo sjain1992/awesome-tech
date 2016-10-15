@@ -200,6 +200,7 @@
 - [social.hays.com: WHAT’S ON YOUR CAREER BUCKET LIST? 🌟](https://social.hays.com/2016/08/10/whats-on-your-career-bucket-list/) Many of us draw up a bucket list of things we’d like to do or achieve in our personal lives, such as learning how to dance salsa, trying sky-diving, trekking to Everest base camp, or writing a book – but how many of us think about creating a bucket list of milestones for our professional lives?
 - [businessinsider.com: 9 signs you'll never be rich 🌟](http://www.businessinsider.com/signs-youll-never-be-rich-2016-4)
 - [And this is exactly why we need more women in leadership positions](https://www.linkedin.com/pulse/exactly-why-we-need-more-women-leadership-positions-kayla-wilkinson)
+- [content-loop.com: The Top 10 Ways To Attract And Retain Great Talent 🌟](http://www.content-loop.com/the-top-10-ways-to-attract-and-retain-great-talent/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
