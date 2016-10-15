@@ -63,6 +63,8 @@
     - [España está "todavía muy lejos de ser un paraíso para los emprendedores", según Telefónica Open Future 🌟](http://www.europapress.es/economia/noticia-espana-todavia-muy-lejos-ser-paraiso-emprendedores-telefonica-open-future-20160306122536.html)
 - [The Easy Way to Build a Developer Team in Spain](https://www.linkedin.com/pulse/easy-way-build-developer-team-spain-padraig-coffey)
 
+[![ticjob_metricas_empleo_2016](images/ticjob_metricas_empleo_2016.png)](http://www.ticjob.es)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgva9v9aaC4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
