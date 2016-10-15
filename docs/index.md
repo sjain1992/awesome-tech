@@ -490,6 +490,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 </center>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente&quot;, Henry Ford <a href="https://twitter.com/hashtag/ForbesQuotes?src=hash">#ForbesQuotes</a> <a href="https://t.co/2hllhnMu8a">https://t.co/2hllhnMu8a</a> <a href="https://t.co/0QAWHJOr2A">pic.twitter.com/0QAWHJOr2A</a></p>&mdash; Forbes_es (@Forbes_es) <a href="https://twitter.com/Forbes_es/status/786479118342840320">13 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -612,9 +615,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curiosity, <a href="https://twitter.com/hashtag/creativity?src=hash">#creativity</a>, critical thinking: Where do job seekers w/<a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a> have an edge? <a href="https://t.co/dCapgqUWQG">https://t.co/dCapgqUWQG</a> <a href="https://t.co/JS5RxMuJt0">pic.twitter.com/JS5RxMuJt0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/762759561363222529">8 de agosto de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente&quot;, Henry Ford <a href="https://twitter.com/hashtag/ForbesQuotes?src=hash">#ForbesQuotes</a> <a href="https://t.co/2hllhnMu8a">https://t.co/2hllhnMu8a</a> <a href="https://t.co/0QAWHJOr2A">pic.twitter.com/0QAWHJOr2A</a></p>&mdash; Forbes_es (@Forbes_es) <a href="https://twitter.com/Forbes_es/status/786479118342840320">13 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
