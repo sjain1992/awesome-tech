@@ -422,7 +422,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)
+[![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)](http://awesome-tech.readthedocs.io/devops-itil/)
+
+[![automated_ansible](images/automated_ansible.jpg)](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
 
 [![dilbert_company_policy_fire_10_percent_performers](images/dilbert_company_policy_fire_10_percent_performers.gif)](http://dilbert.com/strip/2016-10-08)
 
