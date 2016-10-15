@@ -280,6 +280,17 @@
 
 		egrep -wo "(Donnie|Frank|Roberta|Grandma)" story.txt |sort|uniq -c|sort -r 
 
+- Determine if a port is open with bash:
+
+		: </dev/tcp/127.0.0.1/80
+
+		For times when netcat isn't available.
+
+		Will throw a Connection refused message if a port is closed.
+
+		Scriptable:
+		(: </dev/tcp/127.0.0.1/80) &>/dev/null && echo "OPEN" || echo "CLOSED" 
+
 - [The following is Juniper screenOS authentication backdoor - master ssh password:](https://t.co/IQOGT33oTC)
 
 		<<< %s(un='%s') = %u
