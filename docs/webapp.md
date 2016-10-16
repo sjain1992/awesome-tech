@@ -15,7 +15,7 @@
 	- [Nginx](#nginx)
 	- [F5 Load Balancer](#f5-load-balancer)
 	- [GlassFish](#glassfish)
-	- [Wordpress](#wordpress)
+	- [Wordpress and other CMS solutions like Tiki](#wordpress-and-other-cms-solutions-like-tiki)
 	- [WebLogic](#weblogic)
 		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
@@ -116,6 +116,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Awesome 404 page <a href="https://t.co/yN5Yj5se0d">https://t.co/yN5Yj5se0d</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/apache?src=hash">#apache</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Redhat?src=hash">#Redhat</a> <a href="https://t.co/1Z4aMRpgr1">pic.twitter.com/1Z4aMRpgr1</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711098719425265664">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Web server 404 page ;) Them vs us. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/fJxXDqK1qr">pic.twitter.com/fJxXDqK1qr</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/787248098024108032">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
@@ -180,10 +183,11 @@
 - [GlassFish](https://glassfish.java.net/)
 - [twitter.com/glassfish](https://twitter.com/glassfish)
 
-## Wordpress
+## Wordpress and other CMS solutions like Tiki
 - [stosu.com](https://stosu.com) Free How-To Tutorials for WordPress and Windows Users
 - [How to install WordPress on a CentOS 7/RHEL 7 server](http://bach-online.de/2016/07/25/how-to-install-wordpress-on-a-centos-7-rhel-7-server/)
 - [DZone: Customizing User Roles in WordPress](https://dzone.com/articles/explaining-user-roles-in-wordpress) There are five default user roles in WordPress with their own set of configurable capabilities. Let's look at what they are and how to customize them.
+- [unixmen.com: Install Tiki CMS Groupware On Ubuntu 15.10](https://www.unixmen.com/install-tiki-cms-groupware-ubuntu-15-10/)
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java

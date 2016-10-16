@@ -18,7 +18,7 @@
 		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
 	- [Linux processes](#linux-processes)
 	- [Linux System Calls](#linux-system-calls)
-	- [Linux user accounts](#linux-user-accounts)
+	- [Linux user accounts. Active Directory Domain](#linux-user-accounts-active-directory-domain)
 	- [Linux backups](#linux-backups)
 	- [Package Management](#package-management)
 		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
@@ -143,6 +143,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sysadmin job related stress can makes us stronger?<br>New research shows that even severe stress can have an upside <a href="https://t.co/JiyjU4X69U">https://t.co/JiyjU4X69U</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/756937631074623488">23 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I want my databases to so very very boring. I want my platforms to be tediously stable. I want to sleep at night.</p>&mdash; halloween ceej pun (@ceejbot) <a href="https://twitter.com/ceejbot/status/787064883305033728">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -372,8 +375,9 @@
 - [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
 - [The Definitive Guide to Linux System Calls](http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 
-## Linux user accounts
+## Linux user accounts. Active Directory Domain
 - [cyberciti.biz: Linux Find Out Last System Reboot Time and Date Command](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
+- [unixmen.com: How to Join An Ubuntu Desktop Into An Active Directory Domain](https://www.unixmen.com/how-to-join-an-ubuntu-desktop-into-an-active-directory-domain/)
 
 ## Linux backups
 - [cyberciti.biz: How To Avoid Sudden Outburst Of Backup Shell Script or Program Disk I/O on Linux](http://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html)
@@ -406,6 +410,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Delete older unwanted Debian/Ubuntu Linux kernel &amp; save disk<br><br>apt --purge autoremove<br><br>Info <a href="https://t.co/NGRP0wTkSm">https://t.co/NGRP0wTkSm</a> &amp; <a href="https://t.co/2TvsTpKSnA">https://t.co/2TvsTpKSnA</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/774595766203523072">10 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A senior sysadmin and a new intern at work.... <a href="https://t.co/XfbI57bUYb">pic.twitter.com/XfbI57bUYb</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/786937043452440581">14 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Downgrade or Rollback Updates
@@ -867,6 +874,7 @@
 - [tecmint.com: 25 Hardening Security Tips for Linux Servers](http://www.tecmint.com/linux-server-hardening-security-tips/)
 - [CentOS 7 Server Hardening Guide](https://www.smittix.co.uk/centos-7-server-hardening-guide/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
+- [unixmen.com: How To Implement Access Control List (ACL) For CentOS 7](https://www.unixmen.com/implement-access-control-list-acl-centos-7/)
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
 - [Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 - [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)

@@ -44,6 +44,7 @@
 - [nordicapis.com: Don’t Underutilize These 5 Amazing HTTP Performance Features 🌟🌟🌟](http://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/)
 - [blog.datapath.io: 10 Causes of Network Congestion You Should Know About](http://blog.datapath.io/10-causes-of-network-congestion-you-should-know-about)
 - [blog.datapath.io: How to Run a Network Latency Test](http://blog.datapath.io/how-to-run-a-network-latency-test)
+- [blog.datapath.io: Dynamic Web Accelerator for AWS Hosted Applications](http://blog.datapath.io/dynamic-web-accelerator-for-aws-hosted-applications)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

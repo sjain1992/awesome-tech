@@ -53,6 +53,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What&#39;s the second movie about database engineer called? <br><br>The SQL. <br><br>@ me.</p>&mdash; Mahdi Yusuf 💯 (@myusuf3) <a href="https://twitter.com/myusuf3/status/787305870635917312">15 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
 - [SQL Is Not Dead and How to Make It Part of Your Toolbox 🌟🌟](https://dzone.com/articles/sql-is-not-dead-and-how-to-make-it-part-of-your-to)

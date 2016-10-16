@@ -102,6 +102,8 @@
 
 <center>
 
+[![ics-cert](images/ics-cert.png)](https://ics-cert.us-cert.gov/alerts)
+
 |[![owasp_video](images/owasp_video.jpg)](https://www.youtube.com/user/OWASPGLOBAL)|[![owasp_zap_video](images/owasp_zap_video.jpg)](https://www.youtube.com/user/psiinon)|[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet)|[![tpsc_video](images/tpsc_video.jpg)](https://www.youtube.com/user/ThePCSecurity)|
 |:---:|:---:|:---:|:---:|:---:|
 
@@ -129,6 +131,7 @@
 - [National Vulnerability Database 🌟](https://nvd.nist.gov)
 	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
 - [SCAP (Security Content Automation Protocol)](http://scap.nist.gov/)
+- [ICS-CERT Alerts 🌟🌟🌟](https://ics-cert.us-cert.gov/alerts) An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The European Commission to audit Apache HTTP Server &amp; <a href="https://twitter.com/KeePass">@KeePass</a>  <a href="https://t.co/IINqtuQSwV">https://t.co/IINqtuQSwV</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Kg2EJdGyEg">pic.twitter.com/Kg2EJdGyEg</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755992919316627457">21 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -208,6 +211,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m trying to get out of server security mess created by incompetent sysadmin. <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/uYii1k5VKr">pic.twitter.com/uYii1k5VKr</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/767282017599827968">21 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">should I write my own crypto library?<br><br>[x] yes<br>[x] fuck yes</p>&mdash; YOLO Crypto (@yolocrypto) <a href="https://twitter.com/yolocrypto/status/519945765385285632">8 de octubre de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Security articles
 - [Cybersecurity isn’t Rocket Science!](http://www.infosecurity-magazine.com/opinions/cybersecurity-isnt-rocket-science/)
@@ -314,6 +319,8 @@
 - [medium.com: How a malware could infect digitally signed files without altering hashes on macOS](https://medium.com/@sabrihaddouche/how-a-malware-can-infects-digitally-signed-files-without-altering-hashes-on-macos-c7dc9e391a8e#.nu2vc41rm)
 - [Situation: scary. #APT #malware, probably state-sponsored, invading many large, secure networks. Scientists Just Discovered Something Awful for IT Workers Everywhere](http://www.inc.com/tom-popomaronis/scientists-just-discovered-something-awful-for-it-workers-everywhere.html) The new, advanced malware researchers found forces business IT specialists to acknowledge the long reach of state-sponsored cyber attacks.
 - [sophos.com: Antivirus for Linux (free)](https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-linux.aspx)
+- [Beware of all-powerful DDoS malware infecting cellular gateways, feds warn](http://arstechnica.com/security/2016/10/beware-of-all-powerful-ddos-malware-infecting-cellular-gateways-feds-warn/) 
+- [ics-cert.us-cert.gov/alerts: Mirai Botnet Is Now Threat To Cellular Modems Made By Sierra. Sierra Wireless Mitigations Against Mirai Malware](https://ics-cert.us-cert.gov/alerts/ICS-ALERT-16-286-01)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
@@ -345,6 +352,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWHezyAW85A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Mirai Botnet Is Now Threat To Cellular Modems Made By Sierra <a href="https://t.co/WuIgfdYhmP">https://t.co/WuIgfdYhmP</a> <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> <a href="https://twitter.com/hashtag/DDoS?src=hash">#DDoS</a> <a href="https://twitter.com/hashtag/Infosec?src=hash">#Infosec</a> <a href="https://twitter.com/hashtag/Security?src=hash">#Security</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/786920341310320640">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### XSS and CSRF attacks 
 - [Cross-site Scripting (XSS) Attack](http://www.acunetix.com/websitesecurity/cross-site-scripting/)
@@ -399,11 +409,15 @@
 - [DZone: 11 Steps to Secure Your Servers Part 3 & 4: Login and Securing Passwords 🌟](https://dzone.com/articles/11-steps-to-secure-your-servers-4-securing-passwor) Parts 3 and 4 of a series of posts on server security from Inversoft's 2016 Guide to User Data Security.
 - [opensource.com: Managing passwords in Linux with KeePassX](https://opensource.com/business/16/5/keepassx)
 - [unixmen.com: Managing passwords in Linux with KeePassX](https://www.unixmen.com/managing-passwords-linux-keepassx/)
+- [unixmen.com: Reset Your Forgotten Root Password On RHEL 7](https://www.unixmen.com/reset-your-forgotten-root-password-on-rhel-7/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Identity Manager: Part 1 – Overview and Getting started <a href="https://t.co/b6HOQO4dVU">https://t.co/b6HOQO4dVU</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/726033502903267328">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![passwords](images/passwords.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good old admin/password via <a href="https://t.co/Mffd04MHFd">https://t.co/Mffd04MHFd</a> <a href="https://t.co/qONaLnMTAU">pic.twitter.com/qONaLnMTAU</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/787324526732283904">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/KY4u5uEkF94?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

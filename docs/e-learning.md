@@ -3,12 +3,12 @@
 
 - [Continuous Learning](#continuous-learning)
 - [E-Learning](#e-learning)
-	- [Professional Certification](#professional-certification)
-	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
-	- [Packtpub Mapt](#packtpub-mapt)
-	- [Free e-learning](#free-e-learning)
-	- [Download Free Legal eBooks](#download-free-legal-ebooks)
-	- [Alternatives](#alternatives)
+    - [Professional Certification](#professional-certification)
+    - [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+    - [Packtpub Mapt](#packtpub-mapt)
+    - [Free e-learning](#free-e-learning)
+    - [Download Free Legal eBooks](#download-free-legal-ebooks)
+    - [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
 
@@ -119,6 +119,9 @@
 	- [A former Goldman Sachs employee has condensed an entire MBA into one online course](http://www.businessinsider.com/goldman-sachs-mba-online-course-udemy-deal-2016-2)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Passed the AWS Solution Architect Associate exam today.. Highly recommend the <a href="https://twitter.com/acloudguru">@acloudguru</a> courses for exam prep. <a href="https://t.co/lJiJefDbsD">https://t.co/lJiJefDbsD</a></p>&mdash; Mairtin O Sullivan (@_mairtin_) <a href="https://twitter.com/_mairtin_/status/691612822002868224">enero 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">did u know the <a href="https://twitter.com/hashtag/AWS?src=hash">#AWS</a> certification exam is stressful enough to induce labor? <a href="https://twitter.com/hashtag/truestory?src=hash">#truestory</a></p>&mdash; Drew Firment (@drewfirment) <a href="https://twitter.com/drewfirment/status/787055142705229824">14 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Dilbert thirty years of experience](images/dilbert_thirty_years_experience.gif)](https://marketingassassin.wordpress.com/2010/12/23/thirty-years-experience/)

@@ -40,6 +40,10 @@
 
 ## Nginx Load Balancing
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
+- [nginx.com: 5 Reasons to Switch to Software Load Balancing](https://www.nginx.com/blog/5-reasons-switch-software-load-balancing-webinar/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 Reasons to Switch to Software Load Balancing <a href="https://t.co/ZBPrrEHzUm">https://t.co/ZBPrrEHzUm</a> <a href="https://t.co/AalLt97H4F">pic.twitter.com/AalLt97H4F</a></p>&mdash; NGINX, Inc. (@nginx) <a href="https://twitter.com/nginx/status/786937871525638144">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Nginx Web Caching
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)

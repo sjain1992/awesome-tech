@@ -185,7 +185,7 @@
 </div>
 <br/>
 
-![fail_risk_enough](images/fail_risk_enough.jpg)
+[![fail_risk_enough](images/fail_risk_enough.jpg)](https://twitter.com/forbes)
 
 [![entrepreneurs_stop_micromanaging](images/entrepreneurs_stop_micromanaging.png)](https://www.entrepreneur.com/article/274517)
 

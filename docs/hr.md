@@ -361,6 +361,9 @@
 - [forbes.com: 5 Toxic People You Should Avoid Like The Plague 🌟](http://www.forbes.com/sites/travisbradberry/2016/10/11/5-toxic-people-you-should-avoid-like-the-plague/)
 - [DZone: Managing Tech Job Stress When 9-5 Is Unrealistic 🌟🌟🌟](https://dzone.com/articles/managing-tech-job-stress-when-9-5-is-unrealistic) We have control regarding the way we work, interact with people around us, and engage in self-care. We'll consider ways we can cope with job stress at work and home.
 - [Why are Women Not Considered for Top Promotions in PR and Business at Large?](https://www.linkedin.com/pulse/why-women-considered-top-promotions-pr-business-large-ashley-austin)
+- [hbr.org: How Managers Can Help Their Introverts Network](https://hbr.org/2016/10/how-managers-can-help-their-introverts-network)
+- [Too soft on the soft skills?](https://www.linkedin.com/pulse/too-soft-skills-arlen-meyers-md-mba)
+- [9 Ways Successful People Fight Procrastination](https://www.glassdoor.com/blog/9-ways-successful-people-fight-procrastination/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -396,6 +399,9 @@
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
 
 [![bi_7characteristics_laziest_employees](images/bi_7characteristics_laziest_employees.png)](http://www.businessinsider.com/common-characteristics-of-the-laziest-employees-2016-4)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 8 best reasons to call out for work! From: Honestly, pretty much every reason is a good reason <a href="https://t.co/BklXA5buJV">https://t.co/BklXA5buJV</a> <a href="https://t.co/SCqWOLZtDI">pic.twitter.com/SCqWOLZtDI</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/787253103569481728">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dilbert_stress_free_workmate](images/dilbert_stress_free_workmate.jpg)](http://dilbert.com/strip/2016-08-14)
 

@@ -1,12 +1,12 @@
 <!-- MarkdownTOC -->
 
 - [NoSQL and NewSQL](#nosql-and-newsql)
-	- [NoSQL](#nosql)
-		- [MongoDB on Twitter](#mongodb-on-twitter)
-		- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
-		- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
-		- [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
-	- [NewSQL](#newsql)
+    - [NoSQL](#nosql)
+        - [MongoDB on Twitter](#mongodb-on-twitter)
+        - [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
+        - [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
+        - [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
+    - [NewSQL](#newsql)
 
 <!-- /MarkdownTOC -->
 
@@ -56,6 +56,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tPChndbG29hFlV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cbilien/the-dba-is-dead-again-long-live-the-dba" title="The DBA Is Dead (Again). Long Live the DBA !" target="_blank">The DBA Is Dead (Again). Long Live the DBA !</a> </strong> from <strong><a href="//www.slideshare.net/cbilien" target="_blank">Christian Bilien</a></strong> </div>
 </div> 
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Performance test for <a href="https://twitter.com/hashtag/nosql?src=hash">#nosql</a> <a href="https://twitter.com/mchacki">@mchacki</a> <a href="https://twitter.com/hashtag/GOTOldn?src=hash">#GOTOldn</a> <a href="https://t.co/5JpsPKOZsa">pic.twitter.com/5JpsPKOZsa</a></p>&mdash; Gary Harvey (@Gshtrifork) <a href="https://twitter.com/Gshtrifork/status/786938408467832832">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### MongoDB on Twitter
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)

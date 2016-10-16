@@ -228,6 +228,7 @@
 - [DZone: An Explanation of DevOps](https://dzone.com/articles/what-is-devops-2) What are the principles of DevOps? Why does DevOps exist? Mohamed Radwan dives deeper into the main ideas behind DevOps.
 - [ansible.com: MIGRATING THE RUNBOOK - A JOURNEY FROM LEGACY TO DEVOPS 🌟🌟🌟🌟](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
 - [enterprisersproject.com: Key steps to inspire confidence as you move to DevOps 🌟](https://enterprisersproject.com/article/2016/7/key-steps-inspire-confidence-you-move-devops)
+- [Julia Evans: Operations for software developers for beginners 🌟🌟🌟](http://jvns.ca/blog/2016/10/15/operations-for-software-developers-for-beginners/) I work as a software developer. A few years ago I had no idea what “operations” was. I had never met anybody whose job it was to operate software. What does that even mean? Now I know a tiny bit more about it so I want to write down what I’ve figured out.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -317,6 +318,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGRCswiTR0w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/d19js6BZE9ssMe" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cpswan/how-do-i-do-devops-when-all-i-have-is-ops" title="How do I do DevOps when all I have is Ops?" target="_blank">How do I do DevOps when all I have is Ops?</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/cpswan">Chris Swan</a></strong> </div>
+</div>
+<br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">operations for software engineers for beginners <a href="https://t.co/KUJdcfn6Wa">https://t.co/KUJdcfn6Wa</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/787320299754811392">15 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Cultura DevOps
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
@@ -557,6 +565,7 @@ If this sounds like you we’d love to hear from you! Please get in touch with s
 - [ITSM vs. DevOps – Agility vs. Control – is this really battle royale?](http://www.vigilantguy.com/itsm-vs-devops-agility-vs-control-is-this-really-battle-royale/)
 - [ABCs of ITIL®](http://www.globalknowledge.com/training/whitepaperdetail.asp?pageid=502&wpid=1428)
 - [Managing the cloud with ITIL 🌟🌟](https://www.linkedin.com/pulse/managing-cloud-itil-roland-roth)
+- [globalknowledge.com: What You Need to Know to Before You Implement ITIL](https://www.globalknowledge.com/us-en/resources/resource-library/white-papers/itil-implementation-where-to-begin/)
 
 [![vandalismo car2go](images/car2go.jpg)](http://www.elmundo.es/madrid/2016/01/09/569179e6268e3e25218b462a.html)
 

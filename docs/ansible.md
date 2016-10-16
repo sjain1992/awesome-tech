@@ -95,6 +95,7 @@
 - [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 - [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
+- [Fedora Server: Expanding Throughout the Galaxy 🌟🌟](https://sgallagh.wordpress.com/2016/10/13/fedora-server-expanding-throughout-the-galaxy/)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 
@@ -119,6 +120,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I test Ansible configuration on 7 different OSes with Docker<br> <a href="https://twitter.com/hashtag/ICYMI?src=hash">#ICYMI</a> <a href="https://t.co/v2REjFXCrv">https://t.co/v2REjFXCrv</a> <a href="https://twitter.com/hashtag/ansible?src=hash">#ansible</a> <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a></p>&mdash; Jeff Geerling (@geerlingguy) <a href="https://twitter.com/geerlingguy/status/783638745371119622">5 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New blog post on Fedora Server and Ansible Galaxy:<a href="https://t.co/KPU3Uklq3t">https://t.co/KPU3Uklq3t</a></p>&mdash; Stephen Gallagher (@sgallagh_redhat) <a href="https://twitter.com/sgallagh_redhat/status/786642650086506496">13 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Ansible Container

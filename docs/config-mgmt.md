@@ -72,6 +72,7 @@
 - [nginx.com: Microservices VS Service-Oriented Architecture. EXPLORE MICROSERVICES AND SOA IN THIS EXCLUSIVE O'REILLY REPORT](https://www.nginx.com/microservices-soa/)
 - [DZone: Microservices Architecture: What, When, and How 🌟🌟🌟](https://dzone.com/articles/microservices-architecture-what-when-how) Microservices have seen widespread adoption. Even Google Trends points to this rapid evolution. Check out what microservices are, a brief overview of when and how to use them, and advantages over monolithic structures.
 - [DZone: Microservices — Myths and Misunderstandings 🌟🌟🌟](https://dzone.com/articles/microservices-myths-and-misunderstanding) Microservices are quite popular. Learn more about microservices, what's myth and misunderstood, and what's fact.
+- [capgemini.com: Platforms as a Business Asset. MICROSERVICES IN CLOUD-BASED INFRASTRUCTURE 🌟🌟](https://www.capgemini.com/beyond-the-buzz/platforms-as-a-business-asset-2016) The key to success from an infrastructure perspective is applying a Lego®-based principle. Microservices, a loosely coupled marriage between component-oriented, and service-oriented architectures, benefits from an infrastructure platform that follows a Lego®-brick approach.
 
 [![dzone_microservices_vs_soa](images/dzone_microservices_vs_soa.png)](https://dzone.com/articles/microservices-vs-soa-2)
 
@@ -95,6 +96,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![refcard_microservices](images/refcard_microservices.png)](https://dzone.com/refcardz/getting-started-with-microservices)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/stilkov">@stilkov</a>&#39;s interpretation of what makes a microservice <a href="https://twitter.com/hashtag/GOTOldn?src=hash">#GOTOldn</a> <a href="https://t.co/TbDrRnKdJE">pic.twitter.com/TbDrRnKdJE</a></p>&mdash; Eoin Woods (@eoinwoodz) <a href="https://twitter.com/eoinwoodz/status/786946832094068736">14 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)

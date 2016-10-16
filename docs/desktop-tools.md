@@ -420,6 +420,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Influx WiFi Maximizing Router dock: Significant signal strength increase for $60 <a href="https://t.co/FaH3sscE1Q">https://t.co/FaH3sscE1Q</a> <a href="https://twitter.com/palmsolo">@palmsolo</a> <a href="https://t.co/uifljSBZNI">pic.twitter.com/uifljSBZNI</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699581012125286400">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/qPFvOxpfIx">https://t.co/qPFvOxpfIx</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/787419579098263553">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # HP Mini PC
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)

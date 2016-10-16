@@ -497,8 +497,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 </center>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente&quot;, Henry Ford <a href="https://twitter.com/hashtag/ForbesQuotes?src=hash">#ForbesQuotes</a> <a href="https://t.co/2hllhnMu8a">https://t.co/2hllhnMu8a</a> <a href="https://t.co/0QAWHJOr2A">pic.twitter.com/0QAWHJOr2A</a></p>&mdash; Forbes_es (@Forbes_es) <a href="https://twitter.com/Forbes_es/status/786479118342840320">13 de octubre de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot; --Henry Ford <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715644488597643264">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![fail_risk_enough](images/fail_risk_enough.jpg)](https://twitter.com/forbes)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -574,6 +575,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)](https://www.youtube.com/watch?v=w4Pu_JuPILw)
 
 [![handicaps_sistema_economico_espanol](images/handicaps_sistema_economico_espanol.png)](http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html)
+
+[![bloomberg_productiviy_in_spain_quote](images/bloomberg_productiviy_in_spain_quote.png)](http://www.bloomberg.com/news/articles/2015-07-01/why-1-million-new-jobs-in-spain-may-be-bad-news)
 
 ![recession_started_in_dec2007](images/recession_started_in_dec2007.png)
 
@@ -665,6 +668,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Most important, have the courage to follow your heart and intuition.&quot; Remembering Steve and the many ways he changed our world. <a href="https://t.co/ONAuEoq3uU">pic.twitter.com/ONAuEoq3uU</a></p>&mdash; Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/783662822819401728">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working in IT <a href="https://t.co/si5gm0FunB">https://t.co/si5gm0FunB</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714901664390455296">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
