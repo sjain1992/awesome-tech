@@ -237,6 +237,7 @@
 - [Nueve años interina, condecorada con la cruz al mérito aeronáutico... y despedida sin indemnización](http://www.elmundo.es/cronica/2016/09/25/57e789b8ca4741552f8b459f.html) El Tribunal de Justicia de la Unión Europea (TJUE) acaba de fallar a su favor
 - [meneame.net: "Forzaron mi dimisión, quitándonos cosas tan básicas como el ecógrafo de urgencias"](https://www.meneame.net/story/forzaron-dimision-quitandonos-cosas-tan-basicas-como-ecografo) Esther Mora ha sido durante ocho años jefa de urgencias del hospital de El Escorial. Acaba de ser cesada, según ella, por quejarse de la reducción de camas y apoyar a sus compañeros
 - [Por qué los rusos no se ríen y los alemanes sí (aunque no lo parezca) 🌟](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
+- [citapreviainem.es: Los métodos de control del trabajador más habituales. Casos concretos. ¿Cuál es el límite?](http://www.citapreviainem.es/control-vigilancia-trabajadores-limites/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

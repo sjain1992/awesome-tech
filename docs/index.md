@@ -618,6 +618,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BetterLife?src=hash">#BetterLife</a> Index: Because there’s <a href="https://twitter.com/hashtag/more2life?src=hash">#more2life</a> than cold economic <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a>. Make yr voice heard <a href="https://t.co/wNmW8qAPfq">https://t.co/wNmW8qAPfq</a><a href="https://t.co/M2KP4uIPr0">https://t.co/M2KP4uIPr0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/770606582858063873">30 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Una preciosidad. La curva de Phillips en Estados Unidos 1948-2016 <a href="https://t.co/DG8830SN8n">pic.twitter.com/DG8830SN8n</a></p>&mdash; Manuel Ale. Hidalgo (@Manuj_Hidalgo) <a href="https://twitter.com/Manuj_Hidalgo/status/787202271532703748">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LZAJuOTXqg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

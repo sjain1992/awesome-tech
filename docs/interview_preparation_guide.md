@@ -474,6 +474,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Una preciosidad. La curva de Phillips en Estados Unidos 1948-2016 <a href="https://t.co/DG8830SN8n">pic.twitter.com/DG8830SN8n</a></p>&mdash; Manuel Ale. Hidalgo (@Manuj_Hidalgo) <a href="https://twitter.com/Manuj_Hidalgo/status/787202271532703748">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zy1oNk616_U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
