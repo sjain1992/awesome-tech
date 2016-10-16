@@ -21,6 +21,7 @@
 - [Presentations](#presentations)
 - [HP Mini PC](#hp-mini-pc)
 - [HP Elitebook 840 G3](#hp-elitebook-840-g3)
+- [Acer E 15](#acer-e-15)
 - [This is my desk at Red Hat](#this-is-my-desk-at-red-hat)
 
 <!-- /MarkdownTOC -->
@@ -434,6 +435,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xFqPn62VF1o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+# Acer E 15
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/uXqjjDuxfB">https://t.co/uXqjjDuxfB</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/787644665419956224">16 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # This is my desk at Red Hat
 

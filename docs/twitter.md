@@ -104,6 +104,7 @@
 - [Open Tech Daily](http://paper.li/JeffKaplan88/1306711421)
 - [TechAgil & TechNews](http://paper.li/PepeVazquezS/1320427818)
 - [SDN & NFV NEWS](http://paper.li/YAKBAKIT/1408541986)
+- [Service Management. More on ITSM, ITIL, DevOps and other Frameworks 🌟](http://paper.li/pllnrds/1305983189)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)

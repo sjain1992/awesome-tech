@@ -79,7 +79,7 @@
 - [medium.com: Review of @nigelpoulton's course on @Docker and #Containers](https://medium.com/@vinrandazzo/docker-and-containers-do-you-want-to-design-beautiful-apps-99ad61d82168#.yfeaa5iiu)
 - [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [blog.docker.com: Ten Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy (July 2014) 🌟](https://blog.docker.com/2014/07/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy/)
-- [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
+- [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects 🌟🌟](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
 - [Introduction to Docker for Java Developers – Getting started with Docker](http://examples.javacodegeeks.com/devops/introduction-docker-java-developers/)
 - [javacodegeeks.com: Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
 - [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)

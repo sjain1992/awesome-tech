@@ -57,12 +57,16 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <a href="http://paper.li/tag/azure">The #azure Daily</a>
 </p>
 
+<p align="center">
+<a href="http://paper.li/pllnrds/1305983189">Service Management: ITSM, ITIL, DevOps</a>
+</p>
+
 ![dr_evil_why_make_trillions](images/dr_evil_why_make_trillions.gif)
 
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
-	- [Newsfeeds and Twitter resources 😀](twitter.md)
+	- [Newsfeeds like paper.li and Twitter resources 😀](twitter.md)
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
 2. [Startups, Multinationals and IT Jobs. In-Demand Skills](startups.md)
 	- [Leadership Styles Around the World 🌟](leadership_styles_around_world.md)
