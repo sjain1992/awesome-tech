@@ -240,5 +240,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;($3 == &quot;64.39.106.131&quot;) || ($1 ~ /^#/)&#39; conn.log # Search 3rd field of conn.log for an IP and print the header line. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/784052649654091776">6 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;$9 == &quot;404&quot; {print $7}&#39; access.log |sort|uniq -c|sort -rn| head -n 20 # List top 20 404&#39;s URLs in descending order by reqs. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/788017126451752960">17 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">zcat large.log.gz |awk &#39;{print $0 | &quot;gzip -v9c &gt; large.log-&quot;$1&quot;_&quot;$2&quot;.gz&quot;}&#39; # Breakup compressed log by syslog date and recompress. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/783685657080188929">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -289,6 +289,9 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;La nueva era será la de las corporaciones, la de la tecnología desconocida&quot;, dice <a href="https://twitter.com/sninobecerra">@sninobecerra</a> | <a href="https://t.co/v3CesdR5CZ">https://t.co/v3CesdR5CZ</a></p>&mdash; Bolsamanía (@bolsamania) <a href="https://twitter.com/bolsamania/status/702893530407149568">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Una preciosidad. La curva de Phillips en Estados Unidos 1948-2016 <a href="https://t.co/DG8830SN8n">pic.twitter.com/DG8830SN8n</a></p>&mdash; Manuel Ale. Hidalgo (@Manuj_Hidalgo) <a href="https://twitter.com/Manuj_Hidalgo/status/787202271532703748">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">On air ;-) <a href="https://t.co/E8430894wN">https://t.co/E8430894wN</a></p>&mdash; Marc Vidal (@marcvidal) <a href="https://twitter.com/marcvidal/status/723904827487621121">23 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">

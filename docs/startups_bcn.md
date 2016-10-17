@@ -42,7 +42,7 @@
 |[![reuters_live](images/reuters_live.jpg)](https://www.youtube.com/user/ReutersVideo)|[![avanttic_video](images/avanttic_video.jpg)](https://www.youtube.com/user/avanttic)|[![seidor_video](images/seidor_video.jpg)](https://www.youtube.com/user/gruposeidor)|[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|[![adp_video](images/adp_video.jpg)](https://www.youtube.com/user/adp)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|[![adp_video](images/adp_video.jpg)](https://www.youtube.com/user/adp)|[![ca_tech_videos](images/ca_tech_videos.jpg)](https://www.youtube.com/c/catechnologies)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>

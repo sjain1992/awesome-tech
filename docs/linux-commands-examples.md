@@ -180,6 +180,10 @@
 
 		awk '{ print substr($0, index($0,$3)) }' mail.log
 
+- List top 20 404's URLs in descending order by reqs.
+
+		awk '$9 == "404" {print $7}' access.log |sort|uniq -c|sort -rn| head -n 20
+
 - List 10 largest open file on Unix:
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 

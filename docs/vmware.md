@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [VMware](#vmware)
-	- [Blogs](#blogs)
-	- [Spanish Blogs](#spanish-blogs)
+    - [Blogs](#blogs)
+    - [Spanish Blogs](#spanish-blogs)
 - [VirtualBox](#virtualbox)
 
 <!-- /MarkdownTOC -->
@@ -12,6 +12,8 @@
 [![vmworld_tv](images/vmworld_tv.png)](https://www.youtube.com/user/VMworldTV)
 
 [![dzone_refcard_virtualization](images/dzone_refcard_virtualization.png)](https://dzone.com/refcardz/getting-started-virtualization)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS, VMWare announce strategic partnership, new hybrid cloud service <a href="https://t.co/GoavDKhfQa">https://t.co/GoavDKhfQa</a> by <a href="https://twitter.com/stephcondoncbs">@stephcondoncbs</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/786668673167613956">13 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center>
 

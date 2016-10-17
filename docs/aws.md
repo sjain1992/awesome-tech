@@ -44,6 +44,7 @@
     - [AWS VPC](#aws-vpc)
     - [AWS SQS. Amazon Simple Queue Service](#aws-sqs-amazon-simple-queue-service)
     - [AWS Application Discovery Service Update. Agentless Discovery for VMware](#aws-application-discovery-service-update-agentless-discovery-for-vmware)
+    - [VMware Cloud on AWS](#vmware-cloud-on-aws)
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
@@ -121,6 +122,8 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We hope you had a great time during <a href="https://twitter.com/hashtag/AWSSummit?src=hash">#AWSSummit</a>! Decks (<a href="https://t.co/DyRrZFP8eW">https://t.co/DyRrZFP8eW</a>) &amp; videos (<a href="https://t.co/N6YDXzBoOL">https://t.co/N6YDXzBoOL</a>) will be posted shortly!</p>&mdash; AWS Summits (@AWSSummits) <a href="https://twitter.com/AWSSummits/status/753408684349231104">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS, VMWare announce strategic partnership, new hybrid cloud service <a href="https://t.co/GoavDKhfQa">https://t.co/GoavDKhfQa</a> by <a href="https://twitter.com/stephcondoncbs">@stephcondoncbs</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/786668673167613956">13 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![aws_webinars_video](images/aws_webinars_video.jpg)](https://www.youtube.com/user/AWSwebinars)|[![aws_tutorial_series_video](images/aws_tutorial_series_video.jpg)](https://www.youtube.com/user/awstutorialseries)|[![linux_academy_video](images/linux_academy_video.jpg)](https://www.youtube.com/user/pineheadtv)|[![cloud_academy_video](images/cloud_academy_video.jpg)](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g)|[![comparethecloud](images/comparethecloud.jpg)](https://www.youtube.com/user/comparethecloud)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -582,6 +585,9 @@
 
 ## AWS Application Discovery Service Update. Agentless Discovery for VMware 
 - [AWS Application Discovery Service Update – Agentless Discovery for VMware](https://aws.amazon.com/es/blogs/aws/aws-application-discovery-service-update-agentless-discovery-for-vmware/)
+
+## VMware Cloud on AWS
+- [VMware Cloud on AWS](https://aws.amazon.com/es/vmware/) The Only Way to Extend Your VMware Environment into AWS
 
 ## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)

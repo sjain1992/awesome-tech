@@ -236,6 +236,7 @@
 [![wow ebook](images/wowebook.gif)](http://www.wowebook.org)
 
 ## Alternatives
+- [safaribooksonline.com 🌟🌟🌟🌟](https://www.safaribooksonline.com/)
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [eLearning at deals.slashdot.org](https://deals.slashdot.org/deals/elearning)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
@@ -262,6 +263,8 @@
 - [udemy.com: Fired To Hired: 8 Steps To Get You Back To Work](https://www.udemy.com/fired-to-hired-8-steps-to-get-you-back-to-work/)
 - [Dell SonicWALL Network Security Basic Administration (CSSA Level Course)](https://support.software.dell.com/sonicwall-nsa-series/training/100/dell-sonicwall-network-security-basic-administration-cssa-level-course-instructor-led-training)
 - [globalknowledge.com: Dell SonicWALL Network Security Basic Administration](https://www.globalknowledge.com/us-en/course/85445/dell-sonicwall-network-security-basic-administration/) Learn to design, implement, and troubleshoot SonicWALL security devices running SonicOS firmware.
+
+[![oreilly-media-safari-books](images/oreilly-media-safari-books.png)](https://www.safaribooksonline.com/)
 
 [![aba english](images/logo-aba-english.png)](http://www.abaenglish.com)
 
