@@ -16,7 +16,10 @@
 
 <center>
 
-|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![redpuntoes_video](images/redpuntoes_video.jpg)](https://www.youtube.com/user/Redpuntoes)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
+|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![bps_spain_video](images/bps_spain_video.jpg)](https://www.youtube.com/user/bpscomputing)|
+|:---:|:---:|
+
+|[![tetuan_valley_video](images/tetuan_valley_video.jpg)](https://www.youtube.com/channel/UCsz7413syI6Kg8BTI6ss2OA)|[![wayra_video](images/wayra_video.jpg)](https://www.youtube.com/user/wayraproject)|[![redpuntoes_video](images/redpuntoes_video.jpg)](https://www.youtube.com/user/Redpuntoes)|[![bbva_innovation_center_video(s](images/bbva_innovation_center_videos.jpg)](https://www.youtube.com/user/centroinnovacionbbva)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>

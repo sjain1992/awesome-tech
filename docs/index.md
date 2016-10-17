@@ -163,8 +163,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![esa_video](images/esa_video.jpg)](https://www.youtube.com/user/ESA)|[![nasa_video](images/nasa_video.jpg)](https://www.youtube.com/user/NASAtelevision)|
 |:---:|:---:|
 
-|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|
-|:---:|:---:|:---:|
+|[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![bps_spain_video](images/bps_spain_video.jpg)](https://www.youtube.com/user/bpscomputing)|
+|:---:|:---:|
+
+|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|
+|:---:|:---:|
 
 </center>
 
@@ -201,6 +204,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|[![adp_video](images/adp_video.jpg)](https://www.youtube.com/user/adp)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|

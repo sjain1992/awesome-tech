@@ -166,6 +166,7 @@
 - [workitdaily.com: 9 Ways Your Insecurities Are Hurting Your Interview](https://www.workitdaily.com/insecurities-hurting-interview/)
 - [4C's To Asking Great Questions On Interviews 🌟](https://www.linkedin.com/pulse/4cs-asking-great-questions-interviews-j-t-o-donnell)
 - [social.hays.com: How to impress a recruiter with your resume/CV](https://social.hays.com/2015/12/10/how-to-impress-a-recruiter-with-your-resumecv/)
+- [workitdaily.com: 5 Secrets To Create Job Search Magic 🌟](https://www.workitdaily.com/create-job-search-magic/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 

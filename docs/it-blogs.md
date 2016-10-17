@@ -105,6 +105,8 @@
 - [ecommerce-news.es](http://ecommerce-news.es)
 - [silicon.es](http://www.silicon.es/)
 - [computing.es](http://www.computing.es/)
+- [IDC España](http://idcspain.com/)
+- [bps.com.es - Business Publications Spain](http://www.bps.com.es/) 
 
 ## Blog Hosting
 - [How to Start a Blog with WordPress (Step by Step Guide for Blog Hosting)](http://www.webcodegeeks.com/wordpress/how-to-start-blog-wordpress-hosting/)
