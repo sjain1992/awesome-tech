@@ -467,6 +467,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You can&#39;t do everything with money and power; Take Microsoft and Google for example, their calendar systems still can&#39;t sync.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/788040464914145285">17 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![aws_vmware_partnership](images/aws_vmware_partnership.png)](http://www.zdnet.com/article/aws-cements-hybrid-cloud-position-with-vmware-partnership-heres-what-it-means/)
+
 [![Edmund-Burke-Quote](images/Edmund-Burke-Quote.png)](https://en.wikipedia.org/wiki/Edmund_Burke)
 
 [![dilbert_agenda](images/dilbert_agenda.jpg)](http://dilbert.com/strip/2016-08-19)

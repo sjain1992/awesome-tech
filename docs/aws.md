@@ -588,6 +588,7 @@
 
 ## VMware Cloud on AWS
 - [VMware Cloud on AWS](https://aws.amazon.com/es/vmware/) The Only Way to Extend Your VMware Environment into AWS
+- [infoworld.com: 4 no-bull insights into the AWS/VMware deal](http://www.infoworld.com/article/3131347/hybrid-cloud/4-no-bull-insights-into-the-awsvmware-deal.html)
 
 ## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
