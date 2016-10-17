@@ -141,6 +141,7 @@
 - [ilearnsql.com: How Do You Join Tables Using SQL Outer Join?](http://www.ilearnsql.com/joining-tables-outer-join/)
 - [How the DBA job is evolving for future ? 🌟🌟](https://www.linkedin.com/pulse/how-dba-job-evolving-future-shiv-iyer?trk=hp-feed-article-title-comment)
 - [DZone: Say No to Venn Diagrams When Explaining JOINs 🌟🌟🌟](https://dzone.com/articles/say-no-to-venn-diagrams-when-explaining-joins) It's easy to use Venn diagrams to explain JOINs, but when you think about it, they're not quite the right tool to use. That's where JOIN diagrams come in.
+- [DZone: Top Challenges of Database Change Management and How to Fix Them 🌟🌟](https://dzone.com/articles/top-challenges-of-database-change-management-and-h) As Agile methodology continues to expand its focus, databases are no exception. See how to manage your changes while keeping light on your feet — so you don't break stuff.
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
