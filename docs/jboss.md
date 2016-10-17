@@ -5,6 +5,7 @@
     - [JBoss on Twitter](#jboss-on-twitter)
     - [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
     - [JBoss Resources](#jboss-resources)
+        - [JBoss Modules](#jboss-modules)
     - [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
     - [JBoss Fuse - Enterprise Service Bus \(ESB\)](#jboss-fuse---enterprise-service-bus-esb)
     - [JBoss Data Virtualization](#jboss-data-virtualization)
@@ -144,6 +145,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ydOEphq-WtY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+### JBoss Modules
+- [DZone: Hello World With JBoss Modules](https://dzone.com/articles/hello-world-with-jboss-modules) There aren't a lot of examples of JBoss Modules out there, so let's create a simple Hello World program.
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There aren&#39;t a lot of examples of <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> Modules out there, so let&#39;s create a simple Hello World program. <a href="https://t.co/rTLxNSoyS2">https://t.co/rTLxNSoyS2</a> <a href="https://twitter.com/hashtag/java?src=hash">#java</a> <a href="https://t.co/IRr4p19EIE">pic.twitter.com/IRr4p19EIE</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/787730118806478848">16 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
