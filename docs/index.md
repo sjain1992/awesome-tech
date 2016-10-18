@@ -388,6 +388,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 </center>
 
+[![up_in_the_air_everything_burn](images/up_in_the_air_everything_burn.gif)](https://www.youtube.com/watch?v=rTL1FmvVCuA)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -439,6 +441,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![russian_proverb](images/russian_proverb.jpg)](http://awesome-tech.readthedocs.io/high-quality-tech-resources/)
 
 [![dilbert_company_policy_fire_10_percent_performers](images/dilbert_company_policy_fire_10_percent_performers.gif)](http://dilbert.com/strip/2016-10-08)
+
+[![up_in_the_air_you_mad_at_your_computer](images/up_in_the_air_you_mad_at_your_computer.gif)](https://www.youtube.com/watch?v=rTL1FmvVCuA)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
