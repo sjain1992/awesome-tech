@@ -918,6 +918,7 @@
 - [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
 - [tecmint: How to Use Conspy to View and Control Remote Linux Virtual Consoles in Real Time 🌟🌟](http://www.tecmint.com/use-conspy-to-view-and-control-remote-linux-virtual-consoles/)
 - [unix.stackexchange.com: Is your SSH password revealed when you attempt to connect to the wrong server? 🌟🌟](http://unix.stackexchange.com/questions/309938/is-your-ssh-password-revealed-when-you-attempt-to-connect-to-the-wrong-server)
+- [unixmen.com: Install And Configure DenyHosts In CentOS 🌟🌟](https://www.unixmen.com/install-configure-denyhost-centos/) DenyHosts is a script intended to be running by Linux system administrators in order to help thwart SSH server attacks (also known as dictionary based attacks and brute force attacks). Thanks to its simplicity and the ability to manually configure the rules DenyHost is widely used as an alternative to Fail2ban which is a bit more complicated to use and configure.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -958,6 +959,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is your SSH password revealed when you attempt to connect to the wrong server? - <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/openssh?src=hash">#openssh</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/mX3v0dPUGk">https://t.co/mX3v0dPUGk</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/776947380033720320">17 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install And Configure DenyHosts In CentOS | Unixmen <a href="https://t.co/nkvmUTFj2E">https://t.co/nkvmUTFj2E</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/787744943351537664">16 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync

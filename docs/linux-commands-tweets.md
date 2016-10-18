@@ -245,3 +245,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">zcat large.log.gz |awk &#39;{print $0 | &quot;gzip -v9c &gt; large.log-&quot;$1&quot;_&quot;$2&quot;.gz&quot;}&#39; # Breakup compressed log by syslog date and recompress. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/783685657080188929">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Find your new Raspberry Pi on the network with nmap and awk <a href="https://t.co/jSWsUZNQvB">https://t.co/jSWsUZNQvB</a> By <a href="https://twitter.com/theurbanpenguin">@theurbanpenguin</a> <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/788425709429587968">18 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

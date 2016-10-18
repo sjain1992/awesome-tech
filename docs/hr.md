@@ -90,6 +90,7 @@
 - [hbr.org: The More You Energize Your Coworkers, the Better Everyone Performs](https://hbr.org/2016/09/the-energy-you-give-off-at-work-matters)
 - [entrepreneur.com: 7 Things You Should Never Say to Your Employees 🌟](https://www.entrepreneur.com/article/232657)
 - [entrepreneur.com: How Employees and Managers See Things Differently -- and How to Fix It 🌟](https://www.entrepreneur.com/article/282397)
+- [workitdaily.com: Career Management: Are YOU Lazy?](https://www.workitdaily.com/career-management-lazy/)
 
 [![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
 
