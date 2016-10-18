@@ -151,6 +151,7 @@
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 - [March 2016. infoworld.com - 21 hot programming trends -- and 21 going cold 🌟🌟🌟](http://www.infoworld.com/article/3039935/application-development/21-hot-programming-trends-and-21-going-cold.html)
+- [DZone: What to Do When Your Colleague Creates Spaghetti Code 🌟🌟🌟](https://dzone.com/articles/what-do-do-when-your-colleague) We've all been there; how do you handle a colleague who's not producing quality work? Read on for some strategies on how to handle this common situation.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> <a href="https://twitter.com/hashtag/languages?src=hash">#languages</a> <a href="https://t.co/1EuoEmeXdM">pic.twitter.com/1EuoEmeXdM</a></p>&mdash; Ϟ ℂlaudio Ϟ (@_vecna) <a href="https://twitter.com/_vecna/status/753871301517930497">15 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -159,6 +160,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just 19% of all software developers are women - <a href="https://twitter.com/corinnepw">@corinnepw</a> <a href="https://twitter.com/girldevelopit">@girldevelopit</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/sEInC8pvfp">pic.twitter.com/sEInC8pvfp</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/748621972611833857">30 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">174 <a href="https://twitter.com/hashtag/unicorn?src=hash">#unicorn</a> startups can&#39;t be wrong, 95% of the them use <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a>. <a href="https://t.co/ItmdvJ6l5b">https://t.co/ItmdvJ6l5b</a></p>&mdash; BBVA Open Talent (@bbvaopentalent) <a href="https://twitter.com/bbvaopentalent/status/746679393314013184">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

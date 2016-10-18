@@ -485,6 +485,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
+[![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
+
 [![blade_runner_interview](images/blade_runner_interview.gif)](https://www.youtube.com/watch?v=yWPyRSURYFQ)
 
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
