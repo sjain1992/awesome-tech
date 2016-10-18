@@ -291,6 +291,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Citibank IT guy deliberately wiped routers, shut down 90% of networks <a href="https://t.co/go9nfo936x">https://t.co/go9nfo936x</a> <a href="https://t.co/Df4ZMtccUF">pic.twitter.com/Df4ZMtccUF</a></p>&mdash; Graham Cluley (@gcluley) <a href="https://twitter.com/gcluley/status/758625679676174337">28 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What Is Fork Bomb And How Can You Prevent This Danger? | Unixmen <a href="https://t.co/zR64RHQlpI">https://t.co/zR64RHQlpI</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/787775158605877248">16 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 
