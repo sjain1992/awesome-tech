@@ -327,6 +327,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">operations for software engineers for beginners <a href="https://t.co/KUJdcfn6Wa">https://t.co/KUJdcfn6Wa</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/787320299754811392">15 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7zouWhUTs4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Cultura DevOps
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
 
