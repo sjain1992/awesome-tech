@@ -263,6 +263,7 @@
 ## AWS Clients
 - [Trainline.com dumps Oracle and Microsoft, gulps AWS Kool-Aid 🌟🌟🌟](http://www.theregister.co.uk/2016/07/13/trainline_dumps_oracle_microsoft_goes_full_aws_cto_interview/)
 - [London DevOps - Trainline, A DevOps Journey - Chris Turvil 🌟🌟🌟](https://www.youtube.com/watch?v=IUvUmqu1MBQ)
+- [aws.amazon.com: Trainline Case Study](https://aws.amazon.com/solutions/case-studies/trainline/)
 
 ## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
