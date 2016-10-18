@@ -457,6 +457,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![Breakfast-at-Tiffanys-we-belong-to-nobody](images/Breakfast-at-Tiffanys-we-belong-to-nobody.gif)](https://www.youtube.com/watch?v=YnOfomPgETs)
 
+[![Flowchart-of-umbrella-employment](images/Flowchart-of-umbrella-employment.png)](https://en.wikipedia.org/wiki/Umbrella_company)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qSSrTx1vjE?list=RD3qSSrTx1vjE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
