@@ -60,6 +60,8 @@
 </div>
 <br/>
 
+[![redhat_ericsson_announce](images/redhat_ericsson_announce.png)](https://www.redhat.com/en/about/press-releases/red-hat-and-ericsson-announce-broad-alliance-enable-pervasive-adoption-open-source-solutions)
+
 <center>
 
 |[![gsma_video](images/gsma_video.jpg)](https://www.youtube.com/user/GSMAOnline)|[![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid)|[![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)|[![telefonica_video_a_click_tic](images/telefonica_video_a_click_tic.jpg)](https://www.youtube.com/user/TelefonicaGGClientes)|

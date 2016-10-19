@@ -206,7 +206,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|[![adp_video](images/adp_video.jpg)](https://www.youtube.com/user/adp)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|[![schneider_electric_video](images/schneider_electric_video.jpg)](https://www.youtube.com/user/SchneiderCorporate)|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|[![nextcs_video](images/nextcs_video.jpg)](https://www.youtube.com/channel/UCTANOxpa85XUViiiVrbm2Qg)|[![schneider_electric_video](images/schneider_electric_video.jpg)](https://www.youtube.com/user/SchneiderCorporate)|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
@@ -549,6 +549,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/E3DKzC8bIT">https://t.co/E3DKzC8bIT</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750797072845209604">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![DeutscheBank_cloud_adoption](images/DeutscheBank_cloud_adoption.png)](http://www.networkworld.com/article/3083421/microsoft-subnet/deutsche-bank-nearly-a-third-of-finance-workloads-could-hit-cloud-in-3-years.html)
+
+[![redhat_ericsson_announce](images/redhat_ericsson_announce.png)](https://www.redhat.com/en/about/press-releases/red-hat-and-ericsson-announce-broad-alliance-enable-pervasive-adoption-open-source-solutions)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb7nfmf4vVQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

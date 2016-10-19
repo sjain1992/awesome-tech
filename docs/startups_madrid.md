@@ -38,7 +38,7 @@
 |[![fundaciontelefonica_video](images/fundaciontelefonica_video.jpg)](https://www.youtube.com/user/fundaciontef)|[![gmv_video](images/gmv_video.jpg)](https://www.youtube.com/user/infoGMV)|[![cartodb_video](images/cartodb_video.jpg)](https://www.youtube.com/user/CartoDB)|[![bq_video](images/bq_video.jpg)](https://www.youtube.com/channel/UCgVTZ7PJjxiuGzoK3ryFGJg)|[![jobandtalent_video](images/jobandtalent_video.jpg)](https://www.youtube.com/channel/UCH-diPUdfYoByP0zRSPGp8w)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
+|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|[![nextcs_video](images/nextcs_video.jpg)](https://www.youtube.com/channel/UCTANOxpa85XUViiiVrbm2Qg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </center>

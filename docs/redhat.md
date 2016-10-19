@@ -164,6 +164,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Interesting to hear Accenture talking at <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a>, we are observing a shift from this type of outsourcing <a href="https://t.co/5F43zUjb8y">https://t.co/5F43zUjb8y</a></p>&mdash; Fintan Ryan (@fintanr) <a href="https://twitter.com/fintanr/status/748271265773813760">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![redhat_ericsson_announce](images/redhat_ericsson_announce.png)](https://www.redhat.com/en/about/press-releases/red-hat-and-ericsson-announce-broad-alliance-enable-pervasive-adoption-open-source-solutions)
+
 # Red Hat
 - [growthhackers.com: Red Hat. How They Developed a Big Idea That Shook Up A Huge Market](https://growthhackers.com/growth-studies/red-hat-how-they-developed-a-big-idea-that-shook-up-a-huge-market)
 
