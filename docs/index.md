@@ -739,6 +739,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![blade_runner_car](images/blade_runner_car.gif)](https://www.youtube.com/watch?v=Ywd0yNXmHaA)
 
+[![voltaire disagreement](images/voltaire_disagreement.jpg)](http://awesome-tech.readthedocs.io/office_politics/)
+
 [![atles_catala](images/atles_catala.jpg)](http://www.mmb.cat/)
 
 [![conversation-english-eurobarometer](images/conversation-english-eurobarometer.jpg)](https://jakubmarian.com/map-of-the-percentage-of-people-speaking-english-in-the-eu-by-country/)
