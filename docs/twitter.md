@@ -97,6 +97,7 @@
 - [The #Linux Daily](http://paper.li/LinuxHQ/1315868351)
 - [The #redhat Daily 🌟](http://paper.li/tag/redhat)
 - [The webhat/redhat Daily 🌟](http://paper.li/webhat)
+- [The Ansible Daily](http://paper.li/inafev/1453199582)
 - [The #AWS Daily 🌟](http://paper.li/tag/aws)
 - [The #Azure Daily 🌟](http://paper.li/tag/azure)
 - [The Open Hybrid Cloud Daily](https://paper.li/e-1437352004)

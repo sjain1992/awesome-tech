@@ -58,6 +58,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </p>
 
 <p align="center">
+<a href="http://paper.li/LinuxSec/1363957787">Top #CloudComputing news</a>
+</p>
+
+<p align="center">
 <a href="http://paper.li/pllnrds/1305983189">Service Management: ITSM, ITIL, DevOps</a>
 </p>
 
@@ -500,6 +504,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
+
+<center>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</center>
 
 [![blade_runner_interview](images/blade_runner_interview.gif)](https://www.youtube.com/watch?v=yWPyRSURYFQ)
 
