@@ -47,6 +47,9 @@
 - [What Agile Project Managers Do, Part 1 🌟🌟🌟](http://www.jrothman.com/mpd/agile/2016/09/what-agile-project-managers-do-part-1/)
     - [DZone: What Agile Project Managers Do Not Do: Part II 🌟🌟🌟](https://dzone.com/articles/what-agile-project-managers-do-not-do-part-2) Many new-to-Agile teams experience a huge change because in other approaches, there is no such role as the Product Owner.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working alone vs. working in a team... that  escalated quickly :( <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/DRkmmqpBfZ">pic.twitter.com/DRkmmqpBfZ</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/789121559428407296">20 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![trust_your_project_manager](images/trust_your_project_manager.png)
 
 [![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)

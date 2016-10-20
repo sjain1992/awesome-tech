@@ -575,6 +575,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed and awk both use -f &lt;filename&gt; to specify a file of commands.</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/789144292132528128">20 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn how to use AWK to print fields and columns in text files.. <a href="https://t.co/gV5FqfI2a9">https://t.co/gV5FqfI2a9</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/MrSmSpwSyG">pic.twitter.com/MrSmSpwSyG</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/724597310991159296">25 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Terminals

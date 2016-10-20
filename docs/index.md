@@ -492,6 +492,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working alone vs. working in a team... that  escalated quickly :( <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/DRkmmqpBfZ">pic.twitter.com/DRkmmqpBfZ</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/789121559428407296">20 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You can&#39;t do everything with money and power; Take Microsoft and Google for example, their calendar systems still can&#39;t sync.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/788040464914145285">17 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

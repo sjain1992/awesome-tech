@@ -247,3 +247,6 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Find your new Raspberry Pi on the network with nmap and awk <a href="https://t.co/jSWsUZNQvB">https://t.co/jSWsUZNQvB</a> By <a href="https://twitter.com/theurbanpenguin">@theurbanpenguin</a> <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/788425709429587968">18 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">tcpdump -nn ip | awk &#39;{s=$3;sub(/\.[0-9]+$/,&quot;&quot;,s);if(a[s]++&lt;10){print}}&#39; # Show only up to the first 10 packets by each source IP. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/789118355818983424">20 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
