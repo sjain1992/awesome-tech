@@ -741,6 +741,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![voltaire disagreement](images/voltaire_disagreement.jpg)](http://awesome-tech.readthedocs.io/office_politics/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>
+</div>
+</br>
+
 [![atles_catala](images/atles_catala.jpg)](http://www.mmb.cat/)
 
 [![conversation-english-eurobarometer](images/conversation-english-eurobarometer.jpg)](https://jakubmarian.com/map-of-the-percentage-of-people-speaking-english-in-the-eu-by-country/)

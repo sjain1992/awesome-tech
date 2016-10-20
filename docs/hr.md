@@ -368,6 +368,12 @@
 - [hbr.org: How Managers Can Help Their Introverts Network](https://hbr.org/2016/10/how-managers-can-help-their-introverts-network)
 - [Too soft on the soft skills?](https://www.linkedin.com/pulse/too-soft-skills-arlen-meyers-md-mba)
 - [9 Ways Successful People Fight Procrastination](https://www.glassdoor.com/blog/9-ways-successful-people-fight-procrastination/)
+- [Why It's a Bad Idea to Talk Politics at Work (and how to avoid it) 🌟🌟🌟](https://www.linkedin.com/pulse/why-its-bad-idea-talk-politics-work-how-avoid-gregg-ward)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>
+</div>
+</br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Zxn59yiRJE">https://t.co/Zxn59yiRJE</a>?</p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753622892039004161">14 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
