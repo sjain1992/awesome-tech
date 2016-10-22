@@ -757,11 +757,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 </br>
 
-<div class="container">
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Os parece El gran Gatsby, de Scott Fitzgerald, la mejor novela estadounidense del siglo XX? Enrique Turpin no duda <a href="https://t.co/FpmaEgliTD">https://t.co/FpmaEgliTD</a></p>&mdash; Zenda (@zendalibros) <a href="https://twitter.com/zendalibros/status/788999999053062144">20 de octubre de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-</br>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Os parece El gran Gatsby, de Scott Fitzgerald, la mejor novela estadounidense del siglo XX? Enrique Turpin no duda <a href="https://t.co/FpmaEgliTD">https://t.co/FpmaEgliTD</a></p>&mdash; Zenda (@zendalibros) <a href="https://twitter.com/zendalibros/status/788999999053062144">20 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![atles_catala](images/atles_catala.jpg)](http://www.mmb.cat/)
 
