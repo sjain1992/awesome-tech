@@ -69,7 +69,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <a href="http://paper.li/pllnrds/1305983189">Service Management: ITSM, ITIL, DevOps</a>
 </p>
 
-![dr_evil_why_make_trillions](images/dr_evil_why_make_trillions.gif)
+[![dr_evil_why_make_trillions](images/dr_evil_why_make_trillions.gif)](https://www.youtube.com/watch?v=EzkzCSwhsx8)
 
 **Table of Contents**
 
