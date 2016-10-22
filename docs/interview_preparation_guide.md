@@ -168,8 +168,11 @@
 - [social.hays.com: How to impress a recruiter with your resume/CV](https://social.hays.com/2015/12/10/how-to-impress-a-recruiter-with-your-resumecv/)
 - [workitdaily.com: 5 Secrets To Create Job Search Magic 🌟](https://www.workitdaily.com/create-job-search-magic/)
 - [J.T. O'Donnell: #1 Mistake People Make In A New Job 🌟🌟🌟](https://www.linkedin.com/pulse/1-mistake-people-make-new-job-j-t-o-donnell)
+- [Career Mistakes You Must Avoid](https://www.linkedin.com/pulse/career-mistakes-you-must-avoid-deepak-chopra-md-official-)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
+
+[![career_mistakes_to_avoid](images/career_mistakes_to_avoid.png)](https://www.linkedin.com/pulse/career-mistakes-you-must-avoid-deepak-chopra-md-official-)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kjis2n6jhLA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
