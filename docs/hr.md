@@ -46,6 +46,8 @@
 
 [![dilbert_mental_connection_performance_salary](images/dilbert_mental_connection_performance_salary.gif)](http://dilbert.com/strip/1994-11-23)
 
+[![Work-It-Daily-Logo-Transparent](images/Work-It-Daily-Logo-Transparent.png)](https://www.workitdaily.com)
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
@@ -208,6 +210,7 @@
 - [entrepreneur.com: 7 Signs a Great Employee Might Be a Bad Boss 🌟🌟](https://www.entrepreneur.com/article/236788)
 - [linkedin: The Tyranny of National Boss's Day](https://www.linkedin.com/pulse/tyranny-national-bosss-day-richard-a-moran)
 - [money.cnn.com: Why Silicon Valley's top execs are obsessed with taking walks 🌟🌟](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
+- [J.T. O'Donnell: #1 Mistake People Make In A New Job 🌟🌟🌟](https://www.linkedin.com/pulse/1-mistake-people-make-new-job-j-t-o-donnell)
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 
