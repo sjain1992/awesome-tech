@@ -36,6 +36,7 @@
 - [Query JSON Using SQL With Couchbase Query Workbench](https://dzone.com/articles/query-json-using-sql-with-couchbase-query-workbenc) Would you like to query a JSON document database using SQL-like syntax? Couchbase has N1QL for you.
 - [DZone: A Primer on Open-Source NoSQL Databases](https://dzone.com/articles/a-primer-on-open-source-nosql-databases) A beginner's guide to the different flavors of NoSQL databases, including key-value, document-oriented, graph, and column-oriented databases.
 - [How to Evolve from RDBMS to NoSQL + SQL 🌟🌟🌟](https://www.linkedin.com/pulse/how-evolve-from-rdbms-nosql-sql-jim-scott)
+- [DZone: SQL vs. NoSQL 🌟🌟🌟](https://dzone.com/articles/sql-vs-nosql) Take a look at the most recent developments between SQL and NoSQL databases. And remember, make your DB decision based on the project, not on the hype.
 
 [![Next Generation Databases](images/Next-Generation-Databases.png)](http://www.wowebook.org/next-generation-databases-nosql-newsql-and-big-data.html)
 

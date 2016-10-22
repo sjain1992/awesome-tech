@@ -197,6 +197,7 @@
 - [Disaster Recovery (DR) Options in Cloud Environments 🌟](http://solinea.com/blog/disaster-recovery-dr-options-cloud-environments)
 - [unixmen.com: IS THE CLOUD THE FUTURE OF HOSTING?](https://www.unixmen.com/cloud-future-hosting/)
 - [comparethecloud.net: System administrators and IT monitoring – How to ensure the long-term success of the cloud 🌟](https://www.comparethecloud.net/articles/system-administrators-and-it-monitoring-how-to-ensure-the-long-term-success-of-the-cloud/)
+- [DZone: What’s the Best Cloud Architecture and How Do You Keep it Secure? (Video) 🌟🌟🌟](https://dzone.com/articles/whats-the-best-cloud-architecture-and-how-do-you-k) Need a break from reading? Check out this short collection of videos about cloud architecture and security.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">21 steps to the <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> <a href="https://t.co/Z3EXJptKwK">https://t.co/Z3EXJptKwK</a><a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/Openstack?src=hash">#Openstack</a> <a href="https://t.co/KsARWMrmT4">pic.twitter.com/KsARWMrmT4</a></p>&mdash; VirtBox (@VirtBoxCloud) <a href="https://twitter.com/VirtBoxCloud/status/746454905003585537">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

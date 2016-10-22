@@ -238,6 +238,7 @@
 - [meneame.net: "Forzaron mi dimisión, quitándonos cosas tan básicas como el ecógrafo de urgencias"](https://www.meneame.net/story/forzaron-dimision-quitandonos-cosas-tan-basicas-como-ecografo) Esther Mora ha sido durante ocho años jefa de urgencias del hospital de El Escorial. Acaba de ser cesada, según ella, por quejarse de la reducción de camas y apoyar a sus compañeros
 - [Por qué los rusos no se ríen y los alemanes sí (aunque no lo parezca) 🌟](http://www.europapress.es/sociedad/noticia-rusos-no-rien-alemanes-si-no-parezca-20161007174202.html)
 - [citapreviainem.es: Los métodos de control del trabajador más habituales. Casos concretos. ¿Cuál es el límite?](http://www.citapreviainem.es/control-vigilancia-trabajadores-limites/)
+- [Hong Kong, la ciudad donde más se trabaja](http://www.elmundo.es/economia/2016/10/22/57fd0f0ae2704ea60a8b46ef.html) El hongkonés medio trabaja 50,11 horas por semana
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

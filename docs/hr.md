@@ -207,6 +207,9 @@
 - [content-loop.com: Sorry, But Some Work-Related Stress Is Good For You](http://www.content-loop.com/sorry-but-some-work-related-stress-is-good-for-you/)
 - [entrepreneur.com: 7 Signs a Great Employee Might Be a Bad Boss 🌟🌟](https://www.entrepreneur.com/article/236788)
 - [linkedin: The Tyranny of National Boss's Day](https://www.linkedin.com/pulse/tyranny-national-bosss-day-richard-a-moran)
+- [money.cnn.com: Why Silicon Valley's top execs are obsessed with taking walks 🌟🌟](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
+
+[![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 
 [![national_boss_day](images/national_boss_day.png)](https://www.linkedin.com/pulse/tyranny-national-bosss-day-richard-a-moran)
 
