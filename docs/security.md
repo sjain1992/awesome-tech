@@ -324,6 +324,9 @@
 - [sophos.com: Antivirus for Linux (free)](https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-linux.aspx)
 - [Beware of all-powerful DDoS malware infecting cellular gateways, feds warn](http://arstechnica.com/security/2016/10/beware-of-all-powerful-ddos-malware-infecting-cellular-gateways-feds-warn/) 
 - [ics-cert.us-cert.gov/alerts: Mirai Botnet Is Now Threat To Cellular Modems Made By Sierra. Sierra Wireless Mitigations Against Mirai Malware](https://ics-cert.us-cert.gov/alerts/ICS-ALERT-16-286-01)
+- [nomoreransom.org 🌟🌟🌟🌟](https://www.nomoreransom.org/)
+
+[![nomoreransom](images/nomoreransom.svg)](https://www.nomoreransom.org/)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 

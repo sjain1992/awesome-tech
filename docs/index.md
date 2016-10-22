@@ -565,6 +565,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![DeutscheBank_cloud_adoption](images/DeutscheBank_cloud_adoption.png)](http://www.networkworld.com/article/3083421/microsoft-subnet/deutsche-bank-nearly-a-third-of-finance-workloads-could-hit-cloud-in-3-years.html)
 
+[![nomoreransom](images/nomoreransom.svg)](https://www.nomoreransom.org/)
+
 [![redhat_ericsson_announce](images/redhat_ericsson_announce.png)](https://www.redhat.com/en/about/press-releases/red-hat-and-ericsson-announce-broad-alliance-enable-pervasive-adoption-open-source-solutions)
 
 <div class="container">
