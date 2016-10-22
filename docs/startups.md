@@ -145,6 +145,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Success is no accident. <a href="https://t.co/Fp3Q8zMtzU">pic.twitter.com/Fp3Q8zMtzU</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/704101309914476544">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![city_am_digital_innovators](images/city_am_digital_innovators.png)](http://www.cityam.com/digital-innovators)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Google?src=hash">#Google</a>  was the 21st search engine to enter market in 1998.<br><br>Here&#39;s Google&#39;s headquarters and data center in 1998 <a href="https://t.co/Vv8qhBsycw">pic.twitter.com/Vv8qhBsycw</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/719183535815335937">10 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Understanding the nature of Enterprise IT in a single diagram <a href="https://t.co/GX2Z24Lo2q">pic.twitter.com/GX2Z24Lo2q</a></p>&mdash; swardley (@swardley) <a href="https://twitter.com/swardley/status/743340775065321476">16 de junio de 2016</a></blockquote>
