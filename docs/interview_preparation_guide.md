@@ -12,6 +12,9 @@
 
 ![Boiler-Room-happiness](images/Boiler-Room-happiness.gif)
 
+|[![careerhmo_video](images/careerhmo_video.jpg)](https://www.youtube.com/user/CareerHMO)|[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![work-it-daily_video](images/work-it-daily_video.jpg)](https://www.youtube.com/user/careerealism)|
+|:---:|:---:|:---:|
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -169,6 +172,11 @@
 - [workitdaily.com: 5 Secrets To Create Job Search Magic 🌟](https://www.workitdaily.com/create-job-search-magic/)
 - [J.T. O'Donnell: #1 Mistake People Make In A New Job 🌟🌟🌟](https://www.linkedin.com/pulse/1-mistake-people-make-new-job-j-t-o-donnell)
 - [Career Mistakes You Must Avoid](https://www.linkedin.com/pulse/career-mistakes-you-must-avoid-deepak-chopra-md-official-)
+- [workitdaily.com: 3 Signs Your Interview Isn’t Going In The Right Direction](https://www.workitdaily.com/signs-interview-isnt-going-right-direction/)
+- [14 Habits of Exceptionally Likable People](https://medium.com/the-mission/14-habits-of-exceptionally-likable-people-5e8103392a67)
+- [Is Software Development Really a Dead-End Job After 35-40? 🌟🌟](https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte) This profession is hard on people who are in their thirties and beyond because we have more things to consider before we make each move.
+- [9 FORMAS DE BUSCAR TRABAJO DE FORMA DISCRETA](https://www.hays.es/blog/9-formas-de-buscar-trabajo-discretamente/index.htm) Todos en algún punto de nuestra carrera laboral nos encontramos en un trabajo que no termina de ofrecernos el desarrollo profesional o los retos que necesitamos, y nos damos cuenta entonces de que es momento de seguir adelante y encontrar una nueva oportunidad en otro sitio. Sin embargo, una vez que nos hemos decidido a dar este paso y comenzamos nuestra búsqueda, es de suma importancia hacerlo de la forma más discreta posible.
+- [5 Tips For Staying Motivated During A FRUSTRATING Job Search](http://careerhmo.com/staying-motivated-during-frustrating-job-search/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
@@ -203,6 +211,11 @@
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
 [![blade_runner_take_test_yourself](images/blade_runner_take_test_yourself.gif)](https://www.youtube.com/watch?v=yWPyRSURYFQ)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/87exxC_NrsU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
 

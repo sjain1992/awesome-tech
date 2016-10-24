@@ -668,6 +668,7 @@
 - [Linux debugging tools you'll love: the zine (Julia Evans) 🌟🌟🌟🌟](https://www.indiegogo.com/projects/linux-debugging-tools-you-ll-love-the-zine) A zine about my favourite Linux debugging tools (strace! perf! tcpdump! and many more!) 
 	- [Julia Evans: Zines](http://jvns.ca/zines/#linux-debugging-tools)
 - [tecmint: Monitorix 3.8.1 Released – A Lightweight System and Network Monitoring Tool for Linux 🌟🌟](http://www.tecmint.com/monitorix-a-lightweight-system-and-network-monitoring-tool-for-linux/)
+- [brendangregg.com: Linux Performance 🌟🌟🌟](http://www.brendangregg.com/linuxperf.html)
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
@@ -829,6 +830,7 @@
 - [20 Linux System Monitoring Tools Every SysAdmin Should Know](http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html)
 - [How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed](http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/)
 - [Linux/Unix Curl: Find Out If a Website Is Using Gzip/Deflate](http://www.cyberciti.biz/faq/linux-unix-curl-gzip-compression-test/)
+- [Xz format inadequate for long-term archiving](http://www.nongnu.org/lzip/xz_inadequate.html)
 - [ss: Display Linux TCP / UDP Network and Socket Information](http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html)
 - [Deptyr, or how I learned to love UNIX domain sockets](https://boinkor.net/2016/01/deptyr-or-how-i-learned-to-love-unix-domain-sockets/)
 	- [reptyr: Reparent a running program to a new terminal](https://github.com/nelhage/reptyr)
@@ -863,6 +865,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ping - ipv4<br>ping6 - ipv6<br>iptables - ipv4<br>ip6tables - Why? Why not name it as iptables6 too? Who makes such bad decisions?</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/753267593721450496">13 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Very interesting reading. Xz format inadequate for long-term archiving <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/gnu?src=hash">#gnu</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/FrzUHcRxXQ">https://t.co/FrzUHcRxXQ</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/790097515198619648">23 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">NetworkManager Command Line Tool, Nmcli <a href="https://t.co/FX2yDMescX">https://t.co/FX2yDMescX</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/776541122365566976">15 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -1009,7 +1013,7 @@
 
 ### Untangle Firewall
 - [untangle.com](https://www.untangle.com/)
-- [How To Install And Use Untangle Firewall](https://www.unixmen.com/install-use-untangle-firewall/)
+- [unixmen.com: How To Install And Use Untangle Firewall](https://www.unixmen.com/install-use-untangle-firewall/)
 
 ### IPFire Firewall
 - [ipfire.org](http://www.ipfire.org/)

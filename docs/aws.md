@@ -183,8 +183,11 @@
 - [Amazon AWS Certification Preparation Tips 🌟🌟🌟](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
 - [A curated list of AWS resources to prepare for the AWS Certifications 🌟🌟](https://gist.github.com/leonardofed)
 - [AWS Certified Solutions Architect Professional – Study Guide 🌟🌟](https://blue-clouds.com/category/study-guide/)
+- [aws.amazon.com: First AWS Certification Study Guide Now Available 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/10/first-aws-certification-study-guide-now-available/)
 
 [![aws_certificates](images/aws_certificates.png)](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
+
+[![aws_certified_solutions_architect_official_study_guide](images/aws_certified_solutions_architect_official_study_guide.jpg)](https://www.amazon.com/dp/1119138558)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snG4E4pPvdU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

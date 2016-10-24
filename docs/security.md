@@ -55,7 +55,7 @@
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
 		- [HTTP/2. August 2016](#http2-august-2016)
 		- [DDos](#ddos)
-		- [DNS Attack Analysis](#dns-attack-analysis)
+			- [DNS Attack Analysis](#dns-attack-analysis)
 		- [Shadow IT security risks](#shadow-it-security-risks)
 		- [httpoxy. July 2016](#httpoxy-july-2016)
 		- [Flip Feng Shui SSH Cross VM Exploit. August 2016](#flip-feng-shui-ssh-cross-vm-exploit-august-2016)
@@ -642,7 +642,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is a <a href="https://twitter.com/hashtag/DDoS?src=hash">#DDoS</a> attack. As for protecting yourself, put your site on a CDN <a href="https://t.co/6y3G7fDsNl">https://t.co/6y3G7fDsNl</a> <a href="https://t.co/g0dBHvyRbt">pic.twitter.com/g0dBHvyRbt</a></p>&mdash; Laurent Perche (@Laurent_Perche) <a href="https://twitter.com/Laurent_Perche/status/759205770508570624">30 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### DNS Attack Analysis
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/DDoSfacts?src=hash">#DDoSfacts</a> <a href="https://t.co/PfCvVvchjh">pic.twitter.com/PfCvVvchjh</a></p>&mdash; Mikko Hypponen (@mikko) <a href="https://twitter.com/mikko/status/789450388235808768">21 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### DNS Attack Analysis
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33LIeX3ZSTA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
