@@ -12,8 +12,12 @@
 
 ![Boiler-Room-happiness](images/Boiler-Room-happiness.gif)
 
+<center>
+
 |[![careerhmo_video](images/careerhmo_video.jpg)](https://www.youtube.com/user/CareerHMO)|[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![work-it-daily_video](images/work-it-daily_video.jpg)](https://www.youtube.com/user/careerealism)|
 |:---:|:---:|:---:|
+
+</center>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
