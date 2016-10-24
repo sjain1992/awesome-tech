@@ -226,11 +226,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)|[![oepm_videos](images/oepm_videos.jpg)](https://www.youtube.com/user/CanalOEPM)|
 |:---:|:---:|
 
-|[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|
-|:---:|:---:|:---:|:---:|
-
 |[![careerhmo_video](images/careerhmo_video.jpg)](https://www.youtube.com/user/CareerHMO)|[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![work-it-daily_video](images/work-it-daily_video.jpg)](https://www.youtube.com/user/careerealism)|
 |:---:|:---:|:---:|
+
+|[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|
+|:---:|:---:|:---:|:---:|
 
 |[![ticjob_video](images/ticjob_video.jpg)](https://www.youtube.com/user/ticjob)|[![infojobs_video](images/infojobs_video.jpg)](https://www.youtube.com/user/InfoJobsnet)|[![tecnoempleo_video](images/tecnoempleo_video.jpg)](https://www.youtube.com/user/tecnoempleo)|[![infoempleo_video](images/infoempleo_video.jpg)](https://www.youtube.com/user/infoempleo20)|
 |:---:|:---:|:---:|:---:|
