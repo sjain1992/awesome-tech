@@ -229,14 +229,14 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![bbva_openmind_video](images/bbva_openmind_video.jpg)](https://www.youtube.com/user/bbvaopenmind)|[![emprendedores_video](images/emprendedores_video.jpg)](https://www.youtube.com/user/RevistaEmprendedores)|[![entrepreneur_logo_esp](images/entrepreneur_logo.jpg)](https://www.youtube.com/user/soyentrepreneurtv)|[![womenalia_video](images/womenalia_video.jpg)](https://www.youtube.com/user/womenalia)|
 |:---:|:---:|:---:|:---:|
 
+|[![careerhmo_video](images/careerhmo_video.jpg)](https://www.youtube.com/user/CareerHMO)|[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![work-it-daily_video](images/work-it-daily_video.jpg)](https://www.youtube.com/user/careerealism)|
+|:---:|:---:|:---:|
+
 |[![ticjob_video](images/ticjob_video.jpg)](https://www.youtube.com/user/ticjob)|[![infojobs_video](images/infojobs_video.jpg)](https://www.youtube.com/user/InfoJobsnet)|[![tecnoempleo_video](images/tecnoempleo_video.jpg)](https://www.youtube.com/user/tecnoempleo)|[![infoempleo_video](images/infoempleo_video.jpg)](https://www.youtube.com/user/infoempleo20)|
 |:---:|:---:|:---:|:---:|
 
 |[![monster_video](images/monster_video.jpg)](https://www.youtube.com/user/MonsterVideoVault)|[![indeed_video](images/indeed_video.jpg)](https://www.youtube.com/user/IndeedJobs)|[![jobandtalent_video](images/jobandtalent_video.jpg)](https://www.youtube.com/channel/UCH-diPUdfYoByP0zRSPGp8w)|![empty_youtube_channel](images/empty_youtube_channel.jpg)|
 |:---:|:---:|:---:|:---:|
-
-|[![careerhmo_video](images/careerhmo_video.jpg)](https://www.youtube.com/user/CareerHMO)|[![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A)|[![work-it-daily_video](images/work-it-daily_video.jpg)](https://www.youtube.com/user/careerealism)|
-|:---:|:---:|:---:|
 
 |[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet)|[![grifols_video](images/grifols_video.jpg)](https://www.youtube.com/user/GrifolsCorpComms)|[![crg_video](images/crg_video.jpg)](https://www.youtube.com/user/CRGchannel)|[![Boehringer_Global_video](images/Boehringer_Global_video.jpg)](https://www.youtube.com/user/boehringeringelheim)|[![boehringer_spain_video](images/boehringer_spain_video.jpg)](https://www.youtube.com/channel/UCyOAPX-3hb2X57_SbfHzRGA)|[![edreams_video](images/edreams_video.jpg)](https://www.youtube.com/user/eDreamsChannel)|
 |:---:|:---:|:---:|:---:|:---:|:---:|

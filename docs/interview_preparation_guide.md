@@ -176,7 +176,8 @@
 - [14 Habits of Exceptionally Likable People](https://medium.com/the-mission/14-habits-of-exceptionally-likable-people-5e8103392a67)
 - [Is Software Development Really a Dead-End Job After 35-40? 🌟🌟](https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte) This profession is hard on people who are in their thirties and beyond because we have more things to consider before we make each move.
 - [9 FORMAS DE BUSCAR TRABAJO DE FORMA DISCRETA](https://www.hays.es/blog/9-formas-de-buscar-trabajo-discretamente/index.htm) Todos en algún punto de nuestra carrera laboral nos encontramos en un trabajo que no termina de ofrecernos el desarrollo profesional o los retos que necesitamos, y nos damos cuenta entonces de que es momento de seguir adelante y encontrar una nueva oportunidad en otro sitio. Sin embargo, una vez que nos hemos decidido a dar este paso y comenzamos nuestra búsqueda, es de suma importancia hacerlo de la forma más discreta posible.
-- [5 Tips For Staying Motivated During A FRUSTRATING Job Search](http://careerhmo.com/staying-motivated-during-frustrating-job-search/)
+- [careerhmo.com: 5 Tips For Staying Motivated During A FRUSTRATING Job Search](http://careerhmo.com/staying-motivated-during-frustrating-job-search/)
+- [workitdaily.com: Networking: Get By With A Little Help From Your Friends](https://www.workitdaily.com/job-search-networking-friends/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
