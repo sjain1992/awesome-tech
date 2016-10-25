@@ -1,7 +1,8 @@
 # Awesome Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div class="container">
-<img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png" href="http://www.formacioitreball.org">
+<a href="http://www.formacioitreball.org">
+<img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
 </div>
 <!-- 
