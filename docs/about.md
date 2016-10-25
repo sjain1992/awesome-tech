@@ -86,6 +86,8 @@ ________________________________________________________________________________
 </div> 
 <br/>
 
+[![utopia126_hall](images/utopia126_hall.png)](http://www.rtve.es/alacarta/videos/a-punto-con-la-2/punto-2-19-07-16/3666572/)
+
 [![utopia126](images/utopia126.jpg)](http://www.utopia126.com/)
 
 <DOCTYPE html> <script src="//player.ooyala.com/static/v4/stable/latest/core.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/main_html5.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/bit_wrapper.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/osmf_flash.min.js"></script><link rel="stylesheet" href="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.css"/><div id='container' style='width:100%;height:100%;'></div><script>var playerParam = {'pcode':'BhdmY6l9g002rBhQ6aEBZiheacDu','playerBrandingId':'6e12e8b3387a44daacfb73afba25a76e','skin': {'config': '//player.ooyala.com/static/v4/stable/latest/skin-plugin/skin.json'} };OO.ready(function() {window.pp = OO.Player.create('container', 'drYjdoNTE6v8GKEExMIRklEhBEFlayDt', playerParam);        }); </script>
