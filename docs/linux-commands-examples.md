@@ -474,7 +474,7 @@
 
 - Display HTTP connections:
 
-		ss -o state established '(dport=:http or sport=:http)'
+		ss -o state established '( dport = :http or sport = :http )'
 
 - Compare local and remote log file with vim. Edit a file and show differences:
 
