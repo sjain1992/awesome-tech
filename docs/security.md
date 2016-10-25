@@ -132,6 +132,10 @@
 	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
 - [SCAP (Security Content Automation Protocol)](http://scap.nist.gov/)
 - [ICS-CERT Alerts 🌟🌟🌟](https://ics-cert.us-cert.gov/alerts) An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
+- [cvedetails.com 🌟🌟🌟](http://www.cvedetails.com/) 
+	- [cvedetails.com: Apache » Http Server : Security Vulnerabilities 🌟](http://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-66/Apache-Http-Server.html)
+
+[![cve_details](images/cve_details.png)](cve_details.png)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The European Commission to audit Apache HTTP Server &amp; <a href="https://twitter.com/KeePass">@KeePass</a>  <a href="https://t.co/IINqtuQSwV">https://t.co/IINqtuQSwV</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Kg2EJdGyEg">pic.twitter.com/Kg2EJdGyEg</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755992919316627457">21 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
