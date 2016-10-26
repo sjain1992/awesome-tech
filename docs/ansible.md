@@ -93,7 +93,7 @@
 - [opensource.com: Ansible as a gateway to DevOps in the cloud](https://opensource.com/life/16/8/cloud-ansible-gateway)
 - [ansible.com: AUTOMATING THE PROVISIONING AND CONFIGURATION OF RED HAT MOBILE APPLICATION PLATFORM](https://www.ansible.com/blog/ansible-openshift-enterprise-container-platform)
 - [VMware support: A SHINY NEW WAY TO MANAGE VMWARE GUESTS 🌟🌟🌟](https://www.ansible.com/blog/managing-vmware-guests)
-- [unixmen.com: How to install Ansible and Use it in Automation (CentOS)](https://www.unixmen.com/install-ansible-use-automation/)
+- [unixmen.com: How to install Ansible and Use it in Automation (CentOS) 🌟🌟🌟](https://www.unixmen.com/install-ansible-use-automation/)
 - [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 - [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
