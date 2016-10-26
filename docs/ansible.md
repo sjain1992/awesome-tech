@@ -1,6 +1,10 @@
 <!-- MarkdownTOC -->
 
 - [Ansible](#ansible)
+    - [nixCraft](#nixcraft)
+    - [Tecmint](#tecmint)
+    - [Unixmen](#unixmen)
+    - [DZone](#dzone)
     - [Ansible Container](#ansible-container)
     - [Ansible on Twitter](#ansible-on-twitter)
     - [Ansible Support and Forums](#ansible-support-and-forums)
@@ -55,10 +59,7 @@
 	- [Ansible by Jeff Geerling - youtube playlist](https://www.youtube.com/playlist?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG)
 	- [Leanpub Podcast Interview #25: Jeff Geerling](http://blog.leanpub.com/2016/01/jeff-geerling.html)
 	- [drupalvm.com](http://www.drupalvm.com/)
-- [Ansible examples from Ansible for DevOps - github code](https://github.com/geerlingguy/ansible-for-devops)
-- [Tecmint: How to Install and Configure ‘Ansible’ Automation Tool for IT Management 🌟🌟🌟](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
-- [Tecmint: How to Use Ansible Playbooks to Automate Complex Tasks on Multiple Remote Servers – Part 2 🌟🌟🌟](http://www.tecmint.com/use-ansible-playbooks-to-automate-complex-tasks-on-multiple-linux-servers/)
-- [Tecmint: Ebook: Introducing the Ansible Setup Guide for Linux 🌟🌟🌟](http://www.tecmint.com/ansible-book-guide-for-linux/)
+    - [Ansible examples from ansiblefordevops.com - github code 🌟🌟🌟](https://github.com/geerlingguy/ansible-for-devops)
 - [Ansible video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4)
 - [Ansible Introduction video tutorial](https://www.youtube.com/watch?t=24&v=2jXHxkLBOHg)
 - [PyCon US 2015: Ansible beyond YAML](http://www.pyvideo.org/video/3484/ansible-beyond-yaml)
@@ -69,10 +70,6 @@
 - [slideshare.net: Debugging ansible modules](http://www.slideshare.net/aleonhardt/debugging-ansible-modules)
 - [Asset and lifecycle management using APIC-EM and Ansible.](https://communities.cisco.com/community/developer/blog/2015/12/17/asset-and-lifecycle-management-using-apic-em-and-ansible) Automate the collection of output from a series of 'show' commands from routers and switches
 - [Ansible: Top posts of 2015](http://www.ansible.com/blog/top-ansible-posts-of-2015)
-- [dzone: Introduction to Ansible Setup in Ubuntu 14.04 ](https://dzone.com/articles/ansible-setup-in-ubuntu-14o4-using-docker-with-ans)
-- [dzone: Ansible Introduction](https://dzone.com/articles/ansible-introduction)
-- [dzone: Part 1: Getting Started with Ansible 🌟](https://dzone.com/articles/part-1-getting-started-ansible)
-- [dzone: Environment Variables with Vagrant and Ansible.](https://dzone.com/articles/environment-variable-with-vagrant-and-ansible) How to configure Ansible and Vagrant to use a web proxy server.
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Ansible: write and run your first playbook](http://abregman.com/2015/12/25/ansible-write-and-run-your-first-playbook/)
 - [Ansible 2.0 Has Arrived and includes over 200 new modules](http://www.ansible.com/blog/ansible-2.0-launch)
@@ -93,12 +90,32 @@
 - [opensource.com: Ansible as a gateway to DevOps in the cloud](https://opensource.com/life/16/8/cloud-ansible-gateway)
 - [ansible.com: AUTOMATING THE PROVISIONING AND CONFIGURATION OF RED HAT MOBILE APPLICATION PLATFORM](https://www.ansible.com/blog/ansible-openshift-enterprise-container-platform)
 - [VMware support: A SHINY NEW WAY TO MANAGE VMWARE GUESTS 🌟🌟🌟](https://www.ansible.com/blog/managing-vmware-guests)
-- [unixmen.com: How to install Ansible and Use it in Automation (CentOS) 🌟🌟🌟](https://www.unixmen.com/install-ansible-use-automation/)
 - [fedoramagazine.org: Using Ansible to Provision Vagrant Boxes](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/)
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 - [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
 - [Fedora Server: Expanding Throughout the Galaxy 🌟🌟](https://sgallagh.wordpress.com/2016/10/13/fedora-server-expanding-throughout-the-galaxy/)
+
+## nixCraft
 - [cyberciti.biz: Linux Tutorial: Install Ansible Configuration Management And IT Automation Tool 🌟🌟🌟](http://www.cyberciti.biz/python-tutorials/linux-tutorial-install-ansible-configuration-management-and-it-automation-tool/)
+
+## Tecmint
+- [Tecmint: How to Install and Configure ‘Ansible’ Automation Tool for IT Management 🌟🌟🌟](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
+- [Tecmint: How to Use Ansible Playbooks to Automate Complex Tasks on Multiple Remote Servers – Part 2 🌟🌟🌟](http://www.tecmint.com/use-ansible-playbooks-to-automate-complex-tasks-on-multiple-linux-servers/)
+- [Tecmint: Ebook: Introducing the Ansible Setup Guide for Linux 🌟🌟🌟](http://www.tecmint.com/ansible-book-guide-for-linux/)
+
+## Unixmen
+- [Unixmen.com: How to install Ansible and Use it in Automation (CentOS) 🌟🌟🌟](https://www.unixmen.com/install-ansible-use-automation/)
+- [Unixmen.com: Ansible Review: How to easily automate your IT infrastructure 🌟🌟🌟](https://www.unixmen.com/ansible-easily-automate-infrastructure/)
+- [Unixmen.com: Ansible playbooks](https://www.unixmen.com/ansible-playbooks/)
+- [Unixmen.com: Ansible install configure and use 🌟🌟🌟](https://www.unixmen.com/ansible-install-configure-and-use/)
+
+## DZone
+- [DZone: Introduction to Ansible Setup in Ubuntu 14.04 ](https://dzone.com/articles/ansible-setup-in-ubuntu-14o4-using-docker-with-ans)
+- [DZone: Ansible Introduction 🌟🌟](https://dzone.com/articles/ansible-introduction)
+- [DZone: Part 1: Getting Started with Ansible 🌟🌟🌟](https://dzone.com/articles/part-1-getting-started-ansible)
+- [DZone: Environment Variables with Vagrant and Ansible.](https://dzone.com/articles/environment-variable-with-vagrant-and-ansible) How to configure Ansible and Vagrant to use a web proxy server.
+- [DZone: Managing Dotfiles With Ansible 🌟](https://dzone.com/articles/managing-dotfiles-with-ansible) How to use Ansible's configuration management tools with zsh configuration.
+- [DZone: User Management With Ansible 🌟🌟🌟](https://dzone.com/articles/user-management-with-ansible) For the quick and dirty requirement to add specific (and intelligent) users, Chris Short believes that this Ansible role is a good approach.
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 
