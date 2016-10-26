@@ -185,6 +185,7 @@
 ### Best Linux Blogs
 - [Tecmint.com Linux Howto's Guide  🌟🌟🌟🌟🌟](http://www.tecmint.com/)
 	- [Linux Distributions 🌟🌟🌟](http://www.tecmint.com/best-linux-distributions/)
+	- [tecmint.tumblr.com 🌟🌟🌟](http://tecmint.tumblr.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog  🌟🌟🌟🌟🌟](http://www.cyberciti.biz/)
 - [linux.com 🌟🌟🌟](https://www.linux.com/)
 	- [linux.com/tutorials 🌟🌟🌟](https://www.linux.com/tutorials)

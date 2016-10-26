@@ -56,7 +56,9 @@
 	- [Leanpub Podcast Interview #25: Jeff Geerling](http://blog.leanpub.com/2016/01/jeff-geerling.html)
 	- [drupalvm.com](http://www.drupalvm.com/)
 - [Ansible examples from Ansible for DevOps - github code](https://github.com/geerlingguy/ansible-for-devops)
-- [How to Install and Configure ‘Ansible’ Automation Tool for IT Management](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
+- [Tecmint: How to Install and Configure ‘Ansible’ Automation Tool for IT Management 🌟🌟🌟](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
+- [Tecmint: How to Use Ansible Playbooks to Automate Complex Tasks on Multiple Remote Servers – Part 2 🌟🌟🌟](http://www.tecmint.com/use-ansible-playbooks-to-automate-complex-tasks-on-multiple-linux-servers/)
+- [Tecmint: Ebook: Introducing the Ansible Setup Guide for Linux 🌟🌟🌟](http://www.tecmint.com/ansible-book-guide-for-linux/)
 - [Ansible video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4)
 - [Ansible Introduction video tutorial](https://www.youtube.com/watch?t=24&v=2jXHxkLBOHg)
 - [PyCon US 2015: Ansible beyond YAML](http://www.pyvideo.org/video/3484/ansible-beyond-yaml)
@@ -96,6 +98,7 @@
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 - [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
 - [Fedora Server: Expanding Throughout the Galaxy 🌟🌟](https://sgallagh.wordpress.com/2016/10/13/fedora-server-expanding-throughout-the-galaxy/)
+- [cyberciti.biz: Linux Tutorial: Install Ansible Configuration Management And IT Automation Tool 🌟🌟🌟](http://www.cyberciti.biz/python-tutorials/linux-tutorial-install-ansible-configuration-management-and-it-automation-tool/)
 
 [![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
 
