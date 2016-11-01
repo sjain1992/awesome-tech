@@ -152,6 +152,7 @@
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 - [March 2016. infoworld.com - 21 hot programming trends -- and 21 going cold 🌟🌟🌟](http://www.infoworld.com/article/3039935/application-development/21-hot-programming-trends-and-21-going-cold.html)
 - [DZone: What to Do When Your Colleague Creates Spaghetti Code 🌟🌟🌟](https://dzone.com/articles/what-do-do-when-your-colleague) We've all been there; how do you handle a colleague who's not producing quality work? Read on for some strategies on how to handle this common situation.
+- [bbvaopen4u.com: Cinco claves para desarrollar con API REST 🌟](https://bbvaopen4u.com/es/actualidad/cinco-claves-para-desarrollar-con-api-rest)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> <a href="https://twitter.com/hashtag/languages?src=hash">#languages</a> <a href="https://t.co/1EuoEmeXdM">pic.twitter.com/1EuoEmeXdM</a></p>&mdash; Ϟ ℂlaudio Ϟ (@_vecna) <a href="https://twitter.com/_vecna/status/753871301517930497">15 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -561,7 +561,13 @@
 ### Linux Vulnerabilities 
 - [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug - January 2015](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
 - [Analysis and exploitation of a Linux Kernel vulnerability (CVE-2016-0728) - January 2016](http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/)
-- [Serious 0-day Linux kernel vulnerability released. Apply fix ASAP. How To Patch and Protect Linux Kernel Zero Day Vulnerability CVE-2016-0728 (19/Jan/2016)](http://www.cyberciti.biz/faq/linux-cve-2016-0728-0-day-local-privilege-escalation-vulnerability-fix/)
+- [Serious 0-day CVE-2016-0728 Linux kernel vulnerability released. Apply fix ASAP. How To Patch and Protect Linux Kernel Zero Day Vulnerability CVE-2016-0728 (19/Jan/2016)](http://www.cyberciti.biz/faq/linux-cve-2016-0728-0-day-local-privilege-escalation-vulnerability-fix/)
+- [engadget.com: Dirty Cow CVE-2016-5195 Linux exploit gives any user full access in five seconds 🌟🌟🌟](https://www.engadget.com/2016/10/24/linux-exploit-gives-any-user-full-access-in-five-seconds/) The bug was first spotted by Linus Torvalds 11 years ago, but never patched. 
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEsshExn7aE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### Heartbleed. April 2014
 - [Heartbleed Detector 🌟](https://access.redhat.com/labsinfo/heartbleed)

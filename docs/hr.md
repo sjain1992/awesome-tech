@@ -212,6 +212,8 @@
 - [money.cnn.com: Why Silicon Valley's top execs are obsessed with taking walks 🌟🌟](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 - [J.T. O'Donnell: #1 Mistake People Make In A New Job 🌟🌟🌟](https://www.linkedin.com/pulse/1-mistake-people-make-new-job-j-t-o-donnell)
 - [How to "manage" your boss](https://www.linkedin.com/pulse/how-manage-your-boss-stephen-lynch)
+- [Lessons I've learned as a manager 🌟🌟🌟](https://www.linkedin.com/pulse/lessons-ive-learnt-manager-andrew-nip)
+- [The 5 Scary Types of Managers 🌟🌟🌟](https://www.linkedin.com/pulse/5-scary-types-managers-brian-de-haaff)
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 

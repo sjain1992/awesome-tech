@@ -215,9 +215,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |[![erni_video](images/erni_video.jpg)](https://www.youtube.com/user/ERNIConsulting)|[![logicalis_video](images/logicalis_video.jpg)](https://www.youtube.com/user/LogicalisIT)|[![abast_video](images/abast_video.jpg)](https://www.youtube.com/user/AbastGrup)|[![manpower_group_videos](images/manpower_group_videos.jpg)](https://www.youtube.com/user/ManpowerGroupES)|[![asg_video](images/asg_video.jpg)](https://www.youtube.com/user/asgtech)|[![adp_video](images/adp_video.jpg)](https://www.youtube.com/user/adp)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|[![nextcs_video](images/nextcs_video.jpg)](https://www.youtube.com/channel/UCTANOxpa85XUViiiVrbm2Qg)|[![schneider_electric_video](images/schneider_electric_video.jpg)](https://www.youtube.com/user/SchneiderCorporate)|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|[![tecnocom_video](images/tecnocom_video.jpg)](https://www.youtube.com/user/TecnocomSpain)|[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)|
+|[![idc_spain_video](images/idc_spain_video.jpg)](https://www.youtube.com/user/idcespana)|[![nextcs_video](images/nextcs_video.jpg)](https://www.youtube.com/channel/UCTANOxpa85XUViiiVrbm2Qg)|[![schneider_electric_video](images/schneider_electric_video.jpg)](https://www.youtube.com/user/SchneiderCorporate)|[![schneider_electric_spain_video](images/schneider_electric_spain_video.jpg)](https://www.youtube.com/user/SchneiderElectric)|[![tecnocom_video](images/tecnocom_video.jpg)](https://www.youtube.com/user/TecnocomSpain)|[![accenture_spain_video](images/accenture_spain_video.jpg)](https://www.youtube.com/user/AccentureSpain)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+<!--[![startupxplore_videos](images/startupxplore_videos.jpg)](https://www.youtube.com/channel/UCK6Ky72S0X5jdY2QXlt_ZOQ)-->
 |[![pythian_video](images/pythian_video.jpg)](https://www.youtube.com/user/ThePythianGroup)|[![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
 |:---:|:---:|
 
@@ -654,6 +655,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
 
 [![trading_places_brokers](images/trading_places_brokers.gif)](https://www.youtube.com/watch?v=ZjDbJQKDXCY)
+
+[![the_economist_success_happiness](images/the_economist_success_happiness.png)](https://www.facebook.com/TheEconomist)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
