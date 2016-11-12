@@ -183,6 +183,9 @@
 
 ![newrelic_lifestooshort](images/newrelic_lifestooshort.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">i don&#39;t care by reference or value ..  i just want some coffee(); <a href="https://t.co/URAFKxNf05">pic.twitter.com/URAFKxNf05</a></p>&mdash; Walid Salame (@wTsDev) <a href="https://twitter.com/wTsDev/status/795024895503638528">5 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
 	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
@@ -256,6 +259,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to use <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> for enterprise <a href="https://twitter.com/hashtag/architecture?src=hash">#architecture</a> <a href="https://t.co/1k5hOWJWZ3">https://t.co/1k5hOWJWZ3</a> via <a href="https://twitter.com/mattbiehl">@mattbiehl</a> <a href="https://t.co/8uYV40Rf70">pic.twitter.com/8uYV40Rf70</a></p>&mdash; Amancio Bouza (@AmancioBouza) <a href="https://twitter.com/AmancioBouza/status/754605340491182080">17 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In Java everything is a object<br>In Clojure everything is a list<br>In Haskell everything is a function<br>In Javascript everything is a bad mistake</p>&mdash; Mario Fusco (@mariofusco) <a href="https://twitter.com/mariofusco/status/787245598835703808">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to learn programming in one night. 😂😂😂 <a href="https://t.co/1b5X3j9gvI">pic.twitter.com/1b5X3j9gvI</a></p>&mdash; Walid Salame (@wTsDev) <a href="https://twitter.com/wTsDev/status/796377771916333058">9 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### API Blueprint, defining the emerging API design space

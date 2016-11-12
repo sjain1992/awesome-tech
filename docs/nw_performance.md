@@ -49,6 +49,7 @@
 - [blog.performancevision.com: WHY AUTOMATE PACKET ANALYSIS FOR PERFORMANCE TROUBLESHOOTING?](http://blog.performancevision.com/why-automate-packet-analysis-for-performance-troubleshooting)
 - [blog.performancevision.com: THE 5 FACTORS WHICH SLOWDOWN DATA TRANSFERS AND HOW TO IDENTIFY THEM](http://blog.performancevision.com/the-5-factors-which-slowdown-data-transfers-and-how-to-identify-them)
 - [blog.datapath.io: A Brief Introduction to Network Optimization](http://blog.datapath.io/a-brief-introduction-to-network-optimization)
+- [blog.datapath.io: How to Optimize a CDN for Dynamic Content Delivery](http://blog.datapath.io/cdn-optimization-for-dynamic-content-delivery)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

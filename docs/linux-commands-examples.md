@@ -480,6 +480,10 @@
 
 		vimdiff /path/local/log scp://192.168.1.25/path/log
 
+- The sed command p prints. For example, print lines 3 through 7 of a file: 
+
+		sed -n '3,7p' somefile
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

@@ -295,6 +295,8 @@
 
 ![boehringer_youare_not_your_resume](images/boehringer_youare_not_your_resume.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hide this code, that I dare not see <a href="https://t.co/Sdtn26nGPu">https://t.co/Sdtn26nGPu</a> <a href="https://t.co/zMnuio7sCr">pic.twitter.com/zMnuio7sCr</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/794275337077137408">3 de noviembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9W4h9NqPhI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

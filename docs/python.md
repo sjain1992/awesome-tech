@@ -91,6 +91,7 @@
 - [stackoverflow: Problems installing python3 on RHEL 🌟](http://stackoverflow.com/questions/8087184/problems-installing-python3-on-rhel)
 - [PEP 8 Cheatsheet 🌟🌟🌟](https://es.scribd.com/document/207247675/PEP-8-Cheatsheet-2009)
 - [Lists vs. Tuples](http://nedbatchelder.com/blog/201608/lists_vs_tuples.html) A common beginner Python question: what's the difference between a list and a tuple?
+- [linuxconfig.org: python tuples 🌟](https://linuxconfig.org/python-tuples)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 

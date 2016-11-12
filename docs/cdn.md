@@ -22,6 +22,7 @@
     - [chapter 3: CDN Caching 🌟](https://www.incapsula.com/cdn-guide/cdn-caching.html)
 - [nczonline: How content delivery networks (CDNs) work - Nov 2011](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 - [Multi CDN Strategy: Key Performance](http://key-performance.eu/web_new/index.php/features/cdn)
+- [blog.datapath.io: How to Optimize a CDN for Dynamic Content Delivery](http://blog.datapath.io/cdn-optimization-for-dynamic-content-delivery)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4YHPYy918c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

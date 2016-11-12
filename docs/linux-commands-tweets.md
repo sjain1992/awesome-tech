@@ -250,3 +250,12 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">tcpdump -nn ip | awk &#39;{s=$3;sub(/\.[0-9]+$/,&quot;&quot;,s);if(a[s]++&lt;10){print}}&#39; # Show only up to the first 10 packets by each source IP. <a href="https://twitter.com/hashtag/AWKtober?src=hash">#AWKtober</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/789118355818983424">20 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">for d in {1..254};do ping -c3 10.3.0.5 &gt; /dev/null ||{ echo &quot;VPN is down&quot;;break; }; nmap -T1 10.3.0.$d ; done # Check net before slow scan.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/797175150630367232">11 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">make -n install # You can use the -n option with make to preview what it will do first before actually doing it.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/796367914622394369">9 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">traceroute 8.8.8.8|awk -F[\(\)] &#39;$2~/[0-9]/{print $2}&#39;|while read i;do echo <a href="https://twitter.com/search?q=%24i&amp;src=ctag">$i</a>;geoiplookup <a href="https://twitter.com/search?q=%24i&amp;src=ctag">$i</a>;done # Who can see your 8.8.8.8 requests?</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/795692661923573761">7 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

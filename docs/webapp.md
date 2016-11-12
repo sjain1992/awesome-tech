@@ -162,6 +162,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/RDFES9fHG6">https://t.co/RDFES9fHG6</a> - easily strace all your apache processes (gormux) <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a> <a href="https://twitter.com/hashtag/ps?src=hash">#ps</a> <a href="https://twitter.com/hashtag/strace?src=hash">#strace</a></p>&mdash; CommandLineFu (@commandlinefu) <a href="https://twitter.com/commandlinefu/status/761154707767238657">4 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Password Protect Web Directories in Apache Using .htaccess File<a href="https://t.co/oXdulivljg">https://t.co/oXdulivljg</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/apache?src=hash">#apache</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/D1DyiDbGN3">pic.twitter.com/D1DyiDbGN3</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/787880606478667776">17 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Using JMX to monitor an Application Server running on Docker
 - [software.dell.com: Using JMX to monitor an Application Server running on Docker](https://software.dell.com/blog/en/using-jmx-to-monitor-an-application-server-running-on-docker)
 	- [youtube - JMX Monitoring for Java Application running on Docker (Apache Tomcat Example) ](https://www.youtube.com/watch?v=tVL3hkA149o)
@@ -181,6 +183,9 @@
 
 ## F5 Load Balancer
 - [F5 Load Balancer](f5lb.md)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Setting Up Web Servers Load Balancing Using ‘POUND’ on RHEL/CentOS<a href="https://t.co/wQaPsLUzbn">https://t.co/wQaPsLUzbn</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/HwKdBKcKQh">pic.twitter.com/HwKdBKcKQh</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/789331376839401472">21 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## GlassFish
 - [GlassFish](https://glassfish.java.net/)

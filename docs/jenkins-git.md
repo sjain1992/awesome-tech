@@ -58,6 +58,7 @@
 - [Jenkins CD and Pipelines Microsite](https://jenkins.io/solutions/pipeline/)
 - [DZone: Continuous Delivery With Jenkins Workflow 🌟🌟🌟](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow) The Jenkins Plugin for Managing Complex DevOps Pipelines
 - [Jul. 05, 16 - DZone: Top 10 Best Practices for Jenkins Pipeline 🌟🌟🌟](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline) The Jenkins Pipeline Plugin makes Jenkins much easier to manage, deploy, and use. Find out how to get started here.
+- [Unixmen.com: Jenkins Installation in Linux](https://www.unixmen.com/jenkins-installation-linux/)
 
 [![dzone_refcard_ci](images/dzone_refcard_ci.png)](https://dzone.com/refcardz/continuous-integration-servers)
 
@@ -323,6 +324,7 @@
 - [DZone: Effective Technical Writing in GitHub](https://dzone.com/articles/effectively-technical-writing-in-github) Documentation in GitHub wiki pages is becoming more and more important. Here are some tips to make it more readable for all involved.
 - [paradigmadigital.com: Primeros pasos con Git](https://www.paradigmadigital.com/dev/primeros-pasos-git/)
 - [DZone: Why Is GitHub Taking Over the World?](https://dzone.com/articles/why-is-github-taking-over-the-world) Github has becoming the 83rd busiest website in the entire planet. That's a mind blowing statistic when you consider it's "just source control." Why is this happening?
+- [Tecmint: How to Install Git and Setup Git Account in RHEL, CentOS and Fedora](http://www.tecmint.com/install-git-centos-fedora-redhat/)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 

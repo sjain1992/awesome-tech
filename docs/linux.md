@@ -334,8 +334,18 @@
 - [Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives](http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/)
 - [How to reload sysctl.conf variables on Linux without rebooting the server](http://www.cyberciti.biz/faq/reload-sysctl-conf-on-linux-using-sysctl/) 
 - [nixCraft: HowTo: Find Out Hard Disk Specs/Details on Linux](http://www.cyberciti.biz/faq/find-hard-disk-hardware-specs-on-linux/)
+- [tecmint.com: 8 Linux ‘Parted’ Commands to Create, Resize and Rescue Disk Partitions](http://www.tecmint.com/parted-command-to-create-resize-rescue-linux-disk-partitions/)
+- [tecmint.comt: How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux](http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
+- [tecmint.com: Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1 🌟🌟🌟](http://www.tecmint.com/create-lvm-storage-in-linux/)
+- [tecmint.com: Create Centralized Secure Storage using iSCSI Target on RHEL/CentOS/Fedora Part -I](http://www.tecmint.com/create-centralized-secure-storage-using-iscsi-targetin-linux/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">God bless the hdparm command. 2 identical SSD, only diff is form factor Which one to remove? <a href="https://t.co/9prsnj88BD">https://t.co/9prsnj88BD</a> <a href="https://t.co/Umv8EaME0W">pic.twitter.com/Umv8EaME0W</a></p>&mdash; Phil Baker (@philbaker1) <a href="https://twitter.com/philbaker1/status/739101875186716673">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux<a href="https://t.co/RM6xrPfqpt">https://t.co/RM6xrPfqpt</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/tdVevLwqBQ">pic.twitter.com/tdVevLwqBQ</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/791177283574730752">26 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1<a href="https://t.co/YNRjFfepiu">https://t.co/YNRjFfepiu</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/bXq7nI6BX9">pic.twitter.com/bXq7nI6BX9</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/793780942166831104">2 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Linux LVM Logical Volume Management and FileSystems 
 - [Linux LVM Logical Volume Management and FileSystems](servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems)
@@ -392,6 +402,10 @@
 	- [backintime.readthedocs.org](http://backintime.readthedocs.org)
 - [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
 	- [How to find out when Debian or Ubuntu package installed or updated](http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/)
+- [Tecmint: How to Create Encrypted and Bandwidth-efficient Backups Using ‘Duplicity’ in Linux](http://www.tecmint.com/create-encrypted-linux-file-system-backups-using-duplicity/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Create Encrypted and Bandwidth-efficient Backups Using ‘Duplicity’ in Linux<a href="https://t.co/GoyY2JHFht">https://t.co/GoyY2JHFht</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/A5WOddYjd5">pic.twitter.com/A5WOddYjd5</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/792230265435201536">29 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Package Management
 - [rpm command cheat sheet for Linux](http://www.cyberciti.biz/howto/question/linux/linux-rpm-cheat-sheet.php)
@@ -507,6 +521,10 @@
 - [nixCraft: Linux/UNIX Recursively Search All Files For A String 🌟🌟](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 - [nixCraft: How To Change Timezone on a CentOS 6 and 7](http://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
 - [tecmint: 5 Linux Command Line Based Tools for Downloading Files and Browsing Websites 🌟🌟](http://www.tecmint.com/linux-command-line-tools-for-downloading-files/)
+- [tecmint: Pscp – Transfer/Copy Files to Multiple Linux Servers Using Single Shell 🌟🌟🌟](http://www.tecmint.com/copy-files-to-multiple-linux-servers/)
+- [Tecmint: 3 Ways to Delete All Files in a Directory Except One or Few Files with Extensions](http://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/)
+- [Tecmint: How to Sort Output of ‘ls’ Command By Last Modified Date and Time](http://www.tecmint.com/sort-ls-output-by-last-modified-date-and-time/)
+- [Tecmint: How to Split Large ‘tar’ Archive into Multiple Files of Certain Size](http://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -547,6 +565,37 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Linux Zombie Processes [comic] via Daniel Stori <a href="https://t.co/Ylf9LYXzzU">https://t.co/Ylf9LYXzzU</a> <a href="https://twitter.com/hashtag/java?src=hash">#java</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/devhumor?src=hash">#devhumor</a> <a href="https://t.co/hmhHpNpBQ4">pic.twitter.com/hmhHpNpBQ4</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/776888701314007040">16 de septiembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Recover a Deleted File in <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/x7DYpE87Zz">https://t.co/x7DYpE87Zz</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/KYDoBfxFTQ">pic.twitter.com/KYDoBfxFTQ</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/796242289408385024">9 de noviembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">$ man killpg(2): send signal to a process group... <a href="https://t.co/LK1KrZvXRL">https://t.co/LK1KrZvXRL</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/manpage?src=hash">#manpage</a></p>&mdash; Manpage du Jour (@manpagedujour) <a href="https://twitter.com/manpagedujour/status/794600337143369729">4 de noviembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Start Linux Command in Background and Detach Process in Terminal<a href="https://t.co/HxletTCw41">https://t.co/HxletTCw41</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/aZWesX2vjd">pic.twitter.com/aZWesX2vjd</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/787192630069178369">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL <a href="https://t.co/A6MFAY3TSz">https://t.co/A6MFAY3TSz</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/zLC0ffroIE">pic.twitter.com/zLC0ffroIE</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/787574074243485697">16 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Pscp – Transfer/Copy Files to Multiple Linux Servers Using Single Shell<a href="https://t.co/fm5ET0JLkE">https://t.co/fm5ET0JLkE</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/rlujhmmtPc">pic.twitter.com/rlujhmmtPc</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/788243187621990401">18 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">3 Ways to Delete All Files in a Directory Except One or Few Files with Extensions<a href="https://t.co/K0DKak7V5J">https://t.co/K0DKak7V5J</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/WysMtGB0XY">pic.twitter.com/WysMtGB0XY</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/790852313539764224">25 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Change Kernel Runtime Parameters in a Persistent and Non-Persistent Way<a href="https://t.co/jreNbPtI3m">https://t.co/jreNbPtI3m</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/qaxJUiZdwI">pic.twitter.com/qaxJUiZdwI</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/791511030580994048">27 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Sort Output of ‘ls’ Command By Last Modified Date and Time<a href="https://t.co/lTNvhBIWyV">https://t.co/lTNvhBIWyV</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/f4HvGjoLL9">pic.twitter.com/f4HvGjoLL9</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/791573262077562880">27 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Find a Process Name Using PID Number in <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a><a href="https://t.co/1Sx1jPBiPh">https://t.co/1Sx1jPBiPh</a> <a href="https://t.co/sIJrM2XGlx">pic.twitter.com/sIJrM2XGlx</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/793360928003600384">1 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Split Large ‘tar’ Archive into Multiple Files of Certain Size<a href="https://t.co/Iu7TeTOEPB">https://t.co/Iu7TeTOEPB</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/2566G23wQO">pic.twitter.com/2566G23wQO</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/793677874595115008">2 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Convert Files to UTF-8 Encoding in Linux<a href="https://t.co/CQuaVPo7V8">https://t.co/CQuaVPo7V8</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/oToUgEZZxP">pic.twitter.com/oToUgEZZxP</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/793705769749270528">2 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 - [5 reasons system administrators should use revision control 🌟🌟🌟](https://opensource.com/life/16/7/systems-administrators-should-use-revision-control)
@@ -570,6 +619,14 @@
 - [tecmint.com: How to Use Awk to Print Fields and Columns in File](http://www.tecmint.com/awk-print-fields-columns-with-space-separator/)
 - [Tecmint: Ebook: Introducing the Awk Getting Started Guide for Beginners](http://www.tecmint.com/linux-awk-command-book-for-beginners/)
 - [nixCraft - Bash Shell: Replace a String With Another String In All Files Using sed and Perl -pie Options](http://www.cyberciti.biz/faq/unix-linux-replace-string-words-in-many-files/)
+- [Tecmint: How to Use ‘next’ Command with Awk in Linux – Part 6](http://www.tecmint.com/use-next-command-with-awk-in-linux/)
+- [Tecmint: How to Read Awk Input from STDIN in Linux – Part 7](http://www.tecmint.com/read-awk-input-from-stdin-in-linux/)
+- [Tecmint: Learn How to Use Awk Variables, Numeric Expressions and Assignment Operators – Part 8](http://www.tecmint.com/learn-awk-variables-numeric-expressions-and-assignment-operators/)
+- [Tecmint: Learn How to Use Awk Special Patterns ‘BEGIN and END’ – Part 9](http://www.tecmint.com/learn-use-awk-special-patterns-begin-and-end/)
+- [Tecmint: How to Allow Awk to Use Shell Variables – Part 11](http://www.tecmint.com/use-shell-script-variable-in-awk/)
+- [Tecmint: How to Use Flow Control Statements in Awk – Part 12](http://www.tecmint.com/use-flow-control-statements-with-awk-command/)
+- [Tecmint: Find Top 10 IP Addresses Accessing Your Apache Web Server 🌟🌟🌟](http://www.tecmint.com/find-top-ip-address-accessing-apache-web-server/)
+- [Tecmint: 15 Useful ‘sed’ Command Tips and Tricks for Daily Linux System Administration Tasks 🌟🌟🌟](http://www.tecmint.com/linux-sed-command-tips-tricks/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
@@ -579,6 +636,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed and awk both use -f &lt;filename&gt; to specify a file of commands.</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/789144292132528128">20 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn how to use AWK to print fields and columns in text files.. <a href="https://t.co/gV5FqfI2a9">https://t.co/gV5FqfI2a9</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/MrSmSpwSyG">pic.twitter.com/MrSmSpwSyG</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/724597310991159296">25 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Find Top 10 IP Addresses Accessing Your <a href="https://twitter.com/hashtag/Apache?src=hash">#Apache</a> Web Server<a href="https://t.co/pMTiCOUwen">https://t.co/pMTiCOUwen</a> <a href="https://t.co/F37O3URxuU">pic.twitter.com/F37O3URxuU</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/792664471256915968">30 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">15 Useful ‘sed’ Command Tips and Tricks for Daily Linux System Administration Tasks<a href="https://t.co/OkxxjuPYp8">https://t.co/OkxxjuPYp8</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/KSS6brCRNe">pic.twitter.com/KSS6brCRNe</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/794040137248292864">3 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
@@ -632,6 +695,7 @@
 - [tecmint.com: 20 Useful Commands of ‘Sysstat’ Utilities (mpstat, pidstat, iostat and sar) for Linux Performance Monitoring](http://www.tecmint.com/sysstat-commands-to-monitor-linux/)
 - [tecmint.com: 10 ‘free’ Commands to Check Memory Usage in Linux](http://www.tecmint.com/check-memory-usage-in-linux/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
+- [Tecmint: Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis 🌟🌟](http://www.tecmint.com/iotop-monitor-linux-disk-io-activity-per-process/)
 - [system activity reporter (SAR)](http://www.ibm.com/developerworks/aix/library/au-unix-perfmonsar.html)
 - [byte-unixbench: BYTE UNIX benchmark suite](https://github.com/kdlucas/byte-unixbench)
 - [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
@@ -654,7 +718,7 @@
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
 - [Julia Evans: How CPU load averages work (and using them to triage webserver performance!)](http://jvns.ca/blog/2016/02/07/cpu-load-averages/)
 - [Julia Evans - perf top: an awesome way to spu on CPU usage 🌟](http://jvns.ca/blog/2016/02/24/perf-top-my-new-best-friend/)
-- [Perf- A Performance Monitoring and Analysis Tool for Linux 🌟](http://www.tecmint.com/perf-performance-monitoring-and-analysis-tool-for-linux/)
+- [Perf- A Performance Monitoring and Analysis Tool for Linux 🌟🌟🌟](http://www.tecmint.com/perf-performance-monitoring-and-analysis-tool-for-linux/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [linuxjournal.com: Examining Load Average](http://www.linuxjournal.com/article/9001?page=0,1) A practical interpretation of Linux's load averages but also illuminates some of the dark mathematical shadows behind them 
 - [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)
@@ -683,7 +747,15 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I&#39;m making a zine about linux debugging tools. want a printed copy? (and to help me give them away?) here you go: <a href="https://t.co/aZI4Vjv054">https://t.co/aZI4Vjv054</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/769609966802075649">27 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">a few drawings about linux <a href="https://t.co/pNtEo86MTt">https://t.co/pNtEo86MTt</a> <a href="https://t.co/WzM2WUTAKQ">pic.twitter.com/WzM2WUTAKQ</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/796922294404861952">11 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Monitorix – A Lightweight System and Network <a href="https://twitter.com/hashtag/monitoring?src=hash">#monitoring</a> Tool for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/x3SXlXiV5Z">https://t.co/x3SXlXiV5Z</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/SzFJ9hxR5P">pic.twitter.com/SzFJ9hxR5P</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/775921437194321922">14 de septiembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">file descriptors! <a href="https://t.co/rTrorVZk3h">pic.twitter.com/rTrorVZk3h</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/796190716028448768">9 de noviembre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis<a href="https://t.co/V0yTF0etQ3">https://t.co/V0yTF0etQ3</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/HJtA0VfQNx">pic.twitter.com/HJtA0VfQNx</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/789037900260225026">20 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### htop and top
@@ -784,6 +856,7 @@
 - [nixCraft: How to configure a static IP address on CentOS 7/RHEL 7](http://www.cyberciti.biz/faq/howto-setting-rhel7-centos-7-static-ip-configuration/)
 - [unixmen.com: Install and using netstat in Linux 🌟](https://www.unixmen.com/install-using-netstat-linux/)
 - [nixCraft: FreeBSD - sockstat - Unix Find Out Which Programs Are Listing On a Given Port Number](http://www.cyberciti.biz/faq/freebsd-unix-find-the-process-pid-listening-on-a-certain-port-commands/)
+- [blog.pandorafms.org: Useful Network commands 🌟🌟🌟](https://blog.pandorafms.org/network-commands/) VNStat, ping, traceroute, ping, arp, curl and wget, netstat, whois, ssh, tcpdump, ngrep, nmap, netcat, lsof, iptraf
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -902,8 +975,12 @@
 - [tecmint: The Mega Guide To Harden and Secure CentOS 7 – Part 1 🌟🌟🌟](http://www.tecmint.com/security-and-hardening-centos-7-guide/)
 - [tecmint: How to Change and Secure Default PhpMyAdmin Login URL](http://www.tecmint.com/change-secure-phpmyadmin-login-url-page/)
 - [unixmen.com: What Is Fork Bomb And How Can You Prevent This Danger? 🌟🌟🌟🌟](https://www.unixmen.com/fork-bomb-can-prevent-danger/)
+- [tecmint: How to Secure Network Services Using TCP Wrappers in Linux 🌟🌟](http://www.tecmint.com/secure-linux-tcp-wrappers-hosts-allow-deny-restrict-access/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Practical Guide to Nmap (Network Security Scanner) in Kali Linux<a href="https://t.co/f4Hwr4vCMV">https://t.co/f4Hwr4vCMV</a><br>RT <a href="https://twitter.com/kalilinux">@kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/LAsrcazWVA">pic.twitter.com/LAsrcazWVA</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/795870483140853760">8 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Linux SSH
 - [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
@@ -927,6 +1004,9 @@
 - [tecmint: How to Use Conspy to View and Control Remote Linux Virtual Consoles in Real Time 🌟🌟](http://www.tecmint.com/use-conspy-to-view-and-control-remote-linux-virtual-consoles/)
 - [unix.stackexchange.com: Is your SSH password revealed when you attempt to connect to the wrong server? 🌟🌟](http://unix.stackexchange.com/questions/309938/is-your-ssh-password-revealed-when-you-attempt-to-connect-to-the-wrong-server)
 - [unixmen.com: Install And Configure DenyHosts In CentOS 🌟🌟](https://www.unixmen.com/install-configure-denyhost-centos/) DenyHosts is a script intended to be running by Linux system administrators in order to help thwart SSH server attacks (also known as dictionary based attacks and brute force attacks). Thanks to its simplicity and the ability to manually configure the rules DenyHost is widely used as an alternative to Fail2ban which is a bit more complicated to use and configure.
+- [Tecmint: Setting Up Web-Based Guacamole Tool to Access Remote Linux/Windows Machines 🌟🌟🌟](http://www.tecmint.com/guacamole-access-remote-linux-windows-machines-via-web-browser/)
+- [Tecmint: 10 Screen Command Examples to Manage Linux Terminals 🌟🌟🌟](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
+- [Tecmint: 5 Ways to Keep Remote SSH Sessions and Processes Running After Disconnection 🌟🌟🌟](http://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -970,6 +1050,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install And Configure DenyHosts In CentOS | Unixmen <a href="https://t.co/nkvmUTFj2E">https://t.co/nkvmUTFj2E</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/787744943351537664">16 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">vlock – A Smart Way to Lock User Virtual Console or Terminal in Linux<a href="https://t.co/iSfCiOQ3Yh">https://t.co/iSfCiOQ3Yh</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/CZpAu5ICgf">pic.twitter.com/CZpAu5ICgf</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/787154217769193472">15 de octubre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Setting Up Web-Based Guacamole Tool to Access Remote Linux/Windows Machines<a href="https://t.co/c5IOKxU9mt">https://t.co/c5IOKxU9mt</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/4Y5BzCJXc6">pic.twitter.com/4Y5BzCJXc6</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/791865825682608128">28 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
@@ -1025,7 +1111,7 @@
 - [SELinux](https://en.wikipedia.org/wiki/SELinux)
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
 - [OpenSCAP](https://www.open-scap.org)
-- [tecmint.com: Implementing Mandatory Access Control with SELinux or AppArmor in Linux](http://www.tecmint.com/mandatory-access-control-with-selinux-or-apparmor-linux/)
+- [tecmint.com: Implementing Mandatory Access Control with SELinux or AppArmor in Linux 🌟🌟](http://www.tecmint.com/mandatory-access-control-with-selinux-or-apparmor-linux/)
 - [people.redhat.com: SECURITY ENHANCED LINUX FOR MERE MORTALS 🌟](http://people.redhat.com/tcameron/Summit2016/selinux/selinux_for_mere_mortals.pdf) Scared of SELinux? Don't be, its easy.
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
@@ -1078,7 +1164,8 @@
 - [gvim - Replace Tab with Spaces in VIM](http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim)
 - [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-- [vim-adventures.com 🌟🌟](http://vim-adventures.com/) Learning VIM while playing a game
+- [vim-adventures.com 🌟](http://vim-adventures.com/) Learning VIM while playing a game
+- [Vim tips and tricks that you probably never heard of 🌟🌟🌟](https://www.rosehosting.com/blog/vim-tips-and-tricks/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -1092,6 +1179,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Surprising reasons to use a syntax-coloring editor <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a>  <a href="https://t.co/2YlporMF6V">https://t.co/2YlporMF6V</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/755053469573062656">18 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">eBooks:<br><br>Learn Vimscript the Hard Way <a href="https://t.co/pkQowRuhHK">https://t.co/pkQowRuhHK</a><br><br>Vim for Humans <a href="https://t.co/eHXnmdXvma">https://t.co/eHXnmdXvma</a><br><br>A byte of Vim <a href="https://t.co/n9BcVr21CT">https://t.co/n9BcVr21CT</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/797067293159104512">11 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Emacs

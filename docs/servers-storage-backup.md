@@ -269,10 +269,13 @@
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
 - [RHEL7 doc: LVM Administrator Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Logical_Volume_Manager_Administration/index.html)
-- [Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1](http://www.tecmint.com/create-lvm-storage-in-linux/)
-	- [How to Extend/Reduce LVM’s (Logical Volume Management) in Linux – Part II](http://www.tecmint.com/extend-and-reduce-lvms-in-linux/)
-	- [How to Take ‘Snapshot of Logical Volume and Restore’ in LVM – Part III](http://www.tecmint.com/take-snapshot-of-logical-volume-and-restore-in-lvm/)
-- [Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
+- [Tecmint: Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1](http://www.tecmint.com/create-lvm-storage-in-linux/)
+	- [Tecmint: How to Extend/Reduce LVM’s (Logical Volume Management) in Linux – Part II](http://www.tecmint.com/extend-and-reduce-lvms-in-linux/)
+	- [Tecmint: How to Take ‘Snapshot of Logical Volume and Restore’ in LVM – Part III](http://www.tecmint.com/take-snapshot-of-logical-volume-and-restore-in-lvm/)
+- [Tecmint: Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
+- [Tecmint: Create Centralized Secure Storage using iSCSI Target on RHEL/CentOS/Fedora Part -I](http://www.tecmint.com/create-centralized-secure-storage-using-iscsi-targetin-linux/)
+- [Tecmint: How to Create and Setup LUNs using LVM in “iSCSI Target Server” on RHEL/CentOS/Fedora – Part II](http://www.tecmint.com/create-luns-using-lvm-in-iscsi-target/)
+- [Tecmint.com: 8 Linux ‘Parted’ Commands to Create, Resize and Rescue Disk Partitions](http://www.tecmint.com/parted-command-to-create-resize-rescue-linux-disk-partitions/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create and Setup LUNs using LVM in “iSCSI Target Server”<a href="https://t.co/E2G0zwbXWQ">https://t.co/E2G0zwbXWQ</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a>  <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/l55gq6VoyD">pic.twitter.com/l55gq6VoyD</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/748745273577385985">1 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
