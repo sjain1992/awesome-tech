@@ -22,6 +22,8 @@
 
 </center>
 
+[![dilbert_performance_test](images/dilbert_performance_test.gif)](http://dilbert.com/strip/2010-08-11)
+
 # Performance Testing. Traffic injectors/generators
 - [DZone: Top 10 Web Performance Killers](https://dzone.com/articles/top-10-web-performance-killers) Sam Holt talks about the Top 10 Web Performance Killers, including uncompressed static assets and not leveraging HTML features.
 - [I wanna go fast: HTTPS' massive speed advantage](https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantage/) The HTTPS test is faster because it uses HTTP/2 whist the HTTP test only uses HTTP/1.1.

@@ -157,6 +157,8 @@
 
 [![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
+[![respect_in_the_workplace](images/respect_in_the_workplace.png)](https://www.linkedin.com/pulse/respect-workplace-fact-heres-what-happened-dimosthenis-papadopoulos)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZVkW9p-cCU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

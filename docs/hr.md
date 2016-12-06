@@ -157,7 +157,7 @@
 - [enterprisersproject.com: Why too much talent is wasted by managers not daring to lose control](https://enterprisersproject.com/article/2014/11/cios-and-ctos-empower-your-teams)
 - [The 17 things you should never say to your boss](http://www.news.com.au/finance/small-business/the-17-things-you-should-never-say-to-your-boss/story-fn9evb64-1226726850961)
 - [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
-- [9 Things Managers Do That Make Good Employees Quit](http://www.entrepreneur.com/article/249903)
+- [9 Things Managers Do That Make Good Employees Quit 🌟🌟🌟](http://www.entrepreneur.com/article/249903)
 - [Learning as A Leader: The Good, the Bad and the Ugly (Part 2)](https://www.linkedin.com/pulse/learning-leader-good-bad-ugly-part-2-marla-kaplowitz)
 - [businessinsider.com: Researchers discovered a surprising trait shared by the worst bosses](http://www.businessinsider.com/study-finds-the-worst-bosses-are-unpredictable-2016-3)
 - [Daniel Goleman: How to Coach A Dictatorial Leader 🌟](https://www.linkedin.com/pulse/how-coach-dictatorial-leader-daniel-goleman)
@@ -214,6 +214,7 @@
 - [How to "manage" your boss](https://www.linkedin.com/pulse/how-manage-your-boss-stephen-lynch)
 - [Lessons I've learned as a manager 🌟🌟🌟](https://www.linkedin.com/pulse/lessons-ive-learnt-manager-andrew-nip)
 - [The 5 Scary Types of Managers 🌟🌟🌟](https://www.linkedin.com/pulse/5-scary-types-managers-brian-de-haaff)
+- [How Resentment Hurts Your Career (And, 6 Steps To Overcoming It)](http://www.inc.com/jt-odonnell/how-resentment-hurts-your-career-and-6-steps-to-overcoming-it.html)
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 

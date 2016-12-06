@@ -186,6 +186,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">i don&#39;t care by reference or value ..  i just want some coffee(); <a href="https://t.co/URAFKxNf05">pic.twitter.com/URAFKxNf05</a></p>&mdash; Walid Salame (@wTsDev) <a href="https://twitter.com/wTsDev/status/795024895503638528">5 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![sw_architecture_evolution](images/sw_architecture_evolution.jpg)
+
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
 	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
