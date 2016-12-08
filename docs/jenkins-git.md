@@ -308,7 +308,7 @@
 - [opensource.com: Version control isn't just for programmers](https://opensource.com/life/16/2/version-control-isnt-just-programmers)
 - [opensource.com: Using Git in the classroom 🌟](https://opensource.com/education/16/1/git-education-classroom)
 - [medium: Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
-- [Git Cheat Sheet for Sysadmin/DevOps 🌟](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png)
+- [Git Cheat Sheet for Sysadmin/DevOps 🌟🌟🌟🌟](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png)
 - [DZone refcard: Getting started with Git 🌟🌟](https://dzone.com/refcardz/getting-started-git)
 - [tutorialzine.com: Learn Git in 30 Minutes 🌟🌟🌟](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 - [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request)
@@ -325,6 +325,7 @@
 - [paradigmadigital.com: Primeros pasos con Git](https://www.paradigmadigital.com/dev/primeros-pasos-git/)
 - [DZone: Why Is GitHub Taking Over the World?](https://dzone.com/articles/why-is-github-taking-over-the-world) Github has becoming the 83rd busiest website in the entire planet. That's a mind blowing statistic when you consider it's "just source control." Why is this happening?
 - [Tecmint: How to Install Git and Setup Git Account in RHEL, CentOS and Fedora](http://www.tecmint.com/install-git-centos-fedora-redhat/)
+- [Git and Github in Plain English 🌟🌟](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
