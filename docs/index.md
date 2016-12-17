@@ -519,6 +519,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 </center>
