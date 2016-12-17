@@ -710,11 +710,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?rel=0&t=8m44s" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?start=524" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
