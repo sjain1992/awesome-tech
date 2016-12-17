@@ -52,6 +52,9 @@
 - [blog.datapath.io: How to Optimize a CDN for Dynamic Content Delivery](http://blog.datapath.io/cdn-optimization-for-dynamic-content-delivery)
 - [blog.datapath.io: What is Acceptable VoIP Jitter?](http://blog.datapath.io/what-is-acceptable-voip-jitter)
 - [blog.performancevision.com: HOW TO DIAGNOSE AN APPLICATION PERFORMANCE PROBLEM WITHOUT SERVER ACCESS 🌟](http://blog.performancevision.com/how-to-diagnose-an-application-performance-problem-without-server-access)
+- [blog.datapath.io: 8 Network Optimization Principles for DevOps](http://blog.datapath.io/network-optimization-principles-for-devops)
+- [blog.datapath.io: How to Test for Packet Loss on Windows](http://blog.datapath.io/how-to-test-for-packet-loss-on-windows)
+- [blog.datapath.io: How to Optimize DNS for better Web Performance](http://blog.datapath.io/how-to-optimize-dns-for-better-web-performance)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

@@ -485,7 +485,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
 
-[![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?v=8Cu_9aKcgjY&index=2&list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj)
+[![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?v=8Cu_9aKcgjY&index=2&list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj&t=17m57s)
 
 <!--
 (Dis)Honesty - The Truth About Lies Official Trailer 1 (2015) - Documentary HD 
