@@ -26,6 +26,7 @@
 	- [E-Mail](#e-mail)
 	- [DNS](#dns)
 	- [Video](#video)
+	- [JCA Connectors \(TCP/IP resource adapter\). Choosing among JCA, JMS, and web services for Enterprise Application Integration \(EAI\)](#jca-connectors-tcpip-resource-adapter-choosing-among-jca-jms-and-web-services-for-enterprise-application-integration-eai)
 	- [Distributed Messaging System. Message oriented middleware](#distributed-messaging-system-message-oriented-middleware)
 
 <!-- /MarkdownTOC -->
@@ -343,6 +344,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Audio music streams just surpassed video streams for the 1st time in history <a href="https://t.co/FRHDCSEqbq">https://t.co/FRHDCSEqbq</a> <a href="https://t.co/Q7goNhWrz9">pic.twitter.com/Q7goNhWrz9</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/751516459449417729">8 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## JCA Connectors (TCP/IP resource adapter). Choosing among JCA, JMS, and web services for Enterprise Application Integration (EAI)
+- [Choosing among JCA, JMS, and web services for EAI](http://www.ibm.com/developerworks/library/ws-jcajms/) This article discusses criteria for choosing among J2C Connector Architecture (JCA), Java Message Service (JMS), and web services implementations, depending on your existing environments, the patterns you want to implement, and the your preset requirements for loose or tight coupling.
+- [JBoss EAP 6: Configure the Java Connector Architecture (JCA) Subsystem](https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Application_Platform/6/html/Administration_and_Configuration_Guide/Configure_the_Java_Connector_Architecture_JCA_Subsystem.html)
+- [Netty JCA Connector](https://en.wikipedia.org/wiki/Netty_(software))
 
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
