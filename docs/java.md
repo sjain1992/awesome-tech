@@ -3,6 +3,7 @@
 - [Java](#java)
     - [Java on Twitter](#java-on-twitter)
     - [Java Blogs](#java-blogs)
+    - [Java Licensing](#java-licensing)
     - [Java refs](#java-refs)
         - [Java Performance](#java-performance)
             - [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
@@ -59,6 +60,20 @@
 - [javacodegeeks.com](http://www.javacodegeeks.com)
 - [DZone/Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
 - [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
+
+## Java Licensing
+- [theregister.co.uk: Oracle finally targets Java non-payers – six years after plucking Sun 🌟🌟🌟](http://www.theregister.co.uk/2016/12/16/oracle_targets_java_users_non_compliance/) Thought Java was 'free'? Think again (and you owe us $$$ in 2017)
+    - Oracle bought Java with Sun Microsystems in 2010 but only now is its License Management Services (LMS) division chasing down people for payment, we are told by people familiar with the matter.
+    - The version of Java in contention is Java SE, with three paid flavours that range from $40 to $300 per named user and from $5,000 to $15,000 for a processor licence.
+    - Experts are now advising extreme caution in downloading Java SE while those who’ve downloaded should review their use – and be prepared before LMS comes calling. 
+    - The root cause seems to be the false perception that Java is “free”.
+    - That perception dates from the time of Sun; Java under Sun was available for free - as it is under Oracle – but for a while Sun did charge a licensee fee to companies like IBM and makers of Blu-ray players, though for the vast majority, Java came minus charge. That was because Sun used Java as the thin end of the wedge to help sales of its systems.
+    - Oracle has taken the decision to monetise Java more aggressively.
+    - Java SE is a broad and all-encompassing download that includes Java SE Advanced Desktop, introduced by Oracle in February 2014, and Java SE Advanced and Java SE Suite, introduced by Oracle in May 2011.
+    - Java SE is free but Java SE Advanced Desktop, Advanced and Suite are not. Java SE Suite, for example, costs $300 per named user with a support bill of $66; there’s a per-processor option of $15,000 with a $3,300 support bill. Java SE comes with the free JDK and JRE, but Advanced Desktop, Advanced and Suite layer in additional capabilities such as Java Mission Control and Flight Recorder also known as JRockit Mission Control and JRockit Flight Recorder.
+    - Also added is the Microsoft Windows Installer Enterprise JRE Installer for large-scale rollout of Java.
+    - If you download Java you get everything and you need to make sure you are installing only the components you are entitled to and you need to remove the bits you aren’t using. Commercial use is any use of those paid features. ’General purpose’ is vaguely defined – hence the reason for a lot of disputes.
+    - The moment you, as an organisation, are delivering something where Java is distributed to end users – something more and more companies are doing by distributing apps through which customers can obtain products and services – that is not general-purpose any more… and Oracle wants to make money from that. 
 
 ## Java refs
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
