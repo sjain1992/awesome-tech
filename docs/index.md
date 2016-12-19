@@ -520,7 +520,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -710,7 +710,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?start=524" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?start=524&end=724" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -796,3 +796,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <!-- <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;end=82" frameborder="0" allowfullscreen></iframe> -->
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYbtSpB8pPE?start=633&end653" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+</br>
