@@ -551,3 +551,7 @@
 
 [![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWfzb0l1jV4?start=677" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+</br>
