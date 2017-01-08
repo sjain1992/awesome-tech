@@ -39,6 +39,8 @@
 
 ![donnie_darko_sit_next_to_cutest_boy](images/donnie_darko_sit_next_to_cutest_boy.gif)
 
+[![old-thinking-new-thinking](images/old-thinking-new-thinking.jpg)](http://plbbusinessconsulting.com/old-thinking-vs-new-thinking/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQ_zhHUu8NE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
