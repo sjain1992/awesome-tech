@@ -240,6 +240,7 @@
 - [citapreviainem.es: Los métodos de control del trabajador más habituales. Casos concretos. ¿Cuál es el límite?](http://www.citapreviainem.es/control-vigilancia-trabajadores-limites/)
 - [Hong Kong, la ciudad donde más se trabaja](http://www.elmundo.es/economia/2016/10/22/57fd0f0ae2704ea60a8b46ef.html) El hongkonés medio trabaja 50,11 horas por semana
 - [Por qué todo el mundo quiere ‘hackathon’](http://elpais.com/elpais/2016/10/13/talento_digital/1476355605_011048.html) Las empresas cambian las reglas del juego para innovar y buscan la colaboración de genios fuera de sus plantillas
+- [¿Qué nos enseñan los chimpancés sobre los jefes y las oficinas?](http://www.elmundo.es/blogs/elmundo/yomono/2017/01/07/que-nos-ensenan-los-chimpances-sobre-los.html)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

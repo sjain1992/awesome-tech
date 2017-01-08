@@ -59,11 +59,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BaNZzUg5Opg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvUU8joBb1Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -92,15 +87,25 @@ ________________________________________________________________________________
 
 <DOCTYPE html> <script src="//player.ooyala.com/static/v4/stable/latest/core.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/main_html5.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/bit_wrapper.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/osmf_flash.min.js"></script><link rel="stylesheet" href="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.css"/><div id='container' style='width:100%;height:100%;'></div><script>var playerParam = {'pcode':'BhdmY6l9g002rBhQ6aEBZiheacDu','playerBrandingId':'6e12e8b3387a44daacfb73afba25a76e','skin': {'config': '//player.ooyala.com/static/v4/stable/latest/skin-plugin/skin.json'} };OO.ready(function() {window.pp = OO.Player.create('container', 'drYjdoNTE6v8GKEExMIRklEhBEFlayDt', playerParam);        }); </script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Vídeo: <a href="https://twitter.com/elsapunset">@elsapunset</a> y Eduardo Punset tratan el tema del Aprendizaje socioemocional en la <a href="https://twitter.com/hashtag/educaci%C3%B3n?src=hash">#educación</a> escolar <a href="https://t.co/nBbsga4BJq">https://t.co/nBbsga4BJq</a> <a href="https://twitter.com/RedesTV">@RedesTV</a></p>&mdash; Cambiar educando (@Cambiareducando) <a href="https://twitter.com/Cambiareducando/status/670542669257412608">28 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vsg48QC1HJ8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Somos lo que comemos&quot; EDUARD PUNSET siempre tan interesante.<a href="https://t.co/3Kl8vUhEmw">https://t.co/3Kl8vUhEmw</a></p>&mdash; Comer por igual (@Comerporigual) <a href="https://twitter.com/Comerporigual/status/534087470883688448">16 de noviembre de 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvrpFVaOE8Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/JIjzSX7872">https://t.co/JIjzSX7872</a> - goleman Redes 130_ Aprender a gestionar las emociones - emociones).</p>&mdash; BEGOÑA ALBA (@NetBEGOA) <a href="https://twitter.com/NetBEGOA/status/703589412085624832">February 27, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LYcHxr4PZQg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Carl Sagan Cosmos Intro <a href="https://t.co/0EE0W5Inqw">https://t.co/0EE0W5Inqw</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; I Grok (@friendofwatts) <a href="https://twitter.com/friendofwatts/status/706443654307684352">6 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzS39oghcnY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7SQ7JOS0KTo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

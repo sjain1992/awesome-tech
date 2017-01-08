@@ -184,6 +184,7 @@
 - [A curated list of AWS resources to prepare for the AWS Certifications 🌟🌟](https://gist.github.com/leonardofed)
 - [AWS Certified Solutions Architect Professional – Study Guide 🌟🌟](https://blue-clouds.com/category/study-guide/)
 - [aws.amazon.com: First AWS Certification Study Guide Now Available 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/10/first-aws-certification-study-guide-now-available/)
+- [Tips on Passing AWS Certified Solutions Architect - Professional Level](https://www.linkedin.com/pulse/passed-aws-certified-solutions-architect-level-harshit-agarwal)
 
 [![aws_certificates](images/aws_certificates.png)](http://walkintocloud.com/index.php/2016/06/04/amazon-aws-certification-preparation-tips/)
 
