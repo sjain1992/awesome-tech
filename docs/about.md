@@ -49,8 +49,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="eu" dir="ltr">Amazing!!! <a href="https://twitter.com/LitMotors">@LitMotors</a> <a href="https://twitter.com/hashtag/C1?src=hash">#C1</a> <a href="https://t.co/OhaGMjmSyt">https://t.co/OhaGMjmSyt</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Mikel Arzallus (@mikel_arzallus) <a href="https://twitter.com/mikel_arzallus/status/709009784628883457">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">End of era for pizza delivery boy? Domino&#39;s Australia unveils self-driving pizza delivery robot <a href="https://t.co/EdSlVKBX8z">pic.twitter.com/EdSlVKBX8z</a></p>&mdash; China Xinhua News (@XHNews) <a href="https://twitter.com/XHNews/status/710763147481759744">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Road?src=hash">#Road</a> <a href="https://twitter.com/hashtag/printer?src=hash">#printer</a>  <a href="https://t.co/GwIA0SA07b">https://t.co/GwIA0SA07b</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/hashtag/Architecture?src=hash">#Architecture</a> <a href="https://twitter.com/hashtag/construction?src=hash">#construction</a> <a href="https://twitter.com/hashtag/infrastructure?src=hash">#infrastructure</a> <a href="https://twitter.com/hashtag/USVI?src=hash">#USVI</a> <a href="https://twitter.com/hashtag/Africa?src=hash">#Africa</a> <a href="https://twitter.com/hashtag/Haiti?src=hash">#Haiti</a> <a href="https://twitter.com/hashtag/RoadWarriors?src=hash">#RoadWarriors</a></p>&mdash; TheresaEBerger (@TheresaEBerger) <a href="https://twitter.com/TheresaEBerger/status/709002012130734080">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
@@ -63,8 +61,15 @@
 </div>
 <br/>
 _______________________________________________________________________________________
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/x3T9acIzSX">https://t.co/x3T9acIzSX</a> Entrevista de Eduard Punset a Oliver Sacks en <a href="https://twitter.com/RedesTV">@RedesTV</a></p>&mdash; Antonio (@antolev10) <a href="https://twitter.com/antolev10/status/683951403325374464">4 de enero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MLXPrGtHXMo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0ZS-k_mno4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr63Sm7B16YnQPFBHmaiRnoXXzryFjUdZ" frameborder="0" allowfullscreen class="video"></iframe>
