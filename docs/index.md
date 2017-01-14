@@ -746,6 +746,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![old-thinking-new-thinking](images/old-thinking-new-thinking.jpg)](http://plbbusinessconsulting.com/old-thinking-vs-new-thinking/)
 
+![carnegie_85_percent_financial_success](images/carnegie_85_percent_financial_success.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curiosity, <a href="https://twitter.com/hashtag/creativity?src=hash">#creativity</a>, critical thinking: Where do job seekers w/<a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a> have an edge? <a href="https://t.co/dCapgqUWQG">https://t.co/dCapgqUWQG</a> <a href="https://t.co/JS5RxMuJt0">pic.twitter.com/JS5RxMuJt0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/762759561363222529">8 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
