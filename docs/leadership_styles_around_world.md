@@ -92,6 +92,8 @@
 </div>
 <br/>
 
+![8_qualities_great_bosses_unforgettable](images/8_qualities_great_bosses_unforgettable.jpg)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vhiYZTzjOTw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
