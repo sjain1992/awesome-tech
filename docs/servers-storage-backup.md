@@ -318,11 +318,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Veritas se relanza tras independizarse de Symantec <a href="https://t.co/Z2TBg5lQPw">https://t.co/Z2TBg5lQPw</a> <a href="https://t.co/kDamQq3Qdo">pic.twitter.com/kDamQq3Qdo</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/709315094325268480">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LYWuy1rXV3g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
 	- [3 Ways To Ensure 100 Percent Secure Enterprise File Sharing](http://www.vaultize.com/blog/3-ways-to-ensure-100-percent-secure-enterprise-file-sharing)
