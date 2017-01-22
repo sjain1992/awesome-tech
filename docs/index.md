@@ -692,6 +692,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-U3N0L041vw?list=RD-U3N0L041vw&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp79HDViQ9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -788,6 +793,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">47 years ago today Neil, Mike &amp; I took a ride on a big rocket to the moon. <br>Liftoff on <a href="https://twitter.com/hashtag/Apollo11?src=hash">#Apollo11</a> <a href="https://t.co/FrvdmddkYo">pic.twitter.com/FrvdmddkYo</a></p>&mdash; Buzz Aldrin (@TheRealBuzz) <a href="https://twitter.com/TheRealBuzz/status/754352183836045316">16 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaOC9danxNo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![dilbert_firewall](images/dilbert_firewall.png)](http://dilbert.com/strip/2013-04-07)
 
