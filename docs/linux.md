@@ -37,7 +37,7 @@
 		- [Netdata](#netdata)
 		- [BCC Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
 			- [Berkeley Packet Filter BPF](#berkeley-packet-filter-bpf)
-	- [Logging](#logging)
+	- [JournalD](#journald)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [OpenVPN](#openvpn)
@@ -846,8 +846,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Logging
-- [Logging With Journald In RHEL7/CentOS7](https://www.unixmen.com/logging-journald-rhel7centos7/)
+## JournalD 
+- [Logging With Journald In RHEL7/CentOS7 🌟](https://www.unixmen.com/logging-journald-rhel7centos7/)
 
 ## Linux Networking
 ### Networking FOSS Tools
@@ -995,6 +995,7 @@
 - [tecmint: How to Change and Secure Default PhpMyAdmin Login URL](http://www.tecmint.com/change-secure-phpmyadmin-login-url-page/)
 - [unixmen.com: What Is Fork Bomb And How Can You Prevent This Danger? 🌟🌟🌟🌟](https://www.unixmen.com/fork-bomb-can-prevent-danger/)
 - [tecmint: How to Secure Network Services Using TCP Wrappers in Linux 🌟🌟](http://www.tecmint.com/secure-linux-tcp-wrappers-hosts-allow-deny-restrict-access/)
+- [unix.stackexchange.com: Allow user1 to “su - user2” without password](http://unix.stackexchange.com/questions/113754/allow-user1-to-su-user2-without-password)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

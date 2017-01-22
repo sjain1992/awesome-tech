@@ -581,6 +581,10 @@
 		
 		sed -n '3,7p' somefile
 
+- Filter out lines containing 'spam': 
+
+		sed '/spam/d' somefile
+
 - Show some full file paths referenced in the process table to try to find out where systems are storing data:
 
 		ps auxww | grep -o "/[^\ ]*"
@@ -588,6 +592,10 @@
 - Did they really only change what they say they did?:
 
 		diff <(docx2txt < agreement.docx) <(docx2txt < newagreement.docx)
+
+- Use the -w option in diff to ignore differences in whitespace (tabs instead of spaces, etc.)
+
+		diff -w index.html bookexample/index.html
 
 - mping nic.uz:
 
@@ -673,6 +681,8 @@
 - How to reboot a systemd linux box forcefully: 
 
 		systemctl reboot --force --force 
+
+- Shell scripts run in their own subshell, so a cd in a script effects only the subshell. To script a cd, use an alias instead.
 
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
