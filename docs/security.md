@@ -236,6 +236,9 @@
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
 - [twitter.com/HackerNews](https://twitter.com/HackerNews)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I love it when a hotel takes password security seriously. <a href="https://t.co/mK9hLEjSGe">pic.twitter.com/mK9hLEjSGe</a></p>&mdash; Help Net Security (@helpnetsecurity) <a href="https://twitter.com/helpnetsecurity/status/814393111673704449">29 de diciembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Seguridad en Twitter
 - [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
@@ -541,6 +544,9 @@
 - [seguridadapple.com: Las apps bancarias en iOS siguen teniendo debilidades respecto a 2013](http://www.seguridadapple.com/2015/12/las-apps-bancarias-en-ios-siguen.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PuTTY version 0.67 is released. This is a security update. <a href="https://t.co/7MXHcveBM6">https://t.co/7MXHcveBM6</a> <a href="https://twitter.com/hashtag/SSH?src=hash">#SSH</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706218771388588033">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I noticed there is no good visualization of the real Information Security triad, so i made one. You&#39;re welcome. <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://t.co/BAJvOIpVsh">pic.twitter.com/BAJvOIpVsh</a></p>&mdash; Daniel Schatz (@virturity) <a href="https://twitter.com/virturity/status/799242892082429953">17 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Keyloggers

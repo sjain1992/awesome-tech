@@ -66,6 +66,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How much do qualifications matter for a job in tech, really? <a href="https://t.co/NxNqGP4arE">https://t.co/NxNqGP4arE</a> via  <a href="https://twitter.com/mark_samuels">@mark_samuels</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747457944963289088">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">my-career-in-one-xkcd-panel.png <a href="https://t.co/iCrSBn2r1c">pic.twitter.com/iCrSBn2r1c</a></p>&mdash; Melissa 🕯 (@0xabad1dea) <a href="https://twitter.com/0xabad1dea/status/799058239090475009">17 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [twitter.com/udemy](https://twitter.com/udemy)
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)

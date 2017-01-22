@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Microsoft](#microsoft)
+    - [Windows Subsystem for Linux \(WSL\)](#windows-subsystem-for-linux-wsl)
     - [SSH client for Windows](#ssh-client-for-windows)
     - [MongoDB on Azure](#mongodb-on-azure)
     - [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
@@ -52,10 +53,14 @@
 - [zdnet: Why Microsoft's vulnerability severity ratings are obsolete 🌟](http://www.zdnet.com/article/microsofts-vulnerability-severity-ratings-are-obsolete/) The distinction between 'critical' and 'important' has become meaningless. It makes no sense to treat them differently. Patch Tuesday needs a patch.
 - [WinBeta.org 🌟🌟](http://www.winbeta.org/) Your source for Windows 10 and Microsoft news
 - [Microsoft Application Lifecycle Management. Visual Studio SSH build task](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/30/ssh-build-task/)
-- [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)
 - [Éstas son las principales novedades de Windows 10 Anniversary Update](http://www.xataka.com/aplicaciones/estas-son-las-principales-novedades-de-windows-10-anniversary-update)
 - [Red Hat, Microsoft and Codenvy Push DevOps with New Language Protocol 🌟🌟🌟](http://thevarguy.com/open-source-application-software-companies/red-hat-microsoft-and-codenvy-push-devops-new-language-pr)
 - [How to stop Windows 10 from automatically installing downloaded updates?](http://www.idganswers.com/question/29517/how-to-stop-windows-10-from-automatically-installing-downloaded-updates)
+
+## Windows Subsystem for Linux (WSL)
+- [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)
+- [Installation Guide](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
+- [Bash on Ubuntu on Windows (WLS): FAQ](https://msdn.microsoft.com/en-us/commandline/wsl/faq)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -89,6 +94,7 @@
 - [SSH for Windows open sourced by Microsoft. What's going on? 🌟](https://github.com/PowerShell/Win32-OpenSSH)
 - [MobaXterm](http://mobaxterm.mobatek.net/)
 - [Need an SSH client on Windows? Don't use Putty or CygWin...use Git](http://www.hurryupandwait.io/blog/need-an-ssh-client-on-windows-dont-use-putty-or-cygwinuse-git)
+- [Free Client - SSH Cryptonaut 🌟🌟🌟](https://www.ssh.com/ssh/download/) Free Windows SSH client, SSH Cryptonaut, to be used for free - for any purpose.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1ZXHdwqOr9pGcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/vandyke-securecrt-tips-and-tricks" title="Vandyke SecureCRT tips and tricks" target="_blank">Vandyke SecureCRT tips and tricks</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>

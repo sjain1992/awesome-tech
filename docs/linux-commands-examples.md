@@ -63,6 +63,10 @@
 
 		du -h . | grep "^[0-9\.]\+G"
 
+- Total bytes used by 5+ year old directories in CWD:
+
+		find . -mtime +$((365*5)) -maxdepth 1 -exec du -sb {} \; |awk '{s+=$1}END{print s}'
+
 - List of empty subdirectories of current directory.
 
 		find . -empty -type d
@@ -310,6 +314,10 @@
 		Read captured traffic: 
 		tcpdump -r file
 
+- Show only up to the first 10 packets by each source IP:
+
+		tcpdump -nn ip | awk '{s=$3;sub(/\.[0-9]+$/,"",s);if(a[s]++<10){print}}' 
+
 - Want to see whether there was an error after executing a command but no error message was displayed? $? shows the exit status. Try 
 
 		echo $?
@@ -483,6 +491,188 @@
 - The sed command p prints. For example, print lines 3 through 7 of a file: 
 
 		sed -n '3,7p' somefile
+
+- Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries:
+
+		find . -xdev -ls | sort -n -k 7 | tail -5
+
+- List the 20 largest files or folders under the current working directory:
+
+		du -ma | sort -nr | head -n 20
+
+- Search the file system, but don't descend into the /sys or /proc directories:
+
+		find / \( -path /proc -o -path /sys \) -prune -o -print
+
+- Scan your internal network for hosts listening on TCP port 22 (SSH protocol):
+
+		nmap --open -p T:22 192.168.1.0/24   (prints closed/filtered ports) 
+		nmap 192.168.1.0/24 -p22    
+
+- Display top bandwidth hogs on website:
+
+		awk '{a[$1] += $10} END {for (h in a) print h " " a[h]}' access_log | sort -k 2 -nr | head -10
+
+- Determine what lines two different files have in common. The comm program requires sorted files:
+
+		comm -12 <(sort names1) <(sort names2) 
+		
+- Add this to .vimrc and all searches in vim will use "very magic" mode which acts like egrep:
+
+		nnoremap / /\v
+
+- Long list (-l) only the directories in the current directory. .*/ and */ are utilizing your shell's glob matching ability:
+
+		ls -ld .*/ */ 
+
+- Show only the processes matching httpd, ignoring the line of the grep process itself (regex trick):
+
+		ps auxww | grep "[h]ttpd"
+
+- Show tabs in a file:
+
+		cat -T
+
+- strace is a sysadmin godsend. This will follow pid 927 and its children, writing to "smtpd.<pid>":
+
+		strace -p 927 -o smtpd -ff -tt
+
+- While in #vim insert mode, insert the filename of the current file into the buffer or vim command prompt:
+		
+		[Ctrl-R] % 
+
+- In #vim, re-select the previous selection:
+
+		gv
+
+- In vim, this will left shift indentation of selected lines by one tab. > for right:
+
+		v (select text with cursor movement) <
+
+- Comment out selected lines in vim using block select mode. :
+
+		[Ctrl-V] (move cursor down across beginning of lines) [I] [#] [Esc]
+
+- In vim, depending on your term color scheme, these can help you w/ syntax highlighting:
+
+		:set bg=dark or :set bg=light 
+
+- Open all your JS source files in vim tabs. Then use :tabn and :tabp to switch between them. :tabe newfile to open new tab:
+
+		vim -p *.js 
+
+- This vim command will turn off the current search highlighting until the next search. Use :set hlsearch to turn on:
+
+		:noh
+
+- Check net before slow scan:
+
+		for d in {1..254};do ping -c3 10.3.0.5 > /dev/null ||{ echo "VPN is down";break; }; nmap -T1 10.3.0.$d ; done
+
+- You can use the -n option with make to preview what it will do first before actually doing it:
+
+		make -n install
+
+- Who can see your 8.8.8.8 requests?:
+
+		traceroute 8.8.8.8|awk -F[\(\)] '$2~/[0-9]/{print $2}'|while read i;do echo $i;geoiplookup $i;done
+
+- The sed command p prints. For example, print lines 3 through 7 of a file:
+		
+		sed -n '3,7p' somefile
+
+- Show some full file paths referenced in the process table to try to find out where systems are storing data:
+
+		ps auxww | grep -o "/[^\ ]*"
+
+- Did they really only change what they say they did?:
+
+		diff <(docx2txt < agreement.docx) <(docx2txt < newagreement.docx)
+
+- mping nic.uz:
+
+		mping(){ ping $@|awk -F[=\ ] '/time=/{t=$(NF-1);f=2000-14*log(t^18);c="play -q -n synth 1 pl "f"&";print $0;system(c)}';}
+
+- Optimize all png files for faster loading site:
+
+		find . -type f -iname "*.png" -print0|xargs -I {} -0 optipng "{}"
+
+- Backslashing the * glob instead of quoting the expression:
+
+		find ./music -name \*.mp3 -exec cp {} ./new \;
+
+- Find files under /var/log that are readable by the current user. Takes groups and ACLs into account:
+
+		find /var/log -readable -ls 
+
+- Prefix the epoch time in column 1 with the local time:
+	
+		tail -f udp.log|gawk '{printf("%s %s\n",strftime("%Y-%m-%d_%T", $1),$0)}'
+
+- Want to display date/time for each bash command history on a Linux/Unix?
+
+		HISTTIMEFORMAT="%d/%m/%y %T "
+
+- Regular Expression: will match one of the first five letters of the alphabet
+
+		[a-eA-E]
+
+- Regular Expression: The -f option in grep lets you specify a file of regular expressions, one per line.
+
+- Regular Expression: The awk variable NR contains the current record number.
+
+- curl supports numeric ranges. This is the full 14 days of unix-mas from 2012:
+
+		curl -Ns http://www.climagic\.org/uxmas/[1-14]
+
+- Skip first 2 fields & print rest of the line on Linux/Unix:
+
+		awk '{ $1=""; $2=""; print}' input
+
+- Automatic Security Updates in RHEL/CentOS 7:
+
+		yum --security update
+
+- The GNU version of date lets you do things like the following:
+
+		date -d "today + 90 days"
+		date -d "+90 days"
+
+- Search man pages for a given string:
+
+		man -k string
+
+- Output a file, displaying non-printing characters: 
+
+		cat -v
+		cat -A
+
+- Print lines of file without printing ones already seen. $0 means whole line in awk. 'a' is an array:
+
+		awk '!a[$0]++' file
+
+- Use jq to pretty print some json data with ANSI color coded syntax and use -R in less to process the color:
+
+		jq -C '.' data.json | less -R
+
+- Replace all variables $val with $pid in getproc.pl, except on commented lines. *FIXED*:
+
+		sed -i -e '/^\s*#/!s/$val\>/$pid/g' getproc.pl
+
+- Gen 20 random users/passwords:
+
+		for i in {1..20} ; do rig|head -1 |tr A-Z a-z;done |while read f l;do echo ${f:0:1}${l}:$(pwgen 12 1);done
+
+- Quickly create a large file on a linux system:
+
+		fallocate -l 10G 10Gigfile
+		truncate -s 10M output.file
+		truncate -s 10G output.file
+		https://www.cyberciti.biz/faq/howto-create-lage-files-with-dd-command/
+
+- How to reboot a systemd linux box forcefully: 
+
+		systemctl reboot --force --force 
 
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 

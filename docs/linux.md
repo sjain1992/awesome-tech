@@ -449,7 +449,7 @@
 ## Linux bash 
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
 	- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
-- [explainshell.com](http://explainshell.com) match command-line arguments to their help text
+- [explainshell.com 🌟🌟](http://explainshell.com) match command-line arguments to their help text
 - [BashFAQ: BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - [SlideShare: find, grep, sed, and awk](https://wilsonericn.wordpress.com/2011/08/25/find-grep-sed-and-awk/)
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
@@ -517,6 +517,8 @@
 - [tecmint: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
 - [What typing ^D really does on Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects)
 - [Put the last command's run time in your Bash prompt 🌟🌟🌟](http://jakemccrary.com/blog/2015/05/03/put-the-last-commands-run-time-in-your-bash-prompt/)
+- [unixmen.com: How to enable time tag in History command ? 🌟🌟🌟](https://www.unixmen.com/enable-time-tag-history-command/)
+- [nixCraft: Bash History - Display Date And Time For Each Command 🌟🌟🌟](https://www.cyberciti.biz/faq/unix-linux-bash-history-display-date-time/)
 - [unixmen.com: Some Basic Linux Commands I Have Used During My Linux Journey – Part 5](https://www.unixmen.com/basic-linux-commands-used-linux-journey-part-5/)
 - [nixCraft: Linux/UNIX Recursively Search All Files For A String 🌟🌟](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 - [nixCraft: How To Change Timezone on a CentOS 6 and 7](http://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
@@ -525,6 +527,11 @@
 - [Tecmint: 3 Ways to Delete All Files in a Directory Except One or Few Files with Extensions](http://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/)
 - [Tecmint: How to Sort Output of ‘ls’ Command By Last Modified Date and Time](http://www.tecmint.com/sort-ls-output-by-last-modified-date-and-time/)
 - [Tecmint: How to Split Large ‘tar’ Archive into Multiple Files of Certain Size](http://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/)
+- [tmux-cssh: Ejecutar comandos de forma simultánea en varias máquinas a la vez 🌟🌟🌟](http://enavas.blogspot.com.es/2016/12/tmux-cssh-ejecutar-comandos-de-forma.html)
+- [Handy Bash feature: Process Substitution 🌟🌟🌟](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.kgzn87t7o) 
+- [Tecmint: How to Start Linux Command in Background and Detach Process in Terminal 🌟🌟](http://www.tecmint.com/run-linux-command-process-in-background-detach-process/)
+- [nixCraft: 10 Tools To Add Some Spice To Your UNIX Shell Scripts 🌟🌟](https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html) tput (used to set terminal features), setleds, logger, setterm, bash socket programming, etc
+- [nixCraft: Linux/UNIX: Create Large 1GB Binary Image File With dd Command 🌟🌟🌟](https://www.cyberciti.biz/faq/howto-create-lage-files-with-dd-command/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -596,6 +603,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Convert Files to UTF-8 Encoding in Linux<a href="https://t.co/CQuaVPo7V8">https://t.co/CQuaVPo7V8</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/oToUgEZZxP">pic.twitter.com/oToUgEZZxP</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/793705769749270528">2 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[Retweet] Here are some strange <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> &amp; <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> command name stand for. Did I missed something? <a href="https://twitter.com/hashtag/openbsd?src=hash">#openbsd</a> <a href="https://twitter.com/hashtag/osx?src=hash">#osx</a> <a href="https://twitter.com/hashtag/freebsd?src=hash">#freebsd</a> <a href="http://t.co/kAfEhvmBQe">pic.twitter.com/kAfEhvmBQe</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/490366978708606977">19 de julio de 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 - [5 reasons system administrators should use revision control 🌟🌟🌟](https://opensource.com/life/16/7/systems-administrators-should-use-revision-control)
@@ -646,6 +656,8 @@
 ## Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
 - [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
+- [unixmen.com: How To Use The Linux Terminal Like A Real Pro, First Part](https://www.unixmen.com/use-linux-terminal-like-real-pro-first-part/)
+- [unixmen.com: Evolution Of Unix/Linux Shells](https://www.unixmen.com/evolution-unix-linux-shells/)
 
 ### Terminal Multiplexers
 - [wikipedia: Terminal multiplexer](https://en.wikipedia.org/wiki/Terminal_multiplexer)
@@ -653,6 +665,12 @@
 - [tmux.github.io](https://tmux.github.io)
 - [linuxcommand.org Terminal Multiplexers](http://linuxcommand.org/lc3_adv_termmux.php)
 - [screen](http://michael-prokop.at/screen/index.php3)
+- [tmux-cssh: Ejecutar comandos de forma simultánea en varias máquinas a la vez 🌟🌟🌟](http://enavas.blogspot.com.es/2016/12/tmux-cssh-ejecutar-comandos-de-forma.html)
+- [tecmint: 10 Screen Command Examples to Manage Linux Terminals](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
+- [youtube: Basic tmux Tutorial - Windows, Panes, and Sessions over SSH 🌟🌟🌟](https://www.youtube.com/watch?v=BHhA_ZKjyxo)
+- [medium.com: Install tmux, Basic tmux Tutorial On Ubuntu | Elementary os | Linux Mint](https://medium.com/@pardi_yn/install-tmux-basic-tmux-tutorial-on-ubuntu-elementary-os-linux-mint-c4cb2b6e7d76#.wv07h6cee)
+- [Read "The Tao of tmux" prerelease for free online 🌟🌟🌟](https://leanpub.com/the-tao-of-tmux/read)
+- [Tmux Pain Control](https://github.com/tmux-plugins/tmux-pain-control) Tmux plugin for controlling panes. Adds standard pane navigation bindings.
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 
@@ -921,6 +939,7 @@
 - [unixmen.com: Using Tcpdump To Capture And Analyze Network Traffic](https://www.unixmen.com/using-tcpdump-capture-analyze-network-traffic/)
 - [opensource.com: How to configure networking in Linux 🌟🌟](https://opensource.com/life/16/6/how-configure-networking-linux)
 - [unixmen.com: Basics Of NetworkManager Command Line Tool, Nmcli 🌟🌟](https://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/)
+- [nixCraft: Linux Network Statistics Tools/Commands 🌟🌟🌟](https://www.cyberciti.biz/faq/network-statistics-tools-rhel-centos-debian-linux/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nmap Command For Network Administrator<a href="https://t.co/6yFJIt1iNd">https://t.co/6yFJIt1iNd</a><a href="https://twitter.com/hashtag/Kalilinux?src=hash">#Kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/kali?src=hash">#kali</a> <a href="https://twitter.com/hashtag/Nmap?src=hash">#Nmap</a> <a href="https://twitter.com/hashtag/Network?src=hash">#Network</a> <a href="https://t.co/YFvHyC9fqs">pic.twitter.com/YFvHyC9fqs</a></p>&mdash; KaliTut Tutorials (@xKaliSec) <a href="https://twitter.com/xKaliSec/status/752591167435472896">11 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -1007,6 +1026,7 @@
 - [Tecmint: Setting Up Web-Based Guacamole Tool to Access Remote Linux/Windows Machines 🌟🌟🌟](http://www.tecmint.com/guacamole-access-remote-linux-windows-machines-via-web-browser/)
 - [Tecmint: 10 Screen Command Examples to Manage Linux Terminals 🌟🌟🌟](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
 - [Tecmint: 5 Ways to Keep Remote SSH Sessions and Processes Running After Disconnection 🌟🌟🌟](http://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)
+- [Free Client - SSH Cryptonaut 🌟🌟🌟](https://www.ssh.com/ssh/download/) Free Windows SSH client, SSH Cryptonaut, to be used for free - for any purpose.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -1166,6 +1186,10 @@
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 - [vim-adventures.com 🌟](http://vim-adventures.com/) Learning VIM while playing a game
 - [Vim tips and tricks that you probably never heard of 🌟🌟🌟](https://www.rosehosting.com/blog/vim-tips-and-tricks/)
+- [Vim Colors 🌟🌟🌟](http://vimcolors.com/)
+- [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+- [vimebook.com: Vim for humans](https://vimebook.com/en)
+- [A byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>

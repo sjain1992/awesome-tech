@@ -259,3 +259,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">traceroute 8.8.8.8|awk -F[\(\)] &#39;$2~/[0-9]/{print $2}&#39;|while read i;do echo <a href="https://twitter.com/search?q=%24i&amp;src=ctag">$i</a>;geoiplookup <a href="https://twitter.com/search?q=%24i&amp;src=ctag">$i</a>;done # Who can see your 8.8.8.8 requests?</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/795692661923573761">7 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Automate to save mental energy, not to save time.<a href="https://t.co/JOrpS3X1nr">https://t.co/JOrpS3X1nr</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/818471057313112065">9 de enero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

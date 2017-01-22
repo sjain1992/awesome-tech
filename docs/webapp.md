@@ -147,6 +147,10 @@
 - [Apache httpd Reverse Proxy 🌟](http://jimjag.com/imo/index.php?/archives/266-Apache-httpd-Reverse-Proxy.html)
 - [httpd.apache.org: Apache Module mod_proxy_hcheck](https://httpd.apache.org/docs/trunk/mod/mod_proxy_hcheck.html)
 - [cvedetails.com: Apache » Http Server : Security Vulnerabilities 🌟](http://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-66/Apache-Http-Server.html)
+- [Tecmint: GoAccess (A Real-Time Apache and Nginx) Web Server Log Analyzer 🌟🌟🌟](http://www.tecmint.com/goaccess-a-real-time-apache-and-nginx-web-server-log-analyzer/)
+- [Tecmit: httpstat – A Curl Statistics Tool to Check Website Performance](http://www.tecmint.com/httpstat-curl-statistics-tool-check-website-performance/)
+- [Apache Authentication with System Accounts? (PAM authentication)](http://www.spinics.net/linux/fedora/fedora-users/msg473705.html)
+- [reddit.com: httpd web authentication using ac/dc sssd credentials 🌟](https://www.reddit.com/r/linuxadmin/comments/56fx3i/httpd_web_authentication_using_acdc_sssd/)
 
 [![How Apache Is Losing The Web To NGINX 2](images/nginx-w3techs-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
