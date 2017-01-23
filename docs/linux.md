@@ -706,7 +706,7 @@
 - [unixmen.com: How To Install Linux Kernel 4.3.0](http://www.unixmen.com/how-to-install-linux-kernel-4-3-0/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MShbP3OpASA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MShbP3OpASA?start=2985&end=3053" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
