@@ -48,7 +48,7 @@
 - [cloudload.io: Performance testing for websites and mobile applications](http://www.cloudload.io/)
 
 ### Video Streaming Load Testing
-- [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
+- [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter) [loadview-testing.com: Another way to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.loadview-testing.com/)
 
 [![dzone_jmeter_refcard](images/dzone_jmeter_refcard.png)](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
