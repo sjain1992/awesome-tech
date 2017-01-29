@@ -326,6 +326,7 @@
 - [DZone: Why Is GitHub Taking Over the World?](https://dzone.com/articles/why-is-github-taking-over-the-world) Github has becoming the 83rd busiest website in the entire planet. That's a mind blowing statistic when you consider it's "just source control." Why is this happening?
 - [Tecmint: How to Install Git and Setup Git Account in RHEL, CentOS and Fedora](http://www.tecmint.com/install-git-centos-fedora-redhat/)
 - [Git and Github in Plain English 🌟🌟](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
+- [GIT quick statistics: git quick-stats 🌟🌟🌟](https://github.com/arzzen/git-quick-stats) Git quick statistics is a simple and efficient way to access various statistics in git repository. 
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
