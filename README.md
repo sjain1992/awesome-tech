@@ -11,6 +11,7 @@ A curated list of awesome IT projects and resources collected since 2014. Inspir
     - [Awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
     - [Awesome penetration testing](https://github.com/enaqx/awesome-pentest)
     - [Awesome android security](https://github.com/ashishb/android-security-awesome)
+    - [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 - [Awesome docker](https://github.com/veggiemonk/awesome-docker)
 - [Awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome OpenStack](http://ramitsurana.github.io/awesome-openstack/)
