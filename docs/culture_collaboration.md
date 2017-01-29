@@ -195,6 +195,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">If you can&#39;t handle others <a href="https://twitter.com/hashtag/disapproval?src=hash">#disapproval</a>, then <a href="https://twitter.com/hashtag/leadership?src=hash">#leadership</a> isn&#39;t for you. <a href="https://twitter.com/hashtag/leadfromwithin?src=hash">#leadfromwithin</a> <a href="https://t.co/UPjTJGR2l8">pic.twitter.com/UPjTJGR2l8</a></p>&mdash; Miles Anthony Smith (@Miles_Anthony) <a href="https://twitter.com/Miles_Anthony/status/692399193940369408">27 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hSoK6TTGrYXjje" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/how-to-be-happy-at-work-10-simple-tips-that-work" title="How to Be Happy at Work - 10 Simple Tips That Work" target="_blank">How to Be Happy at Work - 10 Simple Tips That Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
 </div>

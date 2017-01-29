@@ -55,6 +55,7 @@
 - [blog.datapath.io: 8 Network Optimization Principles for DevOps](http://blog.datapath.io/network-optimization-principles-for-devops)
 - [blog.datapath.io: How to Test for Packet Loss on Windows](http://blog.datapath.io/how-to-test-for-packet-loss-on-windows)
 - [blog.datapath.io: How to Optimize DNS for better Web Performance](http://blog.datapath.io/how-to-optimize-dns-for-better-web-performance)
+- [Everything You Know About Latency Is Wrong 🌟🌟](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)

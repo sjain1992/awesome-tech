@@ -193,6 +193,7 @@
 	- [Awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
 	- [Awesome penetration testing](https://github.com/enaqx/awesome-pentest)
 	- [Awesome android security](https://github.com/ashishb/android-security-awesome)
+	- [Awesome Windows Exploitation 🌟🌟](https://github.com/enddo/awesome-windows-exploitation)
 - [Awesome docker 🌟🌟🌟🌟](https://github.com/veggiemonk/awesome-docker)
 - [Awesome Puppet](https://github.com/olindata/awesome-puppet)
 - [Awesome Ansible 🌟](https://github.com/jdauphant/awesome-ansible)

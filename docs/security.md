@@ -123,6 +123,7 @@
 - [awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
 - [awesome penetration testing](https://github.com/enaqx/awesome-pentest)
 - [awesome android security](https://github.com/ashishb/android-security-awesome)
+- [Awesome Windows Exploitation 🌟🌟](https://github.com/enddo/awesome-windows-exploitation)
 
 ## CVE Common Vulnerabilities and Exposures
 - Common Vulnerability Enumeration is a repository of security software flaws managed by NIST in the National Vulnerability Database (NVD) as part of SCAP (Security Content Automation Protocol)

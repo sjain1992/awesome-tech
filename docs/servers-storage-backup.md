@@ -359,6 +359,7 @@
 - [Backup and archive to AWS Storage Gateway VTL with Veeam Backup & Replication v9 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/08/backup-and-archive-to-aws-storage-gateway-vtl-with-veeam-backup-and-replication-v9/)
 - [SEP Backup and Disaster Recovery Announces Support for Red Hat Virtualization 4.0](http://finance.yahoo.com/news/sep-backup-disaster-recovery-announces-214400634.html)
 - [Veeam Backup for Microsoft Office 365: Availability vs Recoverability](https://www.veeam.com/blog/how-backup-office-365-email.html)
+- [opensource.com: Using rsync to back up your Linux system 🌟🌟](https://opensource.com/article/17/1/rsync-backup-linux)
 
 ![system_restore_disk](images/system_restore_disk.jpg)
 

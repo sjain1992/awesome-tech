@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Ansible](#ansible)
+    - [Ansible Vulnerabilities](#ansible-vulnerabilities)
     - [nixCraft](#nixcraft)
     - [Tecmint](#tecmint)
     - [Unixmen](#unixmen)
@@ -94,6 +95,11 @@
 - [zdnet.com: Red Hat open sources Ansible Galaxy for all 🌟🌟🌟](http://www.zdnet.com/article/red-hat-open-sources-ansible-galaxy-for-all/) Red Hat double-downs on open-sourcing components of its Ansible DevOps program.
 - [jeffgeerling.com: How I test Ansible configuration on 7 different OSes with Docker](http://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker)
 - [Fedora Server: Expanding Throughout the Galaxy 🌟🌟](https://sgallagh.wordpress.com/2016/10/13/fedora-server-expanding-throughout-the-galaxy/)
+- [serversforhackers.com: An Ansible Tutorial 🌟🌟🌟](https://serversforhackers.com/an-ansible-tutorial)
+- [ansible.com: Ansible Best Practices, the essentials 🌟🌟🌟](https://www.ansible.com/blog/ansible-best-practices-essentials)
+
+## Ansible Vulnerabilities
+- [CVE-2016-9587: an unpleasant Ansible vulnerability](https://lwn.net/Articles/711357/)
 
 ## nixCraft
 - [cyberciti.biz: Linux Tutorial: Install Ansible Configuration Management And IT Automation Tool 🌟🌟🌟](http://www.cyberciti.biz/python-tutorials/linux-tutorial-install-ansible-configuration-management-and-it-automation-tool/)

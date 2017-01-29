@@ -593,6 +593,12 @@
 
 		diff <(docx2txt < agreement.docx) <(docx2txt < newagreement.docx)
 
+- Handy Bash feature: Process Substitution:
+
+		$ some-command <(another-command)
+		$ diff <(curl http://somesite/file1) <(curl http://somesite/file2)
+		https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.pfgkrudmb
+
 - Use the -w option in diff to ignore differences in whitespace (tabs instead of spaces, etc.)
 
 		diff -w index.html bookexample/index.html
@@ -600,6 +606,10 @@
 - mping nic.uz:
 
 		mping(){ ping $@|awk -F[=\ ] '/time=/{t=$(NF-1);f=2000-14*log(t^18);c="play -q -n synth 1 pl "f"&";print $0;system(c)}';}
+
+- Prefix each line with the local time based on epoch time in 1st column:
+
+		|gawk '{printf("%s %s\n",strftime("%Y-%m-%d_%T", $1),$0)}' 
 
 - Optimize all png files for faster loading site:
 
@@ -683,6 +693,47 @@
 		systemctl reboot --force --force 
 
 - Shell scripts run in their own subshell, so a cd in a script effects only the subshell. To script a cd, use an alias instead.
+
+- Directly attach screen/tmux over ssh session & save a useless parent bash process:
+
+		ssh -t box screen -r s
+		ssh -t box tmux a
+		https://github.com/brejoc/ssht 
+
+- alias this to `ssh` and it will (re)open a screen session named like your current user on the remote host:
+
+		#!/usr/bin/env bash
+
+		###
+		# call `SSH_SCREEN=1234 ./ssh user@host` to connect to screen 1234
+		# for example when there are multiple detached sessions with the same name
+		###
+
+		#set -o xtrace #debug
+
+		set -o nounset
+		set -o errexit
+		set -o pipefail
+
+		/usr/bin/ssh -t $@ "screen -R ${SSH_SCREEN:-${USER}}"
+
+- How the Network Time Protocol will handle the leap second: 
+
+		2016-12-31 23.59.59 
+		2016-12-31 23.59.60 <-- leap second 
+		2017-01-01 00.00.00
+
+- Analyze your whole lastlog to see the different remote hosts for each user:
+
+		last -da | awk '{print $1 " " $NF}' | sort | uniq -c
+
+- Show top count for col3, 2016-07 - 2017-01:
+
+		sed -n '/^2017-01/,/^2016-06/p' logs.csv |sed '$d' |awk -F, '{print $3}' |sort|uniq -c|sort -rn
+
+- grep gziped log files from .gz files in dirs starting with 2017-01-1 & 1 wild character:
+	
+		zgrep SSH::Password_Guessing 2017-01-1?/notice.*gz
 
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 

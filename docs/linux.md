@@ -43,6 +43,7 @@
 		- [OpenVPN](#openvpn)
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
+		- [Sudo](#sudo)
 		- [Linux SSH](#linux-ssh)
 		- [Rsync](#rsync)
 		- [iptables and firewalld](#iptables-and-firewalld)
@@ -125,6 +126,7 @@
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 - [alt.sysadmin.recovery: Getting over the trauma of system administration](https://groups.google.com/forum/#!forum/alt.sysadmin.recovery) Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of "after hours" (or, for that matter, "pubs") is an anathema for your average sysadmin, we have this instead. 
 - [linuxsay.com](http://linuxsay.com/)
+- [reddit.com/r/devops/ 🌟🌟🌟](https://www.reddit.com/r/devops/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life of a sysadmin :( <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/QEqEOgZaWZ">pic.twitter.com/QEqEOgZaWZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705316661767700480">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -153,6 +155,8 @@
 - [Best Linux Distros For Newcomers](http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html)
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 - [unixmen.com: Which Linux Distribution You Should Use](https://www.unixmen.com/linux-distribution-use/)
+
+![dont let friends chmod 777](images/dont_let_friends_chmod777.jpg)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XMm0HsmOTFI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -532,6 +536,7 @@
 - [Tecmint: How to Start Linux Command in Background and Detach Process in Terminal 🌟🌟](http://www.tecmint.com/run-linux-command-process-in-background-detach-process/)
 - [nixCraft: 10 Tools To Add Some Spice To Your UNIX Shell Scripts 🌟🌟](https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html) tput (used to set terminal features), setleds, logger, setterm, bash socket programming, etc
 - [nixCraft: Linux/UNIX: Create Large 1GB Binary Image File With dd Command 🌟🌟🌟](https://www.cyberciti.biz/faq/howto-create-lage-files-with-dd-command/)
+- [steve-parker.org: Progress Bar. Creating a simple Progress Bar for a shell script](http://steve-parker.org/sh/tips/progressbar/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -671,6 +676,7 @@
 - [medium.com: Install tmux, Basic tmux Tutorial On Ubuntu | Elementary os | Linux Mint](https://medium.com/@pardi_yn/install-tmux-basic-tmux-tutorial-on-ubuntu-elementary-os-linux-mint-c4cb2b6e7d76#.wv07h6cee)
 - [Read "The Tao of tmux" prerelease for free online 🌟🌟🌟](https://leanpub.com/the-tao-of-tmux/read)
 - [Tmux Pain Control](https://github.com/tmux-plugins/tmux-pain-control) Tmux plugin for controlling panes. Adds standard pane navigation bindings.
+- [nixCraft: Screen Command: Set Baud Rate - Terminal Communication](https://www.cyberciti.biz/faq/unix-linux-apple-osx-bsd-screen-set-baud-rate/)
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 
@@ -892,8 +898,9 @@
 </div>
 <br>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ngrep  - grep your network! <a href="https://t.co/LJCtQEaDAK">pic.twitter.com/LJCtQEaDAK</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/759758932181147648">31 de julio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ngrep  - grep your network! <a href="https://t.co/LJCtQEaDAK">pic.twitter.com/LJCtQEaDAK</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/759758932181147648">31 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">some stuff about networking notation <a href="https://t.co/t6DlXqRMnc">pic.twitter.com/t6DlXqRMnc</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/819407814691012608">12 de enero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### OpenVPN
 - [nixCraft: How To Setup OpenVPN Server In 5 Minutes on Ubuntu Server](http://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
@@ -1000,12 +1007,14 @@
 - [tecmint: How to Change and Secure Default PhpMyAdmin Login URL](http://www.tecmint.com/change-secure-phpmyadmin-login-url-page/)
 - [unixmen.com: What Is Fork Bomb And How Can You Prevent This Danger? 🌟🌟🌟🌟](https://www.unixmen.com/fork-bomb-can-prevent-danger/)
 - [tecmint: How to Secure Network Services Using TCP Wrappers in Linux 🌟🌟](http://www.tecmint.com/secure-linux-tcp-wrappers-hosts-allow-deny-restrict-access/)
-- [unix.stackexchange.com: Allow user1 to “su - user2” without password](http://unix.stackexchange.com/questions/113754/allow-user1-to-su-user2-without-password)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Practical Guide to Nmap (Network Security Scanner) in Kali Linux<a href="https://t.co/f4Hwr4vCMV">https://t.co/f4Hwr4vCMV</a><br>RT <a href="https://twitter.com/kalilinux">@kalilinux</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/LAsrcazWVA">pic.twitter.com/LAsrcazWVA</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/795870483140853760">8 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Sudo
+- [unix.stackexchange.com: Allow user1 to “su - user2” without password](http://unix.stackexchange.com/questions/113754/allow-user1-to-su-user2-without-password)
 
 ### Linux SSH
 - [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
@@ -1033,6 +1042,7 @@
 - [Tecmint: 10 Screen Command Examples to Manage Linux Terminals 🌟🌟🌟](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
 - [Tecmint: 5 Ways to Keep Remote SSH Sessions and Processes Running After Disconnection 🌟🌟🌟](http://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)
 - [Free Client - SSH Cryptonaut 🌟🌟🌟](https://www.ssh.com/ssh/download/) Free Windows SSH client, SSH Cryptonaut, to be used for free - for any purpose.
+- [nixCraft: SSH: WARNING: UNPROTECTED PRIVATE KEY FILE! Error and Solution](https://www.cyberciti.biz/faq/warning-unprotected-private-key-file-ssh-linux-unix-error/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
