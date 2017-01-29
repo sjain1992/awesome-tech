@@ -322,8 +322,6 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La conexión bidireccional XML entre <a href="http://t.co/BbjRKxlH68">http://t.co/BbjRKxlH68</a> &lt;&gt; Witbooking ya está online! - <a href="http://t.co/qeO6E9eJLA">http://t.co/qeO6E9eJLA</a></p>&mdash; witbooking (@witbooking) <a href="https://twitter.com/witbooking/status/604226132947386368">29 de mayo de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The perfect time to visit <a href="https://twitter.com/hashtag/Valencia?src=hash">#Valencia</a> with Las Fallas March 15-19! <a href="https://t.co/sb5MQDhKFD">https://t.co/sb5MQDhKFD</a> 🎇 <a href="https://t.co/EJFYgPjzVM">https://t.co/EJFYgPjzVM</a> 🎆 <a href="https://t.co/CCUvDiIXBz">pic.twitter.com/CCUvDiIXBz</a></p>&mdash; Budgetplaces.com (@budgetplaces) <a href="https://twitter.com/budgetplaces/status/704704538771644420">1 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dime con quién esquías y te diré a qué pista ir ⛷ <a href="https://t.co/LXAYOnWEhO">https://t.co/LXAYOnWEhO</a> <a href="https://t.co/Is1DEHXjRF">pic.twitter.com/Is1DEHXjRF</a></p>&mdash; Atrápalo España (@atrapalo) <a href="https://twitter.com/atrapalo/status/700610738348552192">19 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
