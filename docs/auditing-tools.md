@@ -12,6 +12,7 @@
 - [OpenSCAP 🌟](https://www.open-scap.org) Tools, Security Policies and Standards
 - [Red Hat Network Satellite: OpenSCAP](https://access.redhat.com/documentation/en-US/Red_Hat_Network_Satellite/5.5/html/User_Guide/chap-Red_Hat_Network_Satellite-User_Guide-OpenSCAP.html)
 - [RHEL 7: Using oscap](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Security_Guide/sect-Using_oscap.html)
+- [Howto OpenSCAP – basics and how to use in Satellite](https://liquidat.wordpress.com/2015/12/14/openscap-basics-and-usage-in-satellite/)
 
 ## Lynis
 - [Lynis: Security auditing tool for Unix/Linux systems 🌟🌟](https://cisofy.com/lynis/)

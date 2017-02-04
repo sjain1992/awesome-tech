@@ -263,6 +263,8 @@
 - [Red Hat Satellite](https://access.redhat.com/products/red-hat-satellite)
 - [Red Hat Satellite 6.2 is now available](https://access.redhat.com/blogs/1169563/posts/2464761)
 - [Hammer cheat sheet](https://access.redhat.com/articles/2258471)
+- [Subscription-manager for the former Red Hat Network User: Part 7 - understanding the Red Hat Content Delivery Network](https://access.redhat.com/blogs/1169563/posts/2641311)
+- [Howto OpenSCAP – basics and how to use in Satellite](https://liquidat.wordpress.com/2015/12/14/openscap-basics-and-usage-in-satellite/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/SkyNews">@SkyNews</a> saves time and effort with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Satellite: <a href="https://t.co/jk0dTuGYOP">https://t.co/jk0dTuGYOP</a> <a href="https://t.co/f1UTcyFkI8">pic.twitter.com/f1UTcyFkI8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/758676823039471617">28 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

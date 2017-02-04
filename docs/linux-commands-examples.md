@@ -735,6 +735,14 @@
 	
 		zgrep SSH::Password_Guessing 2017-01-1?/notice.*gz
 
+- Make URLs from data before foo:
+
+		grep -B3 "foo" multilinedata.txt |egrep "^Id:" |while read x x id; do echo "https://hostname/${id}"; done 
+
+- Filename with colons giving you problems with scp or rsync? Use the ./ path prefix B4 filename:
+
+		scp ./file:with:colons.txt user@otherhost
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
