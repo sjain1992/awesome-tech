@@ -587,6 +587,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![city_am_digital_innovators](images/city_am_digital_innovators.png)](http://www.cityam.com/digital-innovators)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Cb_CTyquok?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![redhat_ericsson_announce](images/redhat_ericsson_announce.png)](https://www.redhat.com/en/about/press-releases/red-hat-and-ericsson-announce-broad-alliance-enable-pervasive-adoption-open-source-solutions)
 
 [![tecmint_program_is_never_complete](images/tecmint_program_is_never_complete.jpg)](http://tecmint.com)
