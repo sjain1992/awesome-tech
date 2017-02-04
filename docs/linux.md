@@ -72,6 +72,8 @@
 
 ![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
 
+[![advanced-ssh-config](images/assh.png)](https://github.com/moul/advanced-ssh-config)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Consider single points of failure and how to deal with them should they fail. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a> <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707865797947842561">marzo 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
