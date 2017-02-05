@@ -190,11 +190,6 @@
 - [Install MongoDB on a Windows VM](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-classic-install-mongodb/)
 - [Instalación de MongoDB en una máquina virtual de Windows](https://azure.microsoft.com/es-es/documentation/articles/virtual-machines-windows-classic-install-mongodb/)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2W5lnMf3Pc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
 ## Microsoft Monitoring and Management
 - [Simple Talk](https://www.simple-talk.com)
 - [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)
