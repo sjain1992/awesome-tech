@@ -44,7 +44,7 @@
 			- [Berkeley Packet Filter BPF](#berkeley-packet-filter-bpf)
 	- [Init Systems. Boot scripts](#init-systems-boot-scripts)
 		- [SysVinit](#sysvinit)
-		- [Systemd](#systemd)
+		- [SystemD](#systemd)
 			- [JournalD](#journald)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
@@ -905,7 +905,7 @@
 - [SysVinit](https://wiki.archlinux.org/index.php/SysVinit)
 - [nixCraft: Linux/Unix: SysVinit Services Restart vs Reload vs Condrestart](https://www.cyberciti.biz/faq/linux-unix-sysvinit-services-restart-vs-reload-vs-condrestart/)
 
-### Systemd
+### SystemD
 - [tecmint.com: How to Manage ‘Systemd’ Services and Units Using ‘Systemctl’ in Linux](http://www.tecmint.com/manage-services-using-systemd-and-systemctl-in-linux/)
 - [tecmint.com: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
 - [tecmint.com: RHCSA Series: Process Management in RHEL 7: Boot, Shutdown, and Everything in Between – Part 5](http://www.tecmint.com/rhcsa-exam-boot-process-and-process-management/)
