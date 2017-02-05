@@ -454,6 +454,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Automate to save mental energy, not to save time.<a href="https://t.co/JOrpS3X1nr">https://t.co/JOrpS3X1nr</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/818471057313112065">9 de enero de 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![staticgen](images/staticgen.png)](https://www.staticgen.com/)
+
 [![russian_proverb](images/russian_proverb.jpg)](http://awesome-tech.readthedocs.io/high-quality-tech-resources/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">‘MAN vs MACHINE’ (for <a href="https://twitter.com/newscientist">@newscientist</a>) - <a href="https://t.co/QkK2VCHBv2">pic.twitter.com/QkK2VCHBv2</a></p>&mdash; Tom Gauld (@tomgauld) <a href="https://twitter.com/tomgauld/status/775307640511598606">12 de septiembre de 2016</a></blockquote>
@@ -524,6 +526,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
+
+[![howtowrite_goodcode](images/howtowrite_goodcode.jpg)](http://awesome-tech.readthedocs.io/devops-itil/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
@@ -768,6 +772,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Really proud to work in a company whose CEO believes in Openness and Honesty <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/XX2EwNmXw6">https://t.co/XX2EwNmXw6</a></p>&mdash; Red Hat Iberia (@RedHatIberia) <a href="https://twitter.com/RedHatIberia/status/827607607334547459">3 de febrero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Llull fue un brillante mecánico del arte de la combinatoria&quot;  <a href="https://t.co/EeOXd3b82g">https://t.co/EeOXd3b82g</a> via <a href="https://twitter.com/JotDownSpain">@JotDownSpain</a> <a href="https://twitter.com/hashtag/LlullCCCB?src=hash">#LlullCCCB</a></p>&mdash; CCCB (@cececebe) <a href="https://twitter.com/cececebe/status/783554969567956992">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

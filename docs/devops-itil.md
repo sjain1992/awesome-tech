@@ -156,6 +156,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This used to be unavoidable.  Now with <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> and <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a>, it isn&#39;t anymore. <a href="https://t.co/RxQG5oW0Ux">pic.twitter.com/RxQG5oW0Ux</a></p>&mdash; Greg Bledsoe (@geek_king) <a href="https://twitter.com/geek_king/status/827897758338207744">4 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Description
 - [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century 🌟🌟🌟](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)

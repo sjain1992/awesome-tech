@@ -23,6 +23,8 @@
 	- [Package Management](#package-management)
 		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
 	- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
+	- [Linux Shells](#linux-shells)
+	- [Linux Automation and Clustering Tools](#linux-automation-and-clustering-tools)
 	- [Linux bash](#linux-bash)
 	- [Linux Tips](#linux-tips)
 	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
@@ -45,6 +47,7 @@
 	- [Linux Security](#linux-security)
 		- [Sudo](#sudo)
 		- [Linux SSH](#linux-ssh)
+			- [SSH Tunnels](#ssh-tunnels)
 		- [Rsync](#rsync)
 		- [iptables and firewalld](#iptables-and-firewalld)
 			- [FirewallD](#firewalld)
@@ -451,6 +454,18 @@
 ## man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
 - [Bro pages](http://bropages.org/)
+
+## Linux Shells
+- [ZSH Tips by ZZapper](http://www.zzapper.co.uk/zshtips.html)
+
+## Linux Automation and Clustering Tools
+- [tecmint.com: Fabric – Automate Your Linux Administration Tasks and Application Deployments Over SSH 🌟🌟🌟](http://www.tecmint.com/automating-linux-system-administration-tasks/)
+- [tecmint.com: Pssh – Execute Commands on Multiple Remote Linux Servers Using Single Terminal 🌟🌟🌟](http://www.tecmint.com/execute-commands-on-multiple-linux-servers-using-pssh/)
+- [PAC Manager 🌟🌟🌟](http://www.linuxtechi.com/install-pac-manager-on-linuxmint-ubuntu-opensuse/)
+- [sshpt: SSH Power Tool](https://code.google.com/archive/p/sshpt/)
+- [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
+- [Install PAC Manager 4.5.4 on Ubuntu 14.04](https://sysads.co.uk/2014/08/install-pac-manager-4-5-4-ubuntu-14-04/)
+- [Running PAC Manager in Bash for Windows - WSL . reddit.com: Getting dbus and X server working 🌟🌟🌟](https://www.reddit.com/r/Windows10/comments/4rsmzp/bash_on_windows_getting_dbus_and_x_server_working/)
 
 ## Linux bash 
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
@@ -1035,7 +1050,6 @@
 - [The Security and Compliance Implications of SSH User Keys 🌟🌟](The Security and Compliance Implications of SSH User Keys)
 - [sshfront: Programmable SSH frontend](https://github.com/gliderlabs/sshfront) A lightweight SSH server frontend where authentication and connections are controlled with command handlers / shell scripts.
 - [medium.com: Why aren’t we using SSH for everything? 🌟](https://medium.com/swlh/ssh-how-does-it-even-9e43586e4ffc#.bvj32odfz)
-- [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
 - [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
 - [tecmint: How to Use Conspy to View and Control Remote Linux Virtual Consoles in Real Time 🌟🌟](http://www.tecmint.com/use-conspy-to-view-and-control-remote-linux-virtual-consoles/)
 - [unix.stackexchange.com: Is your SSH password revealed when you attempt to connect to the wrong server? 🌟🌟](http://unix.stackexchange.com/questions/309938/is-your-ssh-password-revealed-when-you-attempt-to-connect-to-the-wrong-server)
@@ -1045,6 +1059,20 @@
 - [Tecmint: 5 Ways to Keep Remote SSH Sessions and Processes Running After Disconnection 🌟🌟🌟](http://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)
 - [Free Client - SSH Cryptonaut 🌟🌟🌟](https://www.ssh.com/ssh/download/) Free Windows SSH client, SSH Cryptonaut, to be used for free - for any purpose.
 - [nixCraft: SSH: WARNING: UNPROTECTED PRIVATE KEY FILE! Error and Solution](https://www.cyberciti.biz/faq/warning-unprotected-private-key-file-ssh-linux-unix-error/)
+- [sshrc: bring your .bashrc, .vimrc, etc. with you when you ssh](https://github.com/Russell91/sshrc)
+- [tecmint.com: How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH 🌟🌟🌟](http://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh/)
+
+#### SSH Tunnels
+- [advanced-ssh-config 🌟🌟🌟🌟](https://github.com/moul/advanced-ssh-config)
+- [sshtunnel](https://github.com/pahaz/sshtunnel)
+- [nixCraft: Set Up SSH Tunneling on a Linux/Unix/BSD Server To Bypass NAT 🌟🌟](http://www.cyberciti.biz/faq/set-up-ssh-tunneling-on-a-linux-unix-bsd-server-to-bypass-nat/)
+- [SSH Cheat Sheet 🌟🌟🌟🌟](http://lzone.de/cheat-sheet/SSH)
+- [SSH ProxyCommand Examples](https://lzone.de/blog/SSH+ProxyCommand+Examples)
+- [SSH firewall bypass roundup: 4 scenarios](https://binblog.info/2016/01/05/ssh-firewall-bypass-roundup/)
+- [tychoish.com: 9 Awesome SSH Tricks](http://tychoish.com/post/9-awesome-ssh-tricks/)
+- [stackoverflow.com: ssh ConnectTimeout option](http://stackoverflow.com/questions/20135054/ssh-connecttimeout-option)
+- [rawsyntax.com: Faster SSH Connections with ControlPath - ssh multiplexing](http://rawsyntax.com/blog/faster-ssh-connections/)
+- [blog.scottlowe.org: Using SSH Multiplexing 🌟🌟🌟](http://blog.scottlowe.org/2015/12/11/using-ssh-multiplexing/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>

@@ -61,6 +61,8 @@
 - [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)
 - [Installation Guide](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 - [Bash on Ubuntu on Windows (WLS): FAQ](https://msdn.microsoft.com/en-us/commandline/wsl/faq)
+- [GitHub.com - Microsoft/BashOnWindows: Issue #637 - Run any Desktop Environment in WSL](https://github.com/Microsoft/BashOnWindows/issues/637)
+    - [reddit.com: Getting dbus and X server working 🌟🌟🌟](https://www.reddit.com/r/Windows10/comments/4rsmzp/bash_on_windows_getting_dbus_and_x_server_working/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

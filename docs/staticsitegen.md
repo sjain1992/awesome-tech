@@ -9,7 +9,7 @@
 # Static Site Generators
 - [Why Static Website Generators Are The Next Big Thing 🌟🌟🌟🌟🌟](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
 - [Why You Should Use a Static Site Generator 🌟🌟🌟🌟](http://formkeep.wpengine.com/?p=7)
-- [Top Open-Source Static Site Generators 🌟🌟🌟](https://www.staticgen.com/)
+- [Top Open-Source Static Site Generators 🌟🌟🌟🌟](https://www.staticgen.com/)
 - [Static Site Generators 🌟](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
 - [pages.github.com](https://pages.github.com)
 - [mkdocs.org](http://www.mkdocs.org)
@@ -21,6 +21,8 @@
 	- [mkdocs.org: Styling your docs](http://www.mkdocs.org/user-guide/styling-your-docs/#built-in-themes)
 - [gohugo.io](https://gohugo.io)
 - [Running Jekyll in Windows Using Docker 🌟](http://www.jamessturtevant.com/posts/Running-Jekyll-in-Windows-using-Docker/)
+
+[![staticgen](images/staticgen.png)](https://www.staticgen.com/)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
 

@@ -743,6 +743,18 @@
 
 		scp ./file:with:colons.txt user@otherhost
 
+- SSH ProxyCommand Examples. Use "ProxyCommand" ~/.ssh/config to easily access servers hidden behind port knocking and jump hosts:
+
+		Host unreachable_host 
+			ServerAliveInterval 10
+			ForwardAgent yes
+			ForwardX11 yes
+			User username
+			IdentityFile ~/.ssh/id_rsa
+			#ProxyCommand ssh -i ~/.ssh/id_rsa username@gateway_host exec /usr/bin/nc %h %p
+			#Since OpenSSH 5.4, the ssh client has it's own way of reproducing the Netcat behaviour:
+			ProxyCommand ssh -i ~/.ssh/id_rsa -W %h:%p username@gateway_host
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
