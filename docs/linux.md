@@ -31,6 +31,7 @@
 	- [Linux Tips](#linux-tips)
 	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
 	- [Linux Terminals](#linux-terminals)
+		- [TTY subsystem. Session management and line discipline](#tty-subsystem-session-management-and-line-discipline)
 		- [Terminal Multiplexers](#terminal-multiplexers)
 	- [Linux Virtualization](#linux-virtualization)
 	- [FOSS Software](#foss-software)
@@ -41,7 +42,10 @@
 		- [Netdata](#netdata)
 		- [BCC Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
 			- [Berkeley Packet Filter BPF](#berkeley-packet-filter-bpf)
-	- [JournalD](#journald)
+	- [Init Systems. Boot scripts](#init-systems-boot-scripts)
+		- [SysVinit](#sysvinit)
+		- [Systemd](#systemd)
+			- [JournalD](#journald)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [OpenVPN](#openvpn)
@@ -464,6 +468,7 @@
 - [tecmint.com: Fabric – Automate Your Linux Administration Tasks and Application Deployments Over SSH 🌟🌟🌟](http://www.tecmint.com/automating-linux-system-administration-tasks/)
 - [sshpt: SSH Power Tool](https://code.google.com/archive/p/sshpt/)
 - [Cluster SSH](https://sourceforge.net/projects/clusterssh/)
+- [tmux-cssh: Ejecutar comandos de forma simultánea en varias máquinas a la vez 🌟🌟🌟](http://enavas.blogspot.com.es/2016/12/tmux-cssh-ejecutar-comandos-de-forma.html)
 - [stackoverflow.com: Script to change password on linux servers over ssh](http://stackoverflow.com/questions/8236699/script-to-change-password-on-linux-servers-over-ssh)
 - [nixCraft - keychain: Set Up Secure Passwordless SSH Access For Backup Scripts](https://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
 
@@ -560,7 +565,6 @@
 - [Tecmint: 3 Ways to Delete All Files in a Directory Except One or Few Files with Extensions](http://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/)
 - [Tecmint: How to Sort Output of ‘ls’ Command By Last Modified Date and Time](http://www.tecmint.com/sort-ls-output-by-last-modified-date-and-time/)
 - [Tecmint: How to Split Large ‘tar’ Archive into Multiple Files of Certain Size](http://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/)
-- [tmux-cssh: Ejecutar comandos de forma simultánea en varias máquinas a la vez 🌟🌟🌟](http://enavas.blogspot.com.es/2016/12/tmux-cssh-ejecutar-comandos-de-forma.html)
 - [Handy Bash feature: Process Substitution 🌟🌟🌟](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.kgzn87t7o) 
 - [Tecmint: How to Start Linux Command in Background and Detach Process in Terminal 🌟🌟](http://www.tecmint.com/run-linux-command-process-in-background-detach-process/)
 - [nixCraft: 10 Tools To Add Some Spice To Your UNIX Shell Scripts 🌟🌟](https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html) tput (used to set terminal features), setleds, logger, setterm, bash socket programming, etc
@@ -693,6 +697,10 @@
 - [unixmen.com: How To Use The Linux Terminal Like A Real Pro, First Part](https://www.unixmen.com/use-linux-terminal-like-real-pro-first-part/)
 - [unixmen.com: Evolution Of Unix/Linux Shells](https://www.unixmen.com/evolution-unix-linux-shells/)
 
+### TTY subsystem. Session management and line discipline
+- [linuxnewssite.com: How does the TTY works on Linux and Unix operating system](https://www.linuxnewssite.com/how-does-the-tty-works-on-linux-and-unix-operating-system-0502201753.html)
+- [The TTY demystified](http://www.linusakesson.net/programming/tty/)
+
 ### Terminal Multiplexers
 - [wikipedia: Terminal multiplexer](https://en.wikipedia.org/wiki/Terminal_multiplexer)
 - [An introduction to Tmux](http://perltricks.com/article/an-introduction-to-tmux/)
@@ -706,6 +714,7 @@
 - [Read "The Tao of tmux" prerelease for free online 🌟🌟🌟](https://leanpub.com/the-tao-of-tmux/read)
 - [Tmux Pain Control](https://github.com/tmux-plugins/tmux-pain-control) Tmux plugin for controlling panes. Adds standard pane navigation bindings.
 - [nixCraft: Screen Command: Set Baud Rate - Terminal Communication](https://www.cyberciti.biz/faq/unix-linux-apple-osx-bsd-screen-set-baud-rate/)
+- [danielallendeutsch.com: Project #5: Using tmux Properly 🌟🌟🌟](http://danielallendeutsch.com/blog/16-using-tmux-properly.html)
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 
@@ -886,7 +895,22 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## JournalD 
+## Init Systems. Boot scripts
+- [tecmint.com: 5 Best Modern Linux ‘init’ Systems (1992-2015)](http://www.tecmint.com/best-linux-init-systems/)
+- [tecmint.com: The Story Behind ‘init’ and ‘systemd’: Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
+- [opensource.com: How to run commands at shutdown on Linux](https://opensource.com/life/16/11/running-commands-shutdown-linux)
+- [tecmint: LFCS: Managing System Startup Process and Services (SysVinit, Systemd and Upstart) – Part 7](http://www.tecmint.com/linux-boot-process-and-manage-services/)
+
+### SysVinit 
+- [SysVinit](https://wiki.archlinux.org/index.php/SysVinit)
+- [nixCraft: Linux/Unix: SysVinit Services Restart vs Reload vs Condrestart](https://www.cyberciti.biz/faq/linux-unix-sysvinit-services-restart-vs-reload-vs-condrestart/)
+
+### Systemd
+- [tecmint.com: How to Manage ‘Systemd’ Services and Units Using ‘Systemctl’ in Linux](http://www.tecmint.com/manage-services-using-systemd-and-systemctl-in-linux/)
+- [tecmint.com: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
+- [tecmint.com: RHCSA Series: Process Management in RHEL 7: Boot, Shutdown, and Everything in Between – Part 5](http://www.tecmint.com/rhcsa-exam-boot-process-and-process-management/)
+
+#### JournalD 
 - [Logging With Journald In RHEL7/CentOS7 🌟](https://www.unixmen.com/logging-journald-rhel7centos7/)
 
 ## Linux Networking

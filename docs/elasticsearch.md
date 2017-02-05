@@ -29,6 +29,7 @@
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
 - [How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL)](http://developers.redhat.com/blog/2016/06/07/how-to-install-elastic-stack-elk-on-red-hat-enterprise-linux-rhel/)
+- [Tecmint.com: How To Install Elasticsearch, Logstash, and Kibana (ELK Stack) on CentOS/RHEL 7 🌟🌟🌟](http://www.tecmint.com/install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-rhel-7/)
 - [Writing Python Scripts that Interact with Elasticsearch Plus Useful Examples 🌟](https://qbox.io/blog/python-scripts-interact-elasticsearch-examples)
 - [Which ELK Stack Solution Is Right for You? 🌟🌟🌟](https://dzone.com/articles/which-elk-stack-solution-is-right-for-you) Clare Avieli takes a look at four cloud-hosted ELK solutions that all seek to offer an easy and scalable way to use stack and summarizes her results.
 - [Anatomy of an Elasticsearch Cluster: Part I](http://insightdataengineering.com/blog/elasticsearch-crud/)

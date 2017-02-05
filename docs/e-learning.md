@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Continuous Learning](#continuous-learning)
+- [Find & Share Online Courses & Tutorials](#find--share-online-courses--tutorials)
 - [E-Learning](#e-learning)
     - [Professional Certification](#professional-certification)
     - [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
@@ -32,6 +33,10 @@
 
 # Continuous Learning
 - [End of Term, and the power of compound interest](https://blog.acolyer.org/2016/07/22/end-of-term-and-the-power-of-compound-interest/)
+
+# Find & Share Online Courses & Tutorials
+- [hackr.io 🌟🌟🌟🌟](https://hackr.io/)
+    - [genbeta.com: Usa este buscador para encontrar los mejores cursos y tutoriales de programación en la web](https://www.genbeta.com/herramientas/usa-este-buscador-para-encontrar-los-mejores-cursos-y-tutoriales-de-programacion-en-la-web)
 
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
