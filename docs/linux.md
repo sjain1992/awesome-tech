@@ -25,6 +25,8 @@
 	- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 	- [Linux Shells](#linux-shells)
 	- [Linux Automation and Clustering Tools](#linux-automation-and-clustering-tools)
+		- [PAC Manager](#pac-manager)
+		- [PSSH](#pssh)
 	- [Linux bash](#linux-bash)
 	- [Linux Tips](#linux-tips)
 	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
@@ -460,12 +462,22 @@
 
 ## Linux Automation and Clustering Tools
 - [tecmint.com: Fabric – Automate Your Linux Administration Tasks and Application Deployments Over SSH 🌟🌟🌟](http://www.tecmint.com/automating-linux-system-administration-tasks/)
-- [tecmint.com: Pssh – Execute Commands on Multiple Remote Linux Servers Using Single Terminal 🌟🌟🌟](http://www.tecmint.com/execute-commands-on-multiple-linux-servers-using-pssh/)
-- [PAC Manager 🌟🌟🌟](http://www.linuxtechi.com/install-pac-manager-on-linuxmint-ubuntu-opensuse/)
 - [sshpt: SSH Power Tool](https://code.google.com/archive/p/sshpt/)
+- [Cluster SSH](https://sourceforge.net/projects/clusterssh/)
+- [stackoverflow.com: Script to change password on linux servers over ssh](http://stackoverflow.com/questions/8236699/script-to-change-password-on-linux-servers-over-ssh)
+- [nixCraft - keychain: Set Up Secure Passwordless SSH Access For Backup Scripts](https://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
+
+### PAC Manager
+- [PAC Manager 🌟🌟🌟](http://www.linuxtechi.com/install-pac-manager-on-linuxmint-ubuntu-opensuse/)
 - [unixmen.com: How To Manage Multiple SSH Sessions Using Cluster SSH And PAC Manager](https://www.unixmen.com/how-to-manage-multiple-ssh-sessions-using-cluster-ssh-and-pac-manager/)
 - [Install PAC Manager 4.5.4 on Ubuntu 14.04](https://sysads.co.uk/2014/08/install-pac-manager-4-5-4-ubuntu-14-04/)
 - [Running PAC Manager in Bash for Windows - WSL . reddit.com: Getting dbus and X server working 🌟🌟🌟](https://www.reddit.com/r/Windows10/comments/4rsmzp/bash_on_windows_getting_dbus_and_x_server_working/)
+
+### PSSH
+- [tecmint.com: Pssh – Execute Commands on Multiple Remote Linux Servers Using Single Terminal 🌟🌟🌟](http://www.tecmint.com/execute-commands-on-multiple-linux-servers-using-pssh/)
+- [pssh HOWTO 🌟🌟🌟](http://www.theether.org/pssh/docs/0.2.3/pssh-HOWTO.html)
+- [Github: Parallel SSH Tools](https://github.com/lilydjwg/pssh)
+	- [pssh: Not passing passphrase? keychain](https://github.com/lilydjwg/pssh/issues/80)
 
 ## Linux bash 
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
@@ -1035,6 +1047,7 @@
 
 ### Linux SSH
 - [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
+- [Authenticating to GitHub - Working with SSH key passphrases - ssh-agent](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
