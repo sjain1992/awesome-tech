@@ -34,6 +34,8 @@
 
 [![todays_devops](images/todays_devops.jpg)](http://iot.sys-con.com/node/3841320)
 
+[![hpe_devops](images/hpe_devops.png)](https://dzone.com/whitepapers/hpe-devops-resource-bundle)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, anyway? <a href="https://t.co/0tvL5uQjvx">https://t.co/0tvL5uQjvx</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/714001576554323968">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

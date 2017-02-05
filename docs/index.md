@@ -449,6 +449,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)](http://awesome-tech.readthedocs.io/devops-itil/)
 
+[![hpe_devops](images/hpe_devops.png)](https://dzone.com/whitepapers/hpe-devops-resource-bundle)
+
 [![automated_ansible](images/automated_ansible.jpg)](https://www.ansible.com/blog/migrating-the-runbook-a-journey-from-legacy-to-devops)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Automate to save mental energy, not to save time.<a href="https://t.co/JOrpS3X1nr">https://t.co/JOrpS3X1nr</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/818471057313112065">9 de enero de 2017</a></blockquote>
