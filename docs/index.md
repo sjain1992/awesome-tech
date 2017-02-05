@@ -454,6 +454,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Automate to save mental energy, not to save time.<a href="https://t.co/JOrpS3X1nr">https://t.co/JOrpS3X1nr</a></p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/818471057313112065">9 de enero de 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![chinese_factory_robots](images/chinese_factory_robots.png)](http://www.zmescience.com/other/economics/china-factory-robots-03022017/)
+
 [![staticgen](images/staticgen.png)](https://www.staticgen.com/)
 
 [![russian_proverb](images/russian_proverb.jpg)](http://awesome-tech.readthedocs.io/high-quality-tech-resources/)
