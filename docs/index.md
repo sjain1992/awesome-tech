@@ -740,6 +740,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![alfred-korzybskis-quotes](images/alfred-korzybskis-quotes.jpg)](https://en.wikipedia.org/wiki/Alfred_Korzybski)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mhfrAd_Pa8M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This map tells you everything you need to know about <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> in Europe <a href="https://t.co/pUTR3IyWlo">https://t.co/pUTR3IyWlo</a> <a href="https://t.co/3853yJbBGe">pic.twitter.com/3853yJbBGe</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/770916594436476929">31 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
