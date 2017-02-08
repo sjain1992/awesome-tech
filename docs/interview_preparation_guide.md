@@ -183,6 +183,7 @@
 - [careerhmo.com: 5 Tips For Staying Motivated During A FRUSTRATING Job Search](http://careerhmo.com/staying-motivated-during-frustrating-job-search/)
 - [workitdaily.com: Networking: Get By With A Little Help From Your Friends](https://www.workitdaily.com/job-search-networking-friends/)
 - [DZone: 9 Key Things the Hiring Manager Is Looking for on Your Developer Resume](https://dzone.com/articles/9-key-things-the-hiring-manager-is-looking-for-on) There are many, many things that a hiring manager looks for on a software developer's resume. Here are nine of the most important ones.
+- [Recruiters Don't Need Your Salary History -- But Here's Why They Want It 🌟🌟🌟](https://www.linkedin.com/pulse/recruiters-dont-need-your-salary-history-heres-why-want-liz-ryan)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
