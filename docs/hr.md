@@ -384,6 +384,7 @@
 - [content-loop.com: 3 Polite Phrases to Shut Down Uncomfortable Conversations at Work](http://www.content-loop.com/3-polite-phrases-to-shut-down-uncomfortable-conversations-at-work/)
 - [Things you can do as a manager to avoid conflicts at work](https://www.linkedin.com/pulse/things-you-can-do-manager-avoid-conflicts-work-vartika-kashyap)
 - [entrepreneur.com: Your Employees Aren't Really Doing Their Jobs -- How to Help](https://www.entrepreneur.com/article/283715)
+- [My Boss Expects Too Much, Too Fast... 🌟🌟](http://www.inc.com/jt-odonnell/my-boss-is-expects-too-much-too-fast.html) Is this boss too demanding? Or, is the employee not stepping up? You decide...
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>
