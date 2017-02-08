@@ -755,6 +755,22 @@
 			#Since OpenSSH 5.4, the ssh client has it's own way of reproducing the Netcat behaviour:
 			ProxyCommand ssh -i ~/.ssh/id_rsa -W %h:%p username@gateway_host
 
+- Verify ssl cert and get info the CLI:
+
+		true | openssl s_client -connect www\.cyberciti\.biz:443 -showcerts
+
+- Remove wanted Debian/Ubuntu/Mint Linux kernel and free up disk space: 
+
+		#Sysadmin apt-get --purge autoremove
+
+- Remove wanted CentOS/RHEL Linux kernel and free up disk space
+
+		yum -y remove $(rpm -qa | grep ^kernel | grep -v $(uname -r) | grep -v kernel-firmware)
+	
+		Next to the package-cleanup you can add to /etc/yum.conf:
+
+		installonly_limit=2
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

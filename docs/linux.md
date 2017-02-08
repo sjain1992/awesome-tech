@@ -801,6 +801,7 @@
 	- [Julia Evans: Zines](http://jvns.ca/zines/#linux-debugging-tools)
 - [tecmint: Monitorix 3.8.1 Released – A Lightweight System and Network Monitoring Tool for Linux 🌟🌟](http://www.tecmint.com/monitorix-a-lightweight-system-and-network-monitoring-tool-for-linux/)
 - [brendangregg.com: Linux Performance 🌟🌟🌟](http://www.brendangregg.com/linuxperf.html)
+- [nixCraft: How to use CoreFreq CPU monitoring software on Linux 🌟🌟](https://www.cyberciti.biz/hardware/how-to-use-corefreq-cpu-monitoring-software-on-linux/)
 
 [![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
 
