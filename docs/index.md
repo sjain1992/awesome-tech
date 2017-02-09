@@ -429,6 +429,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Esa gente que no para de usar anglicismos. ESA GENTE.<br>Con <a href="https://twitter.com/AntonLofer">@AntonLofer</a> <a href="https://twitter.com/Jamesetes">@Jamesetes</a> <a href="https://twitter.com/jorgeverdu_">@jorgeverdu_</a>  <a href="https://twitter.com/alvaro_moro">@alvaro_moro</a> <a href="https://t.co/wR4BnmERn7">pic.twitter.com/wR4BnmERn7</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/756790878451228672">23 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![fruit_platter](images/fruit_platter.jpg)](http://awesome-tech.readthedocs.io/qa/)
+
+[![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
+
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
 
 [![Glengarry-Glen-Ross_always_be_closing](images/Glengarry-Glen-Ross_always_be_closing.gif)](https://www.youtube.com/watch?v=v9XW6P0tiVc)
@@ -796,10 +800,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DngAZyWMGR0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/> 
-
-[![fruit_platter](images/fruit_platter.jpg)](http://awesome-tech.readthedocs.io/qa/)
-
-[![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
 [![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
 
