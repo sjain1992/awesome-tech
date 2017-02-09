@@ -67,8 +67,14 @@
 </div>
 <br/>
 
+<!-- 
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/HghUgbjBasxURW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches" title="Scalable Web Architectures: Common Patterns and Approaches" target="_blank">Scalable Web Architectures: Common Patterns and Approaches</a> </strong> from <strong><a href="//es.slideshare.net/techdude" target="_blank">Tech Dude</a></strong> </div>
+</div>
+<br/> -->
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gu08awxxcWdiRh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/iamcal/scalable-web-architectures-common-patterns-and-approaches-web-20-expo-nyc-presentation" title="Scalable Web Architectures: Common Patterns and Approaches - Web 2.0 Expo NYC" target="_blank">Scalable Web Architectures: Common Patterns and Approaches - Web 2.0 Expo NYC</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/iamcal">Cal Henderson</a></strong> </div>
 </div>
 <br/>
 

@@ -604,6 +604,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![tecmint_program_is_never_complete](images/tecmint_program_is_never_complete.jpg)](http://tecmint.com)
 
+[![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EHZVxCcN7wU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -689,6 +691,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![trading_places_brokers](images/trading_places_brokers.gif)](https://www.youtube.com/watch?v=ZjDbJQKDXCY)
 
 [![the_economist_success_happiness](images/the_economist_success_happiness.png)](https://www.facebook.com/TheEconomist)
+
+[![get healthier](images/Get_Healthier.png)](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
