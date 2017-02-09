@@ -292,9 +292,10 @@
 <br/>
 
 ## BGP Border Gateway Protocol 
-- [Using Border Gateway Protocol for Latency Optimization](http://blog.datapath.io/using-border-gateway-protocol-for-latency-optimization)
-- [How BGP Best Path Selection Works](http://blog.datapath.io/how-bgp-best-path-selection-works)
-- [How we use iBGP at Datapath.io](http://blog.datapath.io/how-we-use-ibgp-at-datapath.io)
+- [blog.datapath.io: Using Border Gateway Protocol for Latency Optimization](http://blog.datapath.io/using-border-gateway-protocol-for-latency-optimization)
+- [blog.datapath.io: How BGP Best Path Selection Works](http://blog.datapath.io/how-bgp-best-path-selection-works)
+- [blog.datapath.io: How we use iBGP at Datapath.io](http://blog.datapath.io/how-we-use-ibgp-at-datapath.io)
+- [datapath.io: 10 Things to Know About Border Gateway Protocol](https://datapath.io/resources/blog/10-things-to-know-about-border-gateway-protocol/)
 
 ## Mobile Core Network
 - [Mobile Core Network](mobilecore.md)

@@ -34,6 +34,8 @@
 </div>
 <br>
 
+![redhat_cio_alternative](images/redhat_cio_alternative.png)
+
 |[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|[![redhat_enterprise_video](images/redhat_enterprise_video.jpg)](https://www.youtube.com/user/rhenterpriselinux)|[![redhat_virt_video](images/redhat_virt_video.jpg)](https://www.youtube.com/user/redhatvirtualization)|[![redhat_cloud_video](images/redhat_cloud_video.jpg)](https://www.youtube.com/user/RedHatCloud)|[![redhat_storage_video](images/redhat_storage_video.jpg)](https://www.youtube.com/user/redhatstorage)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 

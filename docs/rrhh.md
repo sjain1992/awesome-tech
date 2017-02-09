@@ -53,6 +53,7 @@
 - [forbes.es: 7 claves para disculparse con clase en el trabajo](http://forbes.es/actualizacion/1026/7-claves-para-disculparse-con-clase-en-el-trabajo)
 - [masquenegocio.com: Tipos de líder en la empresa (infografía) 🌟🌟](http://www.masquenegocio.com/2015/07/11/tipos-lider-empresa/)
 - [lavanguardia.com: Qué significa tener un trabajo decente hoy en día](http://www.lavanguardia.com/economia/20161009/41870852412/trabajo-decente-requisitos-empleo.html) Los trabajadores aseguran que les gustaría tener un jefe agradecido cuando se realiza un buen trabajo y que de unas directrices claras
+- [NO busques developers que NO existen 🌟🌟🌟](https://www.linkedin.com/pulse/busques-developers-que-existen-joan-miquel-espada)
 
 [![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
 
