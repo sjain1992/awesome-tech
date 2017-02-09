@@ -791,6 +791,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curiosity, <a href="https://twitter.com/hashtag/creativity?src=hash">#creativity</a>, critical thinking: Where do job seekers w/<a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a> have an edge? <a href="https://t.co/dCapgqUWQG">https://t.co/dCapgqUWQG</a> <a href="https://t.co/JS5RxMuJt0">pic.twitter.com/JS5RxMuJt0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/762759561363222529">8 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- Martin fowler about architecture-->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DngAZyWMGR0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/> 
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Really proud to work in a company whose CEO believes in Openness and Honesty <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/XX2EwNmXw6">https://t.co/XX2EwNmXw6</a></p>&mdash; Red Hat Iberia (@RedHatIberia) <a href="https://twitter.com/RedHatIberia/status/827607607334547459">3 de febrero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
