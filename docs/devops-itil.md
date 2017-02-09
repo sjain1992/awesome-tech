@@ -237,6 +237,7 @@
 - [enterprisersproject.com: Key steps to inspire confidence as you move to DevOps 🌟](https://enterprisersproject.com/article/2016/7/key-steps-inspire-confidence-you-move-devops)
 - [Julia Evans: Operations for software developers for beginners 🌟🌟🌟](http://jvns.ca/blog/2016/10/15/operations-for-software-developers-for-beginners/) I work as a software developer. A few years ago I had no idea what “operations” was. I had never met anybody whose job it was to operate software. What does that even mean? Now I know a tiny bit more about it so I want to write down what I’ve figured out.
 - [DZone: Top Challenges of Database Change Management and How to Fix Them 🌟🌟](https://dzone.com/articles/top-challenges-of-database-change-management-and-h) As Agile methodology continues to expand its focus, databases are no exception. See how to manage your changes while keeping light on your feet — so you don't break stuff.
+- [Dzone: DevOops! Culture (Comic). DevOps removes the walls and reduces tension between Dev and Ops guys. Revolutionary DevOops! approach resolves the problems completely!](https://dzone.com/articles/devoops-culture-comic)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -296,6 +297,8 @@
 [![state_devops_report_2016](images/state_devops_report_2016.png)](https://puppet.com/resources/white-paper/2016-state-of-devops-report)
 
 [![DevOps for Dummies 2nd ed](images/DevOps_For_Dummies_2nd_ed_cover.jpg)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
+
+[![devoops_culture_comic](images/devoops_culture_comic.png)](https://dzone.com/articles/devoops-culture-comic)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Guide for IT Managers <a href="https://t.co/4XKu9wYfnf">https://t.co/4XKu9wYfnf</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/Nk9vjdMhji">pic.twitter.com/Nk9vjdMhji</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/716636487832330241">3 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
