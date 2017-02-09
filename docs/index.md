@@ -797,6 +797,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/> 
 
+[![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Really proud to work in a company whose CEO believes in Openness and Honesty <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/XX2EwNmXw6">https://t.co/XX2EwNmXw6</a></p>&mdash; Red Hat Iberia (@RedHatIberia) <a href="https://twitter.com/RedHatIberia/status/827607607334547459">3 de febrero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
