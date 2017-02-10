@@ -610,6 +610,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 
+[![advanced-ssh-config](images/assh.png)](https://github.com/moul/advanced-ssh-config)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EHZVxCcN7wU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
