@@ -166,6 +166,7 @@
 - [Best Linux Distros For Newcomers](http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html)
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 - [unixmen.com: Which Linux Distribution You Should Use](https://www.unixmen.com/linux-distribution-use/)
+- [opensource.com: 10 open source tools for your sysadmin toolbox](https://opensource.com/16/12/yearbook-10-open-source-sysadmin-tools)
 
 ![dont let friends chmod 777](images/dont_let_friends_chmod777.jpg)
 
@@ -715,6 +716,7 @@
 - [Tmux Pain Control](https://github.com/tmux-plugins/tmux-pain-control) Tmux plugin for controlling panes. Adds standard pane navigation bindings.
 - [nixCraft: Screen Command: Set Baud Rate - Terminal Communication](https://www.cyberciti.biz/faq/unix-linux-apple-osx-bsd-screen-set-baud-rate/)
 - [danielallendeutsch.com: Project #5: Using tmux Properly 🌟🌟🌟](http://danielallendeutsch.com/blog/16-using-tmux-properly.html)
+- [fedoramagazine.org: Use tmux for a more powerful terminal](https://fedoramagazine.org/use-tmux-more-powerful-terminal/)
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 

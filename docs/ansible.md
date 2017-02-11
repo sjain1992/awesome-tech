@@ -97,6 +97,7 @@
 - [Fedora Server: Expanding Throughout the Galaxy 🌟🌟](https://sgallagh.wordpress.com/2016/10/13/fedora-server-expanding-throughout-the-galaxy/)
 - [serversforhackers.com: An Ansible Tutorial 🌟🌟🌟](https://serversforhackers.com/an-ansible-tutorial)
 - [ansible.com: Ansible Best Practices, the essentials 🌟🌟🌟](https://www.ansible.com/blog/ansible-best-practices-essentials)
+- [Shell Scripts vs Ansible: Fight! 🌟🌟🌟](https://valdhaus.co/writings/ansible-vs-shell-scripts/)
 
 ## Ansible Vulnerabilities
 - [CVE-2016-9587: an unpleasant Ansible vulnerability](https://lwn.net/Articles/711357/)
