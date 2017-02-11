@@ -31,6 +31,7 @@
 - [DZone: Using HTTPS to Secure Your Websites: An Intro to Web Security 🌟🌟](https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we) It's the post that every developer has been waiting for. All the questions you were too afraid to ask but are pivotally important to know the answers to regarding web security.
 - [Julia Evans: Dissecting an SSL certificate 🌟🌟🌟](http://jvns.ca/blog/2017/01/31/whats-tls/)
 - [Cipherli.st: Strong Ciphers for Apache, nginx and Lighttpd 🌟🌟🌟](https://cipherli.st)
+- [The Security Impact of HTTPS Interception 🌟🌟🌟](https://zakird.com/papers/https_interception.pdf) HTTPS interception is common. 5-10% of sessions intercepted. E-commerce, updates, credentials, code injection risk.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The end of an expensive era<br> <a href="https://t.co/f56arooZHF">https://t.co/f56arooZHF</a> <a href="https://t.co/FxilUJZBxF">pic.twitter.com/FxilUJZBxF</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/742420985165549568">13 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

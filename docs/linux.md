@@ -35,6 +35,7 @@
 		- [Terminal Multiplexers](#terminal-multiplexers)
 	- [Linux Virtualization](#linux-virtualization)
 	- [FOSS Software](#foss-software)
+	- [Device files](#device-files)
 	- [Linux Kernel](#linux-kernel)
 	- [Linux Performance Monitoring](#linux-performance-monitoring)
 		- [htop and top](#htop-and-top)
@@ -747,6 +748,9 @@
 - [GoogleApps  or Office365 replacement. Kolab + CloudSuite: It's collaborative all the way down](https://kolab.org/group-blog/2016/01/30/kolab-collabora/)
 - [unixmen.com: How To Setup LogicalDOC In Ubuntu 15.04](https://www.unixmen.com/setup-logicaldoc-ubuntu-15-04/) LogicalDOC is a Document Management System. It is useful for all kind of small and medium enterprises, and it could play a very important role in knowledge resource management of Educational Organizations.
 
+## Device files
+- [opensource.com: Managing devices in Linux](https://opensource.com/article/16/11/managing-devices-linux) Explore how the /dev directory gives you direct access to your devices in Linux.
+
 ## Linux Kernel
 - [unixmen.com: How to upgrade or update kernel of the CentOS to Latest stable Kernel](https://www.unixmen.com/upgrade-update-kernel-centos-latest-stable-kernel/)
 - [unixmen.com: How To Install Linux Kernel 4.3.0](http://www.unixmen.com/how-to-install-linux-kernel-4-3-0/)
@@ -942,6 +946,7 @@
 - [unixmen.com: Install and using netstat in Linux 🌟](https://www.unixmen.com/install-using-netstat-linux/)
 - [nixCraft: FreeBSD - sockstat - Unix Find Out Which Programs Are Listing On a Given Port Number](http://www.cyberciti.biz/faq/freebsd-unix-find-the-process-pid-listening-on-a-certain-port-commands/)
 - [blog.pandorafms.org: Useful Network commands 🌟🌟🌟](https://blog.pandorafms.org/network-commands/) VNStat, ping, traceroute, ping, arp, curl and wget, netstat, whois, ssh, tcpdump, ngrep, nmap, netcat, lsof, iptraf
+- [How to tuning the Linux Networking Stack for sending and receiving data 🌟🌟🌟🌟](https://www.linuxnewssite.com/how-to-tuning-the-linux-networking-stack-for-sending-and-receiving-data-0802201797.html) Awesome guide to monitoring and tuning the Linux networking stack for sysadmins/developers
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -1276,6 +1281,7 @@
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [vimebook.com: Vim for humans](https://vimebook.com/en)
 - [A byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
+- [nixCraft: Edit a File When You Are Viewing It Using more/less Command Pager](https://www.cyberciti.biz/faq/edit-file-when-youre-viewing-withmore-less)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>

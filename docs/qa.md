@@ -136,6 +136,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can We Neglect Manual Testing for Automation Testing? <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/mrztTSgcrt">https://t.co/mrztTSgcrt</a> <br><br>via Pavan Kumar <a href="https://t.co/qgnKWG3vlb">pic.twitter.com/qgnKWG3vlb</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743171375754514432">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Where are the tests? <br> <a href="https://t.co/Qwfml37QK4">https://t.co/Qwfml37QK4</a> <a href="https://t.co/G7N1aeqfRu">pic.twitter.com/G7N1aeqfRu</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/829624119784267776">9 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Open-Source Test Automation Tools and You<a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/qS8iUKZ6EF">https://t.co/qS8iUKZ6EF</a><br><br>via <a href="https://twitter.com/ek121268">@ek121268</a> <a href="https://t.co/xeeTMMF4xr">pic.twitter.com/xeeTMMF4xr</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/744651123596857344">19 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
