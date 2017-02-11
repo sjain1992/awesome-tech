@@ -75,6 +75,7 @@
 - [Paper.li Blog](http://blog.paper.li/)
 - [Por qué colaboras en mis periódicos Paper.li, en Twitter](http://marianaeguaras.com/por-que-colaboras-en-mis-periodicos-paper-li-en-twitter/)
 - [Aprende a realizar curacion de contenidos con Paper.li](http://www.solvetic.com/tutoriales/article/2185-aprende-a-realizar-curacion-de-contenidos-con-paperli/)
+- [Let’s Be Clear on Content Creation vs. Content Curation 🌟🌟](http://charlisays.com/lets-be-clear-on-content-creation-vs-content-curation/)
 
 ## Feedly
 - [feedly.com 🌟](http://feedly.com)
