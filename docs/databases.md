@@ -337,6 +337,7 @@
 - [MySQL does not need SQL](https://dom.as/2016/08/03/mysql-does-not-need-sql/) 
 - [Tecmint: How to Run MySQL/MariaDB Queries Directly from the Linux Command Line](http://www.tecmint.com/run-execute-mysql-mariadb-queries-directly-linux-commandline/)
 - [Tecmint: How to Backup/Restore MySQL/MariaDB and PostgreSQL Using ‘Automysqlbackup’ and ‘Autopostgresqlbackup’ Tools 🌟🌟🌟](http://www.tecmint.com/mysql-mariadb-postgresql-database-backup-using-automysqlbackup-autopostgresqlbackup/)
+- [The Unofficial MySQL 8.0 Optimizer Guide 🌟🌟🌟](http://www.unofficialmysqlguide.com/invisible-indexes.html)
 
 ### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)
