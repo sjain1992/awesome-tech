@@ -610,6 +610,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 
+![experience_oscar_wilde](images/experience_oscar_wilde.jpg)
+
 [![advanced-ssh-config](images/assh.png)](https://github.com/moul/advanced-ssh-config)
 
 <div class="container">
@@ -862,6 +864,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![atles_catala](images/atles_catala.jpg)](http://www.mmb.cat/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HISTORY: The Roman Empire at its greatest extent <a href="https://t.co/xNKMph7jTs">pic.twitter.com/xNKMph7jTs</a></p>&mdash; The Spectator Index (@spectatorindex) <a href="https://twitter.com/spectatorindex/status/830770960831827970">12 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![conversation-english-eurobarometer](images/conversation-english-eurobarometer.jpg)](https://jakubmarian.com/map-of-the-percentage-of-people-speaking-english-in-the-eu-by-country/)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
@@ -877,6 +882,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWfzb0l1jV4?start=528" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blockchain: A new hope, or just hype? <a href="https://t.co/VsDcQShJEo">https://t.co/VsDcQShJEo</a> <a href="https://twitter.com/hashtag/technology?src=hash">#technology</a> <a href="https://t.co/bi3QPWbFrP">pic.twitter.com/bi3QPWbFrP</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/830474483647578112">11 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
