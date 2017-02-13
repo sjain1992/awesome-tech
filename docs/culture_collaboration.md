@@ -81,6 +81,7 @@
 - [entrepreneur.com: How to Survive in a Competitive World 🌟🌟](https://www.entrepreneur.com/article/232653)
 - [No Smile? Consider the Professional Consequences](https://www.linkedin.com/pulse/20121019133348-7668018-no-smile-executives-should-consider-the-consequences)
 - [Infographic: Office Etiquette Practiced In Countries Around The World 🌟🌟🌟](http://designtaxi.com/news/385171/Infographic-Office-Etiquette-Practiced-In-Countries-Around-The-World/)
+- [How To Change A "Suck Up"​ Culture](https://www.linkedin.com/pulse/how-change-suck-up-culture-paul-larue)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Finextra TV: Cultural change crucial in digital transformation <a href="https://t.co/0dnxP26UQy">https://t.co/0dnxP26UQy</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/pTaeZu8ON3">pic.twitter.com/pTaeZu8ON3</a></p>&mdash; Finextra (@Finextra) <a href="https://twitter.com/Finextra/status/768751313748369408">25 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
