@@ -28,6 +28,8 @@
 
 [![dilbert_agile](images/dilbert_agile.gif)](http://dilbert.com/strip/2016-07-30)
 
+![poject_execution_methodologies_the_change](images/poject_execution_methodologies_the_change.jpg)
+
 # Agile planning: CI/CD, Project Management, Scrum, Kanban, Lean
 - [agilemethodology.org](http://agilemethodology.org/)
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
