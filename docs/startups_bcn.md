@@ -83,6 +83,8 @@ para universitarios y titulados júnior
 - [Why your next technology start-up should be in Barcelona](https://www.linkedin.com/pulse/why-your-next-technology-start-up-should-barcelona-magnus-jern) After 5 years of financial crisis Spain has recovered but inflation and cost of living is still low which means that salaries are relatively low. The average salary of a software developer is about €27,000 vs London €55,000, Berlin €49,000 and Stockholm €48,000 (source: Glassdoor.com). Other salaries and costs are even lower in comparison.
 - [Descubrir a Colón. Ante la polémica por el monumento de la Rambla](http://www.lavanguardia.com/cultura/20161002/41720882949/descubrir-a.html) El navegante fue un hombre arrogante, cruel, seductor, tenaz y con una gran autoestima
 - [http://Habitatge.Barcelona - Vivienda Barcelona - Ajuntament de Barcelona - Ayuntamiento Barcelona 🌟](http://habitatge.barcelona/)
+- [BARCELONA STARTUP NEWS 🌟🌟🌟](https://barcelonastartupnews.com)
+    - [BARCELONA STARTUP NEWS: Why Barcelona Is the Place to Be If You’re Into Tech](https://barcelonastartupnews.com/2017/02/04/why-barcelona-is-the-place-to-be-if-youre-into-tech)
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.museugrifols.com)
 
