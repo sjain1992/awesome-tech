@@ -528,6 +528,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![aws_vmware_partnership](images/aws_vmware_partnership.png)](http://www.zdnet.com/article/aws-cements-hybrid-cloud-position-with-vmware-partnership-heres-what-it-means/)
 
+<!-- working in IT (short comedy sketch) -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKorP55Aqvg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![Edmund-Burke-Quote](images/Edmund-Burke-Quote.png)](https://en.wikipedia.org/wiki/Edmund_Burke)
 
 [![dilbert_agenda](images/dilbert_agenda.jpg)](http://dilbert.com/strip/2016-08-19)
@@ -846,7 +852,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Most important, have the courage to follow your heart and intuition.&quot; Remembering Steve and the many ways he changed our world. <a href="https://t.co/ONAuEoq3uU">pic.twitter.com/ONAuEoq3uU</a></p>&mdash; Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/783662822819401728">5 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working in IT <a href="https://t.co/si5gm0FunB">https://t.co/si5gm0FunB</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714901664390455296">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- working in IT, nixCraft twitter
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working in IT <a href="https://t.co/si5gm0FunB">https://t.co/si5gm0FunB</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714901664390455296">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <div class="container">
 <iframe width="560" height="315" src='//players.brightcove.net/2097119709001/4kXWOFbfYx_default/index.html?videoId=5155389588001' allowfullscreen frameborder=0 class="video"></iframe>
