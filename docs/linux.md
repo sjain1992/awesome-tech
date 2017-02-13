@@ -895,18 +895,22 @@
 
 ### BCC Dynamic Tracing Tools
 - [bcc Dynamic Tracing Tools](https://iovisor.github.io/bcc/)
-	- [github: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+	- [github: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more 🌟🌟🌟](https://github.com/iovisor/bcc)
 
 #### Berkeley Packet Filter BPF
 - [What is BPF and why is it taking over Linux Performance Analysis?](http://blog.memsql.com/bpf-linux-performance/)
+- [Linux Enhanced BPF (eBPF) Tracing Tools 🌟🌟🌟](http://www.brendangregg.com/ebpf.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I published a new page: Linux Enhanced BPF (eBPF) Tracing Tools <a href="https://t.co/lQtzsdkFbX">https://t.co/lQtzsdkFbX</a> <a href="https://t.co/zJbURCy6ZR">pic.twitter.com/zJbURCy6ZR</a></p>&mdash; Brendan Gregg (@brendangregg) <a href="https://twitter.com/brendangregg/status/830634871076880384">12 de febrero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Init Systems. Boot scripts
 - [tecmint.com: 5 Best Modern Linux ‘init’ Systems (1992-2015)](http://www.tecmint.com/best-linux-init-systems/)
 - [tecmint.com: The Story Behind ‘init’ and ‘systemd’: Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
 - [opensource.com: How to run commands at shutdown on Linux](https://opensource.com/life/16/11/running-commands-shutdown-linux)
+- [How to Auto Execute Commands/Scripts During Reboot or Startup](http://www.tecmint.com/auto-execute-linux-scripts-during-reboot-or-startup/)
 - [tecmint: LFCS: Managing System Startup Process and Services (SysVinit, Systemd and Upstart) – Part 7](http://www.tecmint.com/linux-boot-process-and-manage-services/)
 
 ### SysVinit 
@@ -1059,6 +1063,7 @@
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 - [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
+- [How to open ssh port using ufw on Ubuntu/Debian Linux](https://www.cyberciti.biz/faq/ufw-allow-incoming-ssh-connections-from-a-specific-ip-address-subnet-on-ubuntu-debian/)
 - [How To: Ubuntu Linux Firewall Open Port Command 🌟](http://www.cyberciti.biz/faq/how-to-open-firewall-port-on-ubuntu-linux-12-04-14-04-lts/)
 - [How Do I Drop or Block Attackers IP Address With Null Routes On a Linux?](http://www.cyberciti.biz/tips/how-do-i-drop-or-block-attackers-ip-with-null-routes.html)
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)

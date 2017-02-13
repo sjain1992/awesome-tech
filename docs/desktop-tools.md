@@ -51,6 +51,7 @@
 - [15 must-have apps if you’re new to Linux](http://www.gadgette.com/2016/02/23/15-linux-apps/)
 - [Hubl.in, the Awesome open source video conference service](https://hubl.in/)
 - [businessinsider.com: Macs are 3 times cheaper to own than Windows PCs, says IBM's IT guy](http://www.businessinsider.com/an-ibm-it-guy-macs-are-300-cheaper-to-own-than-windows-2016-10)
+- [Turtl – An ‘Evernote’ Alternative for Linux That Will Keep Your Documents Safe](https://www.fossmint.com/turtl-an-evernote-alternative-for-linux/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hubl.in, the Awesome open source video conference service <a href="https://t.co/eZXI26TQHE">https://t.co/eZXI26TQHE</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709891079261147137">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
