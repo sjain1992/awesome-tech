@@ -475,17 +475,19 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![up_in_the_air_you_mad_at_your_computer](images/up_in_the_air_you_mad_at_your_computer.gif)](https://www.youtube.com/watch?v=rTL1FmvVCuA)
 
+<!-- Miami Vice In The Air Tonight Scene
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 [![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)](https://www.youtube.com/watch?v=-Ot948zIr0s)
 
+<!-- Thievery Corporation - Culture of Fear
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cleaning out the desk drawer. <a href="https://twitter.com/hashtag/SunMicrosystems?src=hash">#SunMicrosystems</a> I like to think I&#39;ve lived up to this <a href="https://twitter.com/scottmcnealy">@scottmcnealy</a> 10 gr8 yrs 96-06 <a href="https://t.co/efJFnuRTjJ">pic.twitter.com/efJFnuRTjJ</a></p>&mdash; Brett Murphy (@PowerMan4Evr) <a href="https://twitter.com/PowerMan4Evr/status/764572168072077312">13 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -496,10 +498,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![Work-It-Daily-Logo-Transparent](images/Work-It-Daily-Logo-Transparent.png)](https://www.workitdaily.com)
 
+<!-- Virtual Insanity - Jamiroquai
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qSSrTx1vjE?list=RD3qSSrTx1vjE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 [![cape_fear](images/cape_fear.gif)](https://www.youtube.com/watch?v=oL_nBoVgdMI)
 
@@ -552,15 +555,17 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
 
+<!-- Beautiful Apprach and Landing in Barcelona British Airways Boeing
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Sol6AASguc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
+<!-- Gladiator scene
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwoPiEc49is?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -719,23 +724,26 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 ![dating_quote](images/dating_quote.gif)
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I got into this career because I liked computers.<br><br>Things have changed.</p>&mdash; Sad Operator (@sadoperator) <a href="https://twitter.com/sadoperator/status/740265265028464640">7 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- Madonna - Material girl
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PutNITzd4C0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Collective living’s fine for students but for everybody else it stinks | Jonn Elledge <a href="https://t.co/YbOWfk5CaS">https://t.co/YbOWfk5CaS</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/725712864581931008">28 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- Scala Choir - Creep - American Psycho
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-U3N0L041vw?list=RD-U3N0L041vw&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
+<!-- Jay z feat Linkin Park - Numb Encore miami vice hd
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp79HDViQ9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 [![barry-lyndon-1975](images/barry-lyndon-1975.jpg)](https://www.youtube.com/watch?v=XjPSGuJskxM)
 
