@@ -403,7 +403,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![up_in_the_air_everything_burn](images/up_in_the_air_everything_burn.gif)](https://www.youtube.com/watch?v=rTL1FmvVCuA)
 
-[![developers_languages](images/developers_languages.gif)](http://awesome-tech.readthedocs.io/sw-devel/)
+[![developers_languages](images/developers_languages.gif)](https://awesome-tech.readthedocs.io/sw-devel/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -431,7 +431,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Esa gente que no para de usar anglicismos. ESA GENTE.<br>Con <a href="https://twitter.com/AntonLofer">@AntonLofer</a> <a href="https://twitter.com/Jamesetes">@Jamesetes</a> <a href="https://twitter.com/jorgeverdu_">@jorgeverdu_</a>  <a href="https://twitter.com/alvaro_moro">@alvaro_moro</a> <a href="https://t.co/wR4BnmERn7">pic.twitter.com/wR4BnmERn7</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/756790878451228672">23 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![fruit_platter](images/fruit_platter.jpg)](http://awesome-tech.readthedocs.io/qa/)
+[![fruit_platter](images/fruit_platter.jpg)](https://awesome-tech.readthedocs.io/qa/)
 
 [![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
@@ -453,7 +453,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-[![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)](http://awesome-tech.readthedocs.io/devops-itil/)
+[![do_something_useful_like_helping_your_brother](images/do_something_useful_like_helping_your_brother.jpg)](https://awesome-tech.readthedocs.io/devops-itil/)
 
 [![hpe_devops](images/hpe_devops.png)](https://dzone.com/whitepapers/hpe-devops-resource-bundle)
 
@@ -468,7 +468,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![staticgen](images/staticgen.png)](https://www.staticgen.com/)
 
-[![russian_proverb](images/russian_proverb.jpg)](http://awesome-tech.readthedocs.io/high-quality-tech-resources/)
+[![russian_proverb](images/russian_proverb.jpg)](https://awesome-tech.readthedocs.io/high-quality-tech-resources/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">‘MAN vs MACHINE’ (for <a href="https://twitter.com/newscientist">@newscientist</a>) - <a href="https://t.co/QkK2VCHBv2">pic.twitter.com/QkK2VCHBv2</a></p>&mdash; Tom Gauld (@tomgauld) <a href="https://twitter.com/tomgauld/status/775307640511598606">12 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -548,7 +548,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
-[![howtowrite_goodcode](images/howtowrite_goodcode.jpg)](http://awesome-tech.readthedocs.io/devops-itil/)
+[![howtowrite_goodcode](images/howtowrite_goodcode.jpg)](https://awesome-tech.readthedocs.io/devops-itil/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
@@ -719,7 +719,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![bertolt_brecht_crisis_take_place](images/bertolt_brecht_crisis_take_place.png)](https://en.wikipedia.org/wiki/Bertolt_Brecht)
 
-[![quote](images/quote.png)](http://awesome-tech.readthedocs.io/mkeiser/)
+[![quote](images/quote.png)](https://awesome-tech.readthedocs.io/mkeiser/)
 
 [![trading_places_brokers](images/trading_places_brokers.gif)](https://www.youtube.com/watch?v=ZjDbJQKDXCY)
 
@@ -888,7 +888,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![blade_runner_car](images/blade_runner_car.gif)](https://www.youtube.com/watch?v=Ywd0yNXmHaA)
 
-[![voltaire disagreement](images/voltaire_disagreement.jpg)](http://awesome-tech.readthedocs.io/office_politics/)
+[![voltaire disagreement](images/voltaire_disagreement.jpg)](https://awesome-tech.readthedocs.io/office_politics/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>
