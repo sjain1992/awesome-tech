@@ -100,6 +100,7 @@
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
 - [HPE launches midmarket hyperconverged system, bets on UI, integration](http://www.zdnet.com/article/hpe-launches-midmarket-hyperconverged-system-bets-on-ui-integration/)
+- [HPE announces Synergy, the hardware platform behind the Composable Infrastructure 🌟](http://www.bitcon.be/hpe-announces-synergy-the-hardware-platform-behind-the-composable-infrastructure/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb7nfmf4vVQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -113,6 +114,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpUm2sWuQ0Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+[![hpe_synergy_composable_infrastructure](images/hpe_synergy_composable_infrastructure.png)](http://www.bitcon.be/hpe-announces-synergy-the-hardware-platform-behind-the-composable-infrastructure/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tbNdGa2iS0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
