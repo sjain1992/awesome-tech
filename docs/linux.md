@@ -1291,6 +1291,7 @@
 - [vimebook.com: Vim for humans](https://vimebook.com/en)
 - [A byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 - [nixCraft: Edit a File When You Are Viewing It Using more/less Command Pager](https://www.cyberciti.biz/faq/edit-file-when-youre-viewing-withmore-less)
+- [tecmint: How to Make ‘Vim Editor’ as Bash-IDE Using ‘bash-support’ Plugin in Linux 🌟🌟](http://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
