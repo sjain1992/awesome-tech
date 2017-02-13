@@ -10,6 +10,7 @@
 		- [Grafana](#grafana)
 		- [Zabbix](#zabbix)
 		- [Prometheus](#prometheus)
+		- [Ganglia](#ganglia)
 		- [Monitoring of JavaEE applications](#monitoring-of-javaee-applications)
 		- [Monitoring Network Bandwidth](#monitoring-network-bandwidth)
 		- [APM: Application Performance Management](#apm-application-performance-management)
@@ -169,6 +170,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/I2dLbQcCC5PNYC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/andrew-nelson-zabbix-and-snmp-on-linux" title="Andrew Nelson - Zabbix and SNMP on Linux" target="_blank">Andrew Nelson - Zabbix and SNMP on Linux</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div>
 </div>
 <br/>
+
+### Ganglia
+- [Tecmint: Setting Up Real-Time Monitoring with ‘Ganglia’ for Grids and Clusters of Linux Servers](http://www.tecmint.com/install-configure-ganglia-monitoring-centos-linux)
 
 ### Monitoring of JavaEE applications
 - [javamelody 🌟](https://github.com/javamelody)
