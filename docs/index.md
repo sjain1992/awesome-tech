@@ -179,7 +179,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 |:---:|:---:|
 
 </center>
-
+[![developers_languages](images/developers_languages.gif)](http://awesome-tech.readthedocs.io/sw-devel/)
 <center>
 
 |[![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)|[![idgtv_video](images/idgtv_video.jpg)](https://www.youtube.com/user/IDGSpain)|[![bps_spain_video](images/bps_spain_video.jpg)](https://www.youtube.com/user/bpscomputing)|[![ecommerce_news_videos](images/ecommerce_news_videos.jpg)](https://www.youtube.com/user/EcommerceNewsTV)|
@@ -598,8 +598,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-![developers_languages](images/developers_languages.gif)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/JHgpqUGw0T">https://t.co/JHgpqUGw0T</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/753692481762492416">14 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
