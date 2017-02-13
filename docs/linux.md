@@ -55,6 +55,7 @@
 		- [Sudo](#sudo)
 		- [Linux SSH](#linux-ssh)
 			- [SSH Tunnels](#ssh-tunnels)
+		- [Denyhosts intrusion prevention security tool](#denyhosts-intrusion-prevention-security-tool)
 		- [Rsync](#rsync)
 		- [iptables and firewalld](#iptables-and-firewalld)
 			- [FirewallD](#firewalld)
@@ -1168,6 +1169,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Setting Up Web-Based Guacamole Tool to Access Remote Linux/Windows Machines<a href="https://t.co/c5IOKxU9mt">https://t.co/c5IOKxU9mt</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/4Y5BzCJXc6">pic.twitter.com/4Y5BzCJXc6</a></p>&mdash; Linux Inside (@tecmint) <a href="https://twitter.com/tecmint/status/791865825682608128">28 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Denyhosts intrusion prevention security tool
+- [nixCraft: How to install denyhosts on Ubuntu Linux 16.04 LTS (intrusion prevention security tool)](https://www.cyberciti.biz/faq/how-to-install-denyhosts-intrusion-prevention-security-for-ssh-on-ubuntu/)
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

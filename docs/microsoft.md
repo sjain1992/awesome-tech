@@ -56,6 +56,7 @@
 - [Éstas son las principales novedades de Windows 10 Anniversary Update](http://www.xataka.com/aplicaciones/estas-son-las-principales-novedades-de-windows-10-anniversary-update)
 - [Red Hat, Microsoft and Codenvy Push DevOps with New Language Protocol 🌟🌟🌟](http://thevarguy.com/open-source-application-software-companies/red-hat-microsoft-and-codenvy-push-devops-new-language-pr)
 - [How to stop Windows 10 from automatically installing downloaded updates?](http://www.idganswers.com/question/29517/how-to-stop-windows-10-from-automatically-installing-downloaded-updates)
+- [blogthinkbig.com: Cómo acelerar Windows 10 con unos sencillos ajustes](http://blogthinkbig.com/como-acelerar-windows-10-con-unos-sencillos-ajustes)
 
 ## Windows Subsystem for Linux (WSL)
 - [How to enable the Linux/Bash subsystem in Windows 10](http://www.walkingrandomly.com/?p=6187)

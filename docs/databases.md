@@ -341,6 +341,7 @@
 
 ### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)
+- [How to Install, Secure and Performance Tuning of MariaDB Database Server 🌟🌟🌟](http://www.tecmint.com/install-secure-performance-tuning-mariadb-database-server)
 
 [![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 
