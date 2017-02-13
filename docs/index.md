@@ -634,20 +634,23 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![hpe_synergy_composable_infrastructure](images/hpe_synergy_composable_infrastructure.png)](http://www.bitcon.be/hpe-announces-synergy-the-hardware-platform-behind-the-composable-infrastructure/)
 
+<!-- HPE Synergy in two minutes: -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tbNdGa2iS0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
+<!-- Ericsson - Heterogeneous Networks: User Experience is Everything: -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rA0NhPJOFyw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
+<!-- Metodologías Ágiles en Telefónica I+D
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2yRxSxo8f8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br/> -->
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j7zouWhUTs4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
