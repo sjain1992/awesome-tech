@@ -466,6 +466,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![chinese_factory_robots](images/chinese_factory_robots.png)](http://www.zmescience.com/other/economics/china-factory-robots-03022017/)
 
+<div class="container">
+<iframe src="https://www.youtube.com/embed/N1b6iPYj3YQ?rel=0" width="640" height="360" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![staticgen](images/staticgen.png)](https://www.staticgen.com/)
 
 [![russian_proverb](images/russian_proverb.jpg)](https://awesome-tech.readthedocs.io/high-quality-tech-resources/)
