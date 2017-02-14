@@ -833,11 +833,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curiosity, <a href="https://twitter.com/hashtag/creativity?src=hash">#creativity</a>, critical thinking: Where do job seekers w/<a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a> have an edge? <a href="https://t.co/dCapgqUWQG">https://t.co/dCapgqUWQG</a> <a href="https://t.co/JS5RxMuJt0">pic.twitter.com/JS5RxMuJt0</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/762759561363222529">8 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- Martin fowler about architecture-->
+<!-- Martin fowler about architecture
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DngAZyWMGR0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/> 
+<br/> -->
 
 <!-- Martin Fowler NoSQL and NewSQL -->
 <div class="container">
