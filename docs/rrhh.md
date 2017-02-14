@@ -245,6 +245,8 @@
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
+![como_saber_si_vives_ambiente_laboral_toxico](images/como_saber_si_vives_ambiente_laboral_toxico.jpg)
+
 [![25 preguntas entrevista trabajo](images/25_preguntas_entrevista_trabajo.jpg)](https://twitter.com/Forbes_es)
 
 [![lo_que_rrhh_nunca_confesara](images/lo_que_rrhh_nunca_confesara.png)](https://ar.selecciones.com/contenido/a2869_lo-que-el-personal-de-recursos-humanos-nunca-te-confesara)
