@@ -841,6 +841,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![who_needs_an_architect](images/who_needs_an_architect.png)](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
+<center>
+
+[video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+
+</center>
+
 <!-- Martin Fowler NoSQL and NewSQL -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qI_g07C_Q5I" frameborder="0" allowfullscreen class="video"></iframe>
