@@ -471,8 +471,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br/>
 
-[![staticgen](images/staticgen.png)](https://www.staticgen.com/)
-
 [![russian_proverb](images/russian_proverb.jpg)](https://awesome-tech.readthedocs.io/high-quality-tech-resources/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">‘MAN vs MACHINE’ (for <a href="https://twitter.com/newscientist">@newscientist</a>) - <a href="https://t.co/QkK2VCHBv2">pic.twitter.com/QkK2VCHBv2</a></p>&mdash; Tom Gauld (@tomgauld) <a href="https://twitter.com/tomgauld/status/775307640511598606">12 de septiembre de 2016</a></blockquote>
@@ -849,6 +847,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <center>
 
 [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+
+[![staticgen](images/staticgen.png)](https://www.staticgen.com/)
 
 </center>
 
