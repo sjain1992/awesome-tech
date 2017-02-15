@@ -97,6 +97,7 @@
 	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark](https://www.youtube.com/watch?v=OFpQLyQxt84)
 - [tcpdump is amazing](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 - [tecmint: 12 Tcpdump Commands – A Network Sniffer Tool](http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/)
+- [Ten Powerful Wireshark Filters 🌟🌟🌟](https://community.tribelab.com/mod/page/view.php?id=638)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">i finally figured out that tcpdump is amazing. here&#39;s some of what I learned: <a href="https://t.co/OxqKocS3p3">https://t.co/OxqKocS3p3</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/710334113421664256">17 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
