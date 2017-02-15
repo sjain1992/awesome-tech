@@ -93,6 +93,7 @@
 - [entrepreneur.com: 7 Things You Should Never Say to Your Employees 🌟](https://www.entrepreneur.com/article/232657)
 - [entrepreneur.com: How Employees and Managers See Things Differently -- and How to Fix It 🌟](https://www.entrepreneur.com/article/282397)
 - [workitdaily.com: Career Management: Are YOU Lazy?](https://www.workitdaily.com/career-management-lazy/)
+- [Sell Your Talent, Not Your Time 🌟🌟](https://www.linkedin.com/pulse/sell-your-talent-time-bruce-kasanoff)
 
 [![dilbert_awesome_emails](images/dilbert_awesome_emails.gif)](http://dilbert.com/strip/2016-07-22)
 
