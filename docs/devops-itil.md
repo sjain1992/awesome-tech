@@ -358,6 +358,7 @@
 ## Collaborative tools
 - [etherpad.org 🌟](http://etherpad.org)
 - [ethercalc.org 🌟](https://ethercalc.org)
+- [New Fedora pastebin 🌟🌟](https://paste.fedoraproject.org/)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
