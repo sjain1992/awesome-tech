@@ -771,6 +771,10 @@
 
 		installonly_limit=2
 
+- Get a very fast list of the ip addresses of hosts on your local network:
+
+		cat /proc/net/arp | awk '{print $1}'
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

@@ -719,6 +719,7 @@
 - [nixCraft: Screen Command: Set Baud Rate - Terminal Communication](https://www.cyberciti.biz/faq/unix-linux-apple-osx-bsd-screen-set-baud-rate/)
 - [danielallendeutsch.com: Project #5: Using tmux Properly 🌟🌟🌟](http://danielallendeutsch.com/blog/16-using-tmux-properly.html)
 - [fedoramagazine.org: Use tmux for a more powerful terminal](https://fedoramagazine.org/use-tmux-more-powerful-terminal/)
+- [opensource.com: A quick introduction to tmux 🌟🌟](https://opensource.com/article/17/2/quick-introduction-tmux)
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 
