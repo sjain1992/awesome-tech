@@ -78,6 +78,9 @@
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
 - [datasciencecentral.com: 20 short tutorials all data scientists should read (and practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
 - [expansion.com: Qué debes estudiar para ser un experto en 'big data'](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/01/27/56a90c4cca47417a408b465a.html)
+- [The Best Business Intelligence Software According to G2 Crowd Winter 2016 Rankings 🌟🌟🌟](https://www.g2crowd.com/press-release/business-intelligence-software-winter-2016/)
+
+[![G2_crowd_grid_for_BI](images/G2_crowd_grid_for_BI.png)](https://www.g2crowd.com/press-release/business-intelligence-software-winter-2016/)
 
 [![dzone_refcard_machine_learning](images/dzone_refcard_machine_learning.png)](https://dzone.com/refcardz/machine-learning-predictive)
 
