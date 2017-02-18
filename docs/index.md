@@ -821,6 +821,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 
+[![juliaevans_questions](images/juliaevans_questions.png)](https://jvns.ca/blog/good-questions/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hiZ8E956PiU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
