@@ -103,6 +103,8 @@
 
 [![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
 
+[![julias_drawings](images/julias_drawings.png)](https://drawings.jvns.ca/)
+
 <center>
 
 |[![linux_foundation_video](images/linux_foundation_video.jpg)](https://www.youtube.com/user/TheLinuxFoundation)|[![kernel-training-video](images/kernel-training-video.jpg)](https://www.youtube.com/user/KernelTraining)|[![linux_cloud_tutorials_video](images/linux_cloud_tutorials_video.jpg)](https://www.youtube.com/channel/UCPc0nlna_WquFCL2X86KO8w)|[![nixcraft_video](images/nixcraft_video.jpg)](https://www.youtube.com/user/nixcraftcom)|[![tecmint_video](images/tecmint_video.jpg)](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)|[![sysadmin_howto_video](images/sysadmin_howto_video.jpg)](https://www.youtube.com/channel/UCQBNM7QWVrS_pZgzYdY7ruQ)|
