@@ -142,6 +142,9 @@
 ### Virtual LAN
 - [Virtual LAN](VLAN.md)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">network address translation is a cool thing that happens basically every time you use wifi to go to a website! <a href="https://t.co/UBKC1aVYR8">pic.twitter.com/UBKC1aVYR8</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/799852593501663232">19 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Network virtualization. Software Defined Networking (SDN)
 - [opnfv.org FOSS Network Functions Virtualization](https://www.opnfv.org)
 - [opennetworking.org](https://www.opennetworking.org/)
@@ -257,6 +260,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/jNw65ZLpdYJz4Y" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shaileshpachori/master-all-home" title="Ipv4 vs Ipv6 comparison" target="_blank">Ipv4 vs Ipv6 comparison</a> </strong> from <strong><a href="//www.slideshare.net/shaileshpachori" target="_blank">Shailesh Pachori</a></strong> </div>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">IPv6 <a href="https://t.co/DelJRNWTsU">https://t.co/DelJRNWTsU</a> <a href="https://t.co/t5Xnye6kZK">pic.twitter.com/t5Xnye6kZK</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/800010805513162752">19 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Network Forensics
 - [Network Forensics](nw_forensics.md)

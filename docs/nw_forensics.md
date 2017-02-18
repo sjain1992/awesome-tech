@@ -95,7 +95,7 @@
 	- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
 - [Troubleshooting with Wireshark: Identifying SIP Errors](https://www.youtube.com/watch?v=bu6kpneLlFc)
 	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark](https://www.youtube.com/watch?v=OFpQLyQxt84)
-- [tcpdump is amazing](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
+- [Julia Evans: tcpdump is amazing 🌟🌟🌟](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 - [tecmint: 12 Tcpdump Commands – A Network Sniffer Tool](http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/)
 - [Ten Powerful Wireshark Filters 🌟🌟🌟](https://community.tribelab.com/mod/page/view.php?id=638)
 
@@ -108,6 +108,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KtIsj2KHBVw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">our star: the packet! <a href="https://t.co/bwRaObb4ko">pic.twitter.com/bwRaObb4ko</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/812445169446490112">23 de diciembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">anatomy of a packet <a href="https://t.co/ZeLU8IJ6GR">pic.twitter.com/ZeLU8IJ6GR</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/802554278808322048">26 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Wireshark online learning
 - [Udemy.com: Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
@@ -267,10 +273,11 @@
 </div>
 <br/>
 
+<!-- eliminado de slideshare:
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rPzpzxBYbllrNi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sandeshsawant3/deep-packet-inspectionteachnologyoverview" title="Deep packet inspection_teachnology_overview" target="_blank">Deep packet inspection_teachnology_overview</a> </strong> from <strong><a href="//www.slideshare.net/sandeshsawant3" target="_blank">Sandesh Sawant</a></strong> </div>
 </div>
-<br/>
+<br/> -->
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/7hWEt8tngimWMj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielVinyar/dpi-tech-evolutionv12" title="Deep Packet Inspection technology evolution" target="_blank">Deep Packet Inspection technology evolution</a> </strong> from <strong><a href="//www.slideshare.net/DanielVinyar" target="_blank">Daniel Vinyar</a></strong> </div>
