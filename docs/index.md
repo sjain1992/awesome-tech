@@ -821,10 +821,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 
-[![julias_drawings](images/julias_drawings.png)](https://drawings.jvns.ca/)
-
-[![juliaevans_questions](images/juliaevans_questions.png)](https://jvns.ca/blog/good-questions/)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hiZ8E956PiU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -865,6 +861,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br>
 
 [![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
+
+[![julias_drawings](images/julias_drawings.png)](https://drawings.jvns.ca/)
+
+[![juliaevans_questions](images/juliaevans_questions.png)](https://jvns.ca/blog/good-questions/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Rest up tonight. Arianna Huffington just destroyed that macho &#39;no sleep&#39; mentality. <a href="https://t.co/wAza8hnrGw">pic.twitter.com/wAza8hnrGw</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/786749377138176001">14 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
