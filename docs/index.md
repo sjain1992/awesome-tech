@@ -551,7 +551,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
+<center>
+
 [Síndrome de Procusto: Prescindir de quien sobresale](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
+
+</center>
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
