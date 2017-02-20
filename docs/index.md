@@ -915,10 +915,11 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![voltaire disagreement](images/voltaire_disagreement.jpg)](https://awesome-tech.readthedocs.io/office_politics/)
 
+<!-- Handling political conversations at work 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>
 </div>
-</br>
+</br> -->
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Os parece El gran Gatsby, de Scott Fitzgerald, la mejor novela estadounidense del siglo XX? Enrique Turpin no duda <a href="https://t.co/FpmaEgliTD">https://t.co/FpmaEgliTD</a></p>&mdash; Zenda (@zendalibros) <a href="https://twitter.com/zendalibros/status/788999999053062144">20 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
