@@ -734,6 +734,7 @@
 - [nixCraft: KVM libvirt assign static guest IP addresses using DHCP on the virtual machine](http://www.cyberciti.biz/faq/linux-kvm-libvirt-dnsmasq-dhcp-static-ip-address-configuration-for-guest-os/)
 - [nixCraft: How to create snapshot in Linux KVM VM/Domain 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-create-create-snapshot-in-linux-kvm-vmdomain/)
 - [nixCraft: How to add disk image to KVM virtual machine with virsh command](https://www.cyberciti.biz/faq/how-to-add-disk-image-to-kvm-virtual-machine-with-virsh-command/)
+- [nixCraft: How to enable KVM virsh console access for Ubuntu Linux VM](https://www.cyberciti.biz/faq/how-to-enable-kvm-virsh-console-access-for-ubuntu-linux-vm/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">KVM libvirt assign static guest IP addresses using DHCP on Linux virtual machine <a href="https://t.co/0vFzVDnb9a">https://t.co/0vFzVDnb9a</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/GBYHhS4Bbl">pic.twitter.com/GBYHhS4Bbl</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710172113915781120">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
