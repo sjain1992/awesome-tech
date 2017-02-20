@@ -47,6 +47,7 @@
 		- [SysVinit](#sysvinit)
 		- [SystemD](#systemd)
 			- [JournalD](#journald)
+			- [Control Groups. Managing resources or performance](#control-groups-managing-resources-or-performance)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [OpenVPN](#openvpn)
@@ -731,6 +732,7 @@
 - [linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04](http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/)
 - [nixCraft: KVM libvirt assign static guest IP addresses using DHCP on the virtual machine](http://www.cyberciti.biz/faq/linux-kvm-libvirt-dnsmasq-dhcp-static-ip-address-configuration-for-guest-os/)
 - [nixCraft: How to create snapshot in Linux KVM VM/Domain 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-create-create-snapshot-in-linux-kvm-vmdomain/)
+- [nixCraft: How to add disk image to KVM virtual machine with virsh command](https://www.cyberciti.biz/faq/how-to-add-disk-image-to-kvm-virtual-machine-with-virsh-command/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">KVM libvirt assign static guest IP addresses using DHCP on Linux virtual machine <a href="https://t.co/0vFzVDnb9a">https://t.co/0vFzVDnb9a</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/GBYHhS4Bbl">pic.twitter.com/GBYHhS4Bbl</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710172113915781120">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -928,6 +930,10 @@
 #### JournalD 
 - [Logging With Journald In RHEL7/CentOS7 🌟](https://www.unixmen.com/logging-journald-rhel7centos7/)
 
+#### Control Groups. Managing resources or performance
+- [World domination with Cgroups - Part 1 - Cgroup basics](https://www.redhat.com/en/about/blog/world-domination-cgroups-part-1-cgroup-basics)
+- [World Domination with Cgroups - Part 2 - Turning Knobs](https://www.redhat.com/en/about/blog/world-domination-cgroups-part-2-turning-knobs)
+
 ## Linux Networking
 ### Networking FOSS Tools
 - [ntop](http://www.ntop.org/)
@@ -1115,6 +1121,8 @@
 - [nixCraft: SSH: WARNING: UNPROTECTED PRIVATE KEY FILE! Error and Solution](https://www.cyberciti.biz/faq/warning-unprotected-private-key-file-ssh-linux-unix-error/)
 - [sshrc: bring your .bashrc, .vimrc, etc. with you when you ssh](https://github.com/Russell91/sshrc)
 - [tecmint.com: How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH 🌟🌟🌟](http://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh/)
+- [stackoverflow.com: What is the difference between sudo vim /etc/services and sudoedit /etc/services? 🌟🌟🌟](http://stackoverflow.com/questions/22084422/what-is-the-difference-between-sudoedit-and-sudo-vim)
+- [nixCraft: How to disable ssh password login on Linux to increase security](https://www.cyberciti.biz/faq/how-to-disable-ssh-password-login-on-linux/)
 
 #### SSH Tunnels
 - [advanced-ssh-config 🌟🌟🌟🌟](https://github.com/moul/advanced-ssh-config)

@@ -33,6 +33,7 @@ A curated list of awesome IT projects and resources collected since 2014. Inspir
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
+- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 
 :smiley:
 

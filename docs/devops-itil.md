@@ -239,6 +239,7 @@
 - [DZone: Top Challenges of Database Change Management and How to Fix Them 🌟🌟](https://dzone.com/articles/top-challenges-of-database-change-management-and-h) As Agile methodology continues to expand its focus, databases are no exception. See how to manage your changes while keeping light on your feet — so you don't break stuff.
 - [Dzone: DevOops! Culture (Comic). DevOps removes the walls and reduces tension between Dev and Ops guys. Revolutionary DevOops! approach resolves the problems completely!](https://dzone.com/articles/devoops-culture-comic)
 - [The Eight Stages of Adopting DevOps](https://www.linkedin.com/pulse/eight-stages-adopting-devops-mustafa-kapadia)
+- [The Human Side of DevOps](https://dzone.com/articles/the-human-side-of-devops) If you make it all about automation and forget the people, it will never be true DevOps. Only true collaboration of the Devs and the Ops can lead to optimal results.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> is not only for startups and unicorns. Bust DevOps myths: <a href="https://t.co/bbv1A66PH8">https://t.co/bbv1A66PH8</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/761906168587399168">6 de agosto de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

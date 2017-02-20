@@ -98,6 +98,7 @@
 - [serversforhackers.com: An Ansible Tutorial 🌟🌟🌟](https://serversforhackers.com/an-ansible-tutorial)
 - [ansible.com: Ansible Best Practices, the essentials 🌟🌟🌟](https://www.ansible.com/blog/ansible-best-practices-essentials)
 - [Shell Scripts vs Ansible: Fight! 🌟🌟🌟](https://valdhaus.co/writings/ansible-vs-shell-scripts/)
+- [nixCraft: How to create a new config file in Ansible playbook 🌟🌟🌟](https://www.cyberciti.biz/faq/how-to-create-a-new-simple-complex-config-file-with-ansible-playbook/)
 
 ## Ansible Vulnerabilities
 - [CVE-2016-9587: an unpleasant Ansible vulnerability](https://lwn.net/Articles/711357/)
