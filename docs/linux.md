@@ -576,6 +576,7 @@
 - [nixCraft: 10 Tools To Add Some Spice To Your UNIX Shell Scripts 🌟🌟](https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html) tput (used to set terminal features), setleds, logger, setterm, bash socket programming, etc
 - [nixCraft: Linux/UNIX: Create Large 1GB Binary Image File With dd Command 🌟🌟🌟](https://www.cyberciti.biz/faq/howto-create-lage-files-with-dd-command/)
 - [steve-parker.org: Progress Bar. Creating a simple Progress Bar for a shell script](http://steve-parker.org/sh/tips/progressbar/)
+- [Adventures in /usr/bin and the likes 🌟🌟🌟](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
