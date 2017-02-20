@@ -242,6 +242,7 @@
 - [Hong Kong, la ciudad donde más se trabaja](http://www.elmundo.es/economia/2016/10/22/57fd0f0ae2704ea60a8b46ef.html) El hongkonés medio trabaja 50,11 horas por semana
 - [Por qué todo el mundo quiere ‘hackathon’](http://elpais.com/elpais/2016/10/13/talento_digital/1476355605_011048.html) Las empresas cambian las reglas del juego para innovar y buscan la colaboración de genios fuera de sus plantillas
 - [¿Qué nos enseñan los chimpancés sobre los jefes y las oficinas?](http://www.elmundo.es/blogs/elmundo/yomono/2017/01/07/que-nos-ensenan-los-chimpances-sobre-los.html)
+- [Síndrome de Procusto: Prescindir de quien sobresale 🌟](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
@@ -263,6 +264,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OcKF2V4yZyE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![sindrome_de_procusto_forum](images/sindrome_de_procusto_forum.png)](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Hábitos que afean tu condición de <a href="https://twitter.com/hashtag/jefe?src=hash">#jefe</a> ➡ <a href="https://t.co/zM28FbaWrH">https://t.co/zM28FbaWrH</a> por <a href="https://twitter.com/raulalonsoenred">@raulAlonsoenred</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711507895146385409">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
