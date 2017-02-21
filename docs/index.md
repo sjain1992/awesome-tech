@@ -557,6 +557,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [Síndrome de Procusto: Prescindir de quien sobresale](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
 
+[What happens when a loyal employee is out-performed by a new hire?](http://www.inc.com/jt-odonnell/new-employee-is-making-my-old-employee-look-badnow-what.html)
+
 </center>
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
