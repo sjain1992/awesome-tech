@@ -563,7 +563,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
 
-[![3_ways_to_make_a_living](images/3_ways_to_make_a_living.jpg)](thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
+[![3_ways_to_make_a_living](images/3_ways_to_make_a_living.jpg)](https://thoughtsofafinancestudent.blogspot.com/2015/11/margin-call-be-first-be-smart-or-cheat.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
