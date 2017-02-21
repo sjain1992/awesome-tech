@@ -513,6 +513,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?v=8Cu_9aKcgjY&index=2&list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj&t=17m57s)
 
+[![kill_bill_head_cut](images/kill_bill_head_cut.gif)](https://www.youtube.com/watch?v=7kSuas6mRpk)
+
 <!--
 (Dis)Honesty - The Truth About Lies Official Trailer 1 (2015) - Documentary HD 
 -->
@@ -835,6 +837,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hiZ8E956PiU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![pulp_fiction_cuadriculado](images/pulp_fiction_cuadriculado.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
 
 [![old-thinking-new-thinking](images/old-thinking-new-thinking.jpg)](http://plbbusinessconsulting.com/old-thinking-vs-new-thinking/)
 
