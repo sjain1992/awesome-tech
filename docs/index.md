@@ -955,7 +955,19 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
 <!-- <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;end=82" frameborder="0" allowfullscreen></iframe> -->
+<!-- World Press Photo: Mei -->
+<div class="container">
+<iframe src="https://player.vimeo.com/video/151956735" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+</br>
 
+<!-- World Press Photo: How China Is Changing Your Internet-->
+<div class="container">
+<iframe src="https://player.vimeo.com/video/178416526" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+</br>
+
+<!-- Bitcoin: el milagro de una moneda de la nada -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DtbeVa6PH58?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
