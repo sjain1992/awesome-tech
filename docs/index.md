@@ -557,14 +557,16 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 </center>
 
-[![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
-
-[![howtowrite_goodcode](images/howtowrite_goodcode.jpg)](https://awesome-tech.readthedocs.io/devops-itil/)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
+
+[![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
+
+[![howtowrite_goodcode](images/howtowrite_goodcode.jpg)](https://awesome-tech.readthedocs.io/devops-itil/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -786,6 +788,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Una preciosidad. La curva de Phillips en Estados Unidos 1948-2016 <a href="https://t.co/DG8830SN8n">pic.twitter.com/DG8830SN8n</a></p>&mdash; Manuel Ale. Hidalgo (@Manuj_Hidalgo) <a href="https://twitter.com/Manuj_Hidalgo/status/787202271532703748">15 de octubre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![money_monster_explanation](images/money_monster_explanation.gif)](https://www.youtube.com/watch?v=o4jl_hOqmo0)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LZAJuOTXqg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
