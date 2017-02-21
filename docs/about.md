@@ -40,16 +40,9 @@
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oh, the places you can go with Google Street View <a href="https://t.co/p1UP4dN6YY">https://t.co/p1UP4dN6YY</a> by <a href="https://twitter.com/annaescher">@annaescher</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/706177710926630912">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Solar power:clean and cheap <a href="https://twitter.com/hashtag/energy?src=hash">#energy</a> to power over 29 million homes in the world <a href="https://t.co/quqiXpd8TD">https://t.co/quqiXpd8TD</a></p>&mdash; Antonio Renom (@AntonioRenom) <a href="https://twitter.com/AntonioRenom/status/710830122618609668">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mi soñada bicicleta <a href="https://t.co/OQHWqFfxIz">https://t.co/OQHWqFfxIz</a></p>&mdash; Ricardo Trujillo (@rtrujillor) <a href="https://twitter.com/rtrujillor/status/706095627579629568">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Over 11,000 electric motorbikes sold in Taiwan last year | Economics | FOCUS TAIWAN - CNA ENGLISH NEWS <a href="https://t.co/Aga1ojDfZL">https://t.co/Aga1ojDfZL</a></p>&mdash; Martin Bača (@MartinBaca75) <a href="https://twitter.com/MartinBaca75/status/684754123787472899">6 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="eu" dir="ltr">Amazing!!! <a href="https://twitter.com/LitMotors">@LitMotors</a> <a href="https://twitter.com/hashtag/C1?src=hash">#C1</a> <a href="https://t.co/OhaGMjmSyt">https://t.co/OhaGMjmSyt</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Mikel Arzallus (@mikel_arzallus) <a href="https://twitter.com/mikel_arzallus/status/709009784628883457">13 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Road?src=hash">#Road</a> <a href="https://twitter.com/hashtag/printer?src=hash">#printer</a>  <a href="https://t.co/GwIA0SA07b">https://t.co/GwIA0SA07b</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/hashtag/Architecture?src=hash">#Architecture</a> <a href="https://twitter.com/hashtag/construction?src=hash">#construction</a> <a href="https://twitter.com/hashtag/infrastructure?src=hash">#infrastructure</a> <a href="https://twitter.com/hashtag/USVI?src=hash">#USVI</a> <a href="https://twitter.com/hashtag/Africa?src=hash">#Africa</a> <a href="https://twitter.com/hashtag/Haiti?src=hash">#Haiti</a> <a href="https://twitter.com/hashtag/RoadWarriors?src=hash">#RoadWarriors</a></p>&mdash; TheresaEBerger (@TheresaEBerger) <a href="https://twitter.com/TheresaEBerger/status/709002012130734080">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -64,17 +57,7 @@
 <br/>
 _______________________________________________________________________________________
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MLXPrGtHXMo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div> 
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TMusIXdAYt0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div> 
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P0ZS-k_mno4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr63Sm7B16YmuSMW4x9sWm4KkY-pH0rMR" frameborder="0" allowfullscreen class="video"></iframe>
 </div> 
 <br/>
 
@@ -88,31 +71,17 @@ ________________________________________________________________________________
 </div> 
 <br/>
 
+<<!-- pulp fiction soundtrack
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2A4I5BZ1L34?list=PLF4C445D6E234A0F6" frameborder="0" allowfullscreen class="video"></iframe>
 </div> 
-<br/>
+<br/> -->
 
 [![utopia126_hall](images/utopia126_hall.png)](http://www.rtve.es/alacarta/videos/a-punto-con-la-2/punto-2-19-07-16/3666572/)
 
 [![utopia126](images/utopia126.jpg)](http://www.utopia126.com/)
 
 <DOCTYPE html> <script src="//player.ooyala.com/static/v4/stable/latest/core.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/main_html5.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/bit_wrapper.min.js"></script><script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/osmf_flash.min.js"></script><link rel="stylesheet" href="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.css"/><div id='container' style='width:100%;height:100%;'></div><script>var playerParam = {'pcode':'BhdmY6l9g002rBhQ6aEBZiheacDu','playerBrandingId':'6e12e8b3387a44daacfb73afba25a76e','skin': {'config': '//player.ooyala.com/static/v4/stable/latest/skin-plugin/skin.json'} };OO.ready(function() {window.pp = OO.Player.create('container', 'drYjdoNTE6v8GKEExMIRklEhBEFlayDt', playerParam);        }); </script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vsg48QC1HJ8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cvrpFVaOE8Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LYcHxr4PZQg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRnHkEaxFyY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
