@@ -971,10 +971,14 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![john_travolta_uma_thurman_pulp_fiction_car](images/john_travolta_uma_thurman_pulp_fiction_car.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
 
+<!-- Arthur C. Clarke describe internet en 1974 -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+|[![django_auf_wiedersehen_1](images/django_auf_wiedersehen_1.gif)](https://www.youtube.com/watch?v=6pKZbJHa17c)|[![django_auf_wiedersehen_2](images/django_auf_wiedersehen_2.gif)](https://www.youtube.com/watch?v=6pKZbJHa17c)|
+|:---:|:---:|
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c5P2CvBTRg?list=PLk1Rzj8ppcXm7jv58Hrr6jv1t8A-OHVfA" frameborder="0" allowfullscreen class="video"></iframe>
