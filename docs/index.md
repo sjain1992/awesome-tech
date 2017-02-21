@@ -563,6 +563,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
 
+[![3_ways_to_make_a_living](images/3_ways_to_make_a_living.jpg)](thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -842,7 +844,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![pulp_fiction_cuadriculado](images/pulp_fiction_cuadriculado.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
 
-[![old-thinking-new-thinking](images/old-thinking-new-thinking.jpg)](http://plbbusinessconsulting.com/old-thinking-vs-new-thinking/)
+[![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
+
+![old_thinking_new_thinking](images/old_thinking_new_thinking.jpg)
 
 [![the_ides_of_march_loyalty](images/the_ides_of_march_loyalty.gif)](https://www.youtube.com/watch?v=pV-50ay79mk)
 
