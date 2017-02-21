@@ -513,8 +513,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![napoleon_quote_poder](images/napoleon_quote_poder.png)](https://www.youtube.com/watch?v=8Cu_9aKcgjY&index=2&list=PLr63Sm7B16Ym6_CgbzsgGOVHQ7X1nqMBj&t=17m57s)
 
-[![kill_bill_head_cut](images/kill_bill_head_cut.gif)](https://www.youtube.com/watch?v=7kSuas6mRpk)
-
 <!--
 (Dis)Honesty - The Truth About Lies Official Trailer 1 (2015) - Documentary HD 
 -->
@@ -524,6 +522,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![pathsofglory-threatening_dax](images/pathsofglory-threatening_dax.jpg)](https://www.youtube.com/watch?v=UqLq7sMS2sU)
+
+[![kill_bill_head_cut](images/kill_bill_head_cut.gif)](https://www.youtube.com/watch?v=7kSuas6mRpk)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Being an IT manager is hard <a href="https://t.co/NtFPyzgCvq">https://t.co/NtFPyzgCvq</a> I&#39;m blessed with good people here. cc <a href="https://twitter.com/khaxan">@khaxan</a></p>&mdash; nixCraft # (@nixcraft) <a href="https://twitter.com/nixcraft/status/782938459535052801">3 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
