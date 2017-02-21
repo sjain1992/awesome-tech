@@ -557,12 +557,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 </center>
 
+[![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-[![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
 
 [![what_to_do_with_spaghetti_code](images/what_to_do_with_spaghetti_code.png)](https://dzone.com/articles/what-do-do-when-your-colleague)
 
@@ -837,6 +837,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/>
 
 [![old-thinking-new-thinking](images/old-thinking-new-thinking.jpg)](http://plbbusinessconsulting.com/old-thinking-vs-new-thinking/)
+
+[![the_ides_of_march_loyalty](images/the_ides_of_march_loyalty.gif)](https://www.youtube.com/watch?v=pV-50ay79mk)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MLXPrGtHXMo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
