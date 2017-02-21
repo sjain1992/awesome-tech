@@ -967,6 +967,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 </br>
 
+[![john_travolta_uma_thurman_pulp_fiction_car](images/john_travolta_uma_thurman_pulp_fiction_car.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
+
 <!-- Bitcoin: el milagro de una moneda de la nada -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DtbeVa6PH58?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -980,8 +982,6 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blockchain: A new hope, or just hype? <a href="https://t.co/VsDcQShJEo">https://t.co/VsDcQShJEo</a> <a href="https://twitter.com/hashtag/technology?src=hash">#technology</a> <a href="https://t.co/bi3QPWbFrP">pic.twitter.com/bi3QPWbFrP</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/830474483647578112">11 de febrero de 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![john_travolta_uma_thurman_pulp_fiction_car](images/john_travolta_uma_thurman_pulp_fiction_car.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
 
 <!-- Arthur C. Clarke describe internet en 1974 -->
 <div class="container">
