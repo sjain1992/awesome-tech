@@ -487,6 +487,8 @@
 ## Oracle
 - [allthingsoracle.com 🌟](http://allthingsoracle.com)
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
+- [Oracle SQL Functions](http://www.databasestar.com/oracle-sql-functions/)
+- [Oracle Data Types](http://www.databasestar.com/oracle-data-types/)
 
 ### Oracle installation
 - [slideshare.net: Oracle11g on fedora14](http://www.slideshare.net/KhalidMatarAlbuflasah/oracle11g-on-fedora14-6564836)
