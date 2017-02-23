@@ -218,6 +218,7 @@
 - [How Resentment Hurts Your Career (And, 6 Steps To Overcoming It)](http://www.inc.com/jt-odonnell/how-resentment-hurts-your-career-and-6-steps-to-overcoming-it.html)
 - [Best PEOPLE get FIRED for cause! Tragedy of the modern world 🌟🌟🌟](https://www.linkedin.com/pulse/best-people-get-fired-cause-tragedy-modern-world-oleg-vishnepolsky)
 - [TOP REGRETS of experienced MANAGERS](https://www.linkedin.com/pulse/top-regrets-experienced-managers-oleg-vishnepolsky)
+- [Good Bosses Switch Between Two Leadership Styles 🌟🌟🌟🌟](https://hbr.org/2016/12/good-bosses-switch-between-two-leadership-styles)
 
 [![top_execs_taking_walks](images/top_execs_taking_walks.png)](http://money.cnn.com/2016/10/21/technology/silicon-valley-walks/)
 

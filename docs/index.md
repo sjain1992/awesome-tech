@@ -559,6 +559,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [What happens when a loyal employee is out-performed by a new hire?](http://www.inc.com/jt-odonnell/new-employee-is-making-my-old-employee-look-badnow-what.html)
 
+[Good Bosses Switch Between Two Leadership Styles](https://hbr.org/2016/12/good-bosses-switch-between-two-leadership-styles)
+
 </center>
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
