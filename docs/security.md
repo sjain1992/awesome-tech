@@ -453,6 +453,12 @@
 </div>
 <br>
 
+<!-- Security-enhanced Linux for mere mortals - 2015 Red Hat Summit -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNoVgDqqJmM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Session Hijacking Detection
 - [stackoverflow.com: What is the best way to prevent session hijacking?](http://stackoverflow.com/questions/22880/what-is-the-best-way-to-prevent-session-hijacking)
 

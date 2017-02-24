@@ -488,6 +488,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)](https://www.youtube.com/watch?v=-Ot948zIr0s)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/EzRkyddkIo">https://t.co/EzRkyddkIo</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/834875515471265793">23 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- Thievery Corporation - Culture of Fear
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
@@ -560,6 +562,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [What happens when a loyal employee is out-performed by a new hire?](http://www.inc.com/jt-odonnell/new-employee-is-making-my-old-employee-look-badnow-what.html)
 
 [Good Bosses Switch Between Two Leadership Styles](https://hbr.org/2016/12/good-bosses-switch-between-two-leadership-styles)
+
+[Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
 
 </center>
 
@@ -973,6 +977,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <iframe src="https://player.vimeo.com/video/178416526" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 </br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The world&#39;s 10 largest economies, 1970—2030: rise of China 🇨🇳 and India 🇮🇳 <a href="https://t.co/12VIeaqgKQ">pic.twitter.com/12VIeaqgKQ</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/834632716431847425">23 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![john_travolta_uma_thurman_pulp_fiction_car](images/john_travolta_uma_thurman_pulp_fiction_car.gif)](https://www.youtube.com/watch?v=tGpTpVyI_OQ)
 

@@ -36,6 +36,7 @@
     - [Anatomy of an Elasticsearch Cluster: Part II](http://insightdataengineering.com/blog/elasticsearch-core/)
 - [DZone: Deep Dive Into Elasticsearch 🌟🌟](https://dzone.com/articles/deep-dive-intonbspelasticsearch) In this presentation, we are going to discuss how Elasticsearch handles the various operations like insert, update, delete. We would also cover what is an inverted index and how segment merging works.
 - [A Comparison of Fluentd vs. LogStash Log Collector 🌟🌟🌟](https://blog.loomsystems.com/2017/01/30/a-comparison-of-fluentd-vs-logstash-log-collector/)
+- [unixmen.com: Installing Elastic Stack on CentOS 7](https://www.unixmen.com/installing-elastic-stack-centos-7/)
 
 [![dzone_which_elk_solution](images/dzone_which_elk_solution.png)](https://dzone.com/articles/which-elk-stack-solution-is-right-for-you)
 

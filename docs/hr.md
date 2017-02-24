@@ -388,6 +388,7 @@
 - [entrepreneur.com: Your Employees Aren't Really Doing Their Jobs -- How to Help](https://www.entrepreneur.com/article/283715)
 - [My Boss Expects Too Much, Too Fast... 🌟🌟](http://www.inc.com/jt-odonnell/my-boss-is-expects-too-much-too-fast.html) Is this boss too demanding? Or, is the employee not stepping up? You decide...
 - [What happens when a loyal employee is out-performed by a new hire? 🌟🌟🌟](http://www.inc.com/jt-odonnell/new-employee-is-making-my-old-employee-look-badnow-what.html)
+- [Hey Boss: Your Chaos Is Making Me Anxious](https://www.linkedin.com/pulse/hey-boss-your-chaos-making-me-anxious-brian-de-haaff)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3ydHqSOswtuZqC" width="595" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LinkedInPulse/gregg-ward-politics-conversations-work-leadership" title="How to Handle Political Conversations at Work" target="_blank">How to Handle Political Conversations at Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/LinkedInPulse">LinkedIn Pulse</a></strong> </div>

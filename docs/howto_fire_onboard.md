@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [How to Fire and Onboard Employees](#how-to-fire-and-onboard-employees)
-	- [How to Fire](#how-to-fire)
-	- [How to Successfully Onboard Employees](#how-to-successfully-onboard-employees)
+    - [How to Fire](#how-to-fire)
+    - [How to Successfully Onboard Employees](#how-to-successfully-onboard-employees)
 
 <!-- /MarkdownTOC -->
 
@@ -101,6 +101,7 @@
 - [How to Successfully Onboard Employees](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
 - [10 consejos para integrar a nuevos empleados en la organización](https://www.robertwalters.es/contratacion/hiring-advice/diez-consejos-para-integrar-nuevos-empleados.html)
 - [bbvacontuempresa.es: Principios para un buen plan de bienvenida en la empresa](http://www.bbvacontuempresa.es/a/principios-para-buen-plan-bienvenida-la-empresa)
+- [4 Ways to Discourage New Employees](http://www.mjms.net/blog/4-ways-to-discourage-new-employees/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">According to <a href="https://twitter.com/Forbes">@Forbes</a>, the expense to replace an employee ranging from $3k-$18k. <a href="https://t.co/YXGa8ZVkQr">https://t.co/YXGa8ZVkQr</a> <a href="https://twitter.com/hashtag/onboarding?src=hash">#onboarding</a></p>&mdash; DZone Software (@DZoneSoftware) <a href="https://twitter.com/DZoneSoftware/status/707955522662768640">marzo 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -577,6 +577,7 @@
 - [nixCraft: Linux/UNIX: Create Large 1GB Binary Image File With dd Command 🌟🌟🌟](https://www.cyberciti.biz/faq/howto-create-lage-files-with-dd-command/)
 - [steve-parker.org: Progress Bar. Creating a simple Progress Bar for a shell script](http://steve-parker.org/sh/tips/progressbar/)
 - [Adventures in /usr/bin and the likes 🌟🌟🌟](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
+- [Ctrl+R Autocomplete with Bash is a Life Saver 🌟🌟](https://dev.to/ben/ctrlr-autocomplete-with-bash-is-a-life-saver)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -655,6 +656,7 @@
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 - [5 reasons system administrators should use revision control 🌟🌟🌟](https://opensource.com/life/16/7/systems-administrators-should-use-revision-control)
 - [5 tools to support distributed sysadmin teams](https://opensource.com/life/16/7/5-remote-sysadmin-tools)
+- [How setting the TZ environment variable avoids thousands of system calls on Linux 🌟🌟🌟](https://blog.packagecloud.io/eng/2017/02/21/set-environment-variable-save-thousands-of-system-calls/) To avoid extra system calls on server processes where you won’t be updating the timezone (or can restart processes when you do) simply set the TZ environment variable to :/etc/localtime (or some other timezone file of your choice) for a process. This will cause glibc to avoid making extra (and unnecessary) system calls.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The smallest things like missing ; in Unix/Linux config file can cause greatest pain. But u can chk for syntax error <a href="https://t.co/HgYfKs7VcQ">https://t.co/HgYfKs7VcQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703553266160766977">27 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -953,7 +955,7 @@
 - [nixCraft: How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed 🌟](http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/)
 - [How To Flush Linux/UNIX DNS Cache](http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/)
 - [unixmen.com: How To Setup DNS Server In Ubuntu 15.10](http://www.unixmen.com/how-to-setup-dns-server-in-ubuntu-15-10/)
-- [How to Configure and Manage Network Connections Using ‘nmcli’ Tool 🌟](http://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/)
+- [How to Configure and Manage Network Connections Using ‘nmcli’ Tool 🌟🌟🌟](http://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/)
 - [Linux networking examples and tutorials for advanced users 🌟🌟🌟](https://github.com/knorrie/network-examples) Includes lab examples for lxc, bgp, vpn, & more
 - [CentOS/RHEL: Install vnStat Network Traffic Monitor To Keep a Log Of Daily Traffic 🌟🌟🌟](http://www.cyberciti.biz/faq/centos-redhat-fedora-linux-install-vnstat-bandwidth-monitor/)
 - [ngrep 🌟](http://ngrep.sourceforge.net/)
@@ -963,6 +965,7 @@
 - [nixCraft: FreeBSD - sockstat - Unix Find Out Which Programs Are Listing On a Given Port Number](http://www.cyberciti.biz/faq/freebsd-unix-find-the-process-pid-listening-on-a-certain-port-commands/)
 - [blog.pandorafms.org: Useful Network commands 🌟🌟🌟](https://blog.pandorafms.org/network-commands/) VNStat, ping, traceroute, ping, arp, curl and wget, netstat, whois, ssh, tcpdump, ngrep, nmap, netcat, lsof, iptraf
 - [How to tuning the Linux Networking Stack for sending and receiving data 🌟🌟🌟🌟](https://www.linuxnewssite.com/how-to-tuning-the-linux-networking-stack-for-sending-and-receiving-data-0802201797.html) Awesome guide to monitoring and tuning the Linux networking stack for sysadmins/developers
+- [tecmint: Find Out All Live Hosts IP Addresses Connected on Network in Linux 🌟🌟🌟](http://www.tecmint.com/find-live-hosts-ip-addresses-on-linux-network)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -1071,6 +1074,7 @@
 - [certsimple.com: You won't remember the options for OpenSSL, so here's bash shortcuts for everything](https://certsimple.com/blog/openssl-shortcuts)
 - [Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 - [howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10](https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/)
+- [tecmint: Setting Up a Secure FTP Server using SSL/TLS on Ubuntu](http://www.tecmint.com/secure-ftp-server-using-ssl-tls-on-ubuntu/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 - [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
@@ -1246,6 +1250,7 @@
 - [OpenSCAP](https://www.open-scap.org)
 - [tecmint.com: Implementing Mandatory Access Control with SELinux or AppArmor in Linux 🌟🌟](http://www.tecmint.com/mandatory-access-control-with-selinux-or-apparmor-linux/)
 - [people.redhat.com: SECURITY ENHANCED LINUX FOR MERE MORTALS 🌟](http://people.redhat.com/tcameron/Summit2016/selinux/selinux_for_mere_mortals.pdf) Scared of SELinux? Don't be, its easy.
+- [stopdisablingselinux.com 🌟🌟](https://stopdisablingselinux.com/)
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 

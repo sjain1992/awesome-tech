@@ -309,6 +309,7 @@
 - [How To Flush Linux/UNIX DNS Cache](http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/)
 - [unixmen.com: How To Setup DNS Server In Ubuntu 15.10](http://www.unixmen.com/how-to-setup-dns-server-in-ubuntu-15-10/)
 - [linux.com: Dig Into DNS: Part 1](https://www.linux.com/learn/dig-dns-part-1)
+- [datapath.io: What is Domain Name System (DNS)?](https://datapath.io/resources/blog/what-is-domain-name-system-dns)
 
 [![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
 

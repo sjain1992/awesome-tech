@@ -284,6 +284,7 @@
 - [Tecmint: Create Centralized Secure Storage using iSCSI Target on RHEL/CentOS/Fedora Part -I](http://www.tecmint.com/create-centralized-secure-storage-using-iscsi-targetin-linux/)
 - [Tecmint: How to Create and Setup LUNs using LVM in “iSCSI Target Server” on RHEL/CentOS/Fedora – Part II](http://www.tecmint.com/create-luns-using-lvm-in-iscsi-target/)
 - [Tecmint.com: 8 Linux ‘Parted’ Commands to Create, Resize and Rescue Disk Partitions](http://www.tecmint.com/parted-command-to-create-resize-rescue-linux-disk-partitions/)
+- [nixCraft: How to add an extra second hard drive on Linux LVM and increase the size of storage 🌟🌟🌟](https://www.cyberciti.biz/faq/howto-add-disk-to-lvm-volume-on-linux-to-increase-size-of-pool/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create and Setup LUNs using LVM in “iSCSI Target Server”<a href="https://t.co/E2G0zwbXWQ">https://t.co/E2G0zwbXWQ</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a>  <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/l55gq6VoyD">pic.twitter.com/l55gq6VoyD</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/748745273577385985">1 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -368,6 +369,8 @@
 - [SEP Backup and Disaster Recovery Announces Support for Red Hat Virtualization 4.0](http://finance.yahoo.com/news/sep-backup-disaster-recovery-announces-214400634.html)
 - [Veeam Backup for Microsoft Office 365: Availability vs Recoverability](https://www.veeam.com/blog/how-backup-office-365-email.html)
 - [opensource.com: Using rsync to back up your Linux system 🌟🌟](https://opensource.com/article/17/1/rsync-backup-linux)
+- [GitLab invokes the startup defence to explain data loss woes 🌟🌟🌟](https://www.theregister.co.uk/2017/02/16/gitlab_responds/) 'We're learning every day'. But does 'test your backups' really need to be learned?
+- [Ansible role to set up backups using duply in Debian-like systems](https://github.com/Oefenweb/ansible-duply-backup)
 
 ![system_restore_disk](images/system_restore_disk.jpg)
 

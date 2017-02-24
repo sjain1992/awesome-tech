@@ -22,6 +22,7 @@
     - [AWS Clients](#aws-clients)
     - [AWS New Features](#aws-new-features)
     - [AWS Management Console](#aws-management-console)
+    - [AWS Management Tools Blog](#aws-management-tools-blog)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
     - [AWS Application Discovery Service](#aws-application-discovery-service)
@@ -282,6 +283,9 @@
 
 ## AWS Management Console
 - [Working with the AWS Management Console 🌟🌟🌟](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
+
+## AWS Management Tools Blog
+- [AWS Management Tools Blog](https://aws.amazon.com/blogs/mt/)
 
 ## AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)

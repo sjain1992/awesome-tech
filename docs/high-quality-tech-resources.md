@@ -566,6 +566,9 @@
 - [rachelnabors.com](http://rachelnabors.com)
 - [donthitsave.com](http://donthitsave.com)
 - [cartoonstock.com](https://www.cartoonstock.com)
+- [xkcd.com](https://xkcd.com)
+- [turnoff.us](http://turnoff.us/)
+- [monkeyuser.com](http://www.monkeyuser.com/)
 
 ## Reactions. When words aren't enough, say it with animations
 - [Infosec Reactions](http://securityreactions.tumblr.com/)

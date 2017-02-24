@@ -300,6 +300,9 @@ ________________________________________________________________________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhkHcc7EKtBZO8HXDD50QKpCwXz9MC7V5" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The world&#39;s 10 largest economies, 1970—2030: rise of China 🇨🇳 and India 🇮🇳 <a href="https://t.co/12VIeaqgKQ">pic.twitter.com/12VIeaqgKQ</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/834632716431847425">23 de febrero de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ______________________________________________________________________________________________________________________________________
 
 ## Business process improvement

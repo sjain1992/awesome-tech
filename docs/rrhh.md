@@ -269,6 +269,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Hábitos que afean tu condición de <a href="https://twitter.com/hashtag/jefe?src=hash">#jefe</a> ➡ <a href="https://t.co/zM28FbaWrH">https://t.co/zM28FbaWrH</a> por <a href="https://twitter.com/raulalonsoenred">@raulAlonsoenred</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711507895146385409">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![quien_hace](images/quien_hace.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Organizaciones basadas en el <a href="https://twitter.com/hashtag/aprendizaje?src=hash">#aprendizaje</a> ➡ <a href="https://t.co/L79EWtkpdW">https://t.co/L79EWtkpdW</a> por <a href="https://twitter.com/Pablo_BlascoB">@Pablo_BlascoB</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711500186951016449">20 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

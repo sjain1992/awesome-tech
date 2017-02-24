@@ -259,6 +259,7 @@
 - [MariaDB Galera Cluster 10.0.21 and 5.5.45 now available](https://blog.mariadb.org/mariadb-galera-cluster-10-0-21-and-5-5-45-now-available/)
 - [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
 - [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
+- [MySQL Group Replication… synchronous or asynchronous replication? 🌟🌟🌟](http://lefred.be/content/mysql-group-replication-synchronous-or-asynchronous-replication/)
 
 ## MySQL
 ### MySQL on Twitter
@@ -435,6 +436,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PostgreSQL Exercises <a href="https://twitter.com/hashtag/dba?src=hash">#dba</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  <a href="https://t.co/RRjCluVmWO">https://t.co/RRjCluVmWO</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/749477889515483136">3 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- La caída de GitLab: -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gzyy9UMRvg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### PostgreSQL Metrics
 - [Powa: PostgreSQL Workload Analyzer](http://dalibo.github.io/powa/)
 - [Spotify PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics)
@@ -487,8 +494,8 @@
 ## Oracle
 - [allthingsoracle.com 🌟](http://allthingsoracle.com)
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
-- [Oracle SQL Functions](http://www.databasestar.com/oracle-sql-functions/)
-- [Oracle Data Types](http://www.databasestar.com/oracle-data-types/)
+- [databasestar.com: Oracle SQL Functions](http://www.databasestar.com/oracle-sql-functions/)
+- [databasestar.com: Oracle Data Types](http://www.databasestar.com/oracle-data-types/)
 
 ### Oracle installation
 - [slideshare.net: Oracle11g on fedora14](http://www.slideshare.net/KhalidMatarAlbuflasah/oracle11g-on-fedora14-6564836)
