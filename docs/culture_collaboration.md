@@ -84,6 +84,7 @@
 - [How To Change A "Suck Up"​ Culture](https://www.linkedin.com/pulse/how-change-suck-up-culture-paul-larue)
 - [medium.com: If your company’s idea of teamwork is bullshit, here’s how to fix it 🌟🌟🌟](https://medium.com/smells-like-team-spirit/if-your-companys-idea-of-teamwork-is-bullshit-here-s-how-to-fix-it-aa71ddb411a8#.i7dexuv6c)
 - [Culture is the Behavior You Reward and Punish 🌟🌟🌟](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
+- [Good Bosses Switch Between Two Leadership Styles 🌟🌟🌟](https://hbr.org/2016/12/good-bosses-switch-between-two-leadership-styles)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">Finextra TV: Cultural change crucial in digital transformation <a href="https://t.co/0dnxP26UQy">https://t.co/0dnxP26UQy</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/pTaeZu8ON3">pic.twitter.com/pTaeZu8ON3</a></p>&mdash; Finextra (@Finextra) <a href="https://twitter.com/Finextra/status/768751313748369408">25 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

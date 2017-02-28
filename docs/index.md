@@ -488,8 +488,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![The-Philadelphia-Story-fav-person-in-world](images/The-Philadelphia-Story-fav-person-in-world.gif)](https://www.youtube.com/watch?v=-Ot948zIr0s)
 
+<!-- Culture is the behavior you reward and punish 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/EzRkyddkIo">https://t.co/EzRkyddkIo</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/834875515471265793">23 de febrero de 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- The best bosses switch between these two leadership styles 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/xtP4RjG03S">https://t.co/xtP4RjG03S</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/835938579444543489">26 de febrero de 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  -->
 <!-- Thievery Corporation - Culture of Fear
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
@@ -564,6 +568,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 [Good Bosses Switch Between Two Leadership Styles](https://hbr.org/2016/12/good-bosses-switch-between-two-leadership-styles)
 
 [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
+
+[The best bosses switch between these two leadership styles](https://www.weforum.org/agenda/2017/02/the-best-bosses-know-when-to-lead-like-a-chimp)
 
 </center>
 
@@ -673,6 +679,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br>
 
 [![redhat_cio_alternative](images/redhat_cio_alternative.png)](https://www.redhat.com/en/resources/cios-alternative)
+
+![redhat_techs_visual_maps](images/redhat_techs_visual_maps.jpg)
 
 <!-- Red Hat video: A remedy for IT complexity and sprawl: Standardization -->
 <div class="container">
