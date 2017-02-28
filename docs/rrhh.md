@@ -243,6 +243,7 @@
 - [Por qué todo el mundo quiere ‘hackathon’](http://elpais.com/elpais/2016/10/13/talento_digital/1476355605_011048.html) Las empresas cambian las reglas del juego para innovar y buscan la colaboración de genios fuera de sus plantillas
 - [¿Qué nos enseñan los chimpancés sobre los jefes y las oficinas?](http://www.elmundo.es/blogs/elmundo/yomono/2017/01/07/que-nos-ensenan-los-chimpances-sobre-los.html)
 - [Síndrome de Procusto: Prescindir de quien sobresale 🌟](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
+- [El arte de apuntar al de al lado 🌟](https://balcon40.com/2015/09/05/el-arte-de-apuntar-al-de-al-lado/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 

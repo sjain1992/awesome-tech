@@ -571,6 +571,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [The best bosses switch between these two leadership styles](https://www.weforum.org/agenda/2017/02/the-best-bosses-know-when-to-lead-like-a-chimp)
 
+[El arte de apuntar al de al lado](https://balcon40.com/2015/09/05/el-arte-de-apuntar-al-de-al-lado/)
+
 </center>
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
