@@ -489,6 +489,7 @@
 - [pssh HOWTO 🌟🌟🌟](http://www.theether.org/pssh/docs/0.2.3/pssh-HOWTO.html)
 - [Github: Parallel SSH Tools](https://github.com/lilydjwg/pssh)
 	- [pssh: Not passing passphrase? keychain](https://github.com/lilydjwg/pssh/issues/80)
+- [nixCraft: How to use parallel ssh (PSSH) for executing ssh in parallel on a number of Linux/Unix/BSD servers 🌟🌟🌟](https://www.cyberciti.biz/cloud-computing/how-to-use-pssh-parallel-ssh-program-on-linux-unix/)
 
 ## Linux bash 
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
@@ -578,6 +579,7 @@
 - [steve-parker.org: Progress Bar. Creating a simple Progress Bar for a shell script](http://steve-parker.org/sh/tips/progressbar/)
 - [Adventures in /usr/bin and the likes 🌟🌟🌟](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
 - [Ctrl+R Autocomplete with Bash is a Life Saver 🌟🌟](https://dev.to/ben/ctrlr-autocomplete-with-bash-is-a-life-saver)
+- [nixCraft: Howto Make Script More Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html) 'Terrible advice. Do not do this. Portability should stem from your installion routines, not some security and design problem causing hack.'
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

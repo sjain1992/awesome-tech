@@ -579,6 +579,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![3_ways_to_make_a_living](images/3_ways_to_make_a_living.jpg)](https://thoughtsofafinancestudent.blogspot.com/2015/11/margin-call-be-first-be-smart-or-cheat.html)
 
+<!-- El trading de alta frecuencia (Documental La Noche Temática) -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3pVqMT9DXA?start=2313&end=2464" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -658,6 +659,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 
+<!-- Dr House y las vacunas -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5LjisVMEco?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -773,6 +775,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![get healthier](images/Get_Healthier.png)](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture)
 
+<!-- 1640 España está arruinada -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -806,6 +809,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![lions_for_lambs_problems_with_us_all_of_us](images/lions_for_lambs_problems_with_us_all_of_us.png)](https://www.youtube.com/watch?v=0n02lrQ_5Vo)
 
+<!-- Moby - Extreme Ways (HQ Sound, HD 1080p, Lyrics) -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qN-HQlfF5o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -818,13 +822,20 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![money_monster_explanation](images/money_monster_explanation.gif)](https://www.youtube.com/watch?v=o4jl_hOqmo0)
 
+<!-- Tim OReilly, la voz de la conciencia de Silicon Valley -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LZAJuOTXqg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
+<!-- Cuando explotan las burbujas financieras | La noche temática VIEJO LINK DESAPARECIDO
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLp-SfowF6I?start=524&end=724" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/> -->
+<!-- Cuando explotan las burbujas financieras | La noche temática -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4FGW-YtzTw?start=524&end=724" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

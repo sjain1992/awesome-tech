@@ -57,6 +57,7 @@
 - [blog.datapath.io: How to Optimize DNS for better Web Performance](http://blog.datapath.io/how-to-optimize-dns-for-better-web-performance)
 - [Everything You Know About Latency Is Wrong 🌟🌟](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 - [blog.performancevision.com: HOW TO DIAGNOSE TCP CONNECTION SET UP ISSUES 🌟🌟🌟](http://blog.performancevision.com/tcp-troubleshooting-series-1-how-to-diagnose-tcp-handshake-session-setup-issues)
+- [Network Performance: Packet Loss Vs. Delay 🌟🌟🌟](https://www.networkcomputing.com/networking/network-performance-packet-loss-vs-delay/1215629976)
 
 ## aaNPM tools 
 - [APM vs aaNPM – Cutting Through the Marketing BS](https://blog.appdynamics.com/apm/apm-vs-aanpm-cutting-marketing-bs/)
