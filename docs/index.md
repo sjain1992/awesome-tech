@@ -835,7 +835,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 <br/> -->
 <!-- Cuando explotan las burbujas financieras | La noche temática -->
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f4FGW-YtzTw?start=524&end=724" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4FGW-YtzTw?start=523&end=724" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
