@@ -549,6 +549,7 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![Edmund-Burke-Quote](images/Edmund-Burke-Quote.png)](https://en.wikipedia.org/wiki/Edmund_Burke)
 
+<!-- Podcast Javier Garzas: la absurda gestión por horas -->
 <iframe id='audio_17427187' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='https://www.ivoox.com/player_ej_17427187_4_1.html?c1=ff6600'></iframe>
 
 [![dilbert_agenda](images/dilbert_agenda.jpg)](http://dilbert.com/strip/2016-08-19)

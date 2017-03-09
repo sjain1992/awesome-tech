@@ -120,6 +120,9 @@
 - [Los decoradores no saben crear equipos de trabajo potentes 🌟](http://www.javiergarzas.com/2016/01/los-decoradores-no-saben-crear-equipos-de-trabajo-potentes.html)
 - [Las cuatro dimensiones para mejorar una organización](http://www.javiergarzas.com/2016/06/14063.html)
 
+<!-- Podcast Javier Garzas: la absurda gestión por horas -->
+<iframe id='audio_17427187' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='https://www.ivoox.com/player_ej_17427187_4_1.html?c1=ff6600'></iframe>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Maneras de usar un Gantt para matar un proyecto <a href="https://t.co/dUkacExFmr">https://t.co/dUkacExFmr</a> vía <a href="https://twitter.com/jgarzas">@jgarzas</a></p>&mdash; Johnny Bravo (@jbravot) <a href="https://twitter.com/jbravot/status/706515419348213761">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
