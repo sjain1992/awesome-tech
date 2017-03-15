@@ -862,6 +862,9 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [![cursa_la_merce_2016](images/cursa_la_merce_2016.jpg)](http://www.championchip.cat)
 
+<!-- Jonah Kipkemoi Chesun, la liebre con corazón de león -->
+<iframe style="border:none !important;height: 153px !important; margin: 0px auto; display:block; !important; width: 100% !important; overflow: hidden !important" src="http://maratonradio.com/podcastPlayer/v3/podcast-personajes-20170313-jonah-kipkemoi-chesun-la-liebre-con-corazon-de-leon"></iframe>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ICT specialist? Here’s % of jobs in each OECD country that need yr expertise <a href="https://t.co/clU0hkUeJR">https://t.co/clU0hkUeJR</a> <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> <a href="https://twitter.com/hashtag/stats?src=hash">#stats</a> <a href="https://t.co/AiaFx1aGHu">pic.twitter.com/AiaFx1aGHu</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/770980988721692673">31 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
