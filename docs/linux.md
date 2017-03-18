@@ -1208,6 +1208,7 @@
 - [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
 - [Linux Iptables Delete postrouting Rule Command 🌟🌟](http://www.cyberciti.biz/faq/how-to-iptables-delete-postrouting-rule/)
 - [nixCraft - Linux iptables: Port Redirection Example](http://www.cyberciti.biz/faq/linux-port-redirection-with-iptables/)
+- [DZone: Linux Iptables Firewall Simplified Examples 🌟🌟🌟](https://dzone.com/articles/linux-iptables-firewall-simplified-examples)
 
 #### FirewallD
 - [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)

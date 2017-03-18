@@ -215,6 +215,9 @@
 - [gcflearnfree.org 🌟🌟](http://www.gcflearnfree.org/)
 - [bextlan.com](http://bextlan.com/)
 - [xataka.com: Los 21 cursos gratuitos a los que más gente se está apuntando](http://www.xataka.com/otros/los-21-cursos-gratuitos-a-los-que-mas-gente-se-esta-apuntando)
+- [Linux Foundation amplía su oferta de cursos gratuitos 🌟🌟🌟](http://www.muylinux.com/2017/03/17/linux-foundation-cursos-gratuitos)
+    - [Introduction to DevOps: Transforming and Improving Operations 🌟🌟🌟](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
+    - [Introduction to OpenStack 🌟🌟🌟](https://www.edx.org/course/introduction-openstack-linuxfoundationx-lfs152x)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
