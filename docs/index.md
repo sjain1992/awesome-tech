@@ -920,6 +920,12 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 </div>
 <br>
 
+<!-- akamai: spdy & http2 -->
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkLBrHW4NhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
 
 [![julias_drawings](images/julias_drawings.png)](https://drawings.jvns.ca/)

@@ -65,6 +65,7 @@
 
 [![dzone_refcard_introduction_http](images/dzone_refcard_introduction_http.png)](https://dzone.com/refcardz/http-hypertext-transfer-0)
 
+<!-- akamai: spdy & http2 -->
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkLBrHW4NhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
