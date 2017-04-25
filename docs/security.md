@@ -541,6 +541,8 @@
 - [securitychecklist.org](https://securitychecklist.org/)
 - [github.com/gshaw/security-checklist](https://github.com/gshaw/security-checklist)
 - [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist)
+- [20 Linux Server Hardening Security Tips 🌟🌟🌟](https://www.cyberciti.biz/tips/linux-security.html)
+- [RED HAT ENTERPRISE LINUX 7 HARDENING CHECKLIST 🌟🌟🌟](https://security.utexas.edu/os-hardening-checklist/linux-7)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
