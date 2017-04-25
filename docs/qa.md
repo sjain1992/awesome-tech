@@ -281,3 +281,6 @@
 
 [![dilbert_qa2](images/dilbert_qa2.gif)](http://dilbert.com/strip/2010-03-07)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When your code isn&#39;t great, but it still works… (via <a href="https://twitter.com/reddit">@reddit</a>) <a href="https://twitter.com/hashtag/DevLife?src=hash">#DevLife</a> <a href="https://twitter.com/hashtag/DevHumor?src=hash">#DevHumor</a> <a href="https://t.co/LByEWBFMFf">pic.twitter.com/LByEWBFMFf</a></p>&mdash; Microsoft Developer (@msdev) <a href="https://twitter.com/msdev/status/852870583813582849">14 de abril de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+

@@ -302,6 +302,7 @@
 - [tecmint.com: How to Setup MySQL (Master-Slave) Replication in RHEL, CentOS, Fedora](http://www.tecmint.com/how-to-setup-mysql-master-slave-replication-in-rhel-centos-fedora/)
 - [10 Tips for Deciding Between Amazon RDS and MySQL (2012)](https://dzone.com/articles/10-tops-deciding-between)
 - [mysqlhighavailability.com - MySQL Group Replication: A Quick Start Guide 🌟🌟🌟](http://mysqlhighavailability.com/mysql-group-replication-a-quick-start-guide/)
+- [Automatic MySQL schema management with Skeema](https://opensource.com/article/17/4/skeema) Learn about an open source tool that helps make managing database schemas easy and replicable.
 
 [![MySQL Cluster](images/MySQL_Cluster.png)](https://en.wikipedia.org/wiki/MySQL_Cluster)
 

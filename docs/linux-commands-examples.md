@@ -775,6 +775,10 @@
 
 		cat /proc/net/arp | awk '{print $1}'
 
+- List traffic from inside to outside:
+
+		awk '$3~/^172\.16\./ && $5!~/^172\.16\./{printf("%s %s\n",strftime("%Y-%m-%d_%T", $1),$0)}' conn.log 
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

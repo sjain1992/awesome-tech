@@ -100,6 +100,7 @@
 - [Shell Scripts vs Ansible: Fight! 🌟🌟🌟](https://valdhaus.co/writings/ansible-vs-shell-scripts/)
 - [nixCraft: How to create a new config file in Ansible playbook 🌟🌟🌟](https://www.cyberciti.biz/faq/how-to-create-a-new-simple-complex-config-file-with-ansible-playbook/)
 - [Ansible role to set up backups using duply in Debian-like systems](https://github.com/Oefenweb/ansible-duply-backup)
+- [Automatizar instalación de Oracle RAC con Ansible](http://databaseindex.blogspot.com.es/2017/04/automatizar-instalacion-de-oracle-rac.html)
 
 ## Ansible Vulnerabilities
 - [CVE-2016-9587: an unpleasant Ansible vulnerability](https://lwn.net/Articles/711357/)

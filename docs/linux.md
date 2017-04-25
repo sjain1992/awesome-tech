@@ -580,6 +580,7 @@
 - [Adventures in /usr/bin and the likes 🌟🌟🌟](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
 - [Ctrl+R Autocomplete with Bash is a Life Saver 🌟🌟](https://dev.to/ben/ctrlr-autocomplete-with-bash-is-a-life-saver)
 - [nixCraft: Howto Make Script More Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html) 'Terrible advice. Do not do this. Portability should stem from your installion routines, not some security and design problem causing hack.'
+- [nixCraft: HowTo: Use Bash Parameter Substitution Like A Pro 🌟🌟🌟](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -728,6 +729,7 @@
 - [danielallendeutsch.com: Project #5: Using tmux Properly 🌟🌟🌟](http://danielallendeutsch.com/blog/16-using-tmux-properly.html)
 - [fedoramagazine.org: Use tmux for a more powerful terminal](https://fedoramagazine.org/use-tmux-more-powerful-terminal/)
 - [opensource.com: A quick introduction to tmux 🌟🌟](https://opensource.com/article/17/2/quick-introduction-tmux)
+- [Tmux and Vim - even better together](https://blog.bugsnag.com/tmux-and-vim/)
 
 [![tmux](images/tmux.png)](https://tmux.github.io/)
 
@@ -968,6 +970,7 @@
 - [blog.pandorafms.org: Useful Network commands 🌟🌟🌟](https://blog.pandorafms.org/network-commands/) VNStat, ping, traceroute, ping, arp, curl and wget, netstat, whois, ssh, tcpdump, ngrep, nmap, netcat, lsof, iptraf
 - [How to tuning the Linux Networking Stack for sending and receiving data 🌟🌟🌟🌟](https://www.linuxnewssite.com/how-to-tuning-the-linux-networking-stack-for-sending-and-receiving-data-0802201797.html) Awesome guide to monitoring and tuning the Linux networking stack for sysadmins/developers
 - [tecmint: Find Out All Live Hosts IP Addresses Connected on Network in Linux 🌟🌟🌟](http://www.tecmint.com/find-live-hosts-ip-addresses-on-linux-network)
+- [RHEL 7.3: What’s new with NetworkManager? 🌟🌟🌟](https://www.certdepot.net/whats-new-networkmanager/)
 
 <center>
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -1091,6 +1094,8 @@
 - [tecmint: How to Change and Secure Default PhpMyAdmin Login URL](http://www.tecmint.com/change-secure-phpmyadmin-login-url-page/)
 - [unixmen.com: What Is Fork Bomb And How Can You Prevent This Danger? 🌟🌟🌟🌟](https://www.unixmen.com/fork-bomb-can-prevent-danger/)
 - [tecmint: How to Secure Network Services Using TCP Wrappers in Linux 🌟🌟](http://www.tecmint.com/secure-linux-tcp-wrappers-hosts-allow-deny-restrict-access/)
+- [20 Linux Server Hardening Security Tips 🌟🌟🌟](https://www.cyberciti.biz/tips/linux-security.html)
+- [RED HAT ENTERPRISE LINUX 7 HARDENING CHECKLIST 🌟🌟🌟](https://security.utexas.edu/os-hardening-checklist/linux-7)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -1277,6 +1282,7 @@
 - [PfSense wikipedia](https://en.wikipedia.org/wiki/PfSense)
 - [nixCraft: How to install htop on pfSense firewall](http://www.cyberciti.biz/faq/pfsense-install-htop-using-pkg-command/)
 - [nixCraft: How to configure pfSense as multi wan (DUAL WAN) load balance failover router](http://www.cyberciti.biz/faq/howto-configure-dual-wan-load-balance-failover-pfsense-router/)
+- [How to flush/clear the pfsense DNS forwarder cache](https://www.cyberciti.biz/faq/how-to-flushclear-the-pfsense-dns-forwarder-cache/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to configure <a href="https://twitter.com/pfsense">@pfSense</a> as multi wan/DUAL WAN load balance failover router<a href="https://t.co/o6cxmedLjm">https://t.co/o6cxmedLjm</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://t.co/2kJUyWK1FA">pic.twitter.com/2kJUyWK1FA</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/760944292600827904">3 de agosto de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -327,6 +327,7 @@
 - [Tecmint: How to Install Git and Setup Git Account in RHEL, CentOS and Fedora](http://www.tecmint.com/install-git-centos-fedora-redhat/)
 - [Git and Github in Plain English 🌟🌟](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
 - [GIT quick statistics: git quick-stats 🌟🌟🌟](https://github.com/arzzen/git-quick-stats) Git quick statistics is a simple and efficient way to access various statistics in git repository. 
+- [DZone: Lesser Known Git Commands](https://dzone.com/articles/lesser-known-git-commands)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
