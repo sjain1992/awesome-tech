@@ -1136,6 +1136,7 @@
 - [tecmint.com: How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH 🌟🌟🌟](http://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh/)
 - [stackoverflow.com: What is the difference between sudo vim /etc/services and sudoedit /etc/services? 🌟🌟🌟](http://stackoverflow.com/questions/22084422/what-is-the-difference-between-sudoedit-and-sudo-vim)
 - [nixCraft: How to disable ssh password login on Linux to increase security](https://www.cyberciti.biz/faq/how-to-disable-ssh-password-login-on-linux/)
+- [ssh_scan: A SSH configuration and policy scanner for Linux and UNIX server 🌟🌟🌟](https://www.cyberciti.biz/security/ssh_scan-a-ssh-configuration-and-policy-scanner-for-linux-and-unix-server/)
 
 #### SSH Tunnels
 - [advanced-ssh-config 🌟🌟🌟🌟](https://github.com/moul/advanced-ssh-config)
@@ -1319,6 +1320,7 @@
 - [A byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 - [nixCraft: Edit a File When You Are Viewing It Using more/less Command Pager](https://www.cyberciti.biz/faq/edit-file-when-youre-viewing-withmore-less)
 - [tecmint: How to Make ‘Vim Editor’ as Bash-IDE Using ‘bash-support’ Plugin in Linux 🌟🌟](http://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/)
+- [vim-plug: A beautiful and minimalist vim plugin manager for Unix and Linux users 🌟🌟🌟](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
