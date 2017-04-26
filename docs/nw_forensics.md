@@ -18,16 +18,9 @@
 	- [DPI Deep Packet Inspection](#dpi-deep-packet-inspection)
 		- [CapAnalysis](#capanalysis)
 
-<!-- /MarkdownTOC -->
-
 [![digital attack map](images/digital_attack_map.png)](http://www.digitalattackmap.com/)
 
 [![do not use wireshark](images/dont_use_wireshark.png)](https://twitter.com/packetbomb)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2PJugZm7LqYEHq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/raymondkao/network-infrastructure-tcpip" title="Network infrastructure - TCP/IP" target="_blank">Network infrastructure - TCP/IP</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/raymondkao">raymondkao</a></strong> </div>
-</div>
-<br>
 
 |[![hak5_video](images/hak5_video.jpg)](https://www.youtube.com/user/Hak5Darren)|[![packet_bomb_video](images/packet_bomb_video.jpg)](https://www.youtube.com/channel/UC6lijopn1t2ETukUSLDDqMA)|[![tech_firm_video](images/tech_firm_video.jpg)](https://www.youtube.com/user/thetechfirm)|[![sharkfest_video](images/sharkfest_video.jpg)](https://www.youtube.com/user/SharkFest2015)|[![laura_chappell_video](images/laura_chappell_video.jpg)](https://www.youtube.com/channel/UCPOqFa77z1Gfwbe5JZaFaig)|[![laura_chappell_video2](images/laura_chappell_video2.jpg)](https://www.youtube.com/user/thebitgirl)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
