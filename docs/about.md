@@ -10,6 +10,7 @@
 - A curated list of awesome IT projects and resources collected since 2014. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 # Inspired by
+- [getAwesomeness](https://getawesomeness.herokuapp.com/)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 - [Awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Awesome security](https://github.com/sbilly/awesome-security)

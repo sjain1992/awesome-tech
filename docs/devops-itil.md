@@ -386,6 +386,7 @@
 - [51 Best DevOps Tools for #DevOps Engineers 🌟](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/)
 - [11 Programming Languages For DevOps Success 🌟🌟](http://www.informationweek.com/devops/11-programming-languages-for-devops-success/d/d-id/1326274) DevOps uses languages for software development and languages for deployment automation. If you want to be successful with either side of DevOps, these languages will help.
 - [softwaretestingnews.co.uk: A software testing and DevOps tools directory for digital programmes 🌟🌟](http://www.softwaretestingnews.co.uk/a-software-testing-and-devops-tools-directory-for-digital-programmes/)
+- [DZone: 400+ Free Resources for DevOps and Sysadmins 🌟🌟🌟](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins) A massive list of resources and technology for anything you could possibly need for your DevOps projects. Perfect culture not included.
 
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 

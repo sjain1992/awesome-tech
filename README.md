@@ -5,6 +5,7 @@ A curated list of awesome IT projects and resources collected since 2014. Inspir
 - [Awesome Tech at readthedocs.io](https://awesome-tech.readthedocs.io) Recommended, embedded videos are displayed
 
 # Inspired by
+- [getAwesomeness](https://getawesomeness.herokuapp.com/)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 - [Awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Awesome security](https://github.com/sbilly/awesome-security)
