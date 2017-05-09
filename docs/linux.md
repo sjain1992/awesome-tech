@@ -940,6 +940,7 @@
 - [tecmint.com: How to Create and Run New Service Units in Systemd Using Shell Script](http://www.tecmint.com/create-new-service-units-in-systemd/)
 - [tecmint.com: RHCSA Series: Process Management in RHEL 7: Boot, Shutdown, and Everything in Between – Part 5](http://www.tecmint.com/rhcsa-exam-boot-process-and-process-management/)
 - [Converting traditional sysV init scripts to Red Hat Enterprise Linux 7 systemd unit files 🌟🌟🌟](https://www.redhat.com/en/about/blog/converting-traditional-sysv-init-scripts-red-hat-enterprise-linux-7-systemd-unit-files)
+- [Mounting Linux volumes with systemd vs fstab](https://www.l3pdu.com/2017/04/mounting-linux-volumes-with-systemd-vs-fstab/)
 
 #### JournalD 
 - [Logging With Journald In RHEL7/CentOS7 🌟](https://www.unixmen.com/logging-journald-rhel7centos7/)

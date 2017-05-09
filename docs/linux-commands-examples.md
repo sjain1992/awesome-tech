@@ -779,6 +779,10 @@
 
 		awk '$3~/^172\.16\./ && $5!~/^172\.16\./{printf("%s %s\n",strftime("%Y-%m-%d_%T", $1),$0)}' conn.log 
 
+- Know your limits:
+
+		getconf -a | sort -k2nr | grep MAX 
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">

@@ -105,11 +105,6 @@
 </div>
 <br>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/DSK5MwrYpzquVu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DellSoftware/dwuf15-advanced-sonicos-management-best-practices" title="DWUF&#x27;15: Advanced SonicOS Management Best Practices" target="_blank">DWUF&#x27;15: Advanced SonicOS Management Best Practices</a> </strong> from <strong><a href="//www.slideshare.net/DellSoftware" target="_blank">Dell Software</a></strong> </div>
-</div>
-<br/>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dell Services lanza en España su acelerador de IoT para el sector seguros <a href="https://twitter.com/hashtag/conocedell?src=hash">#conocedell</a> <a href="https://t.co/WHImatHMye">https://t.co/WHImatHMye</a></p>&mdash; Dell España (@DellSpain) <a href="https://twitter.com/DellSpain/status/705674506048819205">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -149,11 +144,6 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTM4utjXRxw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A-kY2WWWEyQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
