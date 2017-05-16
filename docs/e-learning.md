@@ -6,6 +6,7 @@
 - [E-Learning](#e-learning)
     - [Professional Certification](#professional-certification)
     - [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+    - [Qwiklabs](#qwiklabs)
     - [Packtpub Mapt](#packtpub-mapt)
     - [Free e-learning](#free-e-learning)
     - [Download Free Legal eBooks](#download-free-legal-ebooks)
@@ -174,6 +175,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
+
+## Qwiklabs 
+- [qwiklabs.com 🌟🌟🌟](https://qwiklabs.com) Real Training, Real Time, Real Environments. Get hands-on practice working with cloud technologies and software. Train on-demand and learn at your own pace.
 
 ## Packtpub Mapt
 - [packtpub.com/mapt](https://www.packtpub.com/mapt)
