@@ -246,6 +246,8 @@
 - [¿Qué nos enseñan los chimpancés sobre los jefes y las oficinas?](http://www.elmundo.es/blogs/elmundo/yomono/2017/01/07/que-nos-ensenan-los-chimpances-sobre-los.html)
 - [Síndrome de Procusto: Prescindir de quien sobresale 🌟](https://excelencemanagement.wordpress.com/2016/06/20/sindrome-de-procusto-prescindir-de-quien-sobresale/)
 - [El arte de apuntar al de al lado 🌟](https://balcon40.com/2015/09/05/el-arte-de-apuntar-al-de-al-lado/)
+- [La realidad del curro: por que echan a unos y ascienden a otros (aunque sean ineptos)](http://www.elconfidencial.com/alma-corazon-vida/2014-10-28/esto-es-lo-que-tienes-que-decirle-a-tus-companeros-y-jefes-para-que-no-te-despidan_419220/)
+- [Cómo conseguir que no te echen, según uno de los jefes que más gente ha despedido ](http://www.elconfidencial.com/alma-corazon-vida/2014-12-02/si-tu-carrera-profesional-se-va-al-infierno-es-por-alguno-de-estos-10-comportamientos_514810/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
