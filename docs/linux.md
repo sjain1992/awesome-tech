@@ -581,6 +581,7 @@
 - [Ctrl+R Autocomplete with Bash is a Life Saver 🌟🌟](https://dev.to/ben/ctrlr-autocomplete-with-bash-is-a-life-saver)
 - [nixCraft: Howto Make Script More Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html) 'Terrible advice. Do not do this. Portability should stem from your installion routines, not some security and design problem causing hack.'
 - [nixCraft: HowTo: Use Bash Parameter Substitution Like A Pro 🌟🌟🌟](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
+- [bashrcgenerator.com 🌟🌟🌟](http://bashrcgenerator.com/) Generate your fancy .bashrc PS1 prompt easily with a drag and drop interface
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Well.... <a href="https://twitter.com/hashtag/FUCK?src=hash">#FUCK</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/UTFTgSN8LO">pic.twitter.com/UTFTgSN8LO</a></p>&mdash; Juan I. Gil-Hutton (@jgilhutton) <a href="https://twitter.com/jgilhutton/status/771851044104142848">2 de septiembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
