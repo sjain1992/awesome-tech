@@ -577,6 +577,10 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 [El arte de apuntar al de al lado](https://balcon40.com/2015/09/05/el-arte-de-apuntar-al-de-al-lado/)
 
+[Cuando en tu trabajo tienes al enemigo en casa](https://balcon40.com/2017/05/10/cuando-en-tu-trabajo-tienes-al-enemigo-en-casa/)
+
+[Todos trabajamos muy bien en equipo… ¿o no?](https://balcon40.com/2015/05/22/todos-trabajamos-muy-bien-en-equipo-o-no/)
+
 </center>
 
 [![margin_call_its_just_number](images/margin_call_its_just_number.gif)](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
