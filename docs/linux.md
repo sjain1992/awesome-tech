@@ -1329,6 +1329,9 @@
 - [nixCraft: Edit a File When You Are Viewing It Using more/less Command Pager](https://www.cyberciti.biz/faq/edit-file-when-youre-viewing-withmore-less)
 - [tecmint: How to Make ‘Vim Editor’ as Bash-IDE Using ‘bash-support’ Plugin in Linux 🌟🌟](http://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/)
 - [vim-plug: A beautiful and minimalist vim plugin manager for Unix and Linux users 🌟🌟🌟](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/)
+- [vimcheatsheet.com 🌟🌟🌟](http://vimcheatsheet.com/)
+
+![vim cheatsheet](images/vim.jpg)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
