@@ -12,7 +12,7 @@
 
 Application Engineer/Middleware SysAdmin | Automation/DevOps CI/CD | Solutions/Systems Architect | RedHat Solutions | Testing | Linux, Puppet, Ansible, AWS, Web (CloudOps) | Contract & Permanent (no freelance) 
 
-Interested in Infrastructure Automation, JBoss, WebLogic, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics. I live in Barcelona since 2012.
+Interested in Infrastructure Automation, JBoss, WebLogic, Ansible, Chef, Puppet, PowerShell, DevOps, Monitoring and Metrics.
 
 </center>
 <center>
