@@ -20,12 +20,12 @@ Interested in Infrastructure Automation, JBoss, WebLogic, Ansible, Chef, Puppet,
 Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike>
 -->
 </center>
-<center>
+
 
 |[![puppetlabs_video](images/puppetlabs_video.jpg)](https://www.youtube.com/user/PuppetLabsInc)|[![ansible_videos](images/ansible_videos.jpg)](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg)|[![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices)|[![redhat_middleware_video](images/redhat_middleware_video.jpg)](https://www.youtube.com/user/redhatmiddleware)|
 |:---:|:---:|:---:|:---:|
 
-</center>
+
 <center>
 
 |[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/user/dockerrun)|[![oracle_weblogic_video](images/oracle_weblogic_video.jpg)](https://www.youtube.com/user/OracleWebLogic)|[![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/user/HewlettPackardVideos)|[![madrid_devops_video](images/madrid_devops_video.jpg)](https://www.youtube.com/user/madridevops)|
