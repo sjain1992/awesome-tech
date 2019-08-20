@@ -603,6 +603,7 @@
 ### JSON
 - [json.org](http://json.org/)
 - [Json Parser Online](http://json.parser.online.fr/)
+- [Online JSON Schema Validator and Generator](https://extendsclass.com/json-schema-validator.html)
 - [BSON - Binary JSON](http://bsonspec.org/)
 - [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 - [Query JSON using SQL with Couchbase Query Workbench](http://www.javacodegeeks.com/2016/01/query-json-using-sql-couchbase-query-workbench.html)
